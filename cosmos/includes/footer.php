@@ -8,7 +8,7 @@
                 <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
                         <span class="sub-title style1">Get Free Contact For Services</span>
-                        <h2 class="sec-title text-white">You Get Premium Laundry Service From Us!</h2>
+                        <h2 class="sec-title1 text-white">You Get Premium Laundry Service From Us!</h2>
                     </div>
                 </div>
                 <div class="col-xl-5 col-lg-6">
@@ -17,7 +17,6 @@
                             <input class="form-control" type="email" placeholder="Email Address" required="">
                             <button type="submit" class="th-btn style4">Get your services</button>
                         </div>
-
                     </form>
                 </div>
             </div>
@@ -34,7 +33,8 @@
                     <div class="widget footer-widget">
                         <div class="th-widget-about">
                             <div class="about-logo">
-                                <a href="home-laundry-services.html"><img src="assets/img/logo-white.svg" alt="Laun"></a>
+                                <!-- <a href="home-laundry-services.html"><img src="assets/img/logo-white.svg" alt="Laun"></a> -->
+                                <a href="home-laundry-services.html"><img src="assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
                             </div>
                             <p class="about-text">Begin by scheduling your laundry man service. You can choose from our is convenient options Any visible stains</p>
                             <div class="th-social">
@@ -67,17 +67,19 @@
                         <h3 class="widget_title">Quick Links</h3>
                         <div class="menu-all-pages-container">
                             <ul class="menu">
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="project.html">Services</a></li>
-                                <li><a href="faq.html">Help & FAQs</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
-                                <li><a href="contact.html">Terms and Conditions</a></li>
-                                <li><a href="contact.html">Privacy Policy</a></li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="faq.php">Help & FAQs</a></li>
+                                <li><a href="blog.php">Blog</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
+                                <li><a href="t&c.php">Terms and Conditions</a></li>
+                                <li><a href="privacy.php">Privacy Policy</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
+
+
 
                 <div class="col-md-6 col-xl-auto">
                     <div class="widget footer-widget">
@@ -115,13 +117,16 @@
                                     <!-- <i class="fa-sharp fa-solid fa-phone"></i> -->
                                     <i class="fas fa-location-dot"></i>
                                 </div>
-                                <p class="info-box_text">4140 Parker Rd. Allentown, New Mexico 31134</p>
+                                <p class="info-box_text">Cosmo Enterprises
+                                    Gat no 99/2, <br>buldhana urban ware House, <br>Chincholi shivar Jalgaon 425003
+                                </p>
                             </div>
                             <div class="footer-info">
                                 <div class="footer-info_icon">
                                     <i class="fa-sharp fa-solid fa-phone"></i>
                                 </div>
-                                <a class="text-inherit" href="tel:+256214203215">+256 214 203 215</a>
+                                <a class="text-inherit" href="tel:9284630260">9284630260
+                                </a>
                             </div>
                             <div class="footer-info">
                                 <div class="footer-info_icon">
