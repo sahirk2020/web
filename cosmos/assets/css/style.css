@@ -1740,7 +1740,7 @@ textarea.is-invalid {
 }
 
 .th-btn:hover {
-  background: var(--title-color);
+  background: #2c9fda;
   color: var(--white-color);
 }
 

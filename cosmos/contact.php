@@ -289,7 +289,7 @@ Price Area
 
         <div class="col-xl-4 col-md-6">
           <div class="price-box card-shadow text-center">
-            <div class="price-box_icon">
+            <div class="price-box_icon ">
               <img src="assets/img/icon/location.png" alt="Icon">
             </div>
             <h3 class="box-title">Nashik</h3>
@@ -312,30 +312,30 @@ Price Area
           </div>
         </div>
 
-        <!-- <div class="col-xl-4 col-md-6">
-        <div class="price-box">
-          <div class="price-box_icon">
-            <img src="assets/img/icon/price_1_3.svg" alt="Icon">
-          </div>
-          <h3 class="box-title">Premium Package</h3>
-          <h6 class="price-box_text">80 Cloth Per Month</h6>
-          <div class="price-box_content">
-            <h4 class="price-box_price"><span class="currency">$</span>400.00</h4>
-            <div class="available-list">
-              <ul>
-                <li>4 T-Shirts</li>
-                <li>3 Pairs of Jeans</li>
-                <li>3 Button-Down Shirts</li>
-                <li>6 Pair of Shorts</li>
-                <li>7 Pairs of Underwear</li>
-                <li>6 Pairs of Socks</li>
-                <li>3 Towel</li>
-              </ul>
+        <div class="col-xl-4 col-md-6">
+          <div class="price-box card-shadow text-center">
+            <div class="price-box_icon">
+              <img src="assets/img/icon/price_1_3.svg" alt="Icon">
             </div>
-            <a href="contact.html" class="th-btn btn-fw th-radius">Order Now</a>
+            <h3 class="box-title">Amravati</h3>
+            <h6 class="price-box_text">municipal corporation limited</h6>
+            <!-- <div class="price-box_content">
+              <h4 class="price-box_price"><span class="currency">$</span>400.00</h4>
+              <div class="available-list">
+                <ul>
+                  <li>4 T-Shirts</li>
+                  <li>3 Pairs of Jeans</li>
+                  <li>3 Button-Down Shirts</li>
+                  <li>6 Pair of Shorts</li>
+                  <li>7 Pairs of Underwear</li>
+                  <li>6 Pairs of Socks</li>
+                  <li>3 Towel</li>
+                </ul>
+              </div>
+              <a href="contact.html" class="th-btn btn-fw th-radius">Order Now</a>
+            </div> -->
           </div>
         </div>
-      </div> -->
 
       </div>
     </div>
