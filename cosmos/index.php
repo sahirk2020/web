@@ -1,14 +1,14 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="eng">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Laun - Laundry Service & Dry Cleaning HTML Template - Home-laundry-dry-services</title>
+    <title>Cosmos - Laundry Service</title>
     <meta name="author" content="Laun">
-    <meta name="description" content="Laun - Laundry Service & Dry Cleaning HTML Template">
-    <meta name="keywords" content="Laun - Laundry Service & Dry Cleaning HTML Template">
-    <meta name="robots" content="INDEX,FOLLOW">
+    <meta name="description" content="Cosmos - Laundry Service & Dry Cleaning HTML Template">
+    <meta name="keywords" content="Cosmos - Laundry Service & Dry Cleaning HTML Template">
+    <!-- <meta name="robots" content="INDEX,FOLLOW"> -->
 
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -70,15 +70,16 @@
     <!--==============================
      Preloader
   ==============================-->
-    <div class="preloader ">
+    <!-- <div class="preloader ">
         <button class="th-btn style2 preloaderCls">Cancel Preloader </button>
         <div class="preloader-inner">
             <div class="loader">
                 <div class="rot"></div>
-                <img src="assets/img/logo-white.svg" alt="Laun">
+                <img src="assets/img/logo-white.svg" alt="Cosmos">
             </div>
         </div>
-    </div> <!--==============================
+    </div>  -->
+    <!--==============================
 Product Lightbox
 ==============================-->
     <div id="QuickView" class="white-popup mfp-hide">
@@ -126,19 +127,18 @@ Product Lightbox
     </div><!--==============================
     Sidemenu
 ============================== -->
-    <div class="sidemenu-wrapper sidemenu-info ">
+    <!-- <div class="sidemenu-wrapper sidemenu-info ">
         <div class="sidemenu-content">
             <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
             <div class="widget  ">
                 <div class="th-widget-about">
                     <div class="about-logo">
-                        <a href="home-laundry-services.html"><img src="assets/img/logo.svg" alt="Laun"></a>
+                        <a href="home-laundry-services.html"><img src="assets/img/logo.svg" alt="Cosmos"></a>
                     </div>
                     <p class="about-text">We provide specialized winterization services to safeguard your pool during the off-season, and when spring arrives, we handle the thorough opening process.</p>
                     <div class="th-social">
                         <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
                     </div>
                 </div>
@@ -206,205 +206,10 @@ Product Lightbox
             <input type="text" placeholder="What are you looking for?">
             <button type="submit"><i class="fal fa-search"></i></button>
         </form>
-    </div><!--==============================
-    Mobile Menu
-  ============================== -->
-    <div class="th-menu-wrapper">
-        <div class="th-menu-area text-center">
-            <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-            <div class="mobile-logo">
-                <a href="home-laundry-services.html"><img src="assets/img/logo.svg" alt="Laun"></a>
-            </div>
-            <div class="th-mobile-menu">
-                <ul>
-                    <li class="menu-item-has-children">
-                        <a href="home-laundry-services.html">Home</a>
-                        <ul class="sub-menu">
-                            <li><a href="home-laundry-services.html">Laundry Services</a></li>
-                            <li><a href="home-dry-cleaning.html">Home Dry Cleaning</a></li>
-                            <li><a href="home-laundry-dry-services.html">Laundry & Dry Services</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Service</a>
-                        <ul class="sub-menu">
-                            <li><a href="service.html">Service</a></li>
-                            <li><a href="service-details.html">Service Details</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Pages</a>
-                        <ul class="sub-menu">
-                            <li class="menu-item-has-children">
-                                <a href="#">Shop</a>
-                                <ul class="sub-menu">
-                                    <li><a href="shop.html">Shop</a></li>
-                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                    <li><a href="cart.html">Cart Page</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="team.html">Team</a></li>
-                            <li><a href="team-details.html">Team Details</a></li>
-                            <li><a href="gallery.html">Proto Gallery</a></li>
-                            <li><a href="faq.html">Faq Page</a></li>
-                            <li><a href="price.html">Price Package</a></li>
-                            <li><a href="error.html">Error Page</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Blogs</a>
-                        <ul class="sub-menu">
-                            <li>
-                                <a href="#">Blog Layout</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog-grid-2-columns.html">Blog Grid 02 Columns</a></li>
-                                    <li><a href="blog-grid-3-columns.html">Blog Grid 03 Columns</a></li>
-                                    <li><a href="blog-list.html">Blog List</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="blog.html">Blog Sidebar</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog.html">Blog No Sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contact</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div><!--==============================
-	Header Area
-==============================-->
-    <header class="th-header header-layout3">
-        <div class="header-top">
-            <div class="container th-container">
-                <div class="row justify-content-end justify-content-lg-between align-items-center gy-2">
-                    <div class="col-auto d-none d-md-block">
-                        <div class="header-links">
-                            <ul>
-                                <li><i class="fa-solid fa-phone"></i>Phone:<a href="tel:+1044123456789">+163-654-3569</a></li>
-                                <li><i class="fa-solid fa-envelope"></i>Email:<a href="mailto:info@Laun.com">info@laun.com</a>
-                                </li>
-                                <li><i class="fa-solid fa-clock"></i>Opening Hours:<span>Monday to Saturday(9:00 AM - 8:00 PM)</span></li>
+    </div> -->
 
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-auto">
-                        <div class="social-links">
-                            <span class="social-title">Follow Us On:</span>
-                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                            <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                            <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="sticky-wrapper">
-            <!-- Main Menu Area -->
-            <div class="container th-container">
-                <div class="menu-area">
-                    <div class="row align-items-center justify-content-between">
-                        <div class="col-auto">
-                            <div class="header-logo">
-                                <a href="home-laundry-services.html"><img src="assets/img/logo-white2.svg" alt="Laun"></a>
-                            </div>
-                        </div>
-                        <div class="col-auto me-xl-auto">
-                            <nav class="main-menu d-none d-lg-inline-block">
-                                <ul>
-                                    <li class="menu-item-has-children">
-                                        <a href="home-laundry-services.html">Home</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="home-laundry-services.html">Laundry Services</a></li>
-                                            <li><a href="home-dry-cleaning.html">Home Dry Cleaning</a></li>
-                                            <li><a href="home-laundry-dry-services.html">Laundry & Dry Services</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Service</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="service.html">Service</a></li>
-                                            <li><a href="service-details.html">Service Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Pages</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item-has-children">
-                                                <a href="#">Shop</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="shop.html">Shop</a></li>
-                                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                                    <li><a href="cart.html">Cart Page</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="team-details.html">Team Details</a></li>
-                                            <li><a href="gallery.html">Proto Gallery</a></li>
-                                            <li><a href="faq.html">Faq Page</a></li>
-                                            <li><a href="price.html">Price Package</a></li>
-                                            <li><a href="error.html">Error Page</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Blogs</a>
-                                        <ul class="sub-menu">
-                                            <li>
-                                                <a href="#">Blog Layout</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog-grid-2-columns.html">Blog Grid 02 Columns</a></li>
-                                                    <li><a href="blog-grid-3-columns.html">Blog Grid 03 Columns</a></li>
-                                                    <li><a href="blog-list.html">Blog List</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="blog.html">Blog Sidebar</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                                    <li><a href="blog.html">Blog No Sidebar</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="contact.html">Contact</a>
-                                    </li>
-                                </ul>
-                            </nav>
-                            <button type="button" class="th-menu-toggle d-block d-lg-none"><i class="far fa-bars"></i></button>
-                        </div>
-                        <div class="col-auto d-none d-xl-block">
-                            <div class="header-button">
-                                <button type="button" class="icon-btn2 searchBoxToggler"><i class="far fa-search"></i></button>
-                                <a href="contact.html" class="th-btn th-radius">Schedule A Pickup</a>
-                                <a href="#" class="icon-btn2 sideMenuToggler d-none d-lg-block"><i class="far fa-bars"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="logo-bg"></div>
-        </div>
-    </header><!--==============================
+    <?php include 'header.php'; ?>
+    <!--==============================
 Hero Area
 ==============================-->
     <div class="th-hero-wrapper hero-3" id="hero">
@@ -719,14 +524,15 @@ Product Area
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
                     <div class="title-area mb-10 text-center">
-                        <span class="sub-title">Our Best Prodected</span>
-                        <h2 class="sec-title">Laundry & Dry Daily Producted</h2>
+                        <span class="sub-title">Cosmos </span>
+                        <h2 class="sec-title">Membership Plans</h2>
+                        <p>Choose from flexible membership plans crafted to match your lifestyle while enjoying greater value and exclusive benefits.</p>
                     </div>
                 </div>
             </div>
             <div class="row gy-4">
 
-                <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="th-product product-grid">
                         <div class="product-img">
                             <img src="assets/img/product/product_1_1.jpg" alt="Product Image">
@@ -751,7 +557,7 @@ Product Area
                 </div>
 
 
-                <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="th-product product-grid">
                         <div class="product-img">
                             <img src="assets/img/product/product_1_2.jpg" alt="Product Image">
@@ -776,7 +582,7 @@ Product Area
                 </div>
 
 
-                <div class="col-xl-3 col-lg-4 col-md-6">
+                <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="th-product product-grid">
                         <div class="product-img">
                             <img src="assets/img/product/product_1_3.jpg" alt="Product Image">
@@ -799,132 +605,6 @@ Product Area
                         </div>
                     </div>
                 </div>
-
-
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="th-product product-grid">
-                        <div class="product-img">
-                            <img src="assets/img/product/product_1_4.jpg" alt="Product Image">
-                            <span class="product-tag">Sale</span>
-                            <div class="actions">
-                                <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a>
-                                <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
-                                <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
-                            </div>
-                        </div>
-                        <div class="product-content">
-                            <h3 class="product-title"><a href="shop-details.html">Surf Dishwashing liquid</a></h3>
-                            <span class="price">$40.00</span>
-                            <div class="woocommerce-product-rating">
-                                <span class="count">(5.00 Review)</span>
-                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
-                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="th-product product-grid">
-                        <div class="product-img">
-                            <img src="assets/img/product/product_1_5.jpg" alt="Product Image">
-                            <span class="product-tag">New</span>
-                            <div class="actions">
-                                <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a>
-                                <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
-                                <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
-                            </div>
-                        </div>
-                        <div class="product-content">
-                            <h3 class="product-title"><a href="shop-details.html">Persil Detergent Washing</a></h3>
-                            <span class="price">$65.00</span>
-                            <div class="woocommerce-product-rating">
-                                <span class="count">(5.00 Review)</span>
-                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
-                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="th-product product-grid">
-                        <div class="product-img">
-                            <img src="assets/img/product/product_1_6.jpg" alt="Product Image">
-                            <span class="product-tag">Sale</span>
-                            <div class="actions">
-                                <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a>
-                                <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
-                                <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
-                            </div>
-                        </div>
-                        <div class="product-content">
-                            <h3 class="product-title"><a href="shop-details.html">Laundry detergent Powder</a></h3>
-                            <span class="price">$35.00</span>
-                            <div class="woocommerce-product-rating">
-                                <span class="count">(5.00 Review)</span>
-                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
-                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="th-product product-grid">
-                        <div class="product-img">
-                            <img src="assets/img/product/product_1_7.jpg" alt="Product Image">
-                            <span class="product-tag">New</span>
-                            <div class="actions">
-                                <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a>
-                                <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
-                                <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
-                            </div>
-                        </div>
-                        <div class="product-content">
-                            <h3 class="product-title"><a href="shop-details.html">Surf Excel Laundry</a></h3>
-                            <span class="price">$25.00</span>
-                            <div class="woocommerce-product-rating">
-                                <span class="count">(5.00 Review)</span>
-                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
-                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="th-product product-grid">
-                        <div class="product-img">
-                            <img src="assets/img/product/product_1_8.jpg" alt="Product Image">
-                            <span class="product-tag">Sale</span>
-                            <div class="actions">
-                                <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a>
-                                <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
-                                <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
-                            </div>
-                        </div>
-                        <div class="product-content">
-                            <h3 class="product-title"><a href="shop-details.html">Moscow detergent</a></h3>
-                            <span class="price">$35.00</span>
-                            <div class="woocommerce-product-rating">
-                                <span class="count">(5.00 Review)</span>
-                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
-                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
     </section><!--==============================
@@ -935,7 +615,7 @@ Choose Area
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
                     <div class="title-area text-center pe-xl-4 ps-xl-4">
-                        <span class="sub-title">Why Choose Us</span>
+                        <span class="sub-title">Why Cosmos</span>
                         <h2 class="sec-title">Cleaning Clothes One Spin at a Time</h2>
                     </div>
                 </div>
