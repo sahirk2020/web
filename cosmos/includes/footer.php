@@ -208,6 +208,23 @@
             </div>
         </div>
     </div>
+
+    <div class="animation-bubble">
+        <div class="bubble-1"></div>
+        <div class="bubble-2"></div>
+        <div class="bubble-3"></div>
+        <div class="bubble-4"></div>
+        <div class="bubble-5"></div>
+        <div class="bubble-6"></div>
+        <div class="bubble-7"></div>
+        <div class="bubble-8"></div>
+        <div class="bubble-9"></div>
+        <div class="bubble-10"></div>
+    </div>
+    <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-left="0%"><img src="assets/img/shape/footer_shape_1.png" alt="shape">
+    </div>
+    <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-right="0%"><img src="assets/img/shape/footer_shape_2.png" alt="shape">
+    </div>
 </footer>
 
 <!--********************************
