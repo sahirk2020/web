@@ -108,3 +108,37 @@
   }
 }
 /* Contact Us Page End */
+
+/* Services Page Start */
+
+.breadcumb-wrapper {
+  padding: 170px 0;
+}
+
+.breadcumb-title {
+  color: #2c9fda;
+}
+
+/* ===================================
+   Premium Laundry Image Animation
+=================================== */
+/* Zoom In Zoom Out Animation */
+
+/* .img-box1 .img1 img {
+  width: 100%;
+  border-radius: 30px;
+  animation: zoomInOut 5s ease-in-out infinite;
+} */
+
+/* Animation */
+/* @keyframes zoomInOut {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.08);
+  }
+  100% {
+    transform: scale(1);
+  }
+} */

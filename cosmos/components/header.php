@@ -1,3 +1,9 @@
+<?php
+
+// echo __DIR__;
+include_once __DIR__ . '/../config.php';
+include_once __DIR__ . '/../css.php';
+?>
 <!--==============================
     Mobile Menu
   ============================== -->
@@ -5,24 +11,24 @@
     <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-            <a href="index.php"><img src="assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
+            <a href="<?php echo BASE_URL; ?>index.php"><img src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
         </div>
         <div class="th-mobile-menu">
             <ul>
                 <li class="menu-item-has-children">
-                    <a href="index.php">Home</a>
+                    <a href="<?php echo BASE_URL; ?>index.php">Home</a>
                     <ul class="sub-menu">
-                        <li><a href="home-laundry-services.html">Laundry Services</a></li>
-                        <li><a href="home-dry-cleaning.html">Home Dry Cleaning</a></li>
-                        <li><a href="home-laundry-dry-services.html">Laundry & Dry Services</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>home-laundry-services.php">Laundry Services</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>home-dry-cleaning.php">Home Dry Cleaning</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>home-laundry-dry-services.php">Laundry & Dry Services</a></li>
                     </ul>
                 </li>
-                <li><a href="about.html">About Us</a></li>
+                <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
                 <li class="menu-item-has-children">
                     <a href="#">Service</a>
                     <ul class="sub-menu">
-                        <li><a href="service.html">Service</a></li>
-                        <li><a href="service-details.html">Service Details</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>service.php">Service</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>service-details.php">Service Details</a></li>
                     </ul>
                 </li>
                 <li class="menu-item-has-children">
@@ -31,19 +37,19 @@
                         <li class="menu-item-has-children">
                             <a href="#">Shop</a>
                             <ul class="sub-menu">
-                                <li><a href="shop.html">Shop</a></li>
-                                <li><a href="shop-details.html">Shop Details</a></li>
-                                <li><a href="cart.html">Cart Page</a></li>
-                                <li><a href="checkout.html">Checkout</a></li>
-                                <li><a href="wishlist.html">Wishlist</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>shop.php">Shop</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>shop-details.php">Shop Details</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>cart.php">Cart Page</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>checkout.php">Checkout</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>wishlist.php">Wishlist</a></li>
                             </ul>
                         </li>
-                        <li><a href="team.html">Team</a></li>
-                        <li><a href="team-details.html">Team Details</a></li>
-                        <li><a href="gallery.html">Proto Gallery</a></li>
-                        <li><a href="faq.html">Faq Page</a></li>
-                        <li><a href="price.html">Price Package</a></li>
-                        <li><a href="error.html">Error Page</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>team.php">Team</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>team-details.php">Team Details</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>gallery.php">Proto Gallery</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>faq.php">Faq Page</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>price.php">Price Package</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>error.php">Error Page</a></li>
                     </ul>
                 </li>
                 <li class="menu-item-has-children">
@@ -52,24 +58,24 @@
                         <li>
                             <a href="#">Blog Layout</a>
                             <ul class="sub-menu">
-                                <li><a href="blog-grid-2-columns.html">Blog Grid 02 Columns</a></li>
-                                <li><a href="blog-grid-3-columns.html">Blog Grid 03 Columns</a></li>
-                                <li><a href="blog-list.html">Blog List</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>blog-grid-2-columns.php">Blog Grid 02 Columns</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>blog-grid-3-columns.php">Blog Grid 03 Columns</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>blog-list.php">Blog List</a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="blog.html">Blog Sidebar</a>
+                            <a href="<?php echo BASE_URL; ?>blog.php">Blog Sidebar</a>
                             <ul class="sub-menu">
-                                <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                <li><a href="blog.html">Blog No Sidebar</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>blog-left-sidebar.php">Blog Left Sidebar</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>blog-right-sidebar.php">Blog Right Sidebar</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>blog.php">Blog No Sidebar</a></li>
                             </ul>
                         </li>
-                        <li><a href="blog-details.html">Blog Details</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>blog-details.php">Blog Details</a></li>
                     </ul>
                 </li>
                 <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="<?php echo BASE_URL; ?>contact.php">Contact</a>
                 </li>
             </ul>
         </div>
@@ -112,8 +118,8 @@
                 <div class="row align-items-center justify-content-between">
                     <div class="col-auto">
                         <div class="header-logo">
-                            <a href="index.php">
-                                <img src="assets/img/cosmos-laundry-logo-white.svg" alt="Cosmos Laundry" width="200">
+                            <a href="<?php echo BASE_URL; ?>index.php">
+                                <img src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo-white.svg" alt="Cosmos Laundry" width="200">
                             </a>
                         </div>
                     </div>
@@ -121,19 +127,19 @@
                         <nav class="main-menu d-none d-lg-inline-block">
                             <ul>
                                 <li class="menu-item-has-children">
-                                    <a href="home-laundry-services.html">Home</a>
+                                    <a href="<?php echo BASE_URL; ?>home-laundry-services.php">Home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="home-laundry-services.html">Laundry Services</a></li>
-                                        <li><a href="home-dry-cleaning.html">Home Dry Cleaning</a></li>
-                                        <li><a href="home-laundry-dry-services.html">Laundry & Dry Services</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>home-laundry-services.php">Laundry Services</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>home-dry-cleaning.php">Home Dry Cleaning</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>home-laundry-dry-services.php">Laundry & Dry Services</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about.html">About Us</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
                                 <li class="menu-item-has-children">
                                     <a href="#">Service</a>
                                     <ul class="sub-menu">
-                                        <li><a href="service.html">Service</a></li>
-                                        <li><a href="service-details.html">Service Details</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>service.php">Service</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>service-details.php">Service Details</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
@@ -142,19 +148,19 @@
                                         <li class="menu-item-has-children">
                                             <a href="#">Shop</a>
                                             <ul class="sub-menu">
-                                                <li><a href="shop.html">Shop</a></li>
-                                                <li><a href="shop-details.html">Shop Details</a></li>
-                                                <li><a href="cart.html">Cart Page</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                                <li><a href="wishlist.html">Wishlist</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>shop.php">Shop</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>shop-details.php">Shop Details</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>cart.php">Cart Page</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>checkout.php">Checkout</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>wishlist.php">Wishlist</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="team.html">Team</a></li>
-                                        <li><a href="team-details.html">Team Details</a></li>
-                                        <li><a href="gallery.html">Proto Gallery</a></li>
-                                        <li><a href="faq.html">Faq Page</a></li>
-                                        <li><a href="price.html">Price Package</a></li>
-                                        <li><a href="error.html">Error Page</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>team.php">Team</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>team-details.php">Team Details</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>gallery.php">Proto Gallery</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>faq.php">Faq Page</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>price.php">Price Package</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>error.php">Error Page</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
@@ -163,24 +169,24 @@
                                         <li>
                                             <a href="#">Blog Layout</a>
                                             <ul class="sub-menu">
-                                                <li><a href="blog-grid-2-columns.html">Blog Grid 02 Columns</a></li>
-                                                <li><a href="blog-grid-3-columns.html">Blog Grid 03 Columns</a></li>
-                                                <li><a href="blog-list.html">Blog List</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>blog-grid-2-columns.php">Blog Grid 02 Columns</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>blog-grid-3-columns.php">Blog Grid 03 Columns</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>blog-list.php">Blog List</a></li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="blog.html">Blog Sidebar</a>
+                                            <a href="<?php echo BASE_URL; ?>blog.php">Blog Sidebar</a>
                                             <ul class="sub-menu">
-                                                <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                                <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                                <li><a href="blog.html">Blog No Sidebar</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>blog-left-sidebar.php">Blog Left Sidebar</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>blog-right-sidebar.php">Blog Right Sidebar</a></li>
+                                                <li><a href="<?php echo BASE_URL; ?>blog.php">Blog No Sidebar</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>blog-details.php">Blog Details</a></li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact</a>
+                                    <a href="<?php echo BASE_URL; ?>contact.php">Contact</a>
                                 </li>
                             </ul>
                         </nav>
@@ -189,7 +195,7 @@
                     <!-- <div class="col-auto d-none d-xl-block">
                             <div class="header-button">
                                 <button type="button" class="icon-btn2 searchBoxToggler"><i class="far fa-search"></i></button>
-                                <a href="contact.html" class="th-btn th-radius">Schedule A Pickup</a>
+                                <a href="<?php echo BASE_URL; ?>contact.php" class="th-btn th-radius">Schedule A Pickup</a>
                                 <a href="#" class="icon-btn2 sideMenuToggler d-none d-lg-block"><i class="far fa-bars"></i></a>
                             </div>
                         </div> -->

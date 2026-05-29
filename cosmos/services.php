@@ -70,7 +70,7 @@
     <!--==============================
      Preloader
   ==============================-->
-    <div class="preloader ">
+    <!-- <div class="preloader ">
         <button class="th-btn style2 preloaderCls">Cancel Preloader </button>
         <div class="preloader-inner">
             <div class="loader">
@@ -78,7 +78,8 @@
                 <img src="assets/img/logo-white.svg" alt="Laun">
             </div>
         </div>
-    </div> <!--==============================
+    </div>  -->
+    <!--==============================
     Sidemenu
 ============================== -->
     <div class="sidemenu-wrapper shopping-cart ">
@@ -225,7 +226,8 @@
             </div>
         </div>
     </div>
-    <?php require_once('header.php'); ?>
+    <?php include 'css.php'; ?>
+    <?php require('components/header.php'); ?>
     <!--==============================
 	Header Area
 ==============================-->
@@ -1395,170 +1397,9 @@ Blog Area
                 <button data-slider-next="#blogSlider1" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
             </div>
         </div>
-    </section> <!--==============================
-	Footer Area
-==============================-->
-    <div class="">
-        <div class="container z-index-common">
-            <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="assets/img/bg/cta_bg_2.jpg">
-                <div class="row align-items-center">
-                    <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
-                        <div class="title-area mb-0 text-center text-lg-start">
-                            <span class="sub-title style1">Get Free Contact For Services</span>
-                            <h2 class="sec-title text-white">You Get Premium Laundry Service From Us!</h2>
-                        </div>
-                    </div>
-                    <div class="col-xl-5 col-lg-6">
-                        <form class="cta-form">
-                            <div class="form-group">
-                                <input class="form-control" type="email" placeholder="Email Address" required="">
-                                <button type="submit" class="th-btn style4">Get your services</button>
-                            </div>
-
-                        </form>
-                    </div>
-                </div>
-                <div class="cta-shape"><img src="assets/img/shape/line.png" alt=""></div>
-            </div>
-        </div>
-    </div>
-
-    <footer class="footer-wrapper footer-layout2" data-bg-src="assets/img/bg/footer_bg_2.jpg">
-        <div class="widget-area">
-            <div class="container">
-                <div class="row justify-content-between">
-                    <div class="col-md-6 col-xl-3">
-                        <div class="widget footer-widget">
-                            <div class="th-widget-about">
-                                <div class="about-logo">
-                                    <a href="home-laundry-services.html"><img src="assets/img/logo-white.svg" alt="Laun"></a>
-                                </div>
-                                <p class="about-text">Begin by scheduling your laundry man service. You can choose from our is convenient options Any visible stains</p>
-                                <div class="th-social">
-                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xl-auto">
-                        <div class="widget widget_nav_menu footer-widget">
-                            <h3 class="widget_title">Our Services</h3>
-                            <div class="menu-all-pages-container">
-                                <ul class="menu">
-                                    <li><a href="service.html">Dry Cleaning</a></li>
-                                    <li><a href="service.html">Dust Removal</a></li>
-                                    <li><a href="service.html">Damage Repair</a></li>
-                                    <li><a href="service.html">Sanitize clothes</a></li>
-                                    <li><a href="service.html"> Laundry Service</a></li>
-
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xl-auto">
-                        <div class="widget footer-widget">
-                            <h3 class="widget_title">Recent Posts</h3>
-                            <div class="recent-post-wrap">
-                                <div class="recent-post">
-                                    <div class="media-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="far fa-calendar"></i>21 October , 2023</a>
-                                        </div>
-                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">A Fresh Start for Your Wardrobe</a></h4>
-                                    </div>
-                                </div>
-                                <div class="recent-post">
-                                    <div class="media-img">
-                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="recent-post-meta">
-                                            <a href="blog.html"><i class="far fa-calendar"></i>22 October , 2023</a>
-                                        </div>
-                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">Where Clean Meets Convenience</a></h4>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xl-auto">
-                        <div class="widget footer-widget">
-                            <h3 class="widget_title">Opening Our</h3>
-                            <div class="th-widget-schedule">
-                                <p class="schedule-info"><span>Mon - Tuesday</span><span>8:00 AM - 6:00 PM</span></p>
-                                <p class="schedule-info"><span>Wed:</span><span>9:00 AM - 5:00 PM</span></p>
-                                <p class="schedule-info"><span>Fri - Sat:</span><span>9:00 AM - 6:00 PM</span></p>
-                                <p class="schedule-info"><span>Sunday</span><span>Closed</span></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="copyright-wrap">
-            <div class="container">
-                <div class="row gy-2 align-items-center">
-                    <div class="col-lg-6">
-                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2023 <a href="home-laundry-services.html">Laun</a>. All Rights Reserved.</p>
-                    </div>
-                    <div class="col-lg-6 text-center text-md-end">
-                        <div class="footer-links">
-                            <ul>
-                                <li><a href="contact.html">Privacy Policy</a></li>
-                                <li><a href="contact.html">Terms &amp; Condition</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!--********************************
-			Code End  Here 
-	******************************** -->
-
-    <!-- Scroll To Top -->
-    <div class="scroll-top">
-        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
-            </path>
-        </svg>
-    </div>
-
+    </section>
     <!--==============================
-    All Js File
-============================== -->
-    <!-- Jquery -->
-    <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-    <!-- Swiper Js -->
-    <script src="assets/js/swiper-bundle.min.js"></script>
-    <!-- Bootstrap -->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <!-- Magnific Popup -->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <!-- Counter Up -->
-    <script src="assets/js/jquery.counterup.min.js"></script>
-    <!-- Range Slider -->
-    <script src="assets/js/jquery-ui.min.js"></script>
-    <!-- imagesloaded -->
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+	     Footer Area
+==============================-->
 
-    <!-- isotope -->
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <!-- nice select -->
-    <script src="assets/js/nice-select.min.js"></script>
-
-    <!-- Main Js File -->
-    <script src="assets/js/main.js"></script>
-</body>
-
-</html>
+    <?php require('components/footer.php'); ?>

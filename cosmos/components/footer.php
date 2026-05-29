@@ -3,7 +3,7 @@
 ==============================-->
 <div class="">
     <div class="container z-index-common">
-        <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="assets/img/bg/cta_bg_2.jpg">
+        <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/cta_bg_2.jpg">
             <div class="row align-items-center">
                 <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
@@ -20,12 +20,12 @@
                     </form>
                 </div>
             </div>
-            <div class="cta-shape"><img src="assets/img/shape/line.png" alt=""></div>
+            <div class="cta-shape"><img src="<?php echo BASE_URL; ?>assets/img/shape/line.png" alt=""></div>
         </div>
     </div>
 </div>
 
-<footer class="footer-wrapper footer-layout2" data-bg-src="assets/img/bg/footer_bg_2.jpg">
+<footer class="footer-wrapper footer-layout2" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/footer_bg_2.jpg">
     <div class="widget-area">
         <div class="container">
             <div class="row justify-content-between">
@@ -33,8 +33,8 @@
                     <div class="widget footer-widget">
                         <div class="th-widget-about">
                             <div class="about-logo">
-                                <!-- <a href="home-laundry-services.html"><img src="assets/img/logo-white.svg" alt="Laun"></a> -->
-                                <a href="home-laundry-services.html"><img src="assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
+                                <!-- <a href="home-laundry-services.html"><img src="<?php echo BASE_URL; ?>assets/img/logo-white.svg" alt="Laun"></a> -->
+                                <a href="home-laundry-services.html"><img src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
                             </div>
                             <p class="about-text">Begin by scheduling your laundry man service. You can choose from our is convenient options Any visible stains</p>
                             <div class="th-social">
@@ -69,13 +69,13 @@
                         <h3 class="widget_title">Quick Links</h3>
                         <div class="menu-all-pages-container">
                             <ul class="menu">
-                                <li><a href="about.php">About Us</a></li>
-                                <li><a href="services.php">Services</a></li>
-                                <li><a href="faq.php">Help & FAQs</a></li>
-                                <li><a href="blog.php">Blog</a></li>
-                                <li><a href="contact.php">Contact Us</a></li>
-                                <li><a href="t&c.php">Terms and Conditions</a></li>
-                                <li><a href="privacy.php">Privacy Policy</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services.php">Services</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>faq.php">Help & FAQs</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>blog.php">Blog</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>contact.php">Contact Us</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>t&c.php">Terms and Conditions</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>privacy.php">Privacy Policy</a></li>
                             </ul>
                         </div>
                     </div>
@@ -153,7 +153,7 @@
                         <div class="recent-post-wrap">
                             <div class="recent-post">
                                 <div class="media-img">
-                                    <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
+                                    <a href="blog-details.html"><img src="<?php echo BASE_URL; ?>assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
                                 </div>
                                 <div class="media-body">
                                     <div class="recent-post-meta">
@@ -164,7 +164,7 @@
                             </div>
                             <div class="recent-post">
                                 <div class="media-img">
-                                    <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
+                                    <a href="blog-details.html"><img src="<?php echo BASE_URL; ?>assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
                                 </div>
                                 <div class="media-body">
                                     <div class="recent-post-meta">
@@ -223,9 +223,9 @@
         <div class="bubble-9"></div>
         <div class="bubble-10"></div>
     </div>
-    <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-left="0%"><img src="assets/img/shape/footer_shape_1.png" alt="shape">
+    <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-left="0%"><img src="<?php echo BASE_URL; ?>assets/img/shape/footer_shape_1.png" alt="shape">
     </div>
-    <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-right="0%"><img src="assets/img/shape/footer_shape_2.png" alt="shape">
+    <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-right="0%"><img src="<?php echo BASE_URL; ?>assets/img/shape/footer_shape_2.png" alt="shape">
     </div>
 </footer>
 
@@ -241,31 +241,8 @@
     </svg>
 </div>
 
-<!--==============================
-    All Js File
-============================== -->
-<!-- Jquery -->
-<script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-<!-- Swiper Js -->
-<script src="assets/js/swiper-bundle.min.js"></script>
-<!-- Bootstrap -->
-<script src="assets/js/bootstrap.min.js"></script>
-<!-- Magnific Popup -->
-<script src="assets/js/jquery.magnific-popup.min.js"></script>
-<!-- Counter Up -->
-<script src="assets/js/jquery.counterup.min.js"></script>
-<!-- Range Slider -->
-<script src="assets/js/jquery-ui.min.js"></script>
-<!-- imagesloaded -->
-<script src="assets/js/imagesloaded.pkgd.min.js"></script>
+<?php include_once __DIR__ . '/../js.php'; ?>
 
-<!-- isotope -->
-<script src="assets/js/isotope.pkgd.min.js"></script>
-<!-- nice select -->
-<script src="assets/js/nice-select.min.js"></script>
-
-<!-- Main Js File -->
-<script src="assets/js/main.js"></script>
 </body>
 
 </html>

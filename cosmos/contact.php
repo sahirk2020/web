@@ -1,3 +1,8 @@
+<?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+?>
+
 <!doctype html>
 <html class="no-js" lang="zxx">
 
@@ -96,10 +101,8 @@
 </head>
 
 <body>
-
-
-  <?php include 'css.php'; ?>
   <?php include 'components/header.php'; ?>
+
   <!--==============================
     Breadcumb
 ============================== -->
