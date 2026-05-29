@@ -38,10 +38,12 @@
                             </div>
                             <p class="about-text">Begin by scheduling your laundry man service. You can choose from our is convenient options Any visible stains</p>
                             <div class="th-social">
-                                <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                                <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
+                                <!-- <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
                                 <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
+                                <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a> -->
                             </div>
                         </div>
                     </div>

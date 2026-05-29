@@ -99,7 +99,7 @@
 
 
   <?php include 'css.php'; ?>
-  <?php include 'header.php'; ?>
+  <?php include 'components/header.php'; ?>
   <!--==============================
     Breadcumb
 ============================== -->
@@ -318,7 +318,7 @@ Price Area
               <img src="assets/img/icon/price_1_3.svg" alt="Icon">
             </div>
             <h3 class="box-title">Amravati</h3>
-            <h6 class="price-box_text">municipal corporation limited</h6>
+            <h6 class="price-box_text">Municipal Corporation Limited</h6>
             <!-- <div class="price-box_content">
               <h4 class="price-box_price"><span class="currency">$</span>400.00</h4>
               <div class="available-list">
@@ -351,9 +351,11 @@ Map Area
       allowfullscreen=""
       loading="lazy"></iframe> -->
 
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.8681586905404!2d75.55353887476845!3d20.997921388838012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90f99c35e51c3%3A0xdb207799be67c5ca!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1779454337914!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.8681586905404!2d75.55353887476845!3d20.997921388838012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90f99c35e51c3%3A0xdb207799be67c5ca!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1779454337914!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7449.736586313819!2d75.556114!3d20.997916!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90f99c35e51c3%3A0xdb207799be67c5ca!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1779877037548!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </div>
 
 
-  <?php include 'includes/footer.php'; ?>
+  <?php include 'components/footer.php'; ?>

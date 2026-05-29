@@ -4,6 +4,10 @@
   background: #5db1db;
 }
 
+.contact-map.style2 iframe {
+  height: 500px;
+}
+
 .card-shadow {
   box-shadow:
     0 4px 8px 0 rgba(0, 0, 0, 0.2),
