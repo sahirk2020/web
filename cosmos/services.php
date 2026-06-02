@@ -40,321 +40,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800;900&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800;9..40,900&display=swap" rel="stylesheet">
 
 
-    <!--==============================
-	    All CSS File
-	============================== -->
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!-- Fontawesome Icon -->
-    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-    <!-- Magnific Popup -->
-    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-    <!-- Swiper Js -->
-    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
-    <!-- Theme Custom CSS -->
-    <link rel="stylesheet" href="assets/css/style.css">
+
 
 </head>
 
 <body>
+    <?php include 'components/header.php'; ?>
 
-    <!--[if lte IE 9]>
-    	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-  	<![endif]-->
-
-
-    <!--********************************
-   		Code Start From Here 
-	******************************** -->
-
-    <!--==============================
-     Preloader
-  ==============================-->
-    <!-- <div class="preloader ">
-        <button class="th-btn style2 preloaderCls">Cancel Preloader </button>
-        <div class="preloader-inner">
-            <div class="loader">
-                <div class="rot"></div>
-                <img src="assets/img/logo-white.svg" alt="Laun">
-            </div>
-        </div>
-    </div>  -->
-    <!--==============================
-    Sidemenu
-============================== -->
-    <div class="sidemenu-wrapper shopping-cart ">
-        <div class="sidemenu-content">
-            <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
-            <div class="widget woocommerce widget_shopping_cart">
-                <h3 class="widget_title">Shopping cart</h3>
-                <div class="widget_shopping_cart_content">
-                    <ul class="woocommerce-mini-cart cart_list product_list_widget ">
-                        <li class="woocommerce-mini-cart-item mini_cart_item">
-                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
-                            <a href="#"><img src="assets/img/product/product_thumb_1_1.jpg" alt="Cart Image">Laundry Surf Excel</a>
-                            <span class="quantity">1 ×
-                                <span class="woocommerce-Price-amount amount">
-                                    <span class="woocommerce-Price-currencySymbol">$</span>45</span>
-                            </span>
-                        </li>
-                        <li class="woocommerce-mini-cart-item mini_cart_item">
-                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
-                            <a href="#"><img src="assets/img/product/product_thumb_1_2.jpg" alt="Cart Image">Tide Fresh Coral Blast</a>
-                            <span class="quantity">1 ×
-                                <span class="woocommerce-Price-amount amount">
-                                    <span class="woocommerce-Price-currencySymbol">$</span>20</span>
-                            </span>
-                        </li>
-                        <li class="woocommerce-mini-cart-item mini_cart_item">
-                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
-                            <a href="#"><img src="assets/img/product/product_thumb_1_3.jpg" alt="Cart Image">Laundry detergent Stain</a>
-                            <span class="quantity">1 ×
-                                <span class="woocommerce-Price-amount amount">
-                                    <span class="woocommerce-Price-currencySymbol">$</span>35</span>
-                            </span>
-                        </li>
-                        <li class="woocommerce-mini-cart-item mini_cart_item">
-                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
-                            <a href="#"><img src="assets/img/product/product_thumb_1_4.jpg" alt="Cart Image">Surf Dishwashing liquid</a>
-                            <span class="quantity">1 ×
-                                <span class="woocommerce-Price-amount amount">
-                                    <span class="woocommerce-Price-currencySymbol">$</span>40</span>
-                            </span>
-                        </li>
-                        <li class="woocommerce-mini-cart-item mini_cart_item">
-                            <a href="#" class="remove remove_from_cart_button"><i class="far fa-times"></i></a>
-                            <a href="#"><img src="assets/img/product/product_thumb_1_5.jpg" alt="Cart Image">Persil Detergent Washing</a>
-                            <span class="quantity">1 ×
-                                <span class="woocommerce-Price-amount amount">
-                                    <span class="woocommerce-Price-currencySymbol">$</span>35</span>
-                            </span>
-                        </li>
-                    </ul>
-                    <p class="woocommerce-mini-cart__total total">
-                        <strong>Subtotal:</strong>
-                        <span class="woocommerce-Price-amount amount">
-                            <span class="woocommerce-Price-currencySymbol">$</span>65</span>
-                    </p>
-                    <p class="woocommerce-mini-cart__buttons buttons">
-                        <a href="cart.html" class="th-btn wc-forward">View cart</a>
-                        <a href="checkout.html" class="th-btn checkout wc-forward">Checkout</a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="popup-search-box">
-        <button class="searchClose"><i class="fal fa-times"></i></button>
-        <form action="#">
-            <input type="text" placeholder="What are you looking for?">
-            <button type="submit"><i class="fal fa-search"></i></button>
-        </form>
-    </div><!--==============================
-    Mobile Menu
-  ============================== -->
-    <div class="th-menu-wrapper">
-        <div class="th-menu-area text-center">
-            <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-            <div class="mobile-logo">
-                <a href="home-laundry-services.html"><img src="assets/img/logo.svg" alt="Laun"></a>
-            </div>
-            <div class="th-mobile-menu">
-                <ul>
-                    <li class="menu-item-has-children">
-                        <a href="home-laundry-services.html">Home</a>
-                        <ul class="sub-menu">
-                            <li><a href="home-laundry-services.html">Laundry Services</a></li>
-                            <li><a href="home-dry-cleaning.html">Home Dry Cleaning</a></li>
-                            <li><a href="home-laundry-dry-services.html">Laundry & Dry Services</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Service</a>
-                        <ul class="sub-menu">
-                            <li><a href="service.html">Service</a></li>
-                            <li><a href="service-details.html">Service Details</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Pages</a>
-                        <ul class="sub-menu">
-                            <li class="menu-item-has-children">
-                                <a href="#">Shop</a>
-                                <ul class="sub-menu">
-                                    <li><a href="shop.html">Shop</a></li>
-                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                    <li><a href="cart.html">Cart Page</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="team.html">Team</a></li>
-                            <li><a href="team-details.html">Team Details</a></li>
-                            <li><a href="gallery.html">Proto Gallery</a></li>
-                            <li><a href="faq.html">Faq Page</a></li>
-                            <li><a href="price.html">Price Package</a></li>
-                            <li><a href="error.html">Error Page</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Blogs</a>
-                        <ul class="sub-menu">
-                            <li>
-                                <a href="#">Blog Layout</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog-grid-2-columns.html">Blog Grid 02 Columns</a></li>
-                                    <li><a href="blog-grid-3-columns.html">Blog Grid 03 Columns</a></li>
-                                    <li><a href="blog-list.html">Blog List</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="blog.html">Blog Sidebar</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                    <li><a href="blog.html">Blog No Sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contact</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <?php include 'css.php'; ?>
-    <?php require('components/header.php'); ?>
-    <!--==============================
-	Header Area
-==============================-->
-    <!-- <header class="th-header header-layout2">
-        <div class="header-top">
-            <div class="container">
-                <div class="row justify-content-center justify-content-xl-between align-items-center gy-2">
-                    <div class="col-auto d-none d-lg-block">
-                        <p class="header-notice text-theme">Welcome to Laundry Service & Dry Cleaning</p>
-                    </div>
-                    <div class="col-auto">
-                        <div class="header-links">
-                            <ul>
-                                <li class="d-none d-md-inline-block"><i class="fa-solid fa-clock"></i>Opening Hours:
-                                    <span>Monday to Saturday(9:00 AM - 8:00 PM)</span>
-                                </li>
-                                <li>
-                                    <div class="social-links">
-                                        <span class="social-title">Follow Us On:</span>
-                                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                        <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="sticky-wrapper">
-            <!-- Main Menu Area -->
-    <!--<div class="menu-area">
-                <div class="container">
-                    <div class="row align-items-center justify-content-between">
-                        <div class="col-auto">
-                            <div class="header-logo">
-                                <a href="home-laundry-services.html"><img src="assets/img/logo.svg" alt="Laun"></a>
-                            </div>
-                        </div>
-                        <div class="col-auto ms-xl-auto">
-                            <nav class="main-menu d-none d-lg-inline-block">
-                                <ul>
-                                    <li class="menu-item-has-children">
-                                        <a href="home-laundry-services.html">Home</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="home-laundry-services.html">Laundry Services</a></li>
-                                            <li><a href="home-dry-cleaning.html">Home Dry Cleaning</a></li>
-                                            <li><a href="home-laundry-dry-services.html">Laundry & Dry Services</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Service</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="service.html">Service</a></li>
-                                            <li><a href="service-details.html">Service Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Pages</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item-has-children">
-                                                <a href="#">Shop</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="shop.html">Shop</a></li>
-                                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                                    <li><a href="cart.html">Cart Page</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="team.html">Team</a></li>
-                                            <li><a href="team-details.html">Team Details</a></li>
-                                            <li><a href="gallery.html">Proto Gallery</a></li>
-                                            <li><a href="faq.html">Faq Page</a></li>
-                                            <li><a href="price.html">Price Package</a></li>
-                                            <li><a href="error.html">Error Page</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Blogs</a>
-                                        <ul class="sub-menu">
-                                            <li>
-                                                <a href="#">Blog Layout</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog-grid-2-columns.html">Blog Grid 02 Columns</a></li>
-                                                    <li><a href="blog-grid-3-columns.html">Blog Grid 03 Columns</a></li>
-                                                    <li><a href="blog-list.html">Blog List</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="blog.html">Blog Sidebar</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                                    <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-                                                    <li><a href="blog.html">Blog No Sidebar</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="contact.html">Contact</a>
-                                    </li>
-                                </ul>
-                            </nav>
-
-                        </div>
-                        <div class="col-auto">
-                            <div class="header-button">
-                                <button type="button" class="simple-icon searchBoxToggler"><i class="far fa-search"></i></button>
-                                <button type="button" class="simple-icon sideMenuToggler2">
-                                    <span class="badge">5</span>
-                                    <i class="fa-regular fa-cart-shopping"></i>
-                                </button>
-                                <button type="button" class="th-menu-toggle d-block d-lg-none"><i class="far fa-bars"></i></button>
-                                <a href="contact.html" class="th-btn th-radius">Schedule A Pickup</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header> -->
     <!--==============================
 Hero Area
 ==============================-->
@@ -490,7 +182,7 @@ Service Area
 About Area  
 ==============================-->
 
-    <div class="overflow-hidden space-top" id="about-sec">
+    <!-- <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
                 <div class="col-xl-5 mb-40 mb-xl-0">
@@ -535,7 +227,8 @@ About Area
                 </div>
             </div>
         </div>
-    </div><!--==============================
+    </div> -->
+    <!--==============================
 Service Area  
 ==============================-->
     <section class="bg-top-center overflow-hidden space">
@@ -665,10 +358,11 @@ Service Area
                 <button data-slider-next="#serviceSlider1" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
             </div>
         </div>
-    </section><!--==============================
+    </section>
+    <!--==============================
 Video Area  
 ==============================-->
-    <div class="">
+    <!-- <div class="">
         <div class="container">
             <div class="video-box2" data-pos-for=".team-area2" data-sec-pos="bottom-half" data-bg-src="assets/img/bg/video_1.jpg">
                 <img src="assets/img/normal/video_1.jpg" alt="video">
@@ -688,10 +382,11 @@ Video Area
             </div>
 
         </div>
-    </div><!--==============================
+    </div> -->
+    <!--==============================
 Team Area  
 ==============================-->
-    <section class="team-area2 bg-title space" data-bg-src="assets/img/bg/team_bg_2.jpg">
+    <!-- <section class="team-area2 bg-title space" data-bg-src="assets/img/bg/team_bg_2.jpg">
         <div class="container z-index-common">
             <div class="title-area text-center">
                 <span class="sub-title">Expert Team</span>
@@ -700,7 +395,7 @@ Team Area
             <div class="slider-area">
                 <div class="swiper th-slider has-shadow" id="teamSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
                     <div class="swiper-wrapper">
-                        <!-- Single Item -->
+                         
                         <div class="swiper-slide">
                             <div class="th-team team-box style2">
                                 <div class="team-img">
@@ -721,7 +416,7 @@ Team Area
                             </div>
                         </div>
 
-                        <!-- Single Item -->
+                       
                         <div class="swiper-slide">
                             <div class="th-team team-box style2">
                                 <div class="team-img">
@@ -742,7 +437,7 @@ Team Area
                             </div>
                         </div>
 
-                        <!-- Single Item -->
+                       
                         <div class="swiper-slide">
                             <div class="th-team team-box style2">
                                 <div class="team-img">
@@ -763,7 +458,7 @@ Team Area
                             </div>
                         </div>
 
-                        <!-- Single Item -->
+                       
                         <div class="swiper-slide">
                             <div class="th-team team-box style2">
                                 <div class="team-img">
@@ -784,7 +479,7 @@ Team Area
                             </div>
                         </div>
 
-                        <!-- Single Item -->
+                       
                         <div class="swiper-slide">
                             <div class="th-team team-box style2">
                                 <div class="team-img">
@@ -813,10 +508,13 @@ Team Area
             </div>
 
         </div>
-    </section><!--==============================
+    </section> -->
+
+    <!--==============================
 About Area  
 ==============================-->
-    <div class=" overflow-hidden space">
+
+    <!-- <div class=" overflow-hidden space">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 wow fadeInLeft">
@@ -863,11 +561,11 @@ About Area
                 </div>
             </div>
         </div>
-
-    </div><!--==============================
+    </div> -->
+    <!--==============================
 Testimonial Area  
 ==============================-->
-    <section class="overflow-hidden space-bottom" id="testi-sec">
+    <!-- <section class="overflow-hidden space-bottom" id="testi-sec">
         <div class="container">
             <div class="title-area text-center">
                 <span class="sub-title">Testimonials</span>
@@ -1008,7 +706,8 @@ Testimonial Area
                 <button data-slider-next="#testiSlider1" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
             </div>
         </div>
-    </section> <!--==============================
+    </section>  -->
+    <!--==============================
 Counter Area  
 ==============================-->
     <div class="counter-sec11" data-pos-for=".appointment-area" data-sec-pos="bottom-half">
@@ -1088,10 +787,69 @@ appointment Area
                 </div>
             </div>
         </div>
-    </section> <!--==============================
+    </section>
+    <!--==============================
+Process Area  
+==============================-->
+    <section class="overflow-hidden" id="process-sec">
+        <div class="container">
+            <div class="title-area text-center">
+                <span class="sub-title">Work Process</span>
+                <h2 class="sec-title">How We Work It!</h2>
+            </div>
+            <div class="row gy-4 justify-content-center">
+                <div class="col-xl-3 col-md-6 process-box-wrap">
+                    <div class="process-box">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/process_box_1.svg" alt="icon">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">01</p>
+                        <h3 class="box-title">Drapery Refresh</h3>
+                        <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6 process-box-wrap">
+                    <div class="process-box">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/process_box_2.svg" alt="icon">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">02</p>
+                        <h3 class="box-title">Garment Guardian</h3>
+                        <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6 process-box-wrap">
+                    <div class="process-box">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/process_box_3.svg" alt="icon">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">03</p>
+                        <h3 class="box-title">Delicate Care</h3>
+                        <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6 process-box-wrap">
+                    <div class="process-box">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/process_box_4.svg" alt="icon">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">04</p>
+                        <h3 class="box-title">Express Press</h3>
+                        <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!--==============================
 Faq Area
 ==============================-->
-    <div class="   overflow-hidden" id="faq-sec">
+    <div class="space-top space-bottom overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6">
@@ -1183,221 +941,7 @@ Faq Area
             </div>
         </div>
     </div>
-    <!--==============================
-Process Area  
-==============================-->
-    <section class="overflow-hidden space-top" id="process-sec">
-        <div class="container">
-            <div class="title-area text-center">
-                <span class="sub-title">Work Process</span>
-                <h2 class="sec-title">How We Work It!</h2>
-            </div>
-            <div class="row gy-4 justify-content-center">
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_1.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">01</p>
-                        <h3 class="box-title">Drapery Refresh</h3>
-                        <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_2.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">02</p>
-                        <h3 class="box-title">Garment Guardian</h3>
-                        <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_3.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">03</p>
-                        <h3 class="box-title">Delicate Care</h3>
-                        <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_4.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">04</p>
-                        <h3 class="box-title">Express Press</h3>
-                        <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p>
-                    </div>
-                </div>
-            </div>
-        </div>
 
-    </section>
-
-    <!--==============================
-Blog Area  
-==============================-->
-    <section class="overflow-hidden space" id="blog-sec">
-        <div class="container">
-            <div class="row justify-content-lg-between justify-content-center align-items-center">
-                <div class="col-lg-6">
-                    <div class="title-area text-center text-lg-start">
-                        <span class="sub-title style1">Blog Post</span>
-                        <h2 class="sec-title">Latest News & Updates</h2>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="sec-btn">
-                        <div class="btn-group">
-                            <a href="blog-details.html" class="th-btn">View More Post</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="slider-area">
-                <div class="swiper th-slider has-shadow" id="blogSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="blog-box">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_2_1.jpg" alt="blog image">
-                                </div>
-                                <div class="blog-box_wrapper">
-                                    <span class="blog-box_date">10 <span class="blog-box_month">nov</span> </span>
-                                    <span class="blog-box_year">2023</span>
-                                </div>
-                                <div class="blog-box_content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="fa-regular fa-user"></i>by admin</a>
-                                        <a href="blog.html"><i class="fa-regular fa-comments"></i>2 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">What Kind of Fabrics Really Need Dry Cleaning</a></h3>
-                                    <p>The frequency of dry cleaning depends on the type of garment and how often worn</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="blog-box">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_2_2.jpg" alt="blog image">
-                                </div>
-                                <div class="blog-box_wrapper">
-                                    <span class="blog-box_date">15 <span class="blog-box_month">nov</span> </span>
-                                    <span class="blog-box_year">2023</span>
-                                </div>
-                                <div class="blog-box_content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="fa-regular fa-user"></i>by admin</a>
-                                        <a href="blog.html"><i class="fa-regular fa-comments"></i>3 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">Elevate your style with meticulous dry cleaning</a></h3>
-                                    <p>our meticulous dry cleaning services, where precision meets pristine care.</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="blog-box">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_2_3.jpg" alt="blog image">
-                                </div>
-                                <div class="blog-box_wrapper">
-                                    <span class="blog-box_date">16 <span class="blog-box_month">nov</span> </span>
-                                    <span class="blog-box_year">2023</span>
-                                </div>
-                                <div class="blog-box_content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="fa-regular fa-user"></i>by admin</a>
-                                        <a href="blog.html"><i class="fa-regular fa-comments"></i>2 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">wardrobe with meticulous dry cleaning services</a></h3>
-                                    <p>Revitalize your wardrobe with expert dry cleaning for a pristine polished look.</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="blog-box">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_2_1.jpg" alt="blog image">
-                                </div>
-                                <div class="blog-box_wrapper">
-                                    <span class="blog-box_date">17 <span class="blog-box_month">nov</span> </span>
-                                    <span class="blog-box_year">2023</span>
-                                </div>
-                                <div class="blog-box_content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="fa-regular fa-user"></i>by admin</a>
-                                        <a href="blog.html"><i class="fa-regular fa-comments"></i>4 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">Revitalize your wardrobe with dry cleaning</a></h3>
-                                    <p>meticulous dry cleaning, preserving fabrics and enhancing garment longevity."</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="blog-box">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_2_2.jpg" alt="blog image">
-                                </div>
-                                <div class="blog-box_wrapper">
-                                    <span class="blog-box_date">19 <span class="blog-box_month">nov</span> </span>
-                                    <span class="blog-box_year">2023</span>
-                                </div>
-                                <div class="blog-box_content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="fa-regular fa-user"></i>by admin</a>
-                                        <a href="blog.html"><i class="fa-regular fa-comments"></i>4 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">wardrobe with meticulous dry cleaning services</a></h3>
-                                    <p>Elevate your wardrobe with meticulous dry cleaning precision and care."</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="blog-box">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_2_3.jpg" alt="blog image">
-                                </div>
-                                <div class="blog-box_wrapper">
-                                    <span class="blog-box_date">20 <span class="blog-box_month">nov</span> </span>
-                                    <span class="blog-box_year">2023</span>
-                                </div>
-                                <div class="blog-box_content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="fa-regular fa-user"></i>by admin</a>
-                                        <a href="blog.html"><i class="fa-regular fa-comments"></i>4 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">Revitalize your wardrobe with dry cleaning</a></h3>
-                                    <p>The frequency of dry cleaning depends on the type of garment and how often worn</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-                <button data-slider-prev="#blogSlider1" class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button>
-                <button data-slider-next="#blogSlider1" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
-            </div>
-        </div>
-    </section>
     <!--==============================
 	     Footer Area
 ==============================-->
