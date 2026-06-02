@@ -1,3 +1,3 @@
 <?php
 
-define('BASE_URL', 'http://localhost/cosmos/web/cosmos/');
+define('BASE_URL', 'http://localhost/web/cosmos/');
