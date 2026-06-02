@@ -126,12 +126,10 @@ Contact Area
         <div class="col-lg-6">
           <div class="title-area pe-xl-4 mb-30">
             <h2 class="sec-title">
-              Revitalize Your Wardrobe Revive Your Day.
+              Laundry Care, Just A Call Away
             </h2>
             <p class="">
-              Our standard turnaround time typically insert estimated time
-              here However, we also offer express services for faster
-              turnaround times if needed.
+              Get in touch for expert garment care, doorstep convenience, and responsive support that makes laundry effortless.
             </p>
           </div>
           <div class="row gy-4 justify-content-center">
@@ -270,8 +268,8 @@ Price Area
             <div class="price-box_icon">
               <img src="assets/img/icon/main-branch.png" alt="Icon">
             </div>
-            <h3 class="box-title">Jalgaon</h3>
-            <h6 class="price-box_text">Pickup & Delivery Available</h6>
+            <h3 class="box-title sec-title1">Jalgaon</h3>
+            <h6 class="about-text">A trusted name for laundry and dry cleaning services, serving Jalgaon with care, consistency, and convenience.</h6>
             <!-- <div class="price-box_content">
             <h4 class="price-box_price"><span class="currency">$</span>369. 00</h4>
             <div class="available-list">
@@ -283,7 +281,7 @@ Price Area
                 <li>7 Pairs of Underwear</li>
                 <li>6 Pairs of Socks</li>
                 <li>1 Towel</li>
-              </ul>
+              </ul> 
             </div>
             <a href="contact.html" class="th-btn btn-fw th-radius">Order Now</a>
           </div> -->
@@ -295,8 +293,8 @@ Price Area
             <div class="price-box_icon ">
               <img src="assets/img/icon/location.png" alt="Icon">
             </div>
-            <h3 class="box-title">Nashik</h3>
-            <h6 class="price-box_text">Same Day Service Available</h6>
+            <h3 class="box-title sec-title1">Nashik</h3>
+            <h6 class="about-text">Helping Nashik residents maintain fresh, well-cared-for garments through professional cleaning and reliable service.</h6>
             <!-- <div class="price-box_content">
             <h4 class="price-box_price"><span class="currency">$</span>420.00</h4>
             <div class="available-list">
@@ -320,8 +318,8 @@ Price Area
             <div class="price-box_icon">
               <img src="assets/img/icon/price_1_3.svg" alt="Icon">
             </div>
-            <h3 class="box-title">Amravati</h3>
-            <h6 class="price-box_text">Municipal Corporation Limited</h6>
+            <h3 class="box-title sec-title1">Amravati</h3>
+            <h6 class="about-text">Delivering exceptional fabric care and hassle-free laundry solutions tailored to the everyday needs of Amravati.</h6>
             <!-- <div class="price-box_content">
               <h4 class="price-box_price"><span class="currency">$</span>400.00</h4>
               <div class="available-list">
