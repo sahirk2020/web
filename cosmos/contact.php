@@ -10,7 +10,7 @@ ini_set('display_errors', 1);
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <title>
-    Laun - Laundry Service & Dry Cleaning HTML Template - Contact Us
+    Contact Us
   </title>
   <meta name="author" content="Laun" />
   <meta
