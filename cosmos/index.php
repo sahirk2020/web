@@ -43,16 +43,7 @@
     <!--==============================
 	    All CSS File
 	============================== -->
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!-- Fontawesome Icon -->
-    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-    <!-- Magnific Popup -->
-    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-    <!-- Swiper Js -->
-    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
-    <!-- Theme Custom CSS -->
-    <link rel="stylesheet" href="assets/css/style.css">
+
 
 </head>
 
@@ -82,49 +73,8 @@
     <!--==============================
 Product Lightbox
 ==============================-->
-    <div id="QuickView" class="white-popup mfp-hide">
-        <div class="container bg-white rounded-10">
-            <div class="row gx-60">
-                <div class="col-lg-6">
-                    <div class="product-big-img">
-                        <div class="img"><img src="assets/img/product/product_details_1_1.jpg" alt="Product Image"></div>
-                    </div>
-                </div>
-                <div class="col-lg-6 align-self-center">
-                    <div class="product-about">
-                        <p class="price">$120.85<del>$150.99</del></p>
-                        <h2 class="product-title">Bosco Apple Fruit</h2>
-                        <div class="product-rating">
-                            <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span></div>
-                            <a href="shop-details.html" class="woocommerce-review-link">(<span class="count">4</span> customer reviews)</a>
-                        </div>
-                        <p class="text">Prepare to embark on a sensory journey with the Bosco Apple, a fruit that transcends the ordinary and promises an unparalleled taste experience. These apples are nothing short of nature’s masterpiece, celebrated for their distinctive blend of flavors and their captivating visual allure.</p>
-                        <div class="mt-2 link-inherit">
-                            <p>
-                                <strong class="text-title me-3">Availability:</strong>
-                                <span class="stock in-stock"><i class="far fa-check-square me-2 ms-1"></i>In Stock</span>
-                            </p>
-                        </div>
-                        <div class="actions">
-                            <div class="quantity">
-                                <input type="number" class="qty-input" step="1" min="1" max="100" name="quantity" value="1" title="Qty">
-                                <button class="quantity-plus qty-btn"><i class="far fa-chevron-up"></i></button>
-                                <button class="quantity-minus qty-btn"><i class="far fa-chevron-down"></i></button>
-                            </div>
-                            <button class="th-btn">Add to Cart</button>
-                            <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
-                        </div>
-                        <div class="product_meta">
-                            <span class="sku_wrapper">SKU: <span class="sku">Bosco-Apple-Fruit</span></span>
-                            <span class="posted_in">Category: <a href="shop.html">Fresh Fruits</a></span>
-                            <span>Tags: <a href="shop.html">Fruits</a><a href="shop.html">Organic</a></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <button title="Close (Esc)" type="button" class="mfp-close">×</button>
-        </div>
-    </div><!--==============================
+
+    <!--==============================
     Sidemenu
 ============================== -->
     <!-- <div class="sidemenu-wrapper sidemenu-info ">
@@ -208,7 +158,7 @@ Product Lightbox
         </form>
     </div> -->
 
-    <?php include 'header.php'; ?>
+    <?php include 'components/header.php'; ?>
     <!--==============================
 Hero Area
 ==============================-->
@@ -305,40 +255,22 @@ About Area
                     <div class="ps-xl-3">
                         <div class="title-area mb-30">
                             <span class="sub-title style1">About Us</span>
-                            <h2 class="sec-title">Elevate Your Wardrobe Elevate Your Life</h2>
+                            <h2 class="sec-title">Designed Around Everyday Fabric Care</h2>
                         </div>
-                        <p class="mt-n2 mb-15 about-quote">We use high-quality, eco-friendly detergents that gentle on your
-                            clothes and the environment. Your garments will treated with the utmost care Simply schedule a
-                            time that suits</p>
-                        <div class="checklist list-two-column mb-20">
-                            <ul>
-                                <li>Speedy Press Services</li>
-                                <li>Steam Swift Dry Cleaners</li>
-                                <li>Purely Pristine, Every Time</li>
-                                <li>Fast, Fresh, Flawless</li>
-                                <li>Wrinkle Free Wardrobe</li>
-                                <li>Speedy Wash Solutions</li>
-                            </ul>
-                        </div>
-                        <div class="achive-about-wrap">
-                            <div class="achive-about">
-                                <div class="achive-about_icon">
-                                    <img src="assets/img/icon/about_1_1.svg" alt="icon">
-                                </div>
-                                <div class="media-body">
-                                    <h3 class="box-title">Delicate Care Solutions</h3>
-                                </div>
-                            </div>
-                            <div class="achive-about">
-                                <div class="achive-about_icon">
-                                    <img src="assets/img/icon/about_1_2.svg" alt="icon">
-                                </div>
-                                <div class="media-body">
-                                    <h3 class="box-title">Delight in Every Fold</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <a href="about.html" class="th-btn">More About Us</a>
+                        <p class="mt-n2 mb-15 about-quote">
+                            At Cosmos Laundry, we believe laundry should feel simple, reliable, and
+                            stress-free. From everyday wear to premium fabrics, every garment receives
+                            careful attention, modern cleaning treatment, and fabric-safe handling from
+                            start to finish. Our team focuses on quality, hygiene, timely delivery, and
+                            customer convenience to ensure your clothes always look fresh and feel
+                            comfortable. Whether it’s delicate dry cleaning, household cleaning, or
+                            premium garment care, we combine experience with professional processes to
+                            deliver results you can trust. At Cosmos Laundry, we don’t just clean
+                            clothes, we help you maintain the way you live, dress, and present yourself
+                            every day.
+                        </p>
+
+                        <a href="about.php" class="th-btn">More About Us</a>
                     </div>
                 </div>
             </div>
@@ -357,7 +289,7 @@ Service Area
                 </div>
             </div>
             <div class="slider-area">
-                <div class="swiper th-slider has-shadow" id="serviceSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
+                <div class="swiper th-slider has-shadow" id="serviceSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"4"}}}'>
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="service-grid">
@@ -368,9 +300,11 @@ Service Area
                                     <img src="assets/img/icon/service_grid_1.svg" alt="Icon">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="service-details.html">Steam Ease Care</a></h3>
-                                    <p class="service-grid_text">scheduling is easy! Simply visit our website or use our mobile app to select a time and we'll be at your doorstep</p>
-                                    <a href="service-details.html" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <h3 class="box-title"><a href="services.php">Laundry Services</a></h3>
+                                    <p class="service-grid_text">
+                                        Daily wear cleaning with careful washing, stain removal, fresh folding, and doorstep convenience for everyday comfort.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -383,9 +317,11 @@ Service Area
                                     <img src="assets/img/icon/service_grid_2.svg" alt="Icon">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="service-details.html">Laundry Redefined</a></h3>
-                                    <p class="service-grid_text">Scheduling is easy! Simply visit our website or use our mobile app to select a time slot and we'll be at your doorstep</p>
-                                    <a href="service-details.html" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <h3 class="box-title"><a href="services.php">Dry Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Professional fabric-safe dry cleaning designed to protect delicate garments, maintain texture, and preserve garment quality.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -398,9 +334,11 @@ Service Area
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="service-details.html">Pure Press Premier</a></h3>
-                                    <p class="service-grid_text">We accept various form payment including credit/debit cards, payments, and in some locations, cash on delivery</p>
-                                    <a href="service-details.html" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <h3 class="box-title"><a href="services.php">Premium Wash</a></h3>
+                                    <p class="service-grid_text">
+                                        Advanced garment care using premium detergents, gentle processing, and detailed finishing for a cleaner, fresher feel.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -413,9 +351,11 @@ Service Area
                                     <img src="assets/img/icon/service_grid_1.svg" alt="Icon">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="service-details.html">Steam Ease Care</a></h3>
-                                    <p class="service-grid_text">scheduling is easy! Simply visit our website or use our mobile app to select a time and we'll be at your doorstep</p>
-                                    <a href="service-details.html" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <h3 class="box-title"><a href="services.php">Steam Ironing</a></h3>
+                                    <p class="service-grid_text">
+                                        Experience the convenience of professional steam ironing delivered to your doorstep. Our experts will ensure your garments are wrinkle-free and ready to wear.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -428,9 +368,11 @@ Service Area
                                     <img src="assets/img/icon/service_grid_2.svg" alt="Icon">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="service-details.html">Laundry Redefined</a></h3>
-                                    <p class="service-grid_text">Scheduling is easy! Simply visit our website or use our mobile app to select a time slot and we'll be at your doorstep</p>
-                                    <a href="service-details.html" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <h3 class="box-title"><a href="services.php">Shoe Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Deep cleaning and restoration for shoes, removing dirt, stains, and odour while maintaining their original finish.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -443,12 +385,159 @@ Service Area
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="service-details.html">Pure Press Premier</a></h3>
-                                    <p class="service-grid_text">We accept various form payment including credit/debit cards, payments, and in some locations, cash on delivery</p>
-                                    <a href="service-details.html" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <h3 class="box-title"><a href="services.php">Leather Bag Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Careful cleaning and conditioning for leather items and luxury bags to maintain appearance, texture, and durability
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                </div>
+                                <div class="service-grid_icon">
+                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title"><a href="services.php">Leather Jacket Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Specialized leather jacket treatment that removes dirt, restores softness, and protects the original material finish.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                </div>
+                                <div class="service-grid_icon">
+                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title"><a href="services.php">Traveling Bag Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Complete cleaning and sanitization for travel bags, removing stains, dust, and odours after every journey.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                </div>
+                                <div class="service-grid_icon">
+                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title"><a href="services.php">Carpet Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Deep carpet cleaning that removes embedded dust, allergens, stains, and odours for a fresher living environment.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                </div>
+                                <div class="service-grid_icon">
+                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title"><a href="services.php">Sofa Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Professional sofa cleaning for fabric and upholstery, removing dirt, stains, and everyday bacteria buildup effectively.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                </div>
+                                <div class="service-grid_icon">
+                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title"><a href="services.php">Curtain Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Gentle curtain cleaning that removes dust and odours while maintaining fabric softness, colour, and fall quality.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                </div>
+                                <div class="service-grid_icon">
+                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title"><a href="services.php">Blanket & Bed Linen Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Thorough cleaning and sanitization for blankets, bedsheets, and linen to ensure freshness and hygienic everyday use.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                </div>
+                                <div class="service-grid_icon">
+                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title"><a href="services.php">Bed Mattress Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Deep mattress cleaning and sanitization that helps remove dust mites, stains, allergens, and unwanted odours effectively.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                </div>
+                                <div class="service-grid_icon">
+                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title"><a href="services.php">Institutional Chair Cleaning</a></h3>
+                                    <p class="service-grid_text">
+                                        Professional chair cleaning services for offices, institutions, and commercial spaces to maintain hygiene and cleanliness standards.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
                 <button data-slider-prev="#serviceSlider1" class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button>
