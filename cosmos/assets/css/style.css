@@ -6635,7 +6635,7 @@ ol.wp-block-rss {
   content: "";
   position: absolute;
   inset: 0;
-  background-color: var(--theme-color);
+  background-color: #fff;
   -webkit-clip-path: polygon(0% 0%, calc(100% - 60px) 0, 100% 100%, 0% 100%);
   clip-path: polygon(0% 0%, calc(100% - 60px) 0, 100% 100%, 0% 100%);
   z-index: -1;
@@ -9384,13 +9384,15 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
 }
 
 .hero-style3 {
-  padding: 175px 0px;
+  /* padding: 175px 0px; */
+  padding: 100px 0px;
   max-width: 735px;
 }
 
-.hero-style3 .herp-title {
-  font-size: 74px;
-  line-height: 84px;
+.hero-style3 .hero-title {
+  font-size: 60px;
+  /* 74px 80px */
+  line-height: 70px;
 }
 
 .hero-style3 .hero-text {
@@ -10260,11 +10262,11 @@ table.woocommerce-product-attributes {
 
 /*------------------- 4.00. Products  -------------------*/
 .th-product {
-  text-align: center;
+  text-align: left;
   -webkit-transition: all ease 0.4s;
   transition: all ease 0.4s;
   border: 4px solid var(--smoke-color);
-  padding: 14px;
+  padding: 25px;
 }
 
 .th-product .product-title {
@@ -10300,14 +10302,14 @@ table.woocommerce-product-attributes {
 
 .th-product .product-tag {
   font-size: 14px;
-  position: absolute;
+  /* position: absolute; 
   top: 10px;
-  left: 10px;
+  left: 10px;*/
   background-color: var(--theme-color);
   color: var(--white-color);
-  padding: 0 12px;
+  padding: 5px 12px;
   min-width: 60px;
-  z-index: 3;
+  /* z-index: 3; */
   line-height: 24px;
 }
 
@@ -10349,12 +10351,14 @@ table.woocommerce-product-attributes {
   overflow: hidden;
   position: relative;
   margin: 0 0 23px 0;
-  text-align: center;
+  text-align: left;
   background-color: var(--smoke-color);
   z-index: 2;
 }
 
-.th-product .product-img:before {
+/* Commented for membership plans */
+
+/* .th-product .product-img:before {
   --space: 0px;
   content: "";
   height: calc(100% - var(--space) * 2);
@@ -10372,7 +10376,7 @@ table.woocommerce-product-attributes {
   opacity: 0;
   -webkit-transition: 0.4s ease-in-out;
   transition: 0.4s ease-in-out;
-}
+} */
 
 .th-product .product-img img {
   width: 100%;

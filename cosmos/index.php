@@ -168,7 +168,7 @@ Hero Area
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="hero-inner">
-                        <div class="th-hero-bg" data-bg-src="assets/img/hero/hero_3_1.jpg"></div>
+                        <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-1.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
                                 <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Dry Clean Pro</span>
@@ -186,7 +186,7 @@ Hero Area
                 </div>
                 <div class="swiper-slide">
                     <div class="hero-inner">
-                        <div class="th-hero-bg" data-bg-src="assets/img/hero/hero_3_2.jpg"></div>
+                        <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-2.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
                                 <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">We Clean, You Shine</span>
@@ -204,7 +204,7 @@ Hero Area
                 </div>
             </div>
         </div>
-        <div class="shape-mockup d-none d-xl-block" data-bottom="0%" data-left="0%"><img src="assets/img/shape/hero_shape.svg" alt="shape">
+        <div class="shape-mockup d-none d-xl-block rotate-180" data-bottom="0%" data-right="0%"><img src="assets/img/shape/hero_shape.svg" alt="shape">
         </div>
         <div class="icon-box">
             <button data-slider-prev="#heroSlider3" class="slider-arrow default"><i class="far fa-arrow-right"></i></button>
@@ -232,10 +232,10 @@ About Area
                 <div class="col-xl-6">
                     <div class="img-box3 pe-xl-3">
                         <div class="img1">
-                            <img src="assets/img/normal/about_3_1.jpg" alt="About">
+                            <img src="assets/img/normal/about-2.webp" alt="About">
                         </div>
                         <div class="img2">
-                            <img src="assets/img/normal/about_3_2.jpg" alt="About">
+                            <img src="assets/img/normal/about-1.webp" alt="About">
                         </div>
                         <div class="about-shape jump">
                             <img src="assets/img/shape/dot.png" alt="About">
@@ -245,7 +245,7 @@ About Area
                         </div>
                         <div class="th-experience style2" data-bg-src="assets/img/shape/shape_1.png">
                             <div class="th-experience_content">
-                                <h2 class="experience-year"><span class="counter-number">24</span>+</h2>
+                                <h2 class="experience-year"><span class="counter-number">10</span>+</h2>
                                 <p class="experience-text">Years of Experience</p>
                             </div>
                         </div>
@@ -294,7 +294,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_1.jpg" alt="image">
+                                    <img src="assets/img/service/laundry-service.webp" alt="image">
                                 </div>
                                 <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_1.svg" alt="Icon">
@@ -311,7 +311,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_2.jpg" alt="image">
+                                    <img src="assets/img/service/dry-cleaning.webp" alt="image">
                                 </div>
                                 <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_2.svg" alt="Icon">
@@ -328,7 +328,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                    <img src="assets/img/service/premium-wash.webp" alt="image">
                                 </div>
                                 <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
@@ -345,7 +345,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_1.jpg" alt="image">
+                                    <img src="assets/img/service/steam-ironing.webp" alt="image">
                                 </div>
                                 <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_1.svg" alt="Icon">
@@ -362,7 +362,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_2.jpg" alt="image">
+                                    <img src="assets/img/service/shoe-cleaning.webp" alt="image">
                                 </div>
                                 <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_2.svg" alt="Icon">
@@ -379,7 +379,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                    <img src="assets/img/service/leather-bag.webp" alt="image">
                                 </div>
                                 <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
@@ -397,7 +397,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                    <img src="assets/img/service/leather-jacket.webp" alt="image">
                                 </div>
                                 <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
@@ -415,7 +415,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                    <img src="assets/img/service/travelling-bag.webp" alt="image">
                                 </div>
                                 <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
@@ -433,7 +433,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                    <img src="assets/img/service/carpet-cleaning.webp" alt="image">
                                 </div>
                                 <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
@@ -547,7 +547,7 @@ Service Area
     </section> <!--==============================
 Contact Area  
 ==============================-->
-    <div class="space" data-bg-src="assets/img/bg/contact_bg_1.jpg">
+    <div class="space" data-bg-src="assets/img/bg/form-bg.webp">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -557,7 +557,7 @@ Contact Area
                             <h2 class="sec-title text-white">Need Any Urgent Help? Call us Anytime</h2>
                         </div>
                         <div class="contact-map">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.7310056272386!2d89.2286059153658!3d24.00527418490799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe9b97badc6151%3A0x30b048c9fb2129bc!2sAngfuztheme!5e0!3m2!1sen!2sbd!4v1651028958211!5m2!1sen!2sbd" allowfullscreen="" loading="lazy"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.8682831758074!2d75.55611379999999!3d20.9979164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90f99c35e51c3%3A0xdb207799be67c5ca!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1780572835960!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>
@@ -569,30 +569,31 @@ Contact Area
                         <form action="mail.php" method="POST" class="contact-form2 ajax-contact">
                             <div class="row">
                                 <div class="form-group col-md-6">
-                                    <input type="text" class="form-control" name="name" id="name" placeholder="Your Name">
+                                    <input type="text" class="form-control border-white" name="name" id="name" placeholder="Your Name">
                                     <i class="fal fa-user"></i>
                                 </div>
                                 <div class="form-group col-md-6">
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="Email Address">
+                                    <input type="email" class="form-control border-white" name="email" id="email" placeholder="Email Address">
                                     <i class="fal fa-envelope"></i>
                                 </div>
                                 <div class="form-group col-md-6">
-                                    <input type="tel" class="form-control" name="number" id="number" placeholder="Phone Number">
+                                    <input type="tel" class="form-control border-white" name="number" id="number" placeholder="Phone Number">
                                     <i class="fal fa-phone"></i>
                                 </div>
                                 <div class="form-group col-md-6">
-                                    <select name="subject" id="subject" class="form-select nice-select">
+                                    <select name="subject" id="subject" class="form-select border-white nice-select">
                                         <option value="" disabled selected hidden>Select Service</option>
+                                        <option value="Laundry Service">Laundry Service</option>
                                         <option value="Dry Cleaning">Dry Cleaning</option>
-                                        <option value="Wash & Fold">Wash & Fold</option>
-                                        <option value="Ironing/Pressing">Ironing/Pressing</option>
-                                        <option value="Garments Transformed">Garments Transformed</option>
-                                        <option value="Household Textile Care">Household Textile Care</option>
-                                        <option value="Household Textile Care">Household Textile Care</option>
+                                        <option value="Premium Wash">Premium Wash</option>
+                                        <option value="SteamIroning">Steam Ironing</option>
+                                        <option value="Shoe Cleaning">Shoe Cleaning</option>
+                                        <option value="Leather Bag Cleaning">Leather Bag Cleaning</option>
+                                        <option value="Leather Jacket Cleaning">Leather Jacket Cleaning</option>
                                     </select>
                                 </div>
                                 <div class="form-group col-12">
-                                    <textarea name="message" id="message" cols="30" rows="3" class="form-control" placeholder="Your Message"></textarea>
+                                    <textarea name="message" id="message" cols="30" rows="3" class=" border-white form-control" placeholder="Your Message"></textarea>
                                     <i class="fal fa-pencil"></i>
                                 </div>
                                 <div class="form-btn col-12">
@@ -623,23 +624,23 @@ Product Area
 
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="th-product product-grid">
-                        <div class="product-img">
-                            <img src="assets/img/product/product_1_1.jpg" alt="Product Image">
-                            <span class="product-tag">Sale</span>
-                            <div class="actions">
-                                <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a>
-                                <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
-                                <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
-                            </div>
-                        </div>
+
                         <div class="product-content">
-                            <h3 class="product-title"><a href="shop-details.html">Laundry Surf Excel</a></h3>
-                            <span class="price">$35.00</span>
+                            <h5>Bronze</h5>
+                            <h3 class="product-title">
+                                ₹14,999
+                            </h3>
+                            <span class="price">Valid for 1 month</span>
                             <div class="woocommerce-product-rating">
-                                <span class="count">(5.00 Review)</span>
-                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
+                                <ul>
+                                    <li>Extra Credits: ₹1,500</li>
+                                    <li>High-Value Garment Insurance of INR 5,000/-</li>
+                                    <li>Money-Back Guarantee</li>
+                                </ul>
+                                <!--<span class="count">(5.00 Review)</span>
+                              <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
                                     <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -648,23 +649,31 @@ Product Area
 
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="th-product product-grid">
-                        <div class="product-img">
-                            <img src="assets/img/product/product_1_2.jpg" alt="Product Image">
-                            <span class="product-tag">Sale</span>
-                            <div class="actions">
+                        <div class="product-img m-0 bg-transparent">
+                            <!-- <img src="assets/img/product/product_1_2.jpg" alt="Product Image"> -->
+                            <span class="product-tag">Most Popular</span>
+                            <!-- <div class="actions">
                                 <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a>
                                 <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
                                 <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="product-content">
-                            <h3 class="product-title"><a href="shop-details.html">Tide Fresh Coral Blast</a></h3>
-                            <span class="price">$45.00<del>$60.00</del></span>
+                            <h5>Silver</h5>
+                            <h3 class="product-title">
+                                ₹24,999
+                            </h3>
+                            <span class="price"> Valid for 2 month</span>
                             <div class="woocommerce-product-rating">
-                                <span class="count">(5.00 Review)</span>
+                                <ul>
+                                    <li>Extra Credits: ₹3,750</li>
+                                    <li>High-Value Garment Insurance of INR 5,000/-</li>
+                                    <li>Money-Back Guarantee</li>
+                                </ul>
+                                <!-- <span class="count">(5.00 Review)</span>
                                 <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
                                     <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -673,7 +682,7 @@ Product Area
 
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="th-product product-grid">
-                        <div class="product-img">
+                        <!-- <div class="product-img">
                             <img src="assets/img/product/product_1_3.jpg" alt="Product Image">
                             <span class="product-tag">New</span>
                             <div class="actions">
@@ -681,15 +690,19 @@ Product Area
                                 <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
                                 <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="product-content">
-                            <h3 class="product-title"><a href="shop-details.html">Laundry detergent Stain</a></h3>
-                            <span class="price">$20.00</span>
+                            <h5>Gold</h5>
+                            <h3 class="product-title">
+                                ₹49,999
+                            </h3>
+                            <span class="price"> Valid for 3 month</span>
                             <div class="woocommerce-product-rating">
-                                <span class="count">(5.00 Review)</span>
-                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
-                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
-                                </div>
+                                <ul>
+                                    <li>Extra Credits: ₹10,000</li>
+                                    <li>High-Value Garment Insurance of INR 10,000/-</li>
+                                    <li>Money-Back Guarantee</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -788,236 +801,9 @@ Choose Area
                 </div>
             </div>
         </div>
-    </section><!--==============================
-Counter Area  
-==============================-->
-    <div class="counter-sec11" data-pos-for=".appointment-area" data-sec-pos="bottom-half">
-        <div class="container th-container">
-            <div class="counter-card-wrap style2 bg-theme">
-                <div class="counter-card style2">
-                    <div class="media-body">
-                        <h2 class="box-number"><span class="counter-number">16</span>M+</h2>
-                        <p class="box-text">Laundry & Dry Complete</p>
-                    </div>
-                </div>
-                <div class="divider"></div>
-                <div class="counter-card style2">
-                    <div class="media-body">
-                        <h2 class="box-number"><span class="counter-number">18</span>k+</h2>
-                        <p class="box-text">Garments in Circulation</p>
-                    </div>
-                </div>
-                <div class="divider"></div>
-                <div class="counter-card style2">
-                    <div class="media-body">
-                        <h2 class="box-number"><span class="counter-number">12</span>M+</h2>
-                        <p class="box-text">Satisfied Our Customer</p>
-                    </div>
-                </div>
-                <div class="divider"></div>
-            </div>
-        </div>
-    </div> <!--==============================
-Video Area  
-==============================-->
-    <div class="video-area position-relative overflow-hidden space" data-bg-src="assets/img/normal/video_2.png">
-        <div class="container">
-            <div class="video-box3 text-center pt-5 pb-5 mt-5">
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn popup-video"><i class="fa-sharp fa-solid fa-play"></i></a>
-                <div class="video-content">
-                    <h2 class="sec-title text-white mb-0">Where Clean Speaks Louder than Words</h2>
-                </div>
-                <div class="animation-bubble">
-                    <div class="bubble-1"></div>
-                    <div class="bubble-2"></div>
-                    <div class="bubble-3"></div>
-                    <div class="bubble-4"></div>
-                    <div class="bubble-5"></div>
-                    <div class="bubble-6"></div>
-                    <div class="bubble-7"></div>
-                    <div class="bubble-8"></div>
-                    <div class="bubble-9"></div>
-                    <div class="bubble-10"></div>
-                </div>
-            </div>
-        </div>
-    </div><!--==============================
-Team Area  
-==============================-->
-    <section class="team-area2 space-top">
-        <div class="container z-index-common">
-            <div class="title-area text-center">
-                <span class="sub-title">Expert Team</span>
-                <h2 class="sec-title">Our Expert Workers</h2>
-            </div>
-            <div class="slider-area">
-                <div class="swiper th-slider has-shadow" id="teamSlider3" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
-                    <div class="swiper-wrapper">
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="th-team team-grid">
-                                <div class="team-grid_wrapper">
-                                    <div class="team-img">
-                                        <img src="assets/img/team/team_3_1.jpg" alt="Team">
-                                    </div>
-                                    <div class="plus-btn">
-                                        <i class="fa-light fa-plus"></i>
-                                    </div>
-                                </div>
-                                <div class="team-content">
-                                    <div class="media-body">
-                                        <h3 class="box-title"><a href="team-details.html">Kristin Watson</a></h3>
-                                        <span class="team-desig">Dry Cleaner</span>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
+    </section>
 
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="th-team team-grid">
-                                <div class="team-grid_wrapper">
-                                    <div class="team-img">
-                                        <img src="assets/img/team/team_3_2.jpg" alt="Team">
-                                    </div>
-                                    <div class="plus-btn">
-                                        <i class="fa-light fa-plus"></i>
-                                    </div>
-                                </div>
-                                <div class="team-content">
-                                    <div class="media-body">
-                                        <h3 class="box-title"><a href="team-details.html">Savannah Nguyen</a></h3>
-                                        <span class="team-desig">Dry Cleaner</span>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="th-team team-grid">
-                                <div class="team-grid_wrapper">
-                                    <div class="team-img">
-                                        <img src="assets/img/team/team_3_3.jpg" alt="Team">
-                                    </div>
-                                    <div class="plus-btn">
-                                        <i class="fa-light fa-plus"></i>
-                                    </div>
-                                </div>
-                                <div class="team-content">
-                                    <div class="media-body">
-                                        <h3 class="box-title"><a href="team-details.html">Ronald Richards</a></h3>
-                                        <span class="team-desig">Dry Cleaner</span>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="th-team team-grid">
-                                <div class="team-grid_wrapper">
-                                    <div class="team-img">
-                                        <img src="assets/img/team/team_3_1.jpg" alt="Team">
-                                    </div>
-                                    <div class="plus-btn">
-                                        <i class="fa-light fa-plus"></i>
-                                    </div>
-                                </div>
-                                <div class="team-content">
-                                    <div class="media-body">
-                                        <h3 class="box-title"><a href="team-details.html">Thiago Almada</a></h3>
-                                        <span class="team-desig">Dry Cleaner</span>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="th-team team-grid">
-                                <div class="team-grid_wrapper">
-                                    <div class="team-img">
-                                        <img src="assets/img/team/team_3_2.jpg" alt="Team">
-                                    </div>
-                                    <div class="plus-btn">
-                                        <i class="fa-light fa-plus"></i>
-                                    </div>
-                                </div>
-                                <div class="team-content">
-                                    <div class="media-body">
-                                        <h3 class="box-title"><a href="team-details.html">Amelia Margaret</a></h3>
-                                        <span class="team-desig">Dry Cleaner</span>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Single Item -->
-                        <div class="swiper-slide">
-                            <div class="th-team team-grid">
-                                <div class="team-grid_wrapper">
-                                    <div class="team-img">
-                                        <img src="assets/img/team/team_3_3.jpg" alt="Team">
-                                    </div>
-                                    <div class="plus-btn">
-                                        <i class="fa-light fa-plus"></i>
-                                    </div>
-                                </div>
-                                <div class="team-content">
-                                    <div class="media-body">
-                                        <h3 class="box-title"><a href="team-details.html">William David</a></h3>
-                                        <span class="team-desig">Dry Cleaner</span>
-                                    </div>
-                                </div>
-                                <div class="th-social">
-                                    <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
-                <button data-slider-prev="#teamSlider3" class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button>
-                <button data-slider-next="#teamSlider3" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
-            </div>
-
-        </div>
-    </section><!--==============================
+    <!--==============================
 Testimonial Area  
 ==============================-->
     <section class="overflow-hidden space" id="testi-sec">
@@ -1219,103 +1005,12 @@ Testimonial Area
                 </div>
             </div>
         </div>
-    </section><!--==============================
-Faq Area
-==============================-->
-    <div class="position-relative overflow-hidden bg-top-center space bg-title" id="faq-sec" data-bg-src="assets/img/bg/faq_bg_1.png">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6">
-                    <div class="pe-xl-5 pb-5 pb-xl-0">
-                        <div class="title-area mb-25">
-                            <span class="sub-title style1">FAQ</span>
-                            <h2 class="sec-title text-white">Frequently Asked Have Any Questions</h2>
-                            <p>We have a secure tracking system in place to monitor your clothing throughout the entire
-                                process. Additionally, our facilities are equipped with surveillance and access controls to
-                                ensure safety.</p>
-                        </div>
-                        <div class="feature-wrapper">
-                            <div class="feature-icon">
-                                <a href="tel:+129075550101"><i class="fa-solid fa-phone"></i></a>
-                            </div>
-                            <div class="media-body">
-                                <span class="feature_subtitle">Call Us For Service</span>
-                                <h3 class="box-title"><a href="tel:+1636543569">+(163)-654-3569</a></h3>
-                                <p class="box-text">Call 24/7 Anytime For Our Laundry Servicing.</p>
-                            </div>
-                        </div>
-                        <a href="contact.html" class="th-btn style2">lets talk now</a>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="accordion style3" id="faqAccordion">
+    </section>
 
-
-                        <div class="accordion-card style3">
-                            <div class="accordion-header" id="collapse-item-1">
-                                <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">What Services Do You Offer?</button>
-                            </div>
-                            <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    <p class="faq-text">We value your feedback! Let us know about your experience and if
-                                        there's anything else we can do to make your laundry service even better. We're
-                                        always here to assist you.</p>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="accordion-card style3">
-                            <div class="accordion-header" id="collapse-item-2">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Do You Have Certified Technicians?</button>
-                            </div>
-                            <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    <p class="faq-text">We value your feedback! Let us know about your experience and if
-                                        there's anything else we can do to make your laundry service even better. We're
-                                        always here to assist you.</p>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="accordion-card style3">
-                            <div class="accordion-header" id="collapse-item-3">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Can You Provide a Customized Service Plan?</button>
-                            </div>
-                            <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    <p class="faq-text">We value your feedback! Let us know about your experience and if
-                                        there's anything else we can do to make your laundry service even better. We're
-                                        always here to assist you.</p>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="accordion-card style3">
-                            <div class="accordion-header" id="collapse-item-4">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">What is Your Pricing Structure?</button>
-                            </div>
-                            <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    <p class="faq-text">We value your feedback! Let us know about your experience and if
-                                        there's anything else we can do to make your laundry service even better. We're
-                                        always here to assist you.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="faq-bg-image">
-                    <img src="assets/img/normal/faq_1_1.jpg" alt="shape">
-                </div>
-            </div>
-        </div>
-    </div><!--==============================
+    <!--==============================
 Blog Area  
 ==============================-->
-    <section class="space" id="blog-sec">
+    <!-- <section class="space" id="blog-sec">
         <div class="container">
             <div class="title-area text-center">
                 <span class="sub-title">Blog Post</span>
@@ -1438,144 +1133,17 @@ Blog Area
                 <button data-slider-next="#blogSlider3" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
             </div>
         </div>
-    </section> <!--==============================
+    </section> -->
+    <!--==============================
 	Footer Area
 ==============================-->
-    <footer class="footer-wrapper footer-layout3" data-bg-src="assets/img/bg/footer_bg_3.jpg">
-        <div class="container">
-            <div class="footer-top">
-                <div class="about-logo">
-                    <a href="home-laundry-services.html"><img src="assets/img/logo-white.svg" alt="Laun"></a>
-                </div>
-                <div class="th-social">
-                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                    <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
-                </div>
-            </div>
-            <div class="widget-area">
-                <div class="container">
-                    <div class="row justify-content-between">
-                        <div class="col-md-6 col-xl-auto">
-                            <div class="widget widget_nav_menu footer-widget">
-                                <h3 class="widget_title">Our Services</h3>
-                                <div class="menu-all-pages-container">
-                                    <ul class="menu">
-                                        <li><a href="service.html">Dry Cleaning</a></li>
-                                        <li><a href="service.html">Dust Removal</a></li>
-                                        <li><a href="service.html">Damage Repair</a></li>
-                                        <li><a href="service.html">Sanitize clothes</a></li>
-                                        <li><a href="service.html"> Laundry Service</a></li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-xl-auto">
-                            <div class="widget widget_nav_menu footer-widget">
-                                <h3 class="widget_title">Quick Links</h3>
-                                <div class="menu-all-pages-container">
-                                    <ul class="menu">
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="project.html">Portfolio</a></li>
-                                        <li><a href="faq.html">Help & FAQs</a></li>
-                                        <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="contact.html">Contact Us</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-xl-auto">
-                            <div class="widget footer-widget">
-                                <h3 class="widget_title">Contact Us</h3>
-                                <div class="th-widget-contact">
-                                    <div class="info-box">
-                                        <div class="info-box_icon">
-                                            <i class="fas fa-location-dot"></i>
-                                        </div>
-                                        <p class="info-box_text">4140 Parker Rd. Allentown, New Mexico 31134</p>
-                                    </div>
-                                    <div class="info-box">
-                                        <div class="info-box_icon">
-                                            <i class="fas fa-phone"></i>
-                                        </div>
-                                        <p class="info-box_text">
-                                            <a href="tel:+16326543564" class="info-box_link">+(163)-2654-3564</a>
-                                            <a href="tel:+16326545432" class="info-box_link">+(163)-2654-5432</a>
-                                        </p>
-                                    </div>
-                                    <div class="info-box">
-                                        <div class="info-box_icon">
-                                            <i class="fas fa-envelope"></i>
-                                        </div>
-                                        <p class="info-box_text">
-                                            <a href="mailto:help24/7@Laun.com" class="info-box_link">help24/7@Laun.com</a>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-xl-auto">
-                            <div class="widget footer-widget">
-                                <h3 class="widget_title">gallery</h3>
-                                <div class="sidebar-gallery">
-                                    <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gallery_1_1.jpg" alt="Gallery Image">
-                                        <a href="assets/img/widget/gallery_1_1.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                    <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gallery_1_2.jpg" alt="Gallery Image">
-                                        <a href="assets/img/widget/gallery_1_2.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                    <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gallery_1_3.jpg" alt="Gallery Image">
-                                        <a href="assets/img/widget/gallery_1_3.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                    <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gallery_1_4.jpg" alt="Gallery Image">
-                                        <a href="assets/img/widget/gallery_1_4.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                    <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gallery_1_5.jpg" alt="Gallery Image">
-                                        <a href="assets/img/widget/gallery_1_5.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                    <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gallery_1_6.jpg" alt="Gallery Image">
-                                        <a href="assets/img/widget/gallery_1_6.jpg" class="gallery-btn popup-image"><i class="fab fa-instagram"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="copyright-wrap">
-                <div class="row gy-2 align-items-center">
-                    <div class="col-md-6">
-                        <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2023 <a href="home-laundry-services.html">Laun</a>. All Rights Reserved.</p>
-                    </div>
-                    <div class="col-md-6 text-center text-md-end">
-                        <div class="payment-img">
-                            <img src="assets/img/normal/payment_methods.png" alt="Image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-
+    <?php include 'components/footer.php'; ?>
     <!--********************************
 			Code End  Here 
 	******************************** -->
 
     <!-- Scroll To Top -->
-    <div class="scroll-top">
-        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
-            </path>
-        </svg>
-    </div>
+
 
     <!--==============================
     All Js File

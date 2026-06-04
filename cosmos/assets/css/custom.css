@@ -142,3 +142,7 @@
     transform: scale(1);
   }
 } */
+/* Pramila */
+.rotate-180 {
+  transform: rotate(180deg);
+}
