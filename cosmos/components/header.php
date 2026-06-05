@@ -119,7 +119,7 @@ include_once __DIR__ . '/../css.php';
                     <div class="col-auto">
                         <div class="header-logo">
                             <a href="<?php echo BASE_URL; ?>index.php">
-                                <img src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo-white.svg" alt="Cosmos Laundry" width="200">
+                                <img src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo.svg" alt="Cosmos Laundry" width="200">
                             </a>
                         </div>
                     </div>
