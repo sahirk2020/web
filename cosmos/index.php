@@ -730,8 +730,12 @@ Choose Area
                             <img src="assets/img/icon/service_1_1.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title"><a href="service-details.html">From Dirty Dazzling</a></h3>
-                            <p class="mb-0">If you have a stubborn stain, it's best to bring it in as soon as possible</p>
+                            <h3 class="box-title">
+                                Expert Care
+                            </h3>
+                            <p class="mb-0">
+                                Every garment is treated with precision, ensuring lasting freshness and fabric protection.
+                            </p>
                         </div>
                     </div>
 
@@ -741,8 +745,12 @@ Choose Area
                             <img src="assets/img/icon/service_1_2.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title"><a href="service-details.html">Quality You Can Feel</a></h3>
-                            <p class="mb-0">we offer convenient pickup and delivery options to make your laundry</p>
+                            <h3 class="box-title">
+                                Advanced Cleaning
+                            </h3>
+                            <p class="mb-0">
+                                Modern cleaning technology removes tough stains while maintaining fabric quality and softness.
+                            </p>
                         </div>
                     </div>
 
@@ -752,8 +760,8 @@ Choose Area
                             <img src="assets/img/icon/service_1_3.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title"><a href="service-details.html">Revitalize Your Fabrics</a></h3>
-                            <p class="mb-0">We use eco-friendly and hypoallergenic detergents to ensure the safety</p>
+                            <h3 class="box-title">Timely Delivery</h3>
+                            <p class="mb-0">Reliable pickup and delivery services ensure your laundry reaches you on schedule.</p>
                         </div>
                     </div>
 
@@ -770,8 +778,10 @@ Choose Area
                             <img src="assets/img/icon/service_1_4.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title"><a href="service-details.html">Elevating Your Everyday</a></h3>
-                            <p class="mb-0">Our experienced staff is trained to identify and treat various stains</p>
+                            <h3 class="box-title">Quality Assurance</h3>
+                            <p class="mb-0">
+                                Every item undergoes careful inspection to maintain consistent cleaning and finishing standards.
+                            </p>
                         </div>
                     </div>
 
@@ -781,8 +791,8 @@ Choose Area
                             <img src="assets/img/icon/service_1_5.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title"><a href="service-details.html">Unfold Happiness</a></h3>
-                            <p class="mb-0">We offer specialized care for delicate fabrics as well as stain removal services</p>
+                            <h3 class="box-title">Fabric Protection</h3>
+                            <p class="mb-0">Specialized processes preserve colors, texture, and longevity of your valuable garments.</p>
                         </div>
                     </div>
 
@@ -792,8 +802,8 @@ Choose Area
                             <img src="assets/img/icon/service_1_6.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title"><a href="service-details.html">Efficiency in Every Fold</a></h3>
-                            <p class="mb-0">We use eco-friendly and hypoallergenic detergents to ensure the safety</p>
+                            <h3 class="box-title">Convenient Service</h3>
+                            <p class="mb-0">Easy scheduling, doorstep pickup, and hassle-free service designed around your routine.</p>
                         </div>
                     </div>
 
