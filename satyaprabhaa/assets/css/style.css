@@ -483,7 +483,7 @@ ul.liststyle.bullet li + li {
   margin-top: 8px;
 }
 ul li {
-  font-size: var(--font-size-b1);
+  font-size: 15px;
   line-height: var(--line-height-b1);
   margin-top: 10px;
   margin-bottom: 10px;
@@ -1553,7 +1553,9 @@ ol ul {
 .pr--100 {
   padding-right: 100px !important;
 }
-
+.m-t--100 {
+  margin-top: -100px !important;
+}
 .mt--100 {
   margin-top: 100px !important;
 }
@@ -14741,7 +14743,7 @@ header .submenu .sub-dropdown .submenu li a:hover {
   border-radius: 10px;
 }
 .has-dropdown.with-megamenu .submenu {
-  width: 400px;
+  width: auto;
   display: flex !important;
   align-items: center;
   left: 25%;
@@ -23568,6 +23570,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 
 .single-choose-style-two {
   display: flex;
+  background: #fff;
   align-items: flex-start;
   gap: 19px;
   padding: 24px;

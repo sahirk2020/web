@@ -55,9 +55,10 @@
                         </div>
                         <form action="#">
                             <input type="text" placeholder="Your Name">
+                            <input type="email" placeholder="Your Email">
                             <input type="text" placeholder="Your Number">
                             <textarea placeholder="Send Message"></textarea>
-                            <button class="rts-btn btn-primary">Send Now</button>
+                            <button class="rts-btn btn-primary">Submit</button>
                         </form>
                     </div>
                 </div>
@@ -66,9 +67,9 @@
     </div>
     <!-- contact area start -->
 
-    <div class="pt-0 contact-info-area-start rts-section-gapTop">
+    <div class="py-5 contact-info-area-start rts-section-gapTop">
         
-        <div class="container mt--120">
+        <div class="container mt-0">
             <div class="row">
                 <div class="col-lg-12">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60539.89324226555!2d73.813135!3d18.495282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf9ec7efff6d%3A0xa6b851f01122aad2!2sD-Mart%2C%20Karve%20Nagar!5e0!3m2!1sen!2sus!4v1779879064501!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

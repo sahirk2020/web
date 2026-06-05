@@ -46,11 +46,11 @@
                     <!-- single portfolio grid col-2 -->
                     <div class="portfolio-grid-col-2-single rts-portfolio__item">
                         <a href="product-details-1.html" class="thumbnail">
-                            <img src="assets/images/product/19.jpg" alt="portfolio">
+                            <img src="assets/images/project/yojangandha-project-vEtoZ2axDp8SJ9hZ.avif" alt="portfolio">
                         </a>
                         <div class="inner-text">
                             <a href="product-details-1.html">
-                                <h5 class="title">commercial Architecture</h5>
+                                <h5 class="title">Yojangandha</h5>
                             </a>
                             <p class="disc">
                                 Creating vibrant and integrated spaces that combine residential, commercial, and leisure elements.
@@ -63,79 +63,11 @@
                     <!-- single portfolio grid col-2 -->
                     <div class="portfolio-grid-col-2-single rts-portfolio__item pl--30 pl_sm--0">
                         <a href="product-details-1.html" class="thumbnail">
-                            <img src="assets/images/product/20.jpg" alt="portfolio">
+                            <img src="assets/images/project/lotus-shalaka-project-1.avif" alt="portfolio">
                         </a>
                         <div class="inner-text">
                             <a href="product-details-1.html">
-                                <h5 class="title">Steel Water Bottle</h5>
-                            </a>
-                            <p class="disc">
-                                Creating vibrant and integrated spaces that combine residential, commercial, and leisure elements.
-                            </p>
-                        </div>
-                    </div>
-                    <!-- single portfolio grid col-2 end -->
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <!-- single portfolio grid col-2 -->
-                    <div class="portfolio-grid-col-2-single rts-portfolio__item">
-                        <a href="product-details-1.html" class="thumbnail">
-                            <img src="assets/images/product/21.jpg" alt="portfolio">
-                        </a>
-                        <div class="inner-text">
-                            <a href="product-details-1.html">
-                                <h5 class="title">Stainless Steel Travel Mug</h5>
-                            </a>
-                            <p class="disc">
-                                Creating vibrant and integrated spaces that combine residential, commercial, and leisure elements.
-                            </p>
-                        </div>
-                    </div>
-                    <!-- single portfolio grid col-2 end -->
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <!-- single portfolio grid col-2 -->
-                    <div class="portfolio-grid-col-2-single rts-portfolio__item pl--30 pl_sm--0">
-                        <a href="product-details-1.html" class="thumbnail">
-                            <img src="assets/images/product/22.jpg" alt="portfolio">
-                        </a>
-                        <div class="inner-text">
-                            <a href="product-details-1.html">
-                                <h5 class="title">Portable Bluetooth Speaker</h5>
-                            </a>
-                            <p class="disc">
-                                Creating vibrant and integrated spaces that combine residential, commercial, and leisure elements.
-                            </p>
-                        </div>
-                    </div>
-                    <!-- single portfolio grid col-2 end -->
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <!-- single portfolio grid col-2 -->
-                    <div class="portfolio-grid-col-2-single rts-portfolio__item">
-                        <a href="product-details-1.html" class="thumbnail">
-                            <img src="assets/images/product/23.jpg" alt="portfolio">
-                        </a>
-                        <div class="inner-text">
-                            <a href="product-details-1.html">
-                                <h5 class="title">Digital Camera with Zoom</h5>
-                            </a>
-                            <p class="disc">
-                                Creating vibrant and integrated spaces that combine residential, commercial, and leisure elements.
-                            </p>
-                        </div>
-                    </div>
-                    <!-- single portfolio grid col-2 end -->
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <!-- single portfolio grid col-2 -->
-                    <div class="portfolio-grid-col-2-single rts-portfolio__item pl--30 pl_sm--0">
-                        <a href="product-details-1.html" class="thumbnail">
-                            <img src="assets/images/product/24.jpg" alt="portfolio">
-                        </a>
-                        <div class="inner-text">
-                            <a href="product-details-1.html">
-                                <h5 class="title">Gourmet Coffee Gift Set</h5>
+                                <h5 class="title">Lotus Shalaka</h5>
                             </a>
                             <p class="disc">
                                 Creating vibrant and integrated spaces that combine residential, commercial, and leisure elements.

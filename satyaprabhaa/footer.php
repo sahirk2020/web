@@ -1,32 +1,32 @@
  <!-- footer area start -->
     <div class="rts-footer-area bg-footer-image bg_image">
         <div class="container">
-            <div class="row   ptb--100 ptb_sm--60">
+            <div class="row  pb-5 ptb--60 ptb_sm--60">
                 <div class="col-lg-12">
                     <div class="footer-area-wrapper-one">
                         <div class="single-footer-wized">
                             <a href="#" class="logo">
-                                <img src="assets/images/logo/Satyaprabhaa-whitelogo.svg" alt="logo">
+                                <img width="250" src="assets/images/logo/Satyaprabhaa-whitelogo.svg" alt="logo">
                             </a>
                             <p class="disc">
                                 Creating well-planned spaces with quality construction and modern living experiences for families across Pune.
                             </p>
-                            <form action="#">
+                            <!-- <form action="#">
                                 <div class="input-email">
                                     <input type="text" placeholder="Enter your email address" required>
                                     <button><i class="fa-thin fa-arrow-right"></i></button>
                                 </div>
-                            </form>
+                            </form> -->
                         </div>
                         <div class="single-footer-wized">
                             <div class="menu-links-area">
                                 <h6 class="title">Company</h6>
                                 <ul>
                                     <li><a href="about-us.php">About Us</a></li>
-                                    <li><a href="team-1.html">Our team</a></li>
-                                    <li><a href="service-1.html">Our Services</a></li>
-                                    <li><a href="portfolio-grid-1.html">Work Project</a></li>
-                                    <li><a href="faq.html">Help</a></li>
+                                    <li><a href="">Our team</a></li>
+                                    <li><a href="">Our Services</a></li>
+                                    <li><a href="">Work Project</a></li>
+                                    <li><a href="">Careers</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -100,10 +100,10 @@
                             </p>
                             <ul>
                                 <li>
-                                    <a href="terms-and-condition.html">Terms & conditions</a>
+                                    <a href="terms-and-condition.php">Terms & conditions</a>
                                 </li>
                                 <li>
-                                    <a href="privacy-policy.html">Privacy policy</a>
+                                    <a href="privacy-policy.php">Privacy policy</a>
                                 </li>
                             </ul>
                         </div>

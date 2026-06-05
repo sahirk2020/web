@@ -11,7 +11,7 @@
             <nav class="navigation">
                 <ul class="parent-ul my-0">
                     <li class="">
-                        <a class="nav-link" href="#index.php">Home</a>
+                        <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="has-dropdown">
                         <a class="nav-link" href="about-us.php">About Us</a>
@@ -21,28 +21,17 @@
                         <ul class="submenu">
                             <li class="mega-menu-item">
                                 <ul class="pages">
-                                    <li>Ongoing Projects</li>
-                                    <li><a class="sdm-main" href="index.html">Home One</a></li>
-                                    <li><a class="sdm-main" href="index-two.html">Home Two</a></li>
-                                    <li><a class="sdm-main" href="index-three.html">Home Three</a></li>
-                                    <li><a class="sdm-main" href="index-four.html">Home Four</a></li>
-                                    <li><a class="sdm-main" href="index-five.html">Home Five</a></li>
-                                    <li><a class="sdm-main" href="index-six.html">Home Six</a></li>
-                                    <li><a class="sdm-main" href="index-seven.html">Home Seven</a></li>
-                                    <li class="last-left"><a class="last sdm-main" href="index-eight.html">Home Eight</a></li>
+                                    <li><a class="sdm-main" href="ongoing-projects.php">Ongoing Projects</a></li>
+                                    <li><a class="sdm-main" href="single-project.php">Yojangandha</a></li>
+                                    <li><a class="sdm-main" href="single-project.php">Lotus Shalaka</a></li>
                                 </ul>
                             </li>
                             <li class="mega-menu-item">
                                 <ul class="pages">
-                                    <li>Upcoming Projects</li>
-                                    <li><a class="sdm-main" href="onepage-one.html">One Page One</a></li>
-                                    <li><a class="sdm-main" href="onepage-two.html">One Page Two</a></li>
-                                    <li><a class="sdm-main" href="onepage-three.html">One Page Three</a></li>
-                                    <li><a class="sdm-main" href="onepage-four.html">One Page Four</a></li>
-                                    <li><a class="sdm-main" href="onepage-five.html">One Page Five</a></li>
-                                    <li><a class="sdm-main" href="onepage-six.html">One Page Six</a></li>
-                                    <li><a class="sdm-main" href="onepage-seven.html">One Page Seven</a></li>
-                                    <li><a class="sdm-main last" href="onepage-eight.html">One Page Eight</a></li>
+                                    <li><a class="sdm-main" href="upcoming-projects.php">Upcoming Projects</a></li>
+                                    <li><a class="sdm-main" href="">Shrirang</a></li>
+                                    <li><a class="sdm-main" href="">Seva</a></li>
+                                    <li><a class="sdm-main" href="">Deepak Dev</a></li>
                                 </ul>
                             </li>
                         </ul>

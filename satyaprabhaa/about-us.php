@@ -139,22 +139,25 @@
     <div class="rts-section-gap why-chooseus-section">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-7 pr--120 pr_sm--0">
+                <div class="col-lg-5 mt_sm--50">
+                    <div class="thumbnail-about-one rts-reveal-one">
+                        <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about">
+                    </div>
+                </div>
+                <div class="col-lg-7 pl--120 pr_sm--0">
                     <!-- why chooseus section start -->
                     <div class="why-choose-us-left-two">
                         <div class="title-left-style-two">
                             <div class="pre-title">
                                 <span class="pre-title">Why Choose Us</span>
-                                <img src="assets/images/service/07.png" alt="service">
+                                <!-- <img src="assets/images/service/07.png" alt="service"> -->
                             </div>
                             <h2 class="title quote">
-                                Exceptional standard of <br>
-                                customer satisfaction
+                               Built On Trust 
                             </h2>
                         </div>
                         <p class="disc">
-                            Choosing interior design services offers numerous benefits. Here are a few reasons why you
-                            should consider working with professional interior designers:
+                            Creating spaces backed by experience, quality, and a commitment to doing things right.
                         </p>
                     </div>
                     <!-- why chooseus section end -->
@@ -166,10 +169,8 @@
                                     <img src="assets/images/why-choose/01.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Expertise and Experience</h6>
-                                    <p class="disc">
-                                        Interior designers possess the
-                                        skills create well-designed.
+                                    <h6 class="title">Trusted Experience</h6>
+                                    <p class="disc">Years of industry knowledge and execution expertise.
                                     </p>
                                 </div>
                             </div>
@@ -182,9 +183,9 @@
                                     <img src="assets/images/why-choose/02.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Innovative Solutions</h6>
+                                    <h6 class="title">Quality Focus</h6>
                                     <p class="disc">
-                                        Interior designers are trained to think creatively and come.
+                                        Attention to quality at every stage.
                                     </p>
                                 </div>
                             </div>
@@ -197,9 +198,9 @@
                                     <img src="assets/images/why-choose/03.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Time and Cost Efficiency</h6>
+                                    <h6 class="title">Well Connected</h6>
                                     <p class="disc">
-                                        Hiring an interior designer can save you time and money.
+                                        Projects located close to everyday conveniences.
                                     </p>
                                 </div>
                             </div>
@@ -212,20 +213,15 @@
                                     <img src="assets/images/why-choose/04.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Value Enhancement
+                                    <h6 class="title">Thoughtful Spaces
                                     </h6>
                                     <p class="disc">
-                                        Well-designed interiors can us significantly enhance value.
+                                        Designed around modern lifestyles and needs
                                     </p>
                                 </div>
                             </div>
                             <!-- single choose us area end -->
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-5 mt_sm--50">
-                    <div class="thumbnail-about-one rts-reveal-one">
-                        <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about">
                     </div>
                 </div>
             </div>
@@ -242,8 +238,8 @@
                     <div class="why-choose-us-left-two">
                         <div class="title-left-style-two">
                             <div class="pre-title">
-                                <span class="pre-title">Why Choose Us</span>
-                                <img src="assets/images/service/07.png" alt="service">
+                                <span class="pre-title">Legacy</span>
+                                <!-- <img src="assets/images/service/07.png" alt="service"> -->
                             </div>
                             <h2 class="title quote">
                                A Legacy of Design-Led <br>Development
