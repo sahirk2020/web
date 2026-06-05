@@ -161,7 +161,7 @@ About Area
                                 At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your daily wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
                             </p>
                         </div>
-                        <div class="checklist list-two-column">
+                        <!-- <div class="checklist list-two-column">
                             <ul>
                                 <li>Pickup and Delivery Service</li>
                                 <li>Energy-Efficient Machines</li>
@@ -170,7 +170,7 @@ About Area
                                 <li>Hanging or Bagging Options</li>
                                 <li>Satisfaction Guarantee</li>
                             </ul>
-                        </div>
+                        </div> -->
                         <!-- <div class="btn-group mt-30 justify-content-start">
                             <a href="about.html" class="th-btn">More About Us</a>
                         </div> -->
@@ -179,10 +179,12 @@ About Area
             </div>
         </div>
     </div>
+
+    <h4 class="text-center">Pricing Tab Wise Section</h4>
     <!--==============================
 feature Area  
 ==============================-->
-    <div class="overflow-hidden space" id="feature-area">
+    <!-- <div class="overflow-hidden space" id="feature-area">
         <div class="container">
             <div class="row gy-4 justify-content-center">
                 <div class="col-md-6 col-lg-4">
@@ -229,7 +231,7 @@ feature Area
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!--==============================
 Service Area  
 ==============================-->

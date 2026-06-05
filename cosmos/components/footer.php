@@ -7,7 +7,8 @@
             <div class="row align-items-center">
                 <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
-                        <span class="sub-title style1">Get Free Contact For Services</span>
+                        <span class="sub-title style1">Ready For Effortless Laundry?</span>
+                        <!-- <h2 class="sec-title1 text-white">Ready For Effortless Laundry?</h2> -->
                         <h2 class="sec-title1 text-white">You Get Premium Laundry Service From Us!</h2>
                     </div>
                 </div>
@@ -36,7 +37,7 @@
                                 <!-- <a href="home-laundry-services.html"><img src="<?php echo BASE_URL; ?>assets/img/logo-white.svg" alt="Laun"></a> -->
                                 <a href="home-laundry-services.html"><img src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
                             </div>
-                            <p class="about-text">Begin by scheduling your laundry man service. You can choose from our is convenient options Any visible stains</p>
+                            <p class="about-text">Cosmos Laundry combines advanced cleaning technology, expert fabric care, and dependable service to deliver exceptional results.</p>
                             <div class="th-social">
                                 <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
