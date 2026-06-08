@@ -17,18 +17,23 @@ include_once __DIR__ . '/../css.php';
             <ul>
                 <li class="menu-item-has-children">
                     <a href="<?php echo BASE_URL; ?>index.php">Home</a>
-                    <ul class="sub-menu">
-                        <li><a href="<?php echo BASE_URL; ?>home-laundry-services.php">Laundry Services</a></li>
-                        <li><a href="<?php echo BASE_URL; ?>home-dry-cleaning.php">Home Dry Cleaning</a></li>
-                        <li><a href="<?php echo BASE_URL; ?>home-laundry-dry-services.php">Laundry & Dry Services</a></li>
-                    </ul>
+                    <!-- <ul class="sub-menu">
+                        <li><a href="<?php //echo BASE_URL; 
+                                        ?>home-laundry-services.php">Laundry Services</a></li>
+                        <li><a href="<?php //echo BASE_URL; 
+                                        ?>home-dry-cleaning.php">Home Dry Cleaning</a></li>
+                        <li><a href="<?php //echo BASE_URL; 
+                                        ?>home-laundry-dry-services.php">Laundry & Dry Services</a></li>
+                    </ul> -->
                 </li>
                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
                 <li class="menu-item-has-children">
-                    <a href="#">Service</a>
+                    <a href="<?php echo BASE_URL; ?>service.php">Service</a>
                     <ul class="sub-menu">
-                        <li><a href="<?php echo BASE_URL; ?>service.php">Service</a></li>
-                        <li><a href="<?php echo BASE_URL; ?>service-details.php">Service Details</a></li>
+                        <li><a href="<?php echo BASE_URL; ?>services/laundry-service.php">Laundry Services</a></li>
+                        <!-- <li><a href="<?php
+                                            //echo BASE_URL; 
+                                            ?>service-details.php">Service Details</a></li> -->
                     </ul>
                 </li>
                 <li class="menu-item-has-children">
