@@ -325,6 +325,11 @@
     margin-top: 0 !important;
   }
 }
+*/
+/* Pramila */
+.rotate-180 {
+  transform: rotate(180deg);
+}
 
 @media (max-width: 576px) {
   .process-step {
