@@ -17,14 +17,14 @@ include_once __DIR__ . '/../css.php';
             <ul>
                 <li class="menu-item-has-children">
                     <a href="<?php echo BASE_URL; ?>index.php">Home</a>
-                    <!-- <ul class="sub-menu">
-                        <li><a href="<?php //echo BASE_URL; 
+                    <ul class="sub-menu">
+                        <li><a href="<?php echo BASE_URL;
                                         ?>home-laundry-services.php">Laundry Services</a></li>
-                        <li><a href="<?php //echo BASE_URL; 
+                        <li><a href="<?php echo BASE_URL;
                                         ?>home-dry-cleaning.php">Home Dry Cleaning</a></li>
-                        <li><a href="<?php //echo BASE_URL; 
+                        <li><a href="<?php echo BASE_URL;
                                         ?>home-laundry-dry-services.php">Laundry & Dry Services</a></li>
-                    </ul> -->
+                    </ul>
                 </li>
                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
                 <li class="menu-item-has-children">
