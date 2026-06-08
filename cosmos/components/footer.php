@@ -3,7 +3,7 @@
 ==============================-->
 <div class="">
     <div class="container z-index-common">
-        <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/cta_bg_2.jpg">
+        <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/">
             <div class="row align-items-center">
                 <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
@@ -26,7 +26,7 @@
     </div>
 </div>
 
-<footer class="footer-wrapper footer-layout2" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/footer_bg_2.jpg">
+<footer class="footer-wrapper footer-layout2" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/iron.webp">
     <div class="widget-area">
         <div class="container">
             <div class="row justify-content-between">
@@ -37,7 +37,7 @@
                                 <!-- <a href="home-laundry-services.html"><img src="<?php echo BASE_URL; ?>assets/img/logo-white.svg" alt="Laun"></a> -->
                                 <a href="home-laundry-services.html"><img src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
                             </div>
-                            <p class="about-text">Cosmos Laundry combines advanced cleaning technology, expert fabric care, and dependable service to deliver exceptional results.</p>
+                            <p class="about-text white-color">Cosmos Laundry combines advanced cleaning technology, expert fabric care, and dependable service to deliver exceptional results.</p>
                             <div class="th-social">
                                 <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
@@ -114,13 +114,13 @@
                             </div>
                         </div> -->
 
-                        <div class="footer-info-wrapper">
+                        <div class="footer-info-wrapper white-color">
                             <div class="footer-info">
                                 <div class="footer-info_icon">
                                     <!-- <i class="fa-sharp fa-solid fa-phone"></i> -->
                                     <i class="fas fa-location-dot"></i>
                                 </div>
-                                <p class="info-box_text">Cosmo Enterprises
+                                <p class="text-inherit">Cosmo Enterprises
                                     Gat no 99/2, <br>buldhana urban ware House, <br>Chincholi shivar Jalgaon 425003
                                 </p>
                             </div>
@@ -141,7 +141,7 @@
                                 <div class="footer-info_icon">
                                     <i class="fa-solid fa-clock"></i>
                                 </div>
-                                <span> Monday to Saturday: 9AM - 8PM</span>
+                                <span class="text-inherit"> Monday to Saturday: 9AM - 8PM</span>
                             </div>
                         </div>
 
@@ -224,10 +224,10 @@
         <div class="bubble-9"></div>
         <div class="bubble-10"></div>
     </div>
-    <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-left="0%"><img src="<?php echo BASE_URL; ?>assets/img/shape/footer_shape_1.png" alt="shape">
+    <!-- <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-left="0%"><img src="<?php echo BASE_URL; ?>assets/img/shape/footer_shape_1.png" alt="shape">
     </div>
     <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-right="0%"><img src="<?php echo BASE_URL; ?>assets/img/shape/footer_shape_2.png" alt="shape">
-    </div>
+    </div> -->
 </footer>
 
 <!--********************************

@@ -167,22 +167,6 @@
 
                 <div class="process-row">
 
-                    <!-- 1 -->
-
-                    <div class="process-step">
-
-                        <div class="icon-box"
-                            data-bs-toggle="tooltip"
-                            title="Tagging Process">
-
-                            <i class="bi bi-tag"></i>
-
-                        </div>
-
-                        <h5 class="step-title sec-title1 ">Tagging</h5>
-
-                    </div>
-
                     <!-- 2 -->
 
                     <div class="process-step">
@@ -195,9 +179,26 @@
 
                         </div>
 
-                        <h5 class="step-title">Sorting</h5>
+                        <h5 class="step-title">2Sorting</h5>
 
                     </div>
+
+                    <!-- 1 -->
+
+                    <div class="process-step">
+
+                        <div class="icon-box"
+                            data-bs-toggle="tooltip"
+                            title="Tagging Process">
+
+                            <i class="bi bi-tag"></i>
+
+                        </div>
+
+                        <h5 class="step-title sec-title1 ">1Tagging</h5>
+
+                    </div>
+
 
                     <!-- 3 -->
 

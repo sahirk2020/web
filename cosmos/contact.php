@@ -106,7 +106,7 @@ ini_set('display_errors', 1);
   <!--==============================
     Breadcumb
 ============================== -->
-  <div class="breadcumb-wrapper" data-bg-src="assets/img/pooja/building-dreamy-setting.jpg">
+  <div class="breadcumb-wrapper" data-bg-src="assets/img/banners/contact-bg.jpg">
     <div class="container">
       <div class="breadcumb-content">
         <h1 class="breadcumb-title">Contact Us</h1>
@@ -258,41 +258,50 @@ Price Area
       <div class="row gy-4 justify-content-center">
 
         <div class="col-xl-4 col-md-6">
-          <div class="price-box card-shadow text-center">
+          <div class="price-box  text-center loc-text">
             <div class="price-box_icon">
               <img src="assets/img/icon/locations.svg" width="60" height="60" alt="Icon">
             </div>
             <h3 class="box-title sec-title1">Jalgaon</h3>
-            <span>Cosmo Enterprises Gat no 99/2,
+            <p class="loc-dec">A trusted name for laundry and dry cleaning services, serving Jalgaon with care, consistency, and convenience.</p>
+            <h6 class="address-text">
+
+              Cosmo Enterprises Gat no 99/2,
               buldhana urban ware House,
-              Chincholi shivar Jalgaon 425003</span>
-            <h6 class="about-text">A trusted name for laundry and dry cleaning services, serving Jalgaon with care, consistency, and convenience.</h6>
+              Chincholi shivar Jalgaon 425003
+            </h6>
+            <span>9284630260</span>
           </div>
         </div>
 
         <div class="col-xl-4 col-md-6">
-          <div class="price-box card-shadow text-center">
+          <div class="price-box  text-center loc-text">
             <div class="price-box_icon ">
               <img src="assets/img/icon/locations.svg" width="60" height="60" alt="Icon">
             </div>
             <h3 class="box-title sec-title1">Nashik</h3>
-            <span>Cosmo Enterprises Gat no 99/2,
-              buldhana urban ware House,
-              Chincholi shivar Jalgaon 425003</span>
-            <h6 class="about-text">Helping Nashik residents maintain fresh, well-cared-for garments through professional cleaning and reliable service.</h6>
+            <p class="loc-dec">Helping Nashik residents maintain fresh, well-cared-for garments through professional cleaning and reliable service.</p>
+
+            <h6 class="address-text">Nasik address
+              Cosmos Laundry
+              Nearest landmark: Behind Express Inn hotel, Pathardi
+              Phata, of mambai Agra highway
+              Nasik 422009</h6>
+            <span>+91 90670 55586</span>
           </div>
         </div>
 
-        <div class="col-xl-4 col-md-6">
-          <div class="price-box card-shadow text-center">
+        <div class="col-xl-4 col-md-6 ">
+          <div class="price-box  text-center loc-text">
             <div class="price-box_icon">
               <img src="assets/img/icon/locations.svg" width="60" height="60" alt="Icon">
             </div>
             <h3 class="box-title sec-title1">Amravati</h3>
-            <span>Cosmo Enterprises Gat no 99/2,
-              buldhana urban ware House,
-              Chincholi shivar Jalgaon 425003</span>
-            <h6 class="about-text">Delivering exceptional fabric care and hassle-free laundry solutions tailored to the everyday needs of Amravati.</h6>
+
+            <p class="loc-dec">Delivering exceptional fabric care and hassle-free laundry solutions tailored to the everyday needs of Amravati.</p>
+
+            <h6 class="address-text">Cosmos Laundry, Opposite Ekta Abhushan, Near Rajesh Gas service, Jaistambh Chowk, Amravati-444601</h6>
+            <span>9697895895</span>
           </div>
         </div>
 

@@ -50,7 +50,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper" data-bg-src="assets/img/pooja/laundry.jpg">
+    <div class="breadcumb-wrapper" data-bg-src="assets/img/banners/services-bg.jpg">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Services</h1>

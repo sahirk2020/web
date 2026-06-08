@@ -1,5 +1,79 @@
 /* Contact Us Page Start */
 
+/* address css */
+.loc-text {
+  border-left: 4px solid #8cc63f;
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(8px);
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+  transition: 0.4s ease;
+}
+
+/* Hover Effect */
+
+.loc-text:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(140, 198, 63, 0.25);
+  border-left-color: #ffffff;
+}
+
+/* Premium Glow Effect */
+
+/* .loc-text::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    120deg,
+    transparent,
+    rgba(255, 255, 255, 0.15),
+    transparent
+  );
+  transition: 0.8s;
+} */
+
+.loc-text:hover::before {
+  left: 100%;
+}
+/* new */
+
+.address-text {
+  font-size: 16px;
+  line-height: 1.9;
+  color: #3e3e3e;
+  font-weight: 500;
+  margin-top: 18px;
+  margin-bottom: 0;
+  letter-spacing: 0.3px;
+  position: relative;
+  padding-top: 18px;
+  transition: 0.4s ease;
+}
+
+/* Top Divider Line */
+
+.address-text::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70px;
+  height: 2px;
+  background: linear-gradient(90deg, #2c9fda, #8cc63f);
+  border-radius: 10px;
+}
+
+/* Hover */
+
+.loc-text:hover .address-text {
+  color: #2c9fda;
+}
+/* address end */
 .breadcumb-title-contact-us {
   color: black;
 }
@@ -7,6 +81,9 @@
   background: #5db1db;
 }
 
+.loc-dec {
+  font-size: 14px !important;
+}
 .contact-map.style2 iframe {
   height: 500px;
 }
@@ -271,4 +348,41 @@
 /* Pramila */
 .rotate-180 {
   transform: rotate(180deg);
+}
+
+/* footer */
+
+.footer-widget .widget_title {
+  color: #2c9fda;
+}
+
+.white-color {
+  color: white !important;
+}
+
+.widget_nav_menu a {
+  color: white !important;
+}
+/* .footer-wrapper {
+  color: black !important;
+} */
+
+/* overlay */
+.footer-wrapper {
+  position: relative;
+  background-image: url("assets/img/banners/iron.webp");
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  z-index: 1;
+}
+
+/* Overlay */
+
+.footer-wrapper::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6); /* black overlay */
+  z-index: -1;
 }
