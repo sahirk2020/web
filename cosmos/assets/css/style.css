@@ -9366,13 +9366,13 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
 
 @media (max-width: 1500px) {
   .hero-3 .icon-box {
-    right: 1%;
+    /* right: 1%; */
   }
 }
 
 @media (max-width: 1399px) {
   .hero-3 .icon-box {
-    display: none;
+    display: flex;
   }
 }
 
