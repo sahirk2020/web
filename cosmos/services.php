@@ -423,7 +423,7 @@ Service Area
 
 
 
-                        <div class="icon-box"
+                        <div class="icon-box-process"
                             data-bs-toggle="tooltip"
                             title="Every garment is carefully assessed for fabric type, stains, and special care requirements before entering our cleaning process.">
 
@@ -439,7 +439,7 @@ Service Area
 
                     <div class="process-step">
 
-                        <div class="icon-box"
+                        <div class="icon-box-process"
                             data-bs-toggle="tooltip"
                             title="A unique identification tag is assigned to every item, ensuring accurate tracking and complete order transparency.">
 
@@ -456,7 +456,7 @@ Service Area
 
                     <div class="process-step">
 
-                        <div class="icon-box"
+                        <div class="icon-box-process"
                             data-bs-toggle="tooltip"
                             title="Garments are sorted according to fabric, texture, and cleaning needs to provide the most suitable treatment.">
 
@@ -472,7 +472,7 @@ Service Area
 
                     <div class="process-step">
 
-                        <div class="icon-box"
+                        <div class="icon-box-process"
                             data-bs-toggle="tooltip"
                             title="Clothes are separated by color and fabric category to prevent color transfer and maintain garment quality.">
 
@@ -488,7 +488,7 @@ Service Area
 
                     <div class="process-step">
 
-                        <div class="icon-box"
+                        <div class="icon-box-process"
                             data-bs-toggle="tooltip"
                             title="Targeted stain treatment is performed using fabric-safe solutions to effectively address marks without compromising garment integrity.">
 
@@ -504,7 +504,7 @@ Service Area
 
                     <div class="process-step">
 
-                        <div class="icon-box"
+                        <div class="icon-box-process"
                             data-bs-toggle="tooltip"
                             title="Advanced cleaning techniques and premium detergents are used to remove dirt, odors, and stains while protecting fabrics.">
 
@@ -520,7 +520,7 @@ Service Area
 
                     <div class="process-step">
 
-                        <div class="icon-box"
+                        <div class="icon-box-process"
                             data-bs-toggle="tooltip"
                             title="Garments are professionally steam pressed and finished to restore their fresh, crisp, and well-maintained appearance.">
 
@@ -536,7 +536,7 @@ Service Area
 
                     <div class="process-step">
 
-                        <div class="icon-box"
+                        <div class="icon-box-process"
                             data-bs-toggle="tooltip"
                             title="Every item undergoes a detailed inspection to ensure it meets our standards for cleanliness and presentation.">
 
@@ -549,7 +549,7 @@ Service Area
                     </div>
                     <div class="process-step">
 
-                        <div class="icon-box"
+                        <div class="icon-box-process"
                             data-bs-toggle="tooltip"
                             title="Freshly cleaned garments are neatly packed using hygienic methods, ready for convenient delivery to your doorstep.">
 
