@@ -27,8 +27,9 @@ include_once __DIR__ . '/../css.php';
                     </ul>
                 </li>
                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
+
                 <li class="menu-item-has-children">
-                    <a href="<?php echo BASE_URL; ?>service.php">Service</a>
+                    <a href="<?php echo BASE_URL; ?>services.php">Service</a>
                     <ul class="sub-menu">
                         <li><a href="<?php echo BASE_URL; ?>services/laundry-service.php">Laundry Services</a></li>
                         <!-- <li><a href="<?php
