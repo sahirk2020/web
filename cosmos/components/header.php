@@ -15,16 +15,16 @@ include_once __DIR__ . '/../css.php';
         </div>
         <div class="th-mobile-menu">
             <ul>
-                <li class="menu-item-has-children">
+                <li>
                     <a href="<?php echo BASE_URL; ?>index.php">Home</a>
-                    <ul class="sub-menu">
+                    <!-- <ul class="sub-menu">
                         <li><a href="<?php echo BASE_URL;
                                         ?>home-laundry-services.php">Laundry Services</a></li>
                         <li><a href="<?php echo BASE_URL;
                                         ?>home-dry-cleaning.php">Home Dry Cleaning</a></li>
                         <li><a href="<?php echo BASE_URL;
                                         ?>home-laundry-dry-services.php">Laundry & Dry Services</a></li>
-                    </ul>
+                    </ul> -->
                 </li>
                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
 
@@ -32,12 +32,10 @@ include_once __DIR__ . '/../css.php';
                     <a href="<?php echo BASE_URL; ?>services.php">Service</a>
                     <ul class="sub-menu">
                         <li><a href="<?php echo BASE_URL; ?>services/laundry-service.php">Laundry Services</a></li>
-                        <!-- <li><a href="<?php
-                                            //echo BASE_URL; 
-                                            ?>service-details.php">Service Details</a></li> -->
+
                     </ul>
                 </li>
-                <li class="menu-item-has-children">
+                <!-- <li class="menu-item-has-children">
                     <a href="#">Pages</a>
                     <ul class="sub-menu">
                         <li class="menu-item-has-children">
@@ -57,10 +55,10 @@ include_once __DIR__ . '/../css.php';
                         <li><a href="<?php echo BASE_URL; ?>price.php">Price Package</a></li>
                         <li><a href="<?php echo BASE_URL; ?>error.php">Error Page</a></li>
                     </ul>
-                </li>
-                <li class="menu-item-has-children">
+                </li> -->
+                <li>
                     <a href="#">Blogs</a>
-                    <ul class="sub-menu">
+                    <!-- <ul class="sub-menu">
                         <li>
                             <a href="#">Blog Layout</a>
                             <ul class="sub-menu">
@@ -78,7 +76,7 @@ include_once __DIR__ . '/../css.php';
                             </ul>
                         </li>
                         <li><a href="<?php echo BASE_URL; ?>blog-details.php">Blog Details</a></li>
-                    </ul>
+                    </ul> -->
                 </li>
                 <li>
                     <a href="<?php echo BASE_URL; ?>contact.php">Contact</a>
@@ -132,23 +130,23 @@ include_once __DIR__ . '/../css.php';
                     <div class="col-auto me-xl-auto">
                         <nav class="main-menu d-none d-lg-inline-block">
                             <ul>
-                                <li class="menu-item-has-children">
-                                    <a href="<?php echo BASE_URL; ?>home-laundry-services.php">Home</a>
-                                    <ul class="sub-menu">
+                                <li>
+                                    <a href="<?php echo BASE_URL; ?>index.php">Home</a>
+                                    <!-- <ul class="sub-menu">
                                         <li><a href="<?php echo BASE_URL; ?>home-laundry-services.php">Laundry Services</a></li>
                                         <li><a href="<?php echo BASE_URL; ?>home-dry-cleaning.php">Home Dry Cleaning</a></li>
                                         <li><a href="<?php echo BASE_URL; ?>home-laundry-dry-services.php">Laundry & Dry Services</a></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
-                                <li class="menu-item-has-children">
-                                    <a href="#">Service</a>
+                                <li>
+                                    <a href="<?php echo BASE_URL; ?>services.php">Service</a>
                                     <ul class="sub-menu">
-                                        <li><a href="<?php echo BASE_URL; ?>service.php">Service</a></li>
-                                        <li><a href="<?php echo BASE_URL; ?>service-details.php">Service Details</a></li>
+                                        <li><a href="<?php echo BASE_URL; ?>services/laundry-service.php">Laundry Service</a></li>
+
                                     </ul>
                                 </li>
-                                <li class="menu-item-has-children">
+                                <!-- <li class="menu-item-has-children">
                                     <a href="#">Pages</a>
                                     <ul class="sub-menu">
                                         <li class="menu-item-has-children">
@@ -168,10 +166,10 @@ include_once __DIR__ . '/../css.php';
                                         <li><a href="<?php echo BASE_URL; ?>price.php">Price Package</a></li>
                                         <li><a href="<?php echo BASE_URL; ?>error.php">Error Page</a></li>
                                     </ul>
-                                </li>
-                                <li class="menu-item-has-children">
+                                </li> -->
+                                <li>
                                     <a href="#">Blogs</a>
-                                    <ul class="sub-menu">
+                                    <!-- <ul class="sub-menu">
                                         <li>
                                             <a href="#">Blog Layout</a>
                                             <ul class="sub-menu">
@@ -189,7 +187,7 @@ include_once __DIR__ . '/../css.php';
                                             </ul>
                                         </li>
                                         <li><a href="<?php echo BASE_URL; ?>blog-details.php">Blog Details</a></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                                 <li>
                                     <a href="<?php echo BASE_URL; ?>contact.php">Contact</a>
