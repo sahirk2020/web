@@ -141,7 +141,9 @@
                                 <div class="footer-info_icon">
                                     <i class="fa-solid fa-clock"></i>
                                 </div>
-                                <span class="text-inherit"> Monday to Saturday: 9AM - 8PM</span>
+                                <span class="text-inherit"> Monday to Saturday: 9AM - 8PM
+                                    <br> Sunday: 9AM - 1PM
+                                </span>
                             </div>
                         </div>
 

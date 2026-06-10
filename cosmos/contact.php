@@ -117,10 +117,8 @@ ini_set('display_errors', 1);
       </div>
     </div>
   </div>
-  <!--==============================
-Contact Area   
-==============================-->
-  <div class="space">
+
+  <!-- <div class="space-top">
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
@@ -132,10 +130,31 @@ Contact Area
               Get in touch for expert garment care, doorstep convenience, and responsive support that makes laundry effortless.
             </p>
           </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+
+  <!--==============================
+Contact Area   
+==============================-->
+  <div class="space">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="title-area pe-xl-4 mb-10">
+            <h2 class="sec-title">
+              Laundry Care, Just A Call Away
+            </h2>
+            <p class="">
+              Get in touch for expert garment care, doorstep convenience, and responsive support that makes laundry effortless.
+            </p>
+          </div>
           <div class="row gy-4 justify-content-center">
             <div class="col-md-6">
               <div class="contact-info text-center">
                 <div class="contact-info_icon">
+                  <!-- <div class="th-social"> -->
                   <i class="fa-solid fa-phone"></i>
                 </div>
                 <div class="media-body ">
@@ -164,13 +183,73 @@ Contact Area
               </div>
             </div>
           </div>
-          <h5 class="mt-35">Follow The Social Media:</h5>
+
+          <div class="row gy-3 justify-content-center mt-0">
+            <div class="col-md-6">
+              <div class="contact-info text-center">
+                <div class="contact-info_icon">
+                  <a><i class="fa-solid fa-clock"></i></a>
+                </div>
+                <div class="media-body ">
+                  <h6 class="contact-info_title">Store Time</h6>
+                  <span class="contact-info_text"> <a>Mon to Sat: 9AM - 8PM
+                      <br> Sunday: 9AM - 1PM</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-6">
+              <div class="contact-info text-center">
+                <!-- <div class="contact-info_icon">
+                  <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
+                </div>
+                <div class="contact-info_icon">
+                  <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
+                </div> -->
+
+                <!-- <div class="th-social">
+                  <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
+                  <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
+                </div> -->
+
+                <div class="media-body ">
+
+
+
+                  <div class="contact-info_icon">
+                    <a><i class="fa-solid fa-share-nodes"></i></a>
+                    <!-- <i class="fa-solid fa-share-from-square"></i> -->
+                  </div>
+
+
+
+
+
+
+
+                  <h6 class="contact-info_title">Social Media:</h6>
+
+                  <div class="th-social">
+                    <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
+                  </div>
+
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- <h5 class="mt-35">Follow The Social Media:</h5>
           <div class="th-social">
             <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
             <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
-          </div>
+          </div> -->
         </div>
         <div class="col-lg-6">
+
           <form
             action="mail.php"
             method="POST"
@@ -242,6 +321,10 @@ Contact Area
             </div>
             <p class="form-messages mb-0 mt-3"></p>
           </form>
+
+
+
+
         </div>
       </div>
     </div>
@@ -260,33 +343,38 @@ Price Area
         <div class="col-xl-4 col-md-6">
           <div class="price-box  text-center loc-text">
             <div class="price-box_icon">
-              <img src="assets/img/icon/locations.svg" width="60" height="60" alt="Icon">
+              <img src="assets/img/icon/contact-us/location.svg" width="60" height="60" alt="Icon">
             </div>
             <h3 class="box-title sec-title1">Jalgaon</h3>
-            <p class="loc-dec">A trusted name for laundry and dry cleaning services, serving Jalgaon with care, consistency, and convenience.</p>
+            <p class="loc-dec">
+              Municipal Corporation Limited
+
+              <!-- A trusted name for laundry and dry cleaning services, serving Jalgaon with care, consistency, and convenience.</p> -->
             <h6 class="address-text">
 
               Cosmo Enterprises Gat no 99/2,
               buldhana urban ware House,
               Chincholi shivar Jalgaon 425003
             </h6>
-            <span>9284630260</span>
+            <span>+91 9284630260</span>
           </div>
         </div>
 
         <div class="col-xl-4 col-md-6">
           <div class="price-box  text-center loc-text">
             <div class="price-box_icon ">
-              <img src="assets/img/icon/locations.svg" width="60" height="60" alt="Icon">
+              <img src="assets/img/icon/contact-us/location.svg" width="60" height="60" alt="Icon">
             </div>
             <h3 class="box-title sec-title1">Nashik</h3>
-            <p class="loc-dec">Helping Nashik residents maintain fresh, well-cared-for garments through professional cleaning and reliable service.</p>
+            <p class="loc-dec">
+              Municipal Corporation Limited
+              <!-- Helping Nashik residents maintain fresh, well-cared-for garments through professional cleaning and reliable service.</p> -->
 
-            <h6 class="address-text">Nasik address
+            <h6 class="address-text">Nashik address
               Cosmos Laundry
               Nearest landmark: Behind Express Inn hotel, Pathardi
               Phata, of mambai Agra highway
-              Nasik 422009</h6>
+              Nashik 422009</h6>
             <span>+91 90670 55586</span>
           </div>
         </div>
@@ -294,14 +382,15 @@ Price Area
         <div class="col-xl-4 col-md-6 ">
           <div class="price-box  text-center loc-text">
             <div class="price-box_icon">
-              <img src="assets/img/icon/locations.svg" width="60" height="60" alt="Icon">
+              <img src="assets/img/icon/contact-us/location.svg" width="60" height="60" alt="Icon">
             </div>
             <h3 class="box-title sec-title1">Amravati</h3>
 
-            <p class="loc-dec">Delivering exceptional fabric care and hassle-free laundry solutions tailored to the everyday needs of Amravati.</p>
+            <p class="loc-dec">Municipal Corporation Limited
+              <!-- Delivering exceptional fabric care and hassle-free laundry solutions tailored to the everyday needs of Amravati.</p> -->
 
             <h6 class="address-text">Cosmos Laundry, Opposite Ekta Abhushan, Near Rajesh Gas service, Jaistambh Chowk, Amravati-444601</h6>
-            <span>9697895895</span>
+            <span>+919697895895</span>
           </div>
         </div>
 
