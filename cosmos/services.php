@@ -328,7 +328,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/Bed-Mattress-Cleaning.webp" alt="img">
+                                <img src="assets/img/service/Bed-Mattress-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/service_2_3.svg" alt="Icon">
