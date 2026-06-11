@@ -17688,8 +17688,8 @@ span.select2-selection.select2-selection--single:focus {
 
 .process-box .box-number {
   position: absolute;
-  top: 20px;
-  right: 20px;
+  top: 10px;
+  right: 10px;
   width: 50px;
   height: 50px;
   border-radius: 50%;
@@ -17724,10 +17724,12 @@ span.select2-selection.select2-selection--single:focus {
 
 .process-box .box-icon {
   position: relative;
-  height: 260px;
-  width: 260px;
+  /* height: 260px; */
+  height: 200px;
+  /* width: 260px; */
+  width: 200px;
   text-align: center;
-  line-height: 260px;
+  line-height: 190px;
   background-color: var(--white-color);
   border: 2px solid #f5f7fa;
   border-radius: 50%;
@@ -17743,9 +17745,11 @@ span.select2-selection.select2-selection--single:focus {
   }
 }
 
+/* .process-box:hover .box-icon:before  */
 .process-box .box-icon:before {
   content: "";
   background-color: #ecf1f5;
+  /* background-color: var(--theme-color); */
   border-radius: 50%;
   position: absolute;
   inset: 30px;
