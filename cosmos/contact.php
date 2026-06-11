@@ -106,7 +106,7 @@ ini_set('display_errors', 1);
   <!--==============================
     Breadcumb
 ============================== -->
-  <div class="breadcumb-wrapper" data-bg-src="assets/img/banners/contact-bg.jpg">
+  <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/contact-bg.jpg">
     <div class="container">
       <div class="breadcumb-content">
         <h1 class="breadcumb-title">Contact Us</h1>
