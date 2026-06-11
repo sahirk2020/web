@@ -40,7 +40,36 @@
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800;900&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800;9..40,900&display=swap" rel="stylesheet">
 
 
+    <style>
+        /* Tooltip Background Color */
+        .tooltip .tooltip-inner {
+            background-color: var(--theme-color2) !important;
+            /* Sky Blue */
+            color: #000;
+            /* Text color */
+            font-size: 14px;
+            font-weight: 500;
+            padding: 10px 12px;
+            border-radius: 6px;
+        }
 
+        /* Tooltip Arrow Color */
+        .tooltip.bs-tooltip-top .tooltip-arrow::before {
+            border-top-color: var(--theme-color2) !important;
+        }
+
+        .tooltip.bs-tooltip-bottom .tooltip-arrow::before {
+            border-bottom-color: var(--theme-color2) !important;
+        }
+
+        .tooltip.bs-tooltip-start .tooltip-arrow::before {
+            border-left-color: var(--theme-color2) !important;
+        }
+
+        .tooltip.bs-tooltip-end .tooltip-arrow::before {
+            border-right-color: var(--theme-color2) !important;
+        }
+    </style>
 
 </head>
 
@@ -50,7 +79,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper" data-bg-src="assets/img/banners/services-bg.jpg">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/services-bg.jpg">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Services</h1>
@@ -63,9 +92,9 @@
     </div>
 
     <!--==============================
-Process Area  
+Service Area  
 ==============================-->
-    <section class="overflow-hidden space-top" id="process-sec">
+    <section class="bg-top-center overflow-hidden space">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
@@ -76,197 +105,408 @@ Process Area
                 </div>
             </div>
 
-            <!-- First Row -->
+            <div class="row gy-4">
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/laundry-service.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_1.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Laundry Service</a></h3>
+                            <p class="service-item_text">Daily wear cleaning with careful washing, stain removal, fresh folding, and doorstep convenience for everyday comfort.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/dry-cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_2.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Dry Cleaning</a></h3>
+                            <p class="service-item_text">Professional fabric-safe dry cleaning designed to protect delicate garments, maintain texture, and preserve garment quality.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/premium-wash.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Premium Wash</a></h3>
+                            <p class="service-item_text">Advanced garment care using premium detergents, gentle processing, and detailed finishing for a cleaner, fresher feel.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/steam-ironing.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_1.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Steam Ironing</a></h3>
+                            <p class="service-item_text">Wrinkle-free finishing with steam ironing that keeps garments crisp, polished, and ready to wear anytime.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/shoe-cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_2.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Shoe Cleaning</a></h3>
+                            <p class="service-item_text">Deep cleaning and restoration for shoes, removing dirt, stains, and odour while maintaining their original finish.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/leather-bag.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Leather & Bag Cleaning</a></h3>
+                            <p class="service-item_text">Careful cleaning and conditioning for leather items and luxury bags to maintain appearance, texture, and durability.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/leather-jacket.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Leather Jacket Cleaning</a></h3>
+                            <p class="service-item_text">Specialized leather jacket treatment that removes dirt, restores softness, and protects the original material finish.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/travelling-bag.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Traveling Bag Cleaning</a></h3>
+                            <p class="service-item_text">Complete cleaning and sanitization for travel bags, removing stains, dust, and odours after every journey.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/carpet-cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Carpet Cleaning</a></h3>
+                            <p class="service-item_text">Deep carpet cleaning that removes embedded dust, allergens, stains, and odours for a fresher living environment.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/sofa-cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Sofa Cleaning</a></h3>
+                            <p class="service-item_text">Professional sofa cleaning for fabric and upholstery, removing dirt, stains, and everyday bacteria buildup effectively.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/Curtain-Cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Curtain Cleaning</a></h3>
+                            <p class="service-item_text">Gentle curtain cleaning that removes dust and odours while maintaining fabric softness, colour, and fall quality.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/Blanket-Bed-Cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Blanket & Bed Linen Cleaning</a></h3>
+                            <p class="service-item_text">Thorough cleaning and sanitization for blankets, bedsheets, and linen to ensure freshness and hygienic everyday use.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/Bed-Mattress-Cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Bed Mattress Cleaning</a></h3>
+                            <p class="service-item_text">Deep mattress cleaning and sanitization that helps remove dust mites, stains, allergens, and unwanted odours effectively.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-xl-3">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/service/Chair-Cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Institutional Chair Cleaning</a></h3>
+                            <p class="service-item_text">Professional chair cleaning services for offices, institutions, and commercial spaces to maintain hygiene and cleanliness standards.</p>
+                            <a href="service-details.html" class="th-btn border">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </div>
+    </section>
+
+    <!--==============================
+Process Area  
+==============================-->
+    <section class="overflow-hidden space-bottom" id="process-sec">
+        <div class="container-fluid">
+            <div class="title-area text-center">
+                <span class="sub-title">Work Process</span>
+                <h2 class="sec-title">How We Work It!</h2>
+            </div>
             <div class="row gy-4 justify-content-center">
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
+                <div class="col-xl-2 col-md-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Every garment is carefully assessed for fabric type, stains, and special care requirements before entering our cleaning process.">
+
                         <div class="box-icon">
-                            <img src="assets/img/icon/process_box_1.svg" alt="icon">
+                            <img src="assets/img/icon/laundry-process/Inspection.svg" alt="icon" width="50" height="50">
                             <div class="icon-shape"></div>
                         </div>
                         <p class="box-number">01</p>
-                        <h3 class="box-title">Laundry Service</h3>
-                        <p class="box-text">Daily wear cleaning with careful washing, stain removal, fresh folding, and doorstep convenience for everyday comfort.</p>
+                        <h3 class="box-title">Inspection</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
+
+                <div class="col-xl-2 col-md-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="A unique identification tag is assigned to every item, ensuring accurate tracking and complete order transparency.">
                         <div class="box-icon">
-                            <img src="assets/img/icon/process_box_2.svg" alt="icon">
+                            <img src="assets/img/icon/laundry-process/tagging.svg" alt="icon" width="50" height="50">
                             <div class="icon-shape"></div>
                         </div>
                         <p class="box-number">02</p>
-                        <h3 class="box-title">Dry Cleaning</h3>
-                        <p class="box-text">Professional fabric-safe dry cleaning designed to protect delicate garments, maintain texture, and preserve garment quality.</p>
+                        <h3 class="box-title">Tagging</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
+
+                <div class="col-xl-2 col-md-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Garments are sorted according to fabric, texture, and cleaning needs to provide the most suitable treatment.">
                         <div class="box-icon">
-                            <img src="assets/img/icon/process_box_3.svg" alt="icon">
+                            <img src="assets/img/icon/laundry-process/sorting.svg" alt="icon" width="60" height="60">
                             <div class="icon-shape"></div>
                         </div>
                         <p class="box-number">03</p>
-                        <h3 class="box-title">Premium Wash</h3>
-                        <p class="box-text">Advanced garment care using premium detergents, gentle processing, and detailed finishing for a cleaner, fresher feel.</p>
+                        <h3 class="box-title">Sorting</h3>
+                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
+                <div class="col-xl-2 col-md-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Clothes are separated by color and fabric category to prevent color transfer and maintain garment quality.">
                         <div class="box-icon">
-                            <img src="assets/img/icon/process_box_4.svg" alt="icon">
+                            <img src="assets/img/icon/laundry-process/color-segregation.svg" alt="icon" width="60" height="60">
                             <div class="icon-shape"></div>
                         </div>
                         <p class="box-number">04</p>
-                        <h3 class="box-title">Steam Ironing</h3>
-                        <p class="box-text">Wrinkle-free finishing with steam ironing that keeps garments crisp, polished, and ready to wear anytime.</p>
+                        <h3 class="box-title">Segregation</h3>
+                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
                     </div>
                 </div>
-            </div>
 
-            <!-- Second Row -->
-            <div class="row gy-4 justify-content-center mt-4">
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
+                <div class="col-xl-2 col-md-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Targeted stain treatment is performed using fabric-safe solutions to effectively address marks without compromising garment integrity.">
                         <div class="box-icon">
-                            <img src="assets/img/icon/process_box_1.svg" alt="icon">
+                            <img src="assets/img/icon/laundry-process/spotting.svg" alt="icon" width="70" height="70">
                             <div class="icon-shape"></div>
                         </div>
                         <p class="box-number">05</p>
-                        <h3 class="box-title">Shoe Cleaning</h3>
-                        <p class="box-text">Deep cleaning and restoration for shoes, removing dirt, stains, and odour while maintaining their original finish.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_2.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">06</p>
-                        <h3 class="box-title">Leather & Bag Cleaning</h3>
-                        <p class="box-text">Careful cleaning and conditioning for leather items and luxury bags to maintain appearance, texture, and durability.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_3.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">07</p>
-                        <h3 class="box-title">Leather Jacket Cleaning</h3>
-                        <p class="box-text">Specialized leather jacket treatment that removes dirt, restores softness, and protects the original material finish.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_4.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">08</p>
-                        <h3 class="box-title">Traveling Bag Cleaning</h3>
-                        <p class="box-text">Complete cleaning and sanitization for travel bags, removing stains, dust, and odours after every journey.</p>
+                        <h3 class="box-title">Spotting</h3>
+                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
                     </div>
                 </div>
             </div>
 
-            <!-- Third Row -->
-            <div class="row gy-4 justify-content-center mt-4">
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
+            <div class="row gy-4 justify-content-center">
+                <div class="col-xl-2 col-md-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Advanced cleaning techniques and premium detergents are used to remove dirt, odors, and stains while protecting fabrics.">
                         <div class="box-icon">
-                            <img src="assets/img/icon/process_box_1.svg" alt="icon">
+                            <img src="assets/img/icon/laundry-process/cleaning.svg" alt="icon" width="50" height="50">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">06</p>
+                        <h3 class="box-title">Cleaning</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Garments are professionally steam pressed and finished to restore their fresh, crisp, and well-maintained appearance.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/finishing.svg" alt="icon" width="60" height="60">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">07</p>
+                        <h3 class="box-title">Finishing</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-md-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Every item undergoes a detailed inspection to ensure it meets our standards for cleanliness and presentation.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/quality-check.svg" alt="icon" width="70" height="70">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">08</p>
+                        <h3 class="box-title">Quality Check</h3>
+                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Freshly cleaned garments are neatly packed using hygienic methods, ready for convenient delivery to your doorstep.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/packaging.svg" alt="icon" width="50" height="50">
                             <div class="icon-shape"></div>
                         </div>
                         <p class="box-number">09</p>
-                        <h3 class="box-title">Carpet Cleaning</h3>
-                        <p class="box-text">Deep carpet cleaning that removes embedded dust, allergens, stains, and odours for a fresher living environment.</p>
+                        <h3 class="box-title">Packaging</h3>
+                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
                     </div>
                 </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_2.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">10</p>
-                        <h3 class="box-title">Sofa Cleaning</h3>
-                        <p class="box-text">Professional sofa cleaning for fabric and upholstery, removing dirt, stains, and everyday bacteria buildup effectively.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_3.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">11</p>
-                        <h3 class="box-title">Curtain Cleaning</h3>
-                        <p class="box-text">Gentle curtain cleaning that removes dust and odours while maintaining fabric softness, colour, and fall quality.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_4.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">12</p>
-                        <h3 class="box-title">Blanket & Bed Linen Cleaning</h3>
-                        <p class="box-text">Thorough cleaning and sanitization for blankets, bedsheets, and linen to ensure freshness and hygienic everyday use.</p>
-                    </div>
-                </div>
+
+
             </div>
-            <!-- Fourth Row -->
-            <div class="row gy-4 justify-content-center mt-4">
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_1.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">13</p>
-                        <h3 class="box-title">Bed Mattress Cleaning</h3>
-                        <p class="box-text">Deep mattress cleaning and sanitization that helps remove dust mites, stains, allergens, and unwanted odours effectively.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_2.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">14</p>
-                        <h3 class="box-title">Institutional Chair Cleaning</h3>
-                        <p class="box-text">Professional chair cleaning services for offices, institutions, and commercial spaces to maintain hygiene and cleanliness standards.</p>
-                    </div>
-                </div>
-                <!-- <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_3.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">03</p>
-                        <h3 class="box-title">Premium Wash</h3>
-                        <p class="box-text">Advanced garment care using premium detergents, gentle processing, and detailed finishing for a cleaner, fresher feel.</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6 process-box-wrap">
-                    <div class="process-box">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/process_box_4.svg" alt="icon">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">04</p>
-                        <h3 class="box-title">Steam Ironing</h3>
-                        <p class="box-text">Wrinkle-free finishing with steam ironing that keeps garments crisp, polished, and ready to wear anytime.</p>
-                    </div>
-                </div> -->
-            </div>
-            <!-- End -->
+
+
         </div>
 
     </section>
@@ -404,170 +644,7 @@ Service Area
     </section> -->
 
 
-    <section class="process-section">
 
-        <div class="container">
-
-            <h2 class="section-title sec-title1">The Laundry Process</h2>
-
-            <div class="process-wrapper">
-
-                <!-- CONNECTED SVG LINE -->
-
-
-                <div class="process-row">
-
-                    <!-- 1 -->
-
-                    <div class="process-step">
-
-
-
-                        <div class="icon-box-process"
-                            data-bs-toggle="tooltip"
-                            title="Every garment is carefully assessed for fabric type, stains, and special care requirements before entering our cleaning process.">
-
-                            <img src="assets/img/icon/inspection.png" alt="icon" width="70" height="70">
-
-                        </div>
-
-                        <h5 class="step-title">1. Inspection</h5>
-
-                    </div>
-
-                    <!-- 2 -->
-
-                    <div class="process-step">
-
-                        <div class="icon-box-process"
-                            data-bs-toggle="tooltip"
-                            title="A unique identification tag is assigned to every item, ensuring accurate tracking and complete order transparency.">
-
-                            <i class="bi bi-funnel"></i>
-                            <img src="assets/img/icon/shirt.png" alt="icon" width="70" height="70">
-
-                        </div>
-
-                        <h5 class="step-title">2. Tagging</h5>
-
-                    </div>
-
-                    <!-- 3 -->
-
-                    <div class="process-step">
-
-                        <div class="icon-box-process"
-                            data-bs-toggle="tooltip"
-                            title="Garments are sorted according to fabric, texture, and cleaning needs to provide the most suitable treatment.">
-
-                            <img src="assets/img/icon/sorting.png" alt="icon" width="70" height="70">
-
-                        </div>
-
-                        <h5 class="step-title">3. Sorting</h5>
-
-                    </div>
-
-                    <!-- 4 -->
-
-                    <div class="process-step">
-
-                        <div class="icon-box-process"
-                            data-bs-toggle="tooltip"
-                            title="Clothes are separated by color and fabric category to prevent color transfer and maintain garment quality.">
-
-                            <img src="assets/img/icon/waste.png" alt="icon" width="70" height="70">
-
-                        </div>
-
-                        <h5 class="step-title">4. Segregation</h5>
-
-                    </div>
-
-                    <!-- 5 -->
-
-                    <div class="process-step">
-
-                        <div class="icon-box-process"
-                            data-bs-toggle="tooltip"
-                            title="Targeted stain treatment is performed using fabric-safe solutions to effectively address marks without compromising garment integrity.">
-
-                            <img src="assets/img/icon/stain.png" alt="icon" width="70" height="70">
-
-                        </div>
-
-                        <h5 class="step-title">5. Spotting</h5>
-
-                    </div>
-
-                    <!-- 6 -->
-
-                    <div class="process-step">
-
-                        <div class="icon-box-process"
-                            data-bs-toggle="tooltip"
-                            title="Advanced cleaning techniques and premium detergents are used to remove dirt, odors, and stains while protecting fabrics.">
-
-                            <img src="assets/img/icon/washing-machine.png" alt="icon" width="70" height="70">
-
-                        </div>
-
-                        <h5 class="step-title">6.Cleaning</h5>
-
-                    </div>
-
-                    <!-- 7 -->
-
-                    <div class="process-step">
-
-                        <div class="icon-box-process"
-                            data-bs-toggle="tooltip"
-                            title="Garments are professionally steam pressed and finished to restore their fresh, crisp, and well-maintained appearance.">
-
-                            <img src="assets/img/icon/iron.png" alt="icon" width="70" height="70">
-
-                        </div>
-
-                        <h5 class="step-title">7. Finishing</h5>
-
-                    </div>
-
-                    <!-- 8 -->
-
-                    <div class="process-step">
-
-                        <div class="icon-box-process"
-                            data-bs-toggle="tooltip"
-                            title="Every item undergoes a detailed inspection to ensure it meets our standards for cleanliness and presentation.">
-
-                            <img src="assets/img/icon/clothes.png" alt="icon" width="70" height="70">
-
-                        </div>
-
-                        <h5 class="step-title">Quality Check</h5>
-
-                    </div>
-                    <div class="process-step">
-
-                        <div class="icon-box-process"
-                            data-bs-toggle="tooltip"
-                            title="Freshly cleaned garments are neatly packed using hygienic methods, ready for convenient delivery to your doorstep.">
-
-                            <img src="assets/img/icon/packing.png" alt="icon" width="70" height="70">
-
-                        </div>
-
-                        <h5 class="step-title">Packaging</h5>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
     <!--==============================
 Faq Area
 ==============================-->
