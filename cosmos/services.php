@@ -113,13 +113,13 @@ Service Area
                                 <img src="assets/img/service/laundry-service.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_1.svg" alt="Icon">
+                                <img src="assets/img/icon/services/laundry-service.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Laundry Service</a></h3>
                             <p class="service-item_text">Daily wear cleaning with careful washing, stain removal, fresh folding, and doorstep convenience for everyday comfort.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -131,13 +131,13 @@ Service Area
                                 <img src="assets/img/service/dry-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_2.svg" alt="Icon">
+                                <img src="assets/img/icon/services/dry-cleaning.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Dry Cleaning</a></h3>
                             <p class="service-item_text">Professional fabric-safe dry cleaning designed to protect delicate garments, maintain texture, and preserve garment quality.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -149,13 +149,13 @@ Service Area
                                 <img src="assets/img/service/premium-wash.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                                <img src="assets/img/icon/services/premium-wash.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Premium Wash</a></h3>
                             <p class="service-item_text">Advanced garment care using premium detergents, gentle processing, and detailed finishing for a cleaner, fresher feel.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -167,13 +167,13 @@ Service Area
                                 <img src="assets/img/service/steam-ironing.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_1.svg" alt="Icon">
+                                <img src="assets/img/icon/services/ironing.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Steam Ironing</a></h3>
                             <p class="service-item_text">Wrinkle-free finishing with steam ironing that keeps garments crisp, polished, and ready to wear anytime.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -185,13 +185,13 @@ Service Area
                                 <img src="assets/img/service/shoe-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_2.svg" alt="Icon">
+                                <img src="assets/img/icon/services/shoe-cleaning.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Shoe Cleaning</a></h3>
                             <p class="service-item_text">Deep cleaning and restoration for shoes, removing dirt, stains, and odour while maintaining their original finish.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -203,13 +203,13 @@ Service Area
                                 <img src="assets/img/service/leather-bag.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                                <img src="assets/img/icon/services/bag-cleaning.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Leather & Bag Cleaning</a></h3>
                             <p class="service-item_text">Careful cleaning and conditioning for leather items and luxury bags to maintain appearance, texture, and durability.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -221,13 +221,13 @@ Service Area
                                 <img src="assets/img/service/leather-jacket.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                                <img src="assets/img/icon/services/leather-and-bag-cleaning.svg" alt="Icon" width="60" height="60">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Leather Jacket Cleaning</a></h3>
                             <p class="service-item_text">Specialized leather jacket treatment that removes dirt, restores softness, and protects the original material finish.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -239,13 +239,13 @@ Service Area
                                 <img src="assets/img/service/travelling-bag.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                                <img src="assets/img/icon/services/traveling-bag-cleaning.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Traveling Bag Cleaning</a></h3>
                             <p class="service-item_text">Complete cleaning and sanitization for travel bags, removing stains, dust, and odours after every journey.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -257,13 +257,13 @@ Service Area
                                 <img src="assets/img/service/carpet-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                                <img src="assets/img/icon/services/carpet-cleaning.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Carpet Cleaning</a></h3>
                             <p class="service-item_text">Deep carpet cleaning that removes embedded dust, allergens, stains, and odours for a fresher living environment.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -275,13 +275,13 @@ Service Area
                                 <img src="assets/img/service/sofa-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                                <img src="assets/img/icon/services/sofa-cleaning.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Sofa Cleaning</a></h3>
                             <p class="service-item_text">Professional sofa cleaning for fabric and upholstery, removing dirt, stains, and everyday bacteria buildup effectively.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -293,13 +293,13 @@ Service Area
                                 <img src="assets/img/service/Curtain-Cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                                <img src="assets/img/icon/services/curtain-cleaning.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Curtain Cleaning</a></h3>
                             <p class="service-item_text">Gentle curtain cleaning that removes dust and odours while maintaining fabric softness, colour, and fall quality.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -311,13 +311,13 @@ Service Area
                                 <img src="assets/img/service/Blanket-Bed-Cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                                <img src="assets/img/icon/services/blanket-and-bed-linen-cleaning.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Blanket & Bed Linen Cleaning</a></h3>
                             <p class="service-item_text">Thorough cleaning and sanitization for blankets, bedsheets, and linen to ensure freshness and hygienic everyday use.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -331,13 +331,13 @@ Service Area
                                 <img src="assets/img/service/Bed-Mattress-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                                <img src="assets/img/icon/services/bed-mattress-cleaning.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Bed Mattress Cleaning</a></h3>
                             <p class="service-item_text">Deep mattress cleaning and sanitization that helps remove dust mites, stains, allergens, and unwanted odours effectively.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -349,13 +349,13 @@ Service Area
                                 <img src="assets/img/service/Chair-Cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/service_2_3.svg" alt="Icon">
+                                <img src="assets/img/icon/services/chair-cleaning.svg" alt="Icon" width="50" height="50">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Institutional Chair Cleaning</a></h3>
                             <p class="service-item_text">Professional chair cleaning services for offices, institutions, and commercial spaces to maintain hygiene and cleanliness standards.</p>
-                            <a href="service-details.html" class="th-btn border">Read More</a>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -448,7 +448,7 @@ Process Area
                 </div>
             </div>
 
-            <div class="row gy-4 justify-content-center">
+            <div class="row gy-4 pt-5 justify-content-center">
                 <div class="col-xl-2 col-md-6 process-box-wrap">
                     <div class="process-box"
                         data-bs-toggle="tooltip"
@@ -648,7 +648,7 @@ Service Area
     <!--==============================
 Faq Area
 ==============================-->
-    <div class="space-top space-bottom overflow-hidden" id="faq-sec">
+    <div class="space-bottom overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6">
