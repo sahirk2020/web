@@ -1,0 +1,13 @@
+
+:root{--gold:#c9a14a;--bg:#ffff;--text:#000}
+body{margin:0;font-family:Arial;background:var(--bg);color:var(--text)}
+.container{width:min(1200px,92%);margin:auto;padding:60px 0}
+.hero{height:70vh;background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6));display:flex;align-items:center}
+.overlay{padding:40px}
+#projectGrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+.card{border:1px solid #333;padding:20px;border-radius:16px}
+.card a,button{background:var(--gold);padding:12px 18px;color:#000;text-decoration:none;border:none}
+.swiper-slide{border:1px solid #333;padding:20px;border-radius:12px}
+.sticky-form{position:fixed;right:20px;bottom:20px;background:#1a1a1a;padding:20px;width:280px}
+.sticky-form input{width:100%;margin:8px 0;padding:10px}
+@media(max-width:768px){.sticky-form{position:static;width:auto;margin:20px}}

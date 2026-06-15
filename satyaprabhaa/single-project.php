@@ -193,6 +193,399 @@ serene living</h6>
     </div>
     <!-- why choose us section end -->
 
+    <!-- our latest projects area start -->
+    <div class="our-latest-project-area rts-section-gapBottom bg-light pt--50" id="gallery">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- title-left -->
+                    <div class="title-area-style-five-center">
+                        <div class="pre-title-area">
+                                <img src="assets/images/about/02.png" alt="about">
+                                <span class="pre-title">Visuals that inspire living</span>
+                            </div>
+                        <h2 class="title">Gallery</h2>
+                    </div>
+                    <!-- title mid text -->
+                </div>
+            </div>
+        </div>
+        <div class="container-full mt--50">
+            <div class="row">
+                <div class="col-gl-12">
+                    <div class="project-area-swiper-five-wrapper">
+                        <div class="swiper mySwiper-project-5">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <!-- sigle projects area start -->
+                                    <div class="gallery-wrapper-one">
+                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/balcony.webp" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/yojangandha/gallery/balcony.webp" class="gallery-image">
+                                            <div class="item-overlay">
+                                                <span>
+                                                    <i class="fa-solid fa-plus"></i>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- sigle projects area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- sigle projects area start -->
+                                    <div class="gallery-wrapper-one">
+                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/entrance.avif" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/yojangandha/gallery/entrance.avif" class="gallery-image">
+                                            <div class="item-overlay">
+                                                <span>
+                                                    <i class="fa-solid fa-plus"></i>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- sigle projects area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- sigle projects area start -->
+                                    <div class="gallery-wrapper-one">
+                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/guest-toilet.avif" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/yojangandha/gallery/guest-toilet.avif" class="gallery-image">
+                                            <div class="item-overlay">
+                                                <span>
+                                                    <i class="fa-solid fa-plus"></i>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- sigle projects area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- sigle projects area start -->
+                                    <div class="gallery-wrapper-one">
+                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/common-washroom.avif" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/yojangandha/gallery/common-washroom.avif" class="gallery-image">
+                                            <div class="item-overlay">
+                                                <span>
+                                                    <i class="fa-solid fa-plus"></i>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- sigle projects area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- sigle projects area start -->
+                                    <div class="gallery-wrapper-one">
+                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/master-bedroom.avif" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/yojangandha/gallery/master-bedroom.avif" class="gallery-image">
+                                            <div class="item-overlay">
+                                                <span>
+                                                    <i class="fa-solid fa-plus"></i>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- sigle projects area end -->
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- our latest projects area end -->
+
+    <!-- rts testimonials area -->
+    <div class="rts-testimonials-area">
+        <div class="container border-top-in-container rts-section-gap">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="top-title-full-w-wrapper">
+                        <!-- title-left -->
+                        <div class="title-area-style-six-left">
+                            <span class="pre">
+                                Amenities
+                            </span>
+                            <h2 class="title">Amenities</h2>
+                        </div>
+                        <!-- title mid text -->
+                        <div class="swiper-buttons">
+                            <div class="swiper-button-next"></div>
+                            <div class="swiper-button-prev"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt--40">
+                <div class="col-lg-12">
+                    <div class="testimonials-wrapper-main-swiper">
+                        <!-- Swiper -->
+                        <div class="swiper mySwiper-testimonials-6">
+                            <div class="swiper-wrapper">
+
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-2.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-3.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-2.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-2.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-3.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-2.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Amelia Luna</h6>
+                                                <span>New Client</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- rts testimonials area end -->
+
     <!-- rts service area start -->
     <div class="rts-service-area rts-section-gap pt-0 pt-md-5" id="floorplan">
         <div class="container">
@@ -324,239 +717,72 @@ serene living</h6>
         </div>
     </div>
     <!-- rts service area end -->
-
-    <!-- our latest projects area start -->
-    <div class="our-latest-project-area rts-section-gapBottom bg-light pt--50" id="gallery">
+     <div class="space-bottom overflow-hidden bg-white" id="faq-sec">
+        <div class="container">
+            <div class="row gx-0">
+                <div class="col-xl-6">
+                    <div class="faqs-page-wrapper-area rts-section-gap">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <!-- title-left -->
-                    <div class="title-area-style-five-center">
-                        <div class="pre-title-area">
-                                <img src="assets/images/about/02.png" alt="about">
-                                <span class="pre-title">Visuals that inspire living</span>
+                
+                <div class="">
+                    <div class="faq-style-two">
+                        <div class="left-accordion-faq rts-slide-up">
+                            <div class="title-faq-area-2">
+                                <div class="title-area-style-six-left">
+                                    <span class="pre">
+                                        Connectivity
+                                    </span>
+                                    <h2 class="title">Nearby Locations</h2>
+                                </div>
                             </div>
-                        <h2 class="title">Gallery</h2>
-                    </div>
-                    <!-- title mid text -->
-                </div>
-            </div>
-        </div>
-        <div class="container-full mt--50">
-            <div class="row">
-                <div class="col-gl-12">
-                    <div class="project-area-swiper-five-wrapper">
-                        <div class="swiper mySwiper-project-5">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <!-- sigle projects area start -->
-                                    <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/balcony.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/balcony.webp" class="gallery-image">
-                                            <div class="item-overlay">
-                                                <span>
-                                                    <i class="fa-solid fa-plus"></i>
-                                                </span>
-                                            </div>
-                                        </a>
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                            How much does a home remodeling cost?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            Projects vary widely depending on your needs and budget. Our visit with
+                                            you to better understand your home remodeling needs.
+                                        </div>
                                     </div>
-                                    <!-- sigle projects area end -->
                                 </div>
-                                <div class="swiper-slide">
-                                    <!-- sigle projects area start -->
-                                    <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/entrance.avif" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/entrance.avif" class="gallery-image">
-                                            <div class="item-overlay">
-                                                <span>
-                                                    <i class="fa-solid fa-plus"></i>
-                                                </span>
-                                            </div>
-                                        </a>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            How much does a home Building cost?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            Projects vary widely depending on your needs and budget. Our visit with
+                                            you to better understand your home remodeling needs.
+                                        </div>
                                     </div>
-                                    <!-- sigle projects area end -->
                                 </div>
-                                <div class="swiper-slide">
-                                    <!-- sigle projects area start -->
-                                    <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/guest-toilet.avif" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/guest-toilet.avif" class="gallery-image">
-                                            <div class="item-overlay">
-                                                <span>
-                                                    <i class="fa-solid fa-plus"></i>
-                                                </span>
-                                            </div>
-                                        </a>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            Why do roofing estimates vary so widely?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            Projects vary widely depending on your needs and budget. Our visit with
+                                            you to better understand your home remodeling needs.
+                                        </div>
                                     </div>
-                                    <!-- sigle projects area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- sigle projects area start -->
-                                    <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/common-washroom.avif" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/common-washroom.avif" class="gallery-image">
-                                            <div class="item-overlay">
-                                                <span>
-                                                    <i class="fa-solid fa-plus"></i>
-                                                </span>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <!-- sigle projects area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- sigle projects area start -->
-                                    <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/master-bedroom.avif" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/master-bedroom.avif" class="gallery-image">
-                                            <div class="item-overlay">
-                                                <span>
-                                                    <i class="fa-solid fa-plus"></i>
-                                                </span>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <!-- sigle projects area end -->
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- our latest projects area end -->
-     <div class="space-bottom overflow-hidden bg-white" id="faq-sec">
-        <div class="container">
-            <div class="row gx-0">
-                <div class="col-xl-6">
-                    <div class="faq-area style3">
-                        <div class="title-area mb-40">
-                            <span class="sub-title style2 text-anime">Connectivity</span>
-                            <h2 class="sec-title split-text">Nearby<span class="text-theme"> Locations</span></h2>
-                        </div>
-                        <div class="accordion-area accordion" id="faqAccordion3">
-
-
-
-                            <div class="accordion-card  wow fadeInUp" data-wow-delay=".1s">
-                                <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">1. WORKSPACES</button>
-                                </div>
-                                <div id="collapse-1" class="accordion-collapse collapse " aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion3">
-                                    <div class="accordion-body">
-                                        <p class="faq-text">
-                                            <ul>
-                                                <li>Hinjewadi Phase 1 Metro Station (Upcoming) - 5 mins</li>
-                                                <li>Pune-Bengaluru Highway (NH48) - 8 min</li>
-                                                <li>Pune Mumbai Expressway (Kiwale Point) - 8 min</li>
-                                            </ul>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                            <div class="accordion-card active wow fadeInUp" data-wow-delay=".3s">
-                                <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">2. HEALTHCARE CENTRES</button>
-                                </div>
-                                <div id="collapse-2" class="accordion-collapse collapse show" aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion3">
-                                    <div class="accordion-body">
-                                        <p class="faq-text"><ul>
-                                                <li>Ruby Hall Hinjewadi - 10 mins</li>
-                                                <li>Pentagon Hospital - 15 mins</li>
-                                                <li>Surya Mother & Child Care Hospital - 17 mins</li>
-                                                <li>Aditya Birla Memorial - 20 mins</li>
-                                                <li>Manipal Hospitals - 25 mins</li>
-                                                <li>Phoenix Hospital, Wakad - 25 min</li>
-                                            </ul>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                            <div class="accordion-card  wow fadeInUp" data-wow-delay=".5s">
-                                <div class="accordion-header" id="collapse-item-3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">3. SCHOOLS</button>
-                                </div>
-                                <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion3">
-                                    <div class="accordion-body">
-                                        <p class="faq-text"><ul>
-                                                <li>Blue Ridge Public School - 4 mins</li>
-                                                <li>Symbiosis Institute of International Business (SIIB) - 7 mins</li>
-                                                <li>ELPRO International School - 10 mins</li>
-                                                <li>Mercedes-Benz International School - 10 mins</li>
-                                                <li>Indira Institute of Management - 10 mins</li>
-                                                <li>International Institute of Information Technology - 12 min</li>
-                                                <li>National Insurance Academy - 20 mins</li>
-                                            </ul>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                            <div class="accordion-card  wow fadeInUp" data-wow-delay=".7s">
-                                <div class="accordion-header" id="collapse-item-4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">4. HOTELS</button>
-                                </div>
-                                <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion3">
-                                    <div class="accordion-body">
-                                        <ul>
-                                                <li>Hyatt Place, Hinjewadi - 8 mins</li>
-                                                <li>Courtyard by Marriott, Hinjewadi - 10 mins</li>
-                                                <li>Holiday Inn Express - 10 mins</li>
-                                                <li>Vivanta by Taj - 10 mins</li>
-                                                <li>Radisson Blu Pune Hinjawadi - 10 mins</li>
-                                                <li>Lemon Tree Hotel, Hinjawadi, Pune - 10 mins</li>
-                                                <li>Hilton Garden Inn Pune Hinjawadi - 12 mins</li>
-                                            </ul>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                            <div class="accordion-card  wow fadeInUp" data-wow-delay=".8s">
-                                <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">5. SHOPPING DESTINATIONS</button>
-                                </div>
-                                <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion3">
-                                    <div class="accordion-body">
-                                        <ul>
-                                                <li>Xion Mall - 10 mins</li>
-                                                <li>Grand High Street - 12 mins</li>
-                                                <li>Vision One Mall - 18 mins</li>
-                                                <li>Phoenix Mall - 20 mins</li>
-                                                <li>Balewadi High Street - 15 mins</li>
-                                                <li>Elpro City Square Mall - 28 mins</li>
-                                                <li>Pavilion Mall - 35 Mins</li>
-                                            </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-card  wow fadeInUp" data-wow-delay=".8s">
-                                <div class="accordion-header" id="collapse-item-6">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">6. COLLEGES</button>
-                                </div>
-                                <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion3">
-                                    <div class="accordion-body">
-                                        <ul>
-                                            <li>National Institute of Construction Management - 18 mins</li>
-                                            <li>DY Patil B School - 20 mins</li>
-                                            <li>Balaji University - 21 mins</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
                 <div class="col-xl-6 pt-5"><iframe class="h-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4023692973665!2d73.809192!3d18.510710599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfba52281ae1%3A0xde5a7d3f1a3d7483!2sYojangandha%20Society!5e0!3m2!1sen!2sin!4v1780651730009!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
                   

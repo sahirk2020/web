@@ -18,7 +18,7 @@
 
     <!-- header three area start -->
     <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image">
+    <div class="breadcrumb-area-bg bg_image_completed_projects">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

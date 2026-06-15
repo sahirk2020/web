@@ -6,6 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Innovat Architecture HTML Template</title>
     <?php include 'css.php'; ?>
+    <style>
+        .bg_image {
+            background-image: url(assets/images/banner/bg/Terms-&-Conditions.jpg);
+        }
+        </style>
 </head>
 
 <body>
@@ -37,11 +42,11 @@
 
 
     <!-- terms and condition area main -->
-    <div class="terms-and-condition-wrapper rts-section-gap">
+    <div class="terms-and-condition-wrapper rts-section-gap" >
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="terms-wrapper-main">
+                    <div class="">
                         <h4 class="title">Introduction</h4>
                         <p class="disc">
                             Welcome to the Satyaprabhaa website. By accessing or using this website, you agree to be bound by these Terms & Conditions. If you do not agree with any part of these terms, please discontinue use of the website
