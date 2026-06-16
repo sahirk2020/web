@@ -195,7 +195,7 @@ h6,
   word-break: break-word;
   font-family: var(--font-playfair);
   line-height: 1.4074;
-  color: var(--color-heading-1);
+  color: #000;
 }
 
 h1,
@@ -349,7 +349,7 @@ p {
   font-size: 15px;
   line-height: 25px;
   font-weight: var(--p-regular);
-  color: var(--color-body);
+  color: #30373E;
   margin: 0 0 40px;
 }
 @media only screen and (max-width: 767px) {
@@ -15184,7 +15184,7 @@ a {
   background: #30373E;
 }
 .title-area-style-five-center .title {
-  color: #30373E;
+  color: #000;
   font-size: 48px;
   font-style: normal;
   font-weight: 600;
@@ -18261,6 +18261,7 @@ a {
   transform: scale(1.1);
 }
 .singe-serice-style-two a.thumbnail {
+  /* padding: 0 50px; */
   overflow: hidden;
   display: block;
 }
@@ -22649,7 +22650,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   margin-top: 20px;
 }
 .single-footer-wized .contact-information-1 .single-contact-info .icon {
-  font-size: 29px;
+  font-size: 18px;
   color: var(--color-primary);
 }
 .single-footer-wized .contact-information-1 .single-contact-info .information a {
@@ -23382,14 +23383,14 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 }
 .gallery-wrapper-one .gallery-image .item-overlay span {
   color: #ffff;
-  width: 80px;
-  height: 80px;
-  line-height: 84px;
+  width: 40px;
+  height: 40px;
+  line-height: 41px;
   display: block;
   border-radius: 50%;
   text-align: center;
   background: var(--color-primary);
-  font-size: 23px;
+  font-size: 14px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -23438,7 +23439,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 
 .cta-area-two {
   height: 500px;
-  background-image: url(../images/cta/01.jpg);
+  background: linear-gradient(45deg, #0000003d, #0000003d),url(../images/projects/yojangandha/yojangha-768x433.webp) no-repeat center center / cover;
   background-attachment: fixed;
 }
 .cta-area-two .vedio-icone span {

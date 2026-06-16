@@ -46,7 +46,7 @@
                     <!-- single portfolio grid col-2 -->
                     <div class="portfolio-grid-col-2-single rts-portfolio__item">
                         <a href="product-details-1.html" class="thumbnail">
-                            <img src="assets/images/project/yojangandha-project-vEtoZ2axDp8SJ9hZ.avif" alt="portfolio">
+                            <img src="assets/images/projects/yojangandha/yojangandha-1000x554.webp" alt="portfolio">
                         </a>
                         <div class="inner-text">
                             <a href="product-details-1.html">
@@ -63,7 +63,7 @@
                     <!-- single portfolio grid col-2 -->
                     <div class="portfolio-grid-col-2-single rts-portfolio__item pl--30 pl_sm--0">
                         <a href="product-details-1.html" class="thumbnail">
-                            <img src="assets/images/project/lotus-shalaka-project-1.avif" alt="portfolio">
+                            <img src="assets/images/projects/lotus-shalaka/shalaka-600x627.webp" alt="portfolio">
                         </a>
                         <div class="inner-text">
                             <a href="product-details-1.html">
