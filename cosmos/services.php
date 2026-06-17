@@ -32,12 +32,17 @@
     <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
+    <!-- <link rel="stylesheet" href="<?php //echo BASE_URL; 
+                                        ?>assets/css/price-table-new.css" /> -->
+
     <!--==============================
 	  Google Fonts
 	============================== -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800;900&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800;9..40,900&display=swap" rel="stylesheet">
+
+
 
 
     <style>
@@ -74,7 +79,9 @@
 </head>
 
 <body>
-    <?php include 'components/header.php'; ?>
+    <?php
+    include 'components/header.php';
+    ?>
 
     <!--==============================
     Breadcumb
@@ -185,7 +192,7 @@ Service Area
                                 <img src="assets/img/service/shoe-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/services/shoe-cleaning.svg" alt="Icon" width="50" height="50">
+                                <img src="assets/img/icon/services/shoe-cleaning.svg" alt="Icon" width="60" height="60">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
@@ -221,7 +228,7 @@ Service Area
                                 <img src="assets/img/service/leather-jacket.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/services/leather-and-bag-cleaning.svg" alt="Icon" width="60" height="60">
+                                <img src="assets/img/icon/services/leather-and-bag-cleaning.svg" alt="Icon" width="70" height="70">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
@@ -275,7 +282,7 @@ Service Area
                                 <img src="assets/img/service/sofa-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
-                                <img src="assets/img/icon/services/sofa-cleaning.svg" alt="Icon" width="50" height="50">
+                                <img src="assets/img/icon/services/sofa-cleaning.svg" alt="Icon" width="60" height="60">
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
@@ -511,139 +518,201 @@ Process Area
 
     </section>
 
-    <!--==============================
-Service Area  
-==============================-->
-    <!-- <section class="bg-top-center overflow-hidden space">
+    <!-- =====================================
+        Cosmos Laundry Price Section
+====================================== -->
+
+    <?php
+
+
+    function getLaundryItems($conn, $category)
+    {
+        $sql = "
+        SELECT
+            item_name,
+            premium_wash,
+            dry_cleaning,
+            steam_ironing
+        FROM laundry_price_items
+        WHERE category_name = ?
+        AND status = 1
+        ORDER BY display_order ASC
+    ";
+
+        $stmt = mysqli_prepare($conn, $sql);
+        mysqli_stmt_bind_param($stmt, "s", $category);
+        mysqli_stmt_execute($stmt);
+
+        return mysqli_stmt_get_result($stmt);
+    }
+    ?>
+
+    <section class="laundry-price-area space-bottom">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-6 offset-lg-3">
-                    <div class="title-area text-center">
-                        <span class="sub-title">Our Laundry Process</span>
-                        <h2 class="sec-title">How We Work It!</h2>
+
+
+
+            <!-- Tabs -->
+            <ul class="nav nav-tabs laundry-tabs justify-content-center"
+                id="laundryTab"
+                role="tablist">
+
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active"
+                        id="mens-tab"
+                        data-bs-toggle="tab"
+                        data-bs-target="#mens"
+                        type="button">
+
+                        <!-- <i class="fa fa-user"></i> -->
+                        <img src="<?php echo BASE_URL; ?>assets/img/icon/price-table/mens.svg" width="30" height="30" alt="Mens Icon" class="tab-icon" />
+                        Mens
+                    </button>
+                </li>
+
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link"
+                        id="womens-tab"
+                        data-bs-toggle="tab"
+                        data-bs-target="#womens"
+                        type="button">
+
+                        <!-- <i class="fa fa-female"></i> -->
+                        <img src="<?php echo BASE_URL; ?>assets/img/icon/price-table/woman.svg" width="30" height="30" alt="Womens Icon" class="tab-icon" />
+                        Womens
+                    </button>
+                </li>
+
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link"
+                        id="kids-tab"
+                        data-bs-toggle="tab"
+                        data-bs-target="#kids"
+                        type="button">
+
+                        <!-- <i class="fa fa-child"></i> -->
+                        <img src="<?php echo BASE_URL; ?>assets/img/icon/price-table/kids.svg" width="30" height="30" alt="Kids Icon" class="tab-icon" />
+                        Kids
+                    </button>
+                </li>
+
+
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link"
+                        id="household-tab"
+                        data-bs-toggle="tab"
+                        data-bs-target="#household"
+                        type="button">
+
+                        <!-- <i class="fa fa-bed"></i> -->
+                        <img src="<?php echo BASE_URL; ?>assets/img/icon/price-table/household.svg" width="30" height="30" alt="Household Icon" class="tab-icon" />
+                        Household
+                    </button>
+                </li>
+
+
+                <!-- <li class="nav-item" role="presentation">
+                            <button class="nav-link"
+                                id="luxury-tab"
+                                data-bs-toggle="tab"
+                                data-bs-target="#luxury"
+                                type="button">
+
+                                <i class="fa fa-diamond"></i> Luxury
+                            </button>
+                        </li> -->
+
+            </ul>
+
+            <div class="tab-content laundry-tab-content">
+
+                <?php
+                $categories = [
+                    'mens'      => 'Mens',
+                    'womens'    => 'Womens',
+                    'kids'      => 'Kids',
+                    'household' => 'Household'
+                ];
+
+                foreach ($categories as $tabId => $category) {
+
+                    $result = getLaundryItems($conn, $category);
+                ?>
+
+                    <div class="tab-pane fade <?php echo ($tabId == 'mens') ? 'show active' : ''; ?>"
+                        id="<?php echo $tabId; ?>">
+
+                        <div class="price-table-wrap table-responsive">
+
+                            <table class="laundry-price-table">
+
+                                <thead>
+                                    <tr>
+                                        <th>Item List</th>
+                                        <th>Premium Wash</th>
+                                        <th>Dry Cleaning</th>
+                                        <th>Steam Ironing</th>
+                                    </tr>
+                                </thead>
+
+                                <tbody>
+
+                                    <?php while ($row = mysqli_fetch_assoc($result)) { ?>
+
+                                        <tr>
+
+                                            <td data-label="Item List">
+                                                <?php echo htmlspecialchars($row['item_name']); ?>
+                                            </td>
+
+                                            <td data-label="Premium Wash">
+                                                <span>
+                                                    <?php
+                                                    echo !empty($row['premium_wash'])
+                                                        ? '₹' . htmlspecialchars($row['premium_wash'])
+                                                        : '-';
+                                                    ?>
+                                                </span>
+                                            </td>
+
+                                            <td data-label="Dry Cleaning">
+                                                <span>
+                                                    <?php
+                                                    echo !empty($row['dry_cleaning'])
+                                                        ? '₹' . htmlspecialchars($row['dry_cleaning'])
+                                                        : '-';
+                                                    ?>
+                                                </span>
+                                            </td>
+
+                                            <td data-label="Steam Ironing">
+                                                <span>
+                                                    <?php
+                                                    echo !empty($row['steam_ironing'])
+                                                        ? '₹' . htmlspecialchars($row['steam_ironing'])
+                                                        : '-';
+                                                    ?>
+                                                </span>
+                                            </td>
+
+                                        </tr>
+
+                                    <?php } ?>
+
+                                </tbody>
+
+                            </table>
+
+                        </div>
+
                     </div>
-                </div>
+
+                <?php } ?>
+
             </div>
-            <div class="slider-area">
-                <div class="swiper th-slider has-shadow" id="serviceSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="service-item">
-                                <div class="service-item_wrapper">
-                                    <div class="service-item_img">
-                                        <img src="assets/img/service/service_box_1.jpg" alt="img">
-                                    </div>
-                                    <div class="service-item_icon">
-                                        <img src="assets/img/icon/service_2_1.svg" alt="Icon">
-                                    </div>
-                                </div>
-                                <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                                    <h3 class="box-title"><a href="service-details.html">Inspection</a></h3>
-                                    <p class="service-item_text">Every garment is carefully assessed for fabric type, stains, and special care requirements before entering our cleaning process.</p>
-                                    <a href="service-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
 
-                        <div class="swiper-slide">
-                            <div class="service-item">
-                                <div class="service-item_wrapper">
-                                    <div class="service-item_img">
-                                        <img src="assets/img/service/service_box_2.jpg" alt="img">
-                                    </div>
-                                    <div class="service-item_icon">
-                                        <img src="assets/img/icon/service_2_2.svg" alt="Icon">
-                                    </div>
-                                </div>
-                                <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                                    <h3 class="box-title"><a href="service-details.html">Household Textile Care</a></h3>
-                                    <p class="service-item_text">The frequency of dry cleaning depends on factors like the type of garment man</p>
-                                    <a href="service-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="service-item">
-                                <div class="service-item_wrapper">
-                                    <div class="service-item_img">
-                                        <img src="assets/img/service/service_box_3.jpg" alt="img">
-                                    </div>
-                                    <div class="service-item_icon">
-                                        <img src="assets/img/icon/service_2_3.svg" alt="Icon">
-                                    </div>
-                                </div>
-                                <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                                    <h3 class="box-title"><a href="service-details.html">Leather & Suede Care</a></h3>
-                                    <p class="service-item_text">While many fabrics can dry cleaned some extremely delicate or heavily embellished</p>
-                                    <a href="service-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="service-item">
-                                <div class="service-item_wrapper">
-                                    <div class="service-item_img">
-                                        <img src="assets/img/service/service_box_4.jpg" alt="img">
-                                    </div>
-                                    <div class="service-item_icon">
-                                        <img src="assets/img/icon/service_2_1.svg" alt="Icon">
-                                    </div>
-                                </div>
-                                <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                                    <h3 class="box-title"><a href="service-details.html">Dry Cleaning</a></h3>
-                                    <p class="service-item_text">Dry cleaning is a method of cleaning clothing and textiles that uses a solvent.</p>
-                                    <a href="service-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="service-item">
-                                <div class="service-item_wrapper">
-                                    <div class="service-item_img">
-                                        <img src="assets/img/service/service_box_5.jpg" alt="img">
-                                    </div>
-                                    <div class="service-item_icon">
-                                        <img src="assets/img/icon/service_2_2.svg" alt="Icon">
-                                    </div>
-                                </div>
-                                <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                                    <h3 class="box-title"><a href="service-details.html">Wash & Fold</a></h3>
-                                    <p class="service-item_text">Wash and fold (also known as drop-off laundry or fluff and fold a laundry service.</p>
-                                    <a href="service-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="service-item">
-                                <div class="service-item_wrapper">
-                                    <div class="service-item_img">
-                                        <img src="assets/img/service/service_box_1.jpg" alt="img">
-                                    </div>
-                                    <div class="service-item_icon">
-                                        <img src="assets/img/icon/service_2_3.svg" alt="Icon">
-                                    </div>
-                                </div>
-                                <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                                    <h3 class="box-title"><a href="service-details.html">Ironing/Pressing</a></h3>
-                                    <p class="service-item_text">Ironing or pressing is the process of using a heated iron or press to out wrinkles</p>
-                                    <a href="service-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-                <button data-slider-prev="#serviceSlider1" class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button>
-                <button data-slider-next="#serviceSlider1" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
-            </div>
         </div>
-    </section> -->
-
-
+    </section>
 
     <!--==============================
 Faq Area
