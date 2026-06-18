@@ -3,9 +3,9 @@
         <div class="container">
             <div class="new-header">
                 <!-- logo area start -->
-        <a href="index.php" class="logo d-flex align-items-center">
+        <a href="index.php" class="logo gap-2 d-flex align-items-center">
             <img src="assets/images/logo/Satyaprabhaa-logo.svg" width="250" alt="Satyaprabhaa-logo.svg">
-            <img class="pl--5" src="assets/images/logo/swastiklogo.svg" alt="logo" style="border-left: 1px solid;">
+            <img class="pl--5" width="50"src="assets/images/logo/swastiklogo.svg" alt="logo" style="border-left: 1px solid;">
         </a>
         <!-- logo area end -->
         <div class="nav-area-center">
@@ -13,9 +13,6 @@
                 <ul class="parent-ul my-0">
                     <li class="">
                         <a class="nav-link" href="index.php">Home</a>
-                    </li>
-                    <li class="has-dropdown">
-                        <a class="nav-link" href="about-us.php">About Us</a>
                     </li>
                     <li class="has-dropdown with-megamenu">
                         <a class="nav-link" href="">Projects</a>
@@ -35,7 +32,16 @@
                                     <li><a class="sdm-main" href="">Deepak Dev</a></li>
                                 </ul>
                             </li>
+                            <li class="mega-menu-item">
+                                <ul class="pages">
+                                    <li><a class="sdm-main" href="completed-projects.php">Completed Projects</a></li>
+                                    
+                                </ul>
+                            </li>
                         </ul>
+                    </li>
+                    <li class="">
+                        <a class="nav-link" href="about-us.php">About Us</a>
                     </li>
                     <li class="has-dropdown">
                         <a class="nav-link" href="contact-us.php">Contact Us</a>

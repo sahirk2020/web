@@ -329,10 +329,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/power-bkp-lifts.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Power Backup & Lifts</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -350,10 +350,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-2.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/pipe-gas-kitchen-bar.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Piped Gas & Open Kitchen Bar</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -371,10 +371,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-3.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/pets-park.svg" alt="pets-park.svg">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Pets Park</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>

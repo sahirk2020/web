@@ -46,21 +46,21 @@
                     <!-- team area start -->
                     <div class="team-area-start-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/projects/completed/demo.webp" alt="demo">
+                            <img src="assets/images/projects/completed/lotusarena.webp" alt="demo">
                         </a>
                         <div class="team-content">
                             <div class="name-area">
-                                <h6 class="name">Seva</h6>
-                                <span class="desig">Architecture</span>
+                                <h6 class="name">Lotus Arena</h6>
+                                <span class="desig">Wadgaonsheri, Pune</span>
                             </div>
-                            <div class="social-team-one">
+                            <!-- <div class="social-team-one">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <!-- team area end -->
@@ -69,21 +69,21 @@
                     <!-- team area start -->
                     <div class="team-area-start-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/projects/completed/demo.webp" alt="demo">
+                            <img src="assets/images/projects/completed/lotus-aroma.webp" alt="lotus-aroma.webp">
                         </a>
                         <div class="team-content">
                             <div class="name-area">
-                                <h6 class="name">David Leo</h6>
-                                <span class="desig">Architecture</span>
+                                <h6 class="name">Lotus Aroma</h6>
+                                <span class="desig">Aundh, Pune</span>
                             </div>
-                            <div class="social-team-one">
+                            <!-- <div class="social-team-one">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <!-- team area end -->
@@ -92,21 +92,21 @@
                     <!-- team area start -->
                     <div class="team-area-start-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/projects/completed/demo.webp" alt="demo">
+                            <img src="assets/images/projects/completed/lotus-blue.webp" alt="demo">
                         </a>
                         <div class="team-content">
                             <div class="name-area">
-                                <h6 class="name">Seva</h6>
-                                <span class="desig">Architecture</span>
+                                <h6 class="name">Lotus Blue</h6>
+                                <span class="desig">Erandwane, Pune</span>
                             </div>
-                            <div class="social-team-one">
+                            <!-- <div class="social-team-one">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <!-- team area end -->
@@ -115,21 +115,21 @@
                     <!-- team area start -->
                     <div class="team-area-start-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/projects/completed/demo.webp" alt="demo">
+                            <img src="assets/images/projects/completed/lotus-diddhi.webp" alt="lotus-diddhi.webp">
                         </a>
                         <div class="team-content">
                             <div class="name-area">
-                                <h6 class="name">Seva</h6>
-                                <span class="desig">Architecture</span>
+                                <h6 class="name">Lotus Siddhi</h6>
+                                <span class="desig">Aundh, Pune</span>
                             </div>
-                            <div class="social-team-one">
+                            <!-- <div class="social-team-one">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <!-- team area end -->
@@ -138,21 +138,21 @@
                     <!-- team area start -->
                     <div class="team-area-start-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/projects/completed/demo.webp" alt="demo">
+                            <img src="assets/images/projects/completed/lotus-grace.webp" alt="lotus-grace.webp">
                         </a>
                         <div class="team-content">
                             <div class="name-area">
-                                <h6 class="name">Seva</h6>
-                                <span class="desig">Architecture</span>
+                                <h6 class="name">Lotus Grace</h6>
+                                <span class="desig">Dhanori, Pune</span>
                             </div>
-                            <div class="social-team-one">
+                            <!-- <div class="social-team-one">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <!-- team area end -->
@@ -161,21 +161,21 @@
                     <!-- team area start -->
                     <div class="team-area-start-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/projects/completed/demo.webp" alt="demo">
+                            <img src="assets/images/projects/completed/lotus-nilaya.webp" alt="lotus-nilaya.webp">
                         </a>
                         <div class="team-content">
                             <div class="name-area">
-                                <h6 class="name">Seva</h6>
-                                <span class="desig">Architecture</span>
+                                <h6 class="name">Lotus Nilaya</h6>
+                                <span class="desig">Amravati, Maharashtra</span>
                             </div>
-                            <div class="social-team-one">
+                            <!-- <div class="social-team-one">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <!-- team area end -->
@@ -184,21 +184,21 @@
                     <!-- team area start -->
                     <div class="team-area-start-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/projects/completed/demo.webp" alt="demo">
+                            <img src="assets/images/projects/completed/lotus-pinacle.webp" alt="lotus-pinacle.webp">
                         </a>
                         <div class="team-content">
                             <div class="name-area">
-                                <h6 class="name">Seva</h6>
-                                <span class="desig">Architecture</span>
+                                <h6 class="name">Lotus Pinnacle</h6>
+                                <span class="desig">Tilakwadi, Belgaum</span>
                             </div>
-                            <div class="social-team-one">
+                            <!-- <div class="social-team-one">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <!-- team area end -->
@@ -207,21 +207,90 @@
                     <!-- team area start -->
                     <div class="team-area-start-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/projects/completed/demo.webp" alt="demo">
+                            <img src="assets/images/projects/completed/lotus-pinacle-b.webp" alt="lotus-pinacle-b.webp">
                         </a>
                         <div class="team-content">
                             <div class="name-area">
-                                <h6 class="name">Seva</h6>
-                                <span class="desig">Architecture</span>
+                                <h6 class="name">Lotus Pinnacle B</h6>
+                                <span class="desig">Mamurdi, Pune</span>
                             </div>
-                            <div class="social-team-one">
+                            <!-- <div class="social-team-one">
                                 <ul>
                                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                                     <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                 </ul>
+                            </div> -->
+                        </div>
+                    </div>
+                    <!-- team area end -->
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                    <!-- team area start -->
+                    <div class="team-area-start-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/projects/completed/lotus-residency.webp" alt="lotus-residency.webp">
+                        </a>
+                        <div class="team-content">
+                            <div class="name-area">
+                                <h6 class="name">Lotus Residency</h6>
+                                <span class="desig">Kothrud, Pune</span>
                             </div>
+                            <!-- <div class="social-team-one">
+                                <ul>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                </ul>
+                            </div> -->
+                        </div>
+                    </div>
+                    <!-- team area end -->
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                    <!-- team area start -->
+                    <div class="team-area-start-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/projects/completed/lotus-riddhi.webp" alt="lotus-riddhi.webp">
+                        </a>
+                        <div class="team-content">
+                            <div class="name-area">
+                                <h6 class="name">Lotus Riddhi</h6>
+                                <span class="desig">Aundh, Pune</span>
+                            </div>
+                            <!-- <div class="social-team-one">
+                                <ul>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                </ul>
+                            </div> -->
+                        </div>
+                    </div>
+                    <!-- team area end -->
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                    <!-- team area start -->
+                    <div class="team-area-start-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/projects/completed/lotus-zeinith.webp" alt="lotus-zeinith.webp">
+                        </a>
+                        <div class="team-content">
+                            <div class="name-area">
+                                <h6 class="name">Lotus Zeinith</h6>
+                                <span class="desig">Belgaum, Karnataka</span>
+                            </div>
+                            <!-- <div class="social-team-one">
+                                <ul>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                </ul>
+                            </div> -->
                         </div>
                     </div>
                     <!-- team area end -->

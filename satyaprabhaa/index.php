@@ -47,8 +47,7 @@ Hero Area
                     <div class="about-right-inner-five">
                         <div class="itle-left-style-seven-wrapper">
                             <div class="swastik-logo">
-                                <img width="200" src="assets/images/logo/swastiklogo.svg" alt="logo">
-</div>
+                                <img width="200" src="assets/images/logo/swastiklogo.svg" alt="logo"></div>
                             <span class="pre">
                                 About Us
                             </span>
@@ -119,9 +118,11 @@ Hero Area
                 <div class="col-lg-6 mt_sm--50 mt_md--50">
                     <div class="about-thumbnail-6 rts-reveal-one">
                         <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about">
-                <div class="years-of-experience-patch">
-                        <h4>27+<br><span>Years of Experience</span></h4>
-                    </div></div>
+                    <div class="years-of-experience-patch">
+                        <!-- <img width="150" src="assets/images/27years.png" alt="27years.png"> -->
+                            <h4>27+<br><span>Years of Experience</span></h4>
+                    </div>
+                </div>
                 
             </div>
         </div>

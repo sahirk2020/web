@@ -14493,6 +14493,9 @@ xclip
   align-items: center;
   gap: 60px;
 }
+.has-dropdown.with-megamenu .submenu{
+  gap:10px!important;
+}
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .nav-area-center nav ul {
     /* gap: 30px; */
@@ -14745,11 +14748,12 @@ header .submenu .sub-dropdown .submenu li a:hover {
 .has-dropdown.with-megamenu .submenu {
   width: auto;
   display: flex !important;
-  align-items: center;
-  left: 25%;
+  align-items: self-start;
+  left: 0;
   transform: translate(0px, -20px);
   padding: 15px;
-  background-color: rgb(255 255 255 / 71%);
+  background: #fff;
+  /* background-color: rgb(255 255 255 / 71%); */
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
   /* padding-bottom: 4px; */
@@ -14783,8 +14787,8 @@ header .submenu .sub-dropdown .submenu li a:hover {
   min-width: max-content;
   display: block;
   padding: 12px 35px 12px 25px !important;
-  border-bottom: 1px solid #ebebeb;
-  color: #1F1F25 !important;
+  border-bottom: 1px solid #ddd;
+  color: #000 !important;
   transition: 0.3s;
 }
 .has-dropdown.with-megamenu .submenu li.mega-menu-item ul.pages li a.sdm-main:hover {
@@ -21482,6 +21486,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 }
 .single-testimonials-area-six .author-area img {
   padding: 5px;
+  width:60px;
   border: 1px solid #E3E3E3;
   border-radius: 50%;
 }
@@ -25483,7 +25488,8 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   justify-content: space-between;
   margin-top: 30px;
   padding: 0px 12px 0px 32px;
-  background-color: rgb(255 255 255 / 71%);
+  background-color:#fff;
+  /* background-color: rgb(255 255 255 / 71%); */
   -webkit-backdrop-filter: blur(5px);
   backdrop-filter: blur(5px);
   border-radius: 50px;
@@ -25837,11 +25843,15 @@ font-size: 15px;
 }
 .swastik-logo{
   z-index: -1;
-    opacity: 0.4;
-  position: absolute;
-    width: 60px;
+    opacity: 0.2;
+    position: relative;
+    width: 200px;
     line-height: 60px;
     font-weight: 700;
     /* right: 60px; */
     top: 0px;
+}
+.swastik-logo img{
+  position: absolute;
+  top:0;
 }
