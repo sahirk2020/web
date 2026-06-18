@@ -3,8 +3,9 @@
         <div class="container">
             <div class="new-header">
                 <!-- logo area start -->
-        <a href="index.html" class="logo d-flex align-items-center">
+        <a href="index.php" class="logo d-flex align-items-center">
             <img src="assets/images/logo/Satyaprabhaa-logo.svg" width="250" alt="Satyaprabhaa-logo.svg">
+            <img class="pl--5" src="assets/images/logo/swastiklogo.svg" alt="logo" style="border-left: 1px solid;">
         </a>
         <!-- logo area end -->
         <div class="nav-area-center">

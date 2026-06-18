@@ -20,13 +20,13 @@
                         </div>
                         <div class="single-footer-wized">
                             <div class="menu-links-area">
-                                <h6 class="title">Company</h6>
+                                <h6 class="title">Quick Links</h6>
                                 <ul>
                                     <li><a href="about-us.php">About Us</a></li>
-                                    <li><a href="">Our team</a></li>
-                                    <li><a href="">Our Services</a></li>
-                                    <li><a href="">Work Project</a></li>
-                                    <li><a href="">Careers</a></li>
+                                    <li><a href="events.php">Events</a></li>
+                                    <li><a href="Awards.php">Awards</a></li>
+                                    <li><a href="careers.php">Careers</a></li>
+                                    <li><a href="contacts.php">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -34,11 +34,11 @@
                             <div class="menu-links-area">
                                 <h6 class="title">Useful Links</h6>
                                 <ul>
-                                    <li><a href="about.html">Why Choose</a></li>
-                                    <li><a href="blog-details.html">Read Blog</a></li>
-                                    <li><a href="portfolio-grid-col-4.html">Work Process</a></li>
-                                    <li><a href="faq.html">FAQ’s</a></li>
-                                    <li><a href="contact.html">Support</a></li>
+                                    <li><a href="completed-projects.php">Completed Projects</a></li>
+                                    <li><a href="ongoing-projects.php">Ongoing Projects</a></li>
+                                    <li><a href="upcoming-projects.php">Upcoming Projects</a></li>
+                                    <li><a href="nri-investment.php">NRI Investment</a></li>
+                                    <li><a href="yojangandha.php">Yojangandha</a></li>
                                 </ul>
                             </div>
                         </div>

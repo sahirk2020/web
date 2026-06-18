@@ -19423,6 +19423,7 @@ a {
 .single-product-one {
   position: relative;
   z-index: 1;
+  margin: 20px;
   display: block;
   overflow: hidden;
 }
@@ -23767,6 +23768,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   border: none;
 }
 .faq-style-two .accordion .accordion-item .accordion-body {
+  font-size: 14px;
   padding: 0;
   padding-top: 20px;
 }
@@ -25798,20 +25800,48 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   background: linear-gradient(45deg, #0000003d, #0000003d), 
   url(../images/banner/bg/awards.jpg) no-repeat center center / cover !important;
 }
-.bg_image_careers{
-  background: linear-gradient(45deg, #0000003d, #0000003d), 
-  url(../images/banner/bg/Careers.jpg) no-repeat center center / cover !important;
+.bg_image_nri-investment{
+  background: linear-gradient(45deg, #0000005c, #0000005c), 
+  url(../images/banner/bg/NRI-Investment-Page.jpg) no-repeat center center / cover !important;
 }
-.bg_image_careers{
+.bg_image_news_update{
   background: linear-gradient(45deg, #0000003d, #0000003d), 
-  url(../images/banner/bg/Careers.jpg) no-repeat center center / cover !important;
+  url(../images/banner/bg/News-&-Updates.jpg) no-repeat center center / cover !important;
 }
 
-.bg_image_careers{
+.bg_image_events{
   background: linear-gradient(45deg, #0000003d, #0000003d), 
-  url(../images/banner/bg/Careers.jpg) no-repeat center center / cover !important;
+  url(../images/banner/bg/Events-page-1.jpg) no-repeat center center / cover !important;
 }
 .bg_image_careers {
   background: linear-gradient(45deg, #0000003d, #0000003d), 
   url(../images/banner/bg/Careers.jpg) no-repeat center center / cover !important;
+}
+.years-of-experience-patch{
+  width: fit-content;
+  position:relative;
+    margin-top: -75px !important;
+    line-height: 0;
+    text-align: center;
+}
+.years-of-experience-patch h4{
+  /* position: absolute; */
+    font-size: 82px;
+    padding: 10px;
+    line-height: 28px;
+    background: #fff !important;
+}
+.years-of-experience-patch h4 span{
+font-size: 15px;
+
+}
+.swastik-logo{
+  z-index: -1;
+    opacity: 0.4;
+  position: absolute;
+    width: 60px;
+    line-height: 60px;
+    font-weight: 700;
+    /* right: 60px; */
+    top: 0px;
 }
