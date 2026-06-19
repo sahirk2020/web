@@ -3,7 +3,9 @@
 // echo __DIR__;
 include_once __DIR__ . '/../config.php';
 include_once __DIR__ . '/../css.php';
+include_once __DIR__ . '/db.php';
 ?>
+
 <!--==============================
     Mobile Menu
   ============================== -->
@@ -104,7 +106,7 @@ include_once __DIR__ . '/../css.php';
                         </ul>
                     </div>
                 </div>
-                <div class="col-auto">
+                <div class="col-auto padding-right-30">
                     <div class="social-links">
                         <span class="social-title">Follow Us On:</span>
                         <a href="https://www.facebook.com/profile.php?id=100077069439683#" target="_blank"><i class="fab fa-facebook-f"></i></a>
