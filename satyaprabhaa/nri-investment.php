@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Innovat Architecture HTML Template</title>
+    <?php include 'css.php'; ?>
+</head>
+
+<body>
+    <!-- header three area start -->
+    <?php include 'header.php'; ?>
+    <!-- header three area end -->
+
+    <!-- bread croumba rea start -->
+    <div class="breadcrumb-area-bg bg_image_nri-investment">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="bread-crumb-area-inner">
+                        <div class="breadcrumb-top">
+                            <a href="#">Home</a> /
+                            <a class="active" href="#">NRI Investment</a>
+                        </div>
+                        <div class="bottom-title">
+                            <h1 class="title">NRI Investment</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- bread croumba rea end -->
+
+    <!-- why choose us section start -->
+    <div class="rts-section-gap why-chooseus-section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7 pr--120 pr_sm--0">
+                    <!-- why chooseus section start -->
+                    <div class="why-choose-us-left-two">
+                        <div class="title-left-style-two">
+                            <div class="pre-title">
+                                <span class="pre-title">Legacy</span>
+                                <!-- <img src="assets/images/service/07.png" alt="service"> -->
+                            </div>
+                            <h2 class="title quote">
+                               NRI <br>Investment
+                            </h2>
+                        </div>
+                        <p class="disc">
+                            Lotus Landmarks brings a deep understanding of how spaces shape the way people live and work. Spanning both residential and commercial developments, we combine design sensibility with execution expertise to create beautiful, enduring environments—delivered with consistency, quality, and care.
+                        </p>
+                    </div>
+                    <!-- why chooseus section end -->
+                </div>
+                <div class="col-lg-5 mt_sm--50">
+                    <div class="thumbnail-about-one rts-reveal-one">
+                        <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- why choose us section end -->
+
+    <div class="faqs-page-wrapper-area rts-section-gap">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 pt_sm--50">
+                    <div class="faq-style-two">
+                        <div class="left-accordion-faq rts-slide-up">
+                            <div class="title-faq-area-2">
+                                <div class="title-area-style-six-left">
+                                    <span class="pre">
+                                        Faqs
+                                    </span>
+                                    <h2 class="title">Frequently Asked Questions</h2>
+                                </div>
+                            </div>
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                            How much does a home remodeling cost?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            Projects vary widely depending on your needs and budget. Our visit with
+                                            you to better understand your home remodeling needs.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            How much does a home Building cost?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            Projects vary widely depending on your needs and budget. Our visit with
+                                            you to better understand your home remodeling needs.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="headingThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            Why do roofing estimates vary so widely?
+                                        </button>
+                                    </h2>
+                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            Projects vary widely depending on your needs and budget. Our visit with
+                                            you to better understand your home remodeling needs.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- rts footer area start -->
+    <?php include 'footer.php'; ?>
+    <!-- rts footer area end -->
+
+
+    <div class="grid-line">
+        <div class="grid-lines">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+    </div>
+
+
+
+
+
+    <!-- start loader -->
+    <!-- <div class="loader-wrapper">
+    <div class="loader">
+    </div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+</div> -->
+    <!-- End loader -->
+
+
+    <div id="anywhere-home">
+    </div>
+
+    <?php include 'js.php'; ?>
+
+</body>
+
+</html>

@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.projects {
+    padding: 80px 0;
+}
+
+#projectGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.project-card {
+    background: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, .1);
+}
+
+.project-card img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.content {
+    padding: 20px;
+}
+
+.content h3 {
+    margin: 10px 0;
+}
+
+.content a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 25px;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.hero {
+    height: 600px;
+    position: relative;
+}
+
+.hero img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, .5);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding: 80px;
+
+    color: white;
+}
+
+.details {
+    max-width: 1200px;
+    margin: auto;
+    padding: 80px 20px;
+}
+
+.details h2 {
+    margin: 30px 0 15px;
+}
+
+.details ul {
+    padding-left: 20px;
+}
+
+#brochureBtn {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 14px 30px;
+    background: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}

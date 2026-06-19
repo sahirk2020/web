@@ -439,7 +439,7 @@
             });
             $(document).ready(function () {
                 var swiper = new Swiper(".mySwiper-testimonials-6", {
-                    slidesPerView: 3,
+                    slidesPerView: 4,
                     spaceBetween: 20,
                     loop: true,
                     speed: 1500,
@@ -449,19 +449,19 @@
                     },
                     breakpoints: {
                         1700: {
-                            slidesPerView: 3,
+                            slidesPerView: 4,
                         },
                         1500: {
-                            slidesPerView: 3,
+                            slidesPerView: 4,
                         },
                         1024: {
-                            slidesPerView: 2,
+                            slidesPerView: 4,
                         },
                         768: {
-                            slidesPerView: 2,
+                            slidesPerView: 3,
                         },
                         640: {
-                            slidesPerView: 1,
+                            slidesPerView: 2,
                         },
                         320: {
                             slidesPerView: 1,
