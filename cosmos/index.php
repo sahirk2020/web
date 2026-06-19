@@ -206,7 +206,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/laundry-service.webp" alt="laundry service">
+                                    <img src="assets/img/home/laundry.webp" alt="laundry service">
                                 </div>
                                 <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_1.svg" alt="Icon">
@@ -223,7 +223,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/dry-cleaning.webp" alt="dry cleaning">
+                                    <img src="assets/img/home/dry-cleaning.webp" alt="dry cleaning">
                                 </div>
                                 <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_2.svg" alt="Icon">
