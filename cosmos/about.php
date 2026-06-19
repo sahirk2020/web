@@ -263,7 +263,7 @@
   <!--==============================
     Breadcumb
 ============================== -->
-  <div class="breadcumb-wrapper" data-bg-src="assets/img/bg/about-us.webp">
+  <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/about-banner.webp">
     <div class="container">
       <div class="breadcumb-content">
         <h1 class="breadcumb-title">About Us</h1>
@@ -284,10 +284,10 @@ About Area
         <div class="col-xl-5 mb-40 mb-xl-0">
           <div class="img-box2">
             <div class="img1">
-              <img src="assets/img/normal/about-1.webp" alt="About" />
+              <img src="assets/img/about/about-1-back.webp" alt="About" />
             </div>
             <div class="img2">
-              <img src="assets/img/normal/about-2.webp" alt="Image" />
+              <img src="assets/img/about/about-2-front.webp" alt="Image" />
             </div>
             <div class="about-shape-1"></div>
             <div class="about-shape-2"></div>
@@ -383,7 +383,7 @@ Choose Area
         </div>
         <div class="col col-xl-auto text-center d-none d-xl-block">
           <div class="service-image wow fadeInUp">
-            <img src="assets/img/normal/choose-img.png" alt="" />
+            <img src="assets/img/about/why-cosmos.webp" alt="Why Cosmos" />
           </div>
         </div>
         <div class="col-md-6 col-xl-auto">
@@ -494,7 +494,7 @@ Team Area
     <div class="container z-index-common">
       <div class="title-area text-center">
         <span class="sub-title">Expert Team</span>
-        <h2 class="sec-title">Our Expert Workers</h2>
+        <h2 class="sec-title">Our Strategic team</h2>
       </div>
       <div class="slider-area">
         <div
@@ -516,16 +516,10 @@ Team Area
                 <div class="team-content">
                   <div class="media-body">
                     <h3 class="box-title">
-                      <a href="team-details.html">Kristin Watson</a>
+                      <a href="team-details.html">Purab Bang</a>
                     </h3>
-                    <span class="team-desig">Dry Cleaner</span>
+                    <span class="team-desig">Founder & CEO</span>
                   </div>
-                </div>
-                <div class="th-social">
-                  <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                  <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                  <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                  <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
                 </div>
               </div>
             </div>
@@ -544,16 +538,10 @@ Team Area
                 <div class="team-content">
                   <div class="media-body">
                     <h3 class="box-title">
-                      <a href="team-details.html">Savannah Nguyen</a>
+                      <a href="team-details.html">Naresh Manchanda</a>
                     </h3>
-                    <span class="team-desig">Dry Cleaner</span>
+                    <span class="team-desig">Operations Head</span>
                   </div>
-                </div>
-                <div class="th-social">
-                  <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                  <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                  <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                  <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
                 </div>
               </div>
             </div>
@@ -572,16 +560,10 @@ Team Area
                 <div class="team-content">
                   <div class="media-body">
                     <h3 class="box-title">
-                      <a href="team-details.html">Ronald Richards</a>
+                      <a href="team-details.html">Vibha Bang</a>
                     </h3>
-                    <span class="team-desig">Dry Cleaner</span>
+                    <span class="team-desig">Marketing & Customer Relations</span>
                   </div>
-                </div>
-                <div class="th-social">
-                  <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                  <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                  <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                  <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
                 </div>
               </div>
             </div>
@@ -600,75 +582,15 @@ Team Area
                 <div class="team-content">
                   <div class="media-body">
                     <h3 class="box-title">
-                      <a href="team-details.html">Thiago Almada</a>
+                      <a href="team-details.html">Anoop Madaiya</a>
                     </h3>
-                    <span class="team-desig">Dry Cleaner</span>
+                    <span class="team-desig">Finance & Strategy</span>
                   </div>
-                </div>
-                <div class="th-social">
-                  <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                  <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                  <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                  <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
                 </div>
               </div>
             </div>
 
-            <!-- Single Item -->
-            <div class="swiper-slide">
-              <div class="th-team team-grid">
-                <div class="team-grid_wrapper">
-                  <div class="team-img">
-                    <img src="assets/img/team/team_3_2.jpg" alt="Team" />
-                  </div>
-                  <div class="plus-btn">
-                    <i class="fa-light fa-plus"></i>
-                  </div>
-                </div>
-                <div class="team-content">
-                  <div class="media-body">
-                    <h3 class="box-title">
-                      <a href="team-details.html">Amelia Margaret</a>
-                    </h3>
-                    <span class="team-desig">Dry Cleaner</span>
-                  </div>
-                </div>
-                <div class="th-social">
-                  <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                  <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                  <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                  <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                </div>
-              </div>
-            </div>
 
-            <!-- Single Item -->
-            <div class="swiper-slide">
-              <div class="th-team team-grid">
-                <div class="team-grid_wrapper">
-                  <div class="team-img">
-                    <img src="assets/img/team/team_3_3.jpg" alt="Team" />
-                  </div>
-                  <div class="plus-btn">
-                    <i class="fa-light fa-plus"></i>
-                  </div>
-                </div>
-                <div class="team-content">
-                  <div class="media-body">
-                    <h3 class="box-title">
-                      <a href="team-details.html">William David</a>
-                    </h3>
-                    <span class="team-desig">Dry Cleaner</span>
-                  </div>
-                </div>
-                <div class="th-social">
-                  <a href="https://www.facebook.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                  <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                  <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                  <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
         <button
