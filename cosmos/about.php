@@ -509,9 +509,7 @@ Team Area
                   <div class="team-img">
                     <img src="assets/img/team/team_3_1.jpg" alt="Team" />
                   </div>
-                  <div class="plus-btn">
-                    <i class="fa-light fa-plus"></i>
-                  </div>
+
                 </div>
                 <div class="team-content">
                   <div class="media-body">
@@ -531,9 +529,7 @@ Team Area
                   <div class="team-img">
                     <img src="assets/img/team/team_3_2.jpg" alt="Team" />
                   </div>
-                  <div class="plus-btn">
-                    <i class="fa-light fa-plus"></i>
-                  </div>
+
                 </div>
                 <div class="team-content">
                   <div class="media-body">
@@ -553,9 +549,7 @@ Team Area
                   <div class="team-img">
                     <img src="assets/img/team/team_3_3.jpg" alt="Team" />
                   </div>
-                  <div class="plus-btn">
-                    <i class="fa-light fa-plus"></i>
-                  </div>
+
                 </div>
                 <div class="team-content">
                   <div class="media-body">
@@ -575,9 +569,7 @@ Team Area
                   <div class="team-img">
                     <img src="assets/img/team/team_3_1.jpg" alt="Team" />
                   </div>
-                  <div class="plus-btn">
-                    <i class="fa-light fa-plus"></i>
-                  </div>
+
                 </div>
                 <div class="team-content">
                   <div class="media-body">
