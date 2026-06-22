@@ -56,7 +56,7 @@ table {
 .price-table-wrap {
   background: #fff;
   border-radius: 22px;
-  /* overflow-x: auto; */
+  overflow-x: hidden;
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
 }
 
@@ -153,9 +153,35 @@ table {
 
 /* Responsive */
 
-@media (max-width: 425px) {
+/* @media (max-width: 425px) {
   .price-table-wrap {
     overflow-x: auto;
+  }
+} */
+
+.price-table-wrap {
+  overflow: hidden;
+}
+
+@media (max-width: 767px) {
+  .price-table-wrap {
+    overflow-x: auto;
+  }
+
+  .laundry-price-table {
+    min-width: 600px;
+  }
+}
+
+/* Horizontal scrolling appears only when the table is wider than the screen. Therefore add: */
+
+.laundry-price-table {
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .laundry-price-table {
+    min-width: 600px;
   }
 }
 

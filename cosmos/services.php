@@ -103,7 +103,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/services-bg.jpg">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/service-banner.webp">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Services</h1>
@@ -114,6 +114,10 @@
             </div>
         </div>
     </div>
+
+    <?php
+    // require("price-table.php");
+    ?>
 
     <!--==============================
 Service Area  
@@ -134,7 +138,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/laundry-service.webp" alt="img">
+                                <img src="assets/img/home/laundry.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/laundry-service.svg" alt="Icon" width="50" height="50">
@@ -152,7 +156,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/dry-cleaning.webp" alt="img">
+                                <img src="assets/img/home/dry-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/dry-cleaning.svg" alt="Icon" width="50" height="50">
@@ -170,7 +174,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/premium-wash.webp" alt="img">
+                                <img src="assets/img/home/premium-wash.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/premium-wash.svg" alt="Icon" width="50" height="50">
@@ -188,7 +192,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/steam-ironing.webp" alt="img">
+                                <img src="assets/img/home/steam-ironing.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/ironing.svg" alt="Icon" width="50" height="50">
@@ -206,7 +210,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/shoe-cleaning.webp" alt="img">
+                                <img src="assets/img/home/shoe-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/shoe-cleaning.svg" alt="Icon" width="60" height="60">
@@ -224,7 +228,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/leather-bag.webp" alt="img">
+                                <img src="assets/img/home/leather-bag-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/bag-cleaning.svg" alt="Icon" width="50" height="50">
@@ -242,7 +246,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/leather-jacket.webp" alt="img">
+                                <img src="assets/img/home/leather-jacket-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/leather-and-bag-cleaning.svg" alt="Icon" width="70" height="70">
@@ -260,7 +264,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/travelling-bag.webp" alt="img">
+                                <img src="assets/img/home/bag-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/traveling-bag-cleaning.svg" alt="Icon" width="50" height="50">
@@ -278,7 +282,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/carpet-cleaning.webp" alt="img">
+                                <img src="assets/img/home/carpet-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/carpet-cleaning.svg" alt="Icon" width="50" height="50">
@@ -296,7 +300,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/sofa-cleaning.webp" alt="img">
+                                <img src="assets/img/home/sofa-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/sofa-cleaning.svg" alt="Icon" width="60" height="60">
@@ -314,7 +318,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/Curtain-Cleaning.webp" alt="img">
+                                <img src="assets/img/home/curtain-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/curtain-cleaning.svg" alt="Icon" width="50" height="50">
@@ -332,7 +336,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/Blanket-Bed-Cleaning.webp" alt="img">
+                                <img src="assets/img/home/bed-and-blanket-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/blanket-and-bed-linen-cleaning.svg" alt="Icon" width="50" height="50">
@@ -352,7 +356,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/Bed-Mattress-cleaning.webp" alt="img">
+                                <img src="assets/img/home/bed-matress-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/bed-mattress-cleaning.svg" alt="Icon" width="50" height="50">
@@ -370,7 +374,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/service/Chair-Cleaning.webp" alt="img">
+                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/chair-cleaning.svg" alt="Icon" width="50" height="50">
@@ -566,7 +570,9 @@ Process Area
 
     <section class="laundry-price-area space-bottom">
         <div class="container">
-
+            <div class="title-area text-center">
+                <h2 class="sec-title">Simple pricing for you</h2>
+            </div>
 
 
             <!-- Tabs -->
@@ -659,7 +665,8 @@ Process Area
                     <div class="tab-pane fade <?php echo ($tabId == 'mens') ? 'show active' : ''; ?>"
                         id="<?php echo $tabId; ?>">
 
-                        <div class="price-table-wrap table-responsive">
+                        <!-- <div class="price-table-wrap table-responsive"> -->
+                        <div class="price-table-wrap">
 
                             <table class="laundry-price-table">
 
@@ -746,7 +753,7 @@ Faq Area
                             needed.</p>
                     </div>
                     <div class="faq-img2">
-                        <img src="assets/img/normal/faq_1_2.png" alt="faq">
+                        <img src="assets/img/services/faq.webp" alt="faq">
                     </div>
                 </div>
                 <div class="col-xl-6">
