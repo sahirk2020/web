@@ -18,7 +18,7 @@
 
     <!-- header three area start -->
     <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image">
+    <div class="breadcrumb-area-bg bg_image_ongoing_projects">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -45,11 +45,11 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                     <!-- single portfolio grid col-2 -->
                     <div class="portfolio-grid-col-2-single rts-portfolio__item">
-                        <a href="product-details-1.html" class="thumbnail">
+                        <a href="" class="thumbnail">
                             <img src="assets/images/projects/yojangandha/yojangandha-1000x554.webp" alt="portfolio">
                         </a>
                         <div class="inner-text">
-                            <a href="product-details-1.html">
+                            <a href="">
                                 <h5 class="title">Yojangandha</h5>
                             </a>
                             <p class="disc">
@@ -62,11 +62,11 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                     <!-- single portfolio grid col-2 -->
                     <div class="portfolio-grid-col-2-single rts-portfolio__item pl--30 pl_sm--0">
-                        <a href="product-details-1.html" class="thumbnail">
-                            <img src="assets/images/projects/lotus-shalaka/shalaka-600x627.webp" alt="portfolio">
+                        <a href="" class="thumbnail">
+                            <img src="assets/images/projects/lotus-shalaka/banner-1000x554.webp" alt="banner-1000x554">
                         </a>
                         <div class="inner-text">
-                            <a href="product-details-1.html">
+                            <a href="">
                                 <h5 class="title">Lotus Shalaka</h5>
                             </a>
                             <p class="disc">
