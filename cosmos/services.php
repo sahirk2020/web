@@ -74,6 +74,23 @@
         .tooltip.bs-tooltip-end .tooltip-arrow::before {
             border-right-color: var(--theme-color2) !important;
         }
+
+        /* @media (min-width: 768px) {
+
+            .container,
+            .container-md,
+            .container-sm {
+                max-width: 720px !important;
+            }
+        }
+
+        @media (min-width: 576px) {
+
+            .container,
+            .container-sm {
+                max-width: 540px !important;
+            }
+        } */
     </style>
 
 </head>
