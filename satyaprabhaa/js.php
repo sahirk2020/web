@@ -25,3 +25,10 @@
 
     <!-- main Js -->
     <script src="assets/js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.8.0/pikaday.min.js"></script>
+<script>
+  var picker = new Pikaday({
+    field: document.getElementById('s_schedule'),
+    format: 'YYYY-MM-DD'
+  });
+</script>
