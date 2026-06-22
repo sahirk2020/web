@@ -34,7 +34,7 @@ if (!$conn) {
 
     die("Database Connection Failed : " . mysqli_connect_error());
 } else {
-    // echo "connected";
+    echo "connected";
 }
 
 /*
