@@ -49,115 +49,6 @@
 
 <body>
 
-    <!--[if lte IE 9]>
-    	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-  	<![endif]-->
-
-
-    <!--********************************
-   		Code Start From Here 
-	******************************** -->
-
-    <!--==============================
-     Preloader
-  ==============================-->
-    <!-- <div class="preloader ">
-        <button class="th-btn style2 preloaderCls">Cancel Preloader </button>
-        <div class="preloader-inner">
-            <div class="loader">
-                <div class="rot"></div>
-                <img src="assets/img/logo-white.svg" alt="Cosmos">
-            </div>
-        </div>
-    </div>  -->
-    <!--==============================
-Product Lightbox
-==============================-->
-
-    <!--==============================
-    Sidemenu
-============================== -->
-    <!-- <div class="sidemenu-wrapper sidemenu-info ">
-        <div class="sidemenu-content">
-            <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
-            <div class="widget  ">
-                <div class="th-widget-about">
-                    <div class="about-logo">
-                        <a href="home-laundry-services.html"><img src="assets/img/logo.svg" alt="Cosmos"></a>
-                    </div>
-                    <p class="about-text">We provide specialized winterization services to safeguard your pool during the off-season, and when spring arrives, we handle the thorough opening process.</p>
-                    <div class="th-social">
-                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                        <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="widget  ">
-                <h3 class="widget_title">Recent Posts</h3>
-                <div class="recent-post-wrap">
-                    <div class="recent-post">
-                        <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
-                        </div>
-                        <div class="media-body">
-                            <div class="recent-post-meta">
-                                <a href="blog.html"><i class="far fa-calendar"></i>21 October , 2023</a>
-                            </div>
-                            <h4 class="post-title"><a class="text-inherit" href="blog-details.html">A Fresh Start for Your Wardrobe</a></h4>
-                        </div>
-                    </div>
-                    <div class="recent-post">
-                        <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
-                        </div>
-                        <div class="media-body">
-                            <div class="recent-post-meta">
-                                <a href="blog.html"><i class="far fa-calendar"></i>22 October , 2023</a>
-                            </div>
-                            <h4 class="post-title"><a class="text-inherit" href="blog-details.html">Where Clean Meets Convenience</a></h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="widget  ">
-                <h3 class="widget_title">Contact Us</h3>
-                <div class="th-widget-contact">
-                    <div class="info-box">
-                        <div class="info-box_icon">
-                            <i class="fas fa-location-dot"></i>
-                        </div>
-                        <p class="info-box_text">8502 Preston Rd. Inglewood, Maine 98380</p>
-                    </div>
-                    <div class="info-box">
-                        <div class="info-box_icon">
-                            <i class="fas fa-phone"></i>
-                        </div>
-                        <p class="info-box_text">
-                            <a href="tel:+16326543564" class="info-box_link">+(163)-2654-3564</a>
-                            <a href="tel:+16326545432" class="info-box_link">+(163)-2654-5432</a>
-                        </p>
-                    </div>
-                    <div class="info-box">
-                        <div class="info-box_icon">
-                            <i class="fas fa-envelope"></i>
-                        </div>
-                        <p class="info-box_text">
-                            <a href="mailto:help24/7@Laun.com" class="info-box_link">help24/7@Laun.com</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="popup-search-box">
-        <button class="searchClose"><i class="fal fa-times"></i></button>
-        <form action="#">
-            <input type="text" placeholder="What are you looking for?">
-            <button type="submit"><i class="fal fa-search"></i></button>
-        </form>
-    </div> -->
-
     <?php include 'components/header.php'; ?>
     <!--==============================
 Hero Area
@@ -171,12 +62,13 @@ Hero Area
                         <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-1.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
-                                <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Dry Clean Pro</span>
+                                <!-- <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Cosmos Laundry</span> -->
                                 <h1 class="hero-title text-white" data-ani="slideinup" data-ani-delay="0.4s">
-                                    Cleaning Clothes Sparkling <span class="text-bg">Smiles</span>
+                                    Everyday Wear, <span class="text-bg">Exceptional Care</span>
                                 </h1>
                                 <p class="hero-text text-white" data-ani="slideinup" data-ani-delay="0.6s">
-                                    We use high-quality, eco-friendly detergents that are gentle on your clothes and the environment. Your garments will be treated with the utmost care.</p>
+                                    Premium laundry solutions designed to keep your clothes fresh, hygienic, and impeccably maintained.
+                                </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
                                     <a href="about.html" class="th-btn style2">Discover More</a>
                                 </div>
@@ -189,12 +81,32 @@ Hero Area
                         <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-2.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
-                                <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">We Clean, You Shine</span>
+                                <!-- <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Dry Cleaning</span> -->
                                 <h1 class="hero-title text-white" data-ani="slideinup" data-ani-delay="0.4s">
-                                    Quality Laundry Every <span class="text-bg">Thread</span>
+                                    Luxury Care For <span class="text-bg">Fine Garments</span>
                                 </h1>
                                 <p class="hero-text text-white" data-ani="slideinup" data-ani-delay="0.6s">
-                                    It seems like "Quality Laundry Every Thread" might be a tagline or slogan, possibly related to a laundry service or a brand.</p>
+                                    Specialized dry cleaning for suits, dresses, and delicate fabrics with meticulous attention to detail.
+                                </p>
+                                <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
+                                    <a href="about.html" class="th-btn style2">Discover More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="hero-inner">
+                        <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-2.webp"></div>
+                        <div class="container">
+                            <div class="hero-style3">
+                                <!-- <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Steam Ironing</span> -->
+                                <h1 class="hero-title text-white" data-ani="slideinup" data-ani-delay="0.4s">
+                                    Impeccably Pressed. <span class="text-bg">Effortlessly Elegant.</span>
+                                </h1>
+                                <p class="hero-text text-white" data-ani="slideinup" data-ani-delay="0.6s">
+                                    Professional steam ironing that delivers a crisp finish and a refined appearance for every garment.
+                                </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
                                     <a href="about.html" class="th-btn style2">Discover More</a>
                                 </div>
@@ -232,10 +144,10 @@ About Area
                 <div class="col-xl-6">
                     <div class="img-box3 pe-xl-3">
                         <div class="img1">
-                            <img src="assets/img/normal/about-2.webp" alt="About">
+                            <img src="assets/img/about/about-2.webp" alt="About">
                         </div>
                         <div class="img2">
-                            <img src="assets/img/normal/about-1.webp" alt="About">
+                            <img src="assets/img/about/about-1.webp" alt="About">
                         </div>
                         <div class="about-shape jump">
                             <img src="assets/img/shape/dot.png" alt="About">
@@ -294,11 +206,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/laundry-service.webp" alt="image">
+                                    <img src="assets/img/home/laundry.webp" alt="laundry service">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_1.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Laundry Services</a></h3>
                                     <p class="service-grid_text">
@@ -311,11 +223,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/dry-cleaning.webp" alt="image">
+                                    <img src="assets/img/home/dry-cleaning.webp" alt="dry cleaning">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_2.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Dry Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -328,11 +240,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/premium-wash.webp" alt="image">
+                                    <img src="assets/img/home/premium-wash.webp" alt="premium wash">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Premium Wash</a></h3>
                                     <p class="service-grid_text">
@@ -345,11 +257,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/steam-ironing.webp" alt="image">
+                                    <img src="assets/img/home/steam-ironing.webp" alt="steam ironing">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_1.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Steam Ironing</a></h3>
                                     <p class="service-grid_text">
@@ -362,11 +274,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/shoe-cleaning.webp" alt="image">
+                                    <img src="assets/img/home/shoe-cleaning.webp" alt="shoe cleaning">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_2.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Shoe Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -379,11 +291,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/leather-bag.webp" alt="image">
+                                    <img src="assets/img/home/leather-bag-cleaning.webp" alt="leather bag">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Leather Bag Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -397,11 +309,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/leather-jacket.webp" alt="image">
+                                    <img src="assets/img/home/leather-jacket-cleaning.webp" alt="leather jacket">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Leather Jacket Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -415,11 +327,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/travelling-bag.webp" alt="image">
+                                    <img src="assets/img/home/bag-cleaning.webp" alt="bag cleaning">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Traveling Bag Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -433,11 +345,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/carpet-cleaning.webp" alt="image">
+                                    <img src="assets/img/home/carpet-cleaning.webp" alt="carpet cleaning">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Carpet Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -451,11 +363,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                    <img src="assets/img/home/sofa-cleaning.webp" alt="sofa cleaning">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Sofa Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -469,11 +381,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                    <img src="assets/img/home/curtain-cleaning.webp" alt="curtain cleaning">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Curtain Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -487,11 +399,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                    <img src="assets/img/home/bed-and-blanket-cleaning.webp" alt="bed and blanket cleaning">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Blanket & Bed Linen Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -505,11 +417,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                    <img src="assets/img/home/bed-matress-cleaning.webp" alt="bed matress cleaning">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Bed Mattress Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -523,11 +435,11 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/service/service_grid_3.jpg" alt="image">
+                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
                                 </div>
-                                <div class="service-grid_icon">
+                                <!-- <div class="service-grid_icon">
                                     <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div>
+                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Institutional Chair Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -547,7 +459,7 @@ Service Area
     </section> <!--==============================
 Contact Area  
 ==============================-->
-    <div class="space" data-bg-src="assets/img/bg/form-bg.webp">
+    <div class="space" data-bg-src="assets/img/bg/bg-get-in-touch.webp">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -564,7 +476,7 @@ Contact Area
                 <div class="col-lg-6">
                     <div class="contact-wrapper">
                         <div class="title-area">
-                            <h2 class="sec-title text-white">Fell Free Write Us</h2>
+                            <h2 class="sec-title text-white">Feel Free Write Us</h2>
                         </div>
                         <form action="mail.php" method="POST" class="contact-form2 ajax-contact">
                             <div class="row">
@@ -768,7 +680,7 @@ Choose Area
                 </div>
                 <div class="col col-xl-auto text-center d-none d-xl-block">
                     <div class="service-image wow fadeInUp">
-                        <img src="assets/img/normal/choose-img.png" alt="">
+                        <img src="assets/img/about/why-cosmos.webp" alt="cosmos laundrys">
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-auto">
@@ -816,7 +728,7 @@ Choose Area
     <!--==============================
 Testimonial Area  
 ==============================-->
-    <section class="overflow-hidden space" id="testi-sec">
+    <!-- <section class="overflow-hidden space" id="testi-sec">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6">
@@ -1015,7 +927,7 @@ Testimonial Area
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!--==============================
 Blog Area  

@@ -1,0 +1,66 @@
+[33me993c2f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnida[m[33m)[m event file deleted
+ satyaprabhaa/assets/events videos.zip | Bin [31m406302280[m -> [32m0[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33m4e89800[m event videos added
+ satyaprabhaa/assets/events videos.zip | Bin [31m0[m -> [32m406302280[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33ma3d3b69[m deleted unwanted files
+ satyaprabhaa/about.html                            | 1258 [31m----------------[m
+ satyaprabhaa/assets/events videos.zip              |  Bin [31m406302280[m -> [32m0[m bytes
+ satyaprabhaa/before-after.html                     |  668 [31m---------[m
+ satyaprabhaa/blog-2.html                           |  698 [31m---------[m
+ satyaprabhaa/blog-3.html                           |  685 [31m---------[m
+ satyaprabhaa/blog-4.html                           |  760 [31m----------[m
+ satyaprabhaa/blog-details.html                     |  873 [31m-----------[m
+ satyaprabhaa/blog-list.html                        |  859 [31m-----------[m
+ satyaprabhaa/blog.html                             |  698 [31m---------[m
+ satyaprabhaa/contact.html                          |  696 [31m---------[m
+ satyaprabhaa/faq.html                              |  733 [31m----------[m
+ satyaprabhaa/gallery.html                          |  660 [31m---------[m
+ satyaprabhaa/index-eight.html                      |  734 [31m----------[m
+ satyaprabhaa/index-five.html                       | 1140 [31m---------------[m
+ satyaprabhaa/index-four.html                       | 1075 [31m--------------[m
+ satyaprabhaa/index-seven.html                      | 1364 [31m-----------------[m
+ satyaprabhaa/index-six.html                        | 1477 [31m-------------------[m
+ satyaprabhaa/index-three.html                      | 1184 [31m---------------[m
+ satyaprabhaa/index-two.html                        | 1371 [31m-----------------[m
+ satyaprabhaa/index.html                            | 1537 [31m--------------------[m
+ ...erior-html-template-2025-06-03-04-27-30-utc.zip |  Bin [31m46331091[m -> [32m0[m bytes
+ satyaprabhaa/mailer.php                            |   52 [31m-[m
+ satyaprabhaa/modern-slider.html                    |  531 [31m-------[m
+ satyaprabhaa/onepage-eight.html                    |  624 [31m--------[m
+ satyaprabhaa/onepage-five.html                     |  977 [31m-------------[m
+ satyaprabhaa/onepage-four.html                     |  896 [31m------------[m
+ satyaprabhaa/onepage-one.html                      | 1357 [31m-----------------[m
+ satyaprabhaa/onepage-seven.html                    | 1159 [31m---------------[m
+ satyaprabhaa/onepage-six.html                      | 1167 [31m---------------[m
+ satyaprabhaa/onepage-three.html                    | 1117 [31m--------------[m
+ satyaprabhaa/onepage-two.html                      | 1214 [31m----------------[m
+ satyaprabhaa/portfolio-boxes.html                  |  555 [31m-------[m
+ satyaprabhaa/portfolio-grid-1.html                 |  688 [31m---------[m
+ satyaprabhaa/portfolio-grid-col-3.html             |  667 [31m---------[m
+ satyaprabhaa/portfolio-grid-col-4.html             |  693 [31m---------[m
+ satyaprabhaa/portfolio-varticle-grid.html          |  641 [31m--------[m
+ satyaprabhaa/premium-real-estate-template.zip      |  Bin [31m5445[m -> [32m0[m bytes
+ satyaprabhaa/pricing-plane.html                    |  726 [31m---------[m
+ satyaprabhaa/privacy-policy.html                   |  623 [31m--------[m
+ satyaprabhaa/product-details-1.html                |  727 [31m---------[m
+ satyaprabhaa/product-details-2.html                |  769 [31m----------[m
+ satyaprabhaa/product-details-3.html                |  727 [31m---------[m
+ satyaprabhaa/product-details-4.html                |  749 [31m----------[m
+ satyaprabhaa/service-1.html                        |  811 [31m-----------[m
+ satyaprabhaa/service-2.html                        |  959 [31m------------[m
+ satyaprabhaa/service-3.html                        |  927 [31m------------[m
+ satyaprabhaa/service-4.html                        |  759 [31m----------[m
+ satyaprabhaa/service-5.html                        |  760 [31m----------[m
+ satyaprabhaa/service-details.html                  |  744 [31m----------[m
+ satyaprabhaa/service-three.html                    |  323 [31m----[m
+ satyaprabhaa/showcase-fade.html                    |  488 [31m-------[m
+ satyaprabhaa/team-1.html                           |  833 [31m-----------[m
+ satyaprabhaa/team-2.html                           |  832 [31m-----------[m
+ satyaprabhaa/team-single.html                      |  968 [31m------------[m
+ satyaprabhaa/terms-and-condition.html              |  620 [31m--------[m
+ satyaprabhaa/varticle-portfolio.html               |  541 [31m-------[m
+ satyaprabhaa/varticle-slider-tab.html              |  577 [31m--------[m
+ satyaprabhaa/varticle-slider.html                  |  549 [31m-------[m
+ 58 files changed, 45820 deletions(-)
