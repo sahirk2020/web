@@ -33,16 +33,14 @@
     <!-- bread croumba rea end -->
 
     <!-- why choose us section start -->
-    <div class="rts-section-gap why-chooseus-section">
+    <!-- <div class="rts-section-gap why-chooseus-section">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7 pr--120 pr_sm--0">
-                    <!-- why chooseus section start -->
                     <div class="why-choose-us-left-two">
                         <div class="title-left-style-two">
                             <div class="pre-title">
                                 <span class="pre-title">Legacy</span>
-                                <!-- <img src="assets/images/service/07.png" alt="service"> -->
                             </div>
                             <h2 class="title quote">
                                A Legacy of Design-Led <br>Development
@@ -52,7 +50,6 @@
                             Lotus Landmarks brings a deep understanding of how spaces shape the way people live and work. Spanning both residential and commercial developments, we combine design sensibility with execution expertise to create beautiful, enduring environments—delivered with consistency, quality, and care.
                         </p>
                     </div>
-                    <!-- why chooseus section end -->
                 </div>
                 <div class="col-lg-5 mt_sm--50">
                     <div class="thumbnail-about-one rts-reveal-one">
@@ -61,7 +58,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- why choose us section end -->
      
      <section class="my-5">

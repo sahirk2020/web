@@ -25796,7 +25796,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 /* banner images of the webpages */
 .bg_image_careers{
   background: linear-gradient(45deg, #0000003d, #0000003d), 
-  url(../images/banner/bg/Careers.jpg) no-repeat center center / cover !important;
+  url(../images/banner/career-desktop-img.webp) no-repeat center center / cover !important;
 }
 .bg_image_completed_projects{
   background: linear-gradient(45deg, #0000003d, #0000003d), 

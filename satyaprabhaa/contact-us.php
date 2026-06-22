@@ -38,20 +38,91 @@
     <!-- bread croumba rea end -->
     <!-- header three area end -->
 
+    <!-- why choose us section start -->
+    <div class="rts-section-gap why-chooseus-section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12 pr_sm--0">
+                    
+                    <!-- why chooseus section end -->
+                    <div class="row g-5 d-flex">
+                        <div class="col-lg-3 rts-slide-up">
+                            <!-- single choose us area -->
+                            <div class="single-choose-style-two d-block text-center h-100 bg-light">
+                                <div class="icon">
+                                    <i class="fa-regular fa-map-location-dot"></i>
+                                </div>
+                                <div class="right-content">
+                                    <h6 class="title">Office Address</h6>
+                                    <p class="disc">B-102, Lotus Aman, SR-26, Lane No. 1,
+Dahanukar Colony, Kothrud, Pune - 411038
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                            <!-- single choose us area end -->
+                        </div>
+                        <div class="col-lg-3 rts-slide-up">
+                            <!-- single choose us area -->
+                            <div class="single-choose-style-two d-block text-center h-100 bg-light">
+                                <div class="icon">
+                                    <i class="fa-regular fa-envelope"></i>
+                                </div>
+                                <div class="right-content">
+                                    <h6 class="title text-capitalize">CUSTOMER ENQUIRY</h6>
+                                    <p class="disc">Sales@llipl.com</p>
+                                </div>
+                            </div>
+                            <!-- single choose us area end -->
+                        </div>
+                        <div class="col-lg-3 rts-slide-up">
+                            <!-- single choose us area -->
+                            <div class="single-choose-style-two d-block text-center h-100 bg-light">
+                                <div class="icon">
+                                    <i class="fa-regular fa-phone"></i>
+                                </div>
+                                <div class="right-content">
+                                    <h6 class="title">Call Us</h6>
+                                    <p class="disc"><a href="Tel:+918740042002">+91 87 4004 2002</a></p>
+                                </div>
+                            </div>
+                            <!-- single choose us area end -->
+                        </div>
+                        <div class="col-lg-3 rts-slide-up">
+                            <!-- single choose us area -->
+                            <div class="single-choose-style-two d-block text-center h-100 bg-light ">
+                                <div class="icon">
+                                    <i class="fa-regular fa-clock"></i>
+                                </div>
+                                <div class="right-content">
+                                    <h6 class="title">Working Hours</h6>
+                                    <p class="disc">Monday to Saturday: 10:00 AM - 6:00 PM</p>
+                                    <!-- s -->
+                                </div>
+                            </div>
+                            <!-- single choose us area end -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- why choose us section end -->
+
 <!-- contact area start -->
     <div class="rts-contact-area rts-section-gap">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="contct-thumbnail-left rts-reveal-one">
-                        <img class="rts-reveal-image-one" src="assets/images/contact/01.jpg" alt="">
+                        <img class="rts-reveal-image-one" src="assets/images/contact/side-img.webp" alt="side-img">
                     </div>
                 </div>
                 <div class="col-lg-6 pl--60 pr--100 pr_md--10 pr_sm--10 pl_sm--10 pl_md--10 pt_md--50 pt_sm--50">
                     <div class="easy-appoinment-area">
                         <div class="title-left-style-seven-wrapper">
-                            <span class="pre">Feature Services</span>
-                            <h2 class="title">have any questions</h2>
+                            <!-- <span class="pre">Feature Services</span> -->
+                            <h2 class="title">Have Any Questions</h2>
                         </div>
                         <form action="#">
                             <input type="text" placeholder="Your Name">
