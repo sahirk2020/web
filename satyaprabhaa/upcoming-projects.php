@@ -14,7 +14,7 @@
     <!-- header three area end -->
 
     <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image">
+    <div class="breadcrumb-area-bg bg_image_upcoming_projects">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -35,7 +35,7 @@
 
     <div class="rts-team-area rts-section-gap">
         <div class="container">
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="title-style-center">
                         <h2 class="title">Meet Our Talented Team</h2>
@@ -45,7 +45,7 @@ who are passionate about interior renovation and design.
                         </p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="row mt--30 g-24">
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- team area start -->
@@ -87,6 +87,21 @@ who are passionate about interior renovation and design.
                             <div class="name-area">
                                 <h6 class="name">Deepak Dev</h6>
                                 <span class="desig">Aundh, Pune | Commercial</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- team area end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- team area start -->
+                    <div class="team-area-start-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/projects/upcoming-projects/treya-project-768x815.webp" alt="Lotus Treya">
+                        </a>
+                        <div class="team-content">
+                            <div class="name-area">
+                                <h6 class="name">Lotus Treya</h6>
+                                <span class="desig">Kothrud, Pune | Residential</span>
                             </div>
                         </div>
                     </div>

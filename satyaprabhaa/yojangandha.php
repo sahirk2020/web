@@ -65,7 +65,7 @@
                         <p class="disc mb--15 rts-slide-up">
                             Set amidst the cultural richness of Kothrud and surrounded by nature’s quiet beauty, Yojangandha offers a lifestyle that feels both connected and serene. Thoughtfully designed for modern families, it brings together everyday convenience, wellness-focused amenities, and a trusted legacy of craftsmanship. A home that celebrates the character of its location while embracing contemporary living.</p>
                         
-                        <a href="" class="rts-btn btn-border">Request For Brochure</a> <a href="" class="rts-btn btn-border">Schedule a Visit</a> 
+                        <a href="" data-bs-toggle="modal" data-bs-target="#popModel" class="rts-btn btn-border">Request For Brochure</a> <a href="" data-bs-toggle="modal" data-bs-target="#popModel" class="rts-btn btn-border">Schedule a Visit</a> 
                     </div>
                 </div>
                 <div class="col-lg-5 mt_sm--50">
@@ -392,10 +392,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/massage-therapist.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Massage Therapist</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -413,10 +413,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-2.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/landscape-terrace-garden.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Landscape Terrace Garden</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -434,10 +434,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/kids-play-area-painting-wall.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Kids Play Area Painting Wall</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -455,10 +455,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/herbs-plantation.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Herbs Plantation</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -476,10 +476,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-2.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/grand-gate-security.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Grand Gate Security</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -497,10 +497,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-3.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/gazebo-seating-area.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Gazebo Seating Area</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -518,10 +518,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/entrance-lobby.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Entrance Lobby</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -539,10 +539,10 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-2.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/cctv.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">CCTV</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -560,10 +560,76 @@
                                             installation, every step is was executed with professionalism and attention.
                                         </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/team/sm-1.png" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/carrom-chess-cardroom.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Amelia Luna</h6>
-                                                <span>New Client</span>
+                                                <h6 class="title">Carrom Chess Cardroom</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/acupressure-walkway.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Acupressure Walkway</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/ample-car-parking.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Ample Car Parking</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/barbeque-zone.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Barbeque Zone</h6>
+                                                <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
@@ -776,39 +842,52 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingOne">
                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            How much does a home remodeling cost?
+                                            Education
                                         </button>
                                     </h2>
                                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Projects vary widely depending on your needs and budget. Our visit with
-                                            you to better understand your home remodeling needs.
+                                            <ul>
+                                                <li>More Vidyalaya</li>
+                                                <li>Paranjape High School</li>
+                                                <li>Mahesh Vidyalaya</li>
+                                                <li>MIT</li>
+                                                <li>New India School</li>
+                                                <li>Abhinav Vidyalaya</li>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingTwo">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            How much does a home Building cost?
+                                            Connectivity
                                         </button>
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Projects vary widely depending on your needs and budget. Our visit with
-                                            you to better understand your home remodeling needs.
+                                            <ul>
+                                                <li>Vanaz Metro Station</li>
+                                                <li>PMPML Bus Stop Nearby</li>
+                                                <li>Rickshaw Stand Nearby</li>
+                                                <li>Wide roads & local access</li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingThree">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            Why do roofing estimates vary so widely?
+                                            Healthcare
                                         </button>
                                     </h2>
                                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Projects vary widely depending on your needs and budget. Our visit with
-                                            you to better understand your home remodeling needs.
+                                           <ul>
+                                            <li>Krishna Hospital</li>
+                                            <li>Sahyadri Hospital</li>
+                                            <li>Sushrut Hospital</li>
+                                            <li>Reputed Clinics nearby</li>
+                                            <li>24/7 Medical stores</li>
                                         </div>
                                     </div>
                                 </div>

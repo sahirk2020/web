@@ -9451,7 +9451,7 @@ button,
   -webkit-appearance: button;
 }
 
-input {
+input, select {
   height: 40px;
   padding: 0 15px;
 }
@@ -9461,17 +9461,17 @@ input[type=password],
 input[type=email],
 input[type=number],
 input[type=tel],
-textarea {
-  font-size: var(--font-size-b2);
+textarea, select {
+  font-size: var(--font-size-b2) !important;
   font-weight: 400;
   height: auto;
   line-height: 28px;
-  background: transparent;
+  background: transparent !important;
   -webkit-box-shadow: none;
   box-shadow: none;
   padding: 0 15px;
   outline: none;
-  border: var(--border-width) solid var(--color-border);
+  border: var(--border-width) solid var(--color-border) !important;
   border-radius: var(--radius);
   /* -- Placeholder -- */
 }
@@ -9490,9 +9490,9 @@ input[type=password]:-ms-input-placeholder,
 input[type=email]:-ms-input-placeholder,
 input[type=number]:-ms-input-placeholder,
 input[type=tel]:-ms-input-placeholder,
-textarea:-ms-input-placeholder {
+textarea:-ms-input-placeholder, select{
   /* Internet Explorer 10-11 */
-  color: var(--body-color);
+  color: var(--body-color) !important;
 }
 input[type=text]::-ms-input-placeholder,
 input[type=password]::-ms-input-placeholder,
@@ -25214,11 +25214,15 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   text-transform: capitalize;
   line-height: 16px;
 }
+.modal-body{
+  background:#b197771f!important;
+}
 
-.contact-form-conatct-page input {
-  border-bottom: 1px solid #E3E3E3;
-  padding: 20px 5px;
-  margin-bottom: 20px;
+.contact-form-conatct-page input, .contact-form-conatct-page select {
+  border-bottom: 1px solid #E3E3E3 !important;
+  padding: 16px 5px;
+  color: var(--color-body)!important;
+  /* margin-bottom: 20px; */
 }
 .contact-form-conatct-page textarea {
   padding: 0 5px;
@@ -25819,9 +25823,17 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   background: linear-gradient(45deg, #0000003d, #0000003d), 
   url(../images/banner/bg/Events-page-1.jpg) no-repeat center center / cover !important;
 }
-.bg_image_careers {
+.bg_image_ongoing_projects {
   background: linear-gradient(45deg, #0000003d, #0000003d), 
-  url(../images/banner/bg/Careers.jpg) no-repeat center center / cover !important;
+  url(../images/banner/bg/Ongoing-Projects.jpg) no-repeat center center / cover !important;
+}
+.bg_image_upcoming_projects {
+  background: linear-gradient(45deg, #0000009c, #0000003d), 
+  url(../images/banner/bg/Upcoming-Project.jpg) no-repeat center center / cover !important;
+}
+.bg_image_about {
+  background: linear-gradient(45deg, #0000009c, #0000003d), 
+  url(../images/banner/bg/about-us.webp) no-repeat center center / cover !important;
 }
 .years-of-experience-patch{
   width: fit-content;
