@@ -116,6 +116,7 @@ Hero Area
                     </div>
                 </div>
                 <div class="col-lg-6 mt_sm--50 mt_md--50">
+
                     <div class="about-thumbnail-6 rts-reveal-one">
                         <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about">
                     <div class="years-of-experience-patch">
@@ -123,7 +124,9 @@ Hero Area
                             <h4>27+<br><span>Years of Experience</span></h4>
                     </div>
                 </div>
-                
+                <div class="mahesh-img position-relative">
+                    <img class="position-absolute" style="right:-110px;" src="assets/images/mahesh1-bg-trans.webp" alt="mahesh">
+                </div>
             </div>
         </div>
     </div>

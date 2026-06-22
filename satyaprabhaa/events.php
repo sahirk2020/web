@@ -131,15 +131,15 @@
                                 <div class="swiper-slide">
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
-                                        <span class="number">01</span>
+                                        <!-- <span class="number">01</span> -->
                                         <a href="" class="thumbnail">
-                                            <img src="assets/images/projects/seva-project.webp" alt="seva-project.webp">
+                                            <img src="assets/images/thumbnails/dippoojan.png" alt="dippoojan.png">
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Seva</h3>
+                                                <h3 class="title">Deep Poojan</h3>
                                             </a>
-                                            <span class="category">BIBVEWADI, PUNE</span>
+                                            <!-- <span class="category">BIBVEWADI, PUNE</span> -->
                                         </div>
                                     </div>
                                     <!-- single swiper-item end -->
@@ -147,15 +147,15 @@
                                 <div class="swiper-slide">
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
-                                        <span class="number">02</span>
+                                        <!-- <span class="number">02</span> -->
                                         <a href="" class="thumbnail">
-                                            <img src="assets/images/projects/deepak-dev-768x900.webp" alt="deepak-dev-768x900.webp">
+                                            <img src="assets/images/thumbnails/dippoojan.png" alt="dippoojan.png">
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Deepak Dev</h3>
+                                                <h3 class="title">Deep Poojan</h3>
                                             </a>
-                                            <span class="category">AUNDH, PUNE</span>
+                                            <!-- <span class="category">AUNDH, PUNE</span> -->
                                         </div>
                                     </div>
                                     <!-- single swiper-item end -->
@@ -163,15 +163,15 @@
                                 <div class="swiper-slide">
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
-                                        <span class="number">03</span>
+                                        <!-- <span class="number">03</span> -->
                                         <a href="" class="thumbnail">
-                                            <img src="assets/images/projects/shrirang-768x900.webp" alt="shrirang-768x900.webp">
+                                            <img src="assets/images/thumbnails/dippoojan.png" alt="dippoojan.png">
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Shrirang</h3>
+                                                <h3 class="title">Deep Poojan</h3>
                                             </a>
-                                            <span class="category">KOTHRUD, PUNE</span>
+                                            <!-- <span class="category">KOTHRUD, PUNE</span> -->
                                         </div>
                                     </div>
                                     <!-- single swiper-item end -->
