@@ -36,16 +36,16 @@
         <div class="container">
             
             <div class="row mt--30 g-24">
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- team area start -->
                     <div class="team-area-start-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/awards/1.jpg" alt="demo">
+                            <img src="assets/images/awards/environment-friendly.webp" alt="environment-friendly">
                         </a>
                         <div class="team-content">
                             <div class="name-area text-center">
-                                <h6 class="name">Best Performer Award</h6>
-                                <span class="desig">2025-26</span>
+                                <h6 class="name">Most Environment Friendly Residential Project</h6>
+                                <!-- <span class="desig">2025-26</span> -->
                             </div>
                             <!-- <div class="social-team-one">
                                 <ul>
@@ -59,154 +59,16 @@
                     </div>
                     <!-- team area end -->
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- team area start -->
                     <div class="team-area-start-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/awards/1.jpg" alt="demo">
+                            <img src="assets/images/awards/yojangandha-award.webp" alt="yojangandha-award">
                         </a>
                         <div class="team-content">
                             <div class="name-area text-center">
-                                <h6 class="name">David Leo</h6>
-                                <span class="desig">2025-26</span>
-                            </div>
-                            <!-- <div class="social-team-one">
-                                <ul>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                </ul>
-                            </div> -->
-                        </div>
-                    </div>
-                    <!-- team area end -->
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <!-- team area start -->
-                    <div class="team-area-start-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/awards/1.jpg" alt="demo">
-                        </a>
-                        <div class="team-content">
-                            <div class="name-area text-center">
-                                <h6 class="name">Best Performer Award</h6>
-                                <span class="desig">2025-26</span>
-                            </div>
-                            <!-- <div class="social-team-one">
-                                <ul>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                </ul>
-                            </div>-->
-                        </div>
-                    </div>
-                    <!-- team area end -->
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <!-- team area start -->
-                    <div class="team-area-start-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/awards/1.jpg" alt="demo">
-                        </a>
-                        <div class="team-content">
-                            <div class="name-area text-center">
-                                <h6 class="name">Best Performer Award</h6>
-                                <span class="desig">2025-26</span>
-                            </div>
-                            <!-- <div class="social-team-one">
-                                <ul>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                </ul>
-                            </div> -->
-                        </div>
-                    </div>
-                    <!-- team area end -->
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <!-- team area start -->
-                    <div class="team-area-start-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/awards/1.jpg" alt="demo">
-                        </a>
-                        <div class="team-content">
-                            <div class="name-area text-center">
-                                <h6 class="name">Best Performer Award</h6>
-                                <span class="desig">2025-26</span>
-                            </div>
-                            <!-- <div class="social-team-one">
-                                <ul>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                </ul>
-                            </div>-->
-                        </div>
-                    </div>
-                    <!-- team area end -->
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <!-- team area start -->
-                    <div class="team-area-start-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/awards/1.jpg" alt="demo">
-                        </a>
-                        <div class="team-content">
-                            <div class="name-area text-center">
-                                <h6 class="name">Best Performer Award</h6>
-                                <span class="desig">2025-26</span>
-                            </div>
-                            <!-- <div class="social-team-one">
-                                <ul>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                </ul>
-                            </div> -->
-                        </div>
-                    </div>
-                    <!-- team area end -->
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <!-- team area start -->
-                    <div class="team-area-start-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/awards/1.jpg" alt="demo">
-                        </a>
-                        <div class="team-content">
-                            <div class="name-area text-center">
-                                <h6 class="name">Best Performer Award</h6>
-                                <span class="desig">2025-26</span>
-                            </div>
-                            <!-- <div class="social-team-one">
-                                <ul>
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                </ul>
-                            </div> -->
-                        </div>
-                    </div>
-                    <!-- team area end -->
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <!-- team area start -->
-                    <div class="team-area-start-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/awards/1.jpg" alt="demo">
-                        </a>
-                        <div class="team-content">
-                            <div class="name-area text-center">
-                                <h6 class="name">Best Performer Award</h6>
-                                <span class="desig">2025-26</span>
+                                <h6 class="name  text-center">Gem Certificate</h6>
+                                <!-- <span class="desig">2025-26</span> -->
                             </div>
                             <!-- <div class="social-team-one">
                                 <ul>

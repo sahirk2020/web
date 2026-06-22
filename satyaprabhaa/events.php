@@ -48,76 +48,51 @@
                         <p class="disc">
                             Explore thoughtfully designed residential and commercial developments that bring together modern architecture, practical planning, comfort, and lasting value.
                         </p>
-                        <div class="swiper-next-prev-wrapper">
-                            <div class="swiper-button-next"></div>
-                            <div class="swiper-button-prev"></div>
-                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="container-full mt--50">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- swiper product one wrapper -->
-                    <div class="swiper-product-one-wrapper">
-                        <div class="swiper swiper-product-one">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <!-- single swiper-item -->
-                                    <div class="single-product-one">
-                                        <span class="number">01</span>
-                                        <a href="product-details-1.html" class="thumbnail">
-                                            <img src="assets/images/projects/seva-project.webp" alt="seva-project.webp">
-                                        </a>
-                                        <div class="inenr-content-absolute">
-                                            <a href="product-details-1.html">
-                                                <h3 class="title">Seva</h3>
-                                            </a>
-                                            <span class="category">BIBVEWADI, PUNE</span>
-                                        </div>
-                                    </div>
-                                    <!-- single swiper-item end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single swiper-item -->
-                                    <div class="single-product-one">
-                                        <span class="number">02</span>
-                                        <a href="product-details-1.html" class="thumbnail">
-                                            <img src="assets/images/projects/deepak-dev-768x900.webp" alt="deepak-dev-768x900.webp">
-                                        </a>
-                                        <div class="inenr-content-absolute">
-                                            <a href="product-details-1.html">
-                                                <h3 class="title">Deepak Dev</h3>
-                                            </a>
-                                            <span class="category">AUNDH, PUNE</span>
-                                        </div>
-                                    </div>
-                                    <!-- single swiper-item end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single swiper-item -->
-                                    <div class="single-product-one">
-                                        <span class="number">03</span>
-                                        <a href="product-details-1.html" class="thumbnail">
-                                            <img src="assets/images/projects/shrirang-768x900.webp" alt="shrirang-768x900.webp">
-                                        </a>
-                                        <div class="inenr-content-absolute">
-                                            <a href="product-details-1.html">
-                                                <h3 class="title">Shrirang</h3>
-                                            </a>
-                                            <span class="category">KOTHRUD, PUNE</span>
-                                        </div>
-                                    </div>
-                                    <!-- single swiper-item end -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- swiper product one wrapper end -->
+        <div class="container py-5">
+    <!-- <h2 class="text-center mb-4">Our Videos</h2> -->
+
+    <div class="row g-4">
+        <!-- Video 1 -->
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <video class="w-100" controls>
+                    <source src="assets/events-videos/dip-poojan.mp4" type="video/mp4">
+                </video>
+                <div class="card-body">
+                    <h5 class="card-title">Dip Poojan</h5>
                 </div>
             </div>
         </div>
+
+        <!-- Video 2 -->
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <video class="w-100" controls>
+                    <source src="assets/events-videos/dip-poojan.mp4" type="video/mp4">
+                </video>
+                <div class="card-body">
+                    <h5 class="card-title">Dip Poojan</h5>
+                </div>
+            </div>
+        </div>
+
+        <!-- Video 3 -->
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <video class="w-100" controls >
+                    <source src="assets/events-videos/dip-poojan.mp4" type="video/mp4">
+                </video>
+                <div class="card-body">
+                    <h5 class="card-title">Dip Poojan</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
     </div>
     <!-- rts project area end -->
 
@@ -146,7 +121,7 @@
                 </div>
             </div>
         </div>
-        <div class="container-full mt--50">
+        <div class="container mt--50">
             <div class="row">
                 <div class="col-lg-12">
                     <!-- swiper product one wrapper -->
@@ -157,11 +132,11 @@
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
                                         <span class="number">01</span>
-                                        <a href="product-details-1.html" class="thumbnail">
+                                        <a href="" class="thumbnail">
                                             <img src="assets/images/projects/seva-project.webp" alt="seva-project.webp">
                                         </a>
                                         <div class="inenr-content-absolute">
-                                            <a href="product-details-1.html">
+                                            <a href="">
                                                 <h3 class="title">Seva</h3>
                                             </a>
                                             <span class="category">BIBVEWADI, PUNE</span>
@@ -173,11 +148,11 @@
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
                                         <span class="number">02</span>
-                                        <a href="product-details-1.html" class="thumbnail">
+                                        <a href="" class="thumbnail">
                                             <img src="assets/images/projects/deepak-dev-768x900.webp" alt="deepak-dev-768x900.webp">
                                         </a>
                                         <div class="inenr-content-absolute">
-                                            <a href="product-details-1.html">
+                                            <a href="">
                                                 <h3 class="title">Deepak Dev</h3>
                                             </a>
                                             <span class="category">AUNDH, PUNE</span>
@@ -189,11 +164,11 @@
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
                                         <span class="number">03</span>
-                                        <a href="product-details-1.html" class="thumbnail">
+                                        <a href="" class="thumbnail">
                                             <img src="assets/images/projects/shrirang-768x900.webp" alt="shrirang-768x900.webp">
                                         </a>
                                         <div class="inenr-content-absolute">
-                                            <a href="product-details-1.html">
+                                            <a href="">
                                                 <h3 class="title">Shrirang</h3>
                                             </a>
                                             <span class="category">KOTHRUD, PUNE</span>

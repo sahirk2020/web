@@ -16,7 +16,7 @@
 
     <!-- header three area start -->
     <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image">
+    <div class="breadcrumb-area-bg bg_image_about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -127,7 +127,7 @@
                 </div>
                 <div class="col-lg-5 mt_sm--50">
                     <div class="thumbnail-about-one rts-reveal-one">
-                        <img class="rts-reveal-image-one" src="assets/images/about/about.avif" alt="about">
+                        <img class="rts-reveal-image-one" src="assets/images/vision-mission.png" alt="vision-mission">
                     </div>
                 </div>
             </div>
@@ -253,7 +253,7 @@
                 </div>
                 <div class="col-lg-5 mt_sm--50">
                     <div class="thumbnail-about-one rts-reveal-one">
-                        <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about">
+                        <img class="rts-reveal-image-one" src="assets/images/legacyimg.webp" alt="legacyimg">
                     </div>
                 </div>
             </div>
