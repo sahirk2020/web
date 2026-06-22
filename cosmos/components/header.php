@@ -98,7 +98,7 @@ include_once __DIR__ . '/db.php';
                 <div class="col-auto d-none d-md-block">
                     <div class="header-links">
                         <ul>
-                            <li><i class="fa-solid fa-phone"></i>Phone:<a href="tel:+1044123456789">+163-654-3569</a></li>
+                            <li><i class="fa-solid fa-phone"></i>Phone:<a href="tel:+919284630260">+919284630260</a></li>
                             <li><i class="fa-solid fa-envelope"></i>Email:<a href="mailto:info@cosmos.com">info@cosmos.com</a>
                             </li>
                             <li><i class="fa-solid fa-clock"></i>Opening Hours:<span>Monday to Saturday(9:00 AM - 8:00 PM)</span></li>
@@ -106,12 +106,12 @@ include_once __DIR__ . '/db.php';
                         </ul>
                     </div>
                 </div>
-                <div class="col-auto">
+                <div class="col-auto padding-right-30">
                     <div class="social-links">
                         <span class="social-title">Follow Us On:</span>
-                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                        <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100077069439683#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/laundrycosmos/" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a href="https://wa.me/919284630260?text=Hello%20I%20want%20to%20know%20more%20about%20your%20services." target="_blank"><i class="fab fa-whatsapp"></i></a>
                     </div>
                 </div>
             </div>

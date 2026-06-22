@@ -3,7 +3,7 @@
 ==============================-->
 <div class="">
     <div class="container z-index-common">
-        <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/">
+        <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/cta.webp">
             <div class="row align-items-center">
                 <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
@@ -26,7 +26,7 @@
     </div>
 </div>
 
-<footer class="footer-wrapper footer-layout2" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/iron.webp">
+<footer class="footer-wrapper footer-layout2" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/footer-bg.webp">
     <div class="widget-area">
         <div class="container">
             <div class="row justify-content-between">

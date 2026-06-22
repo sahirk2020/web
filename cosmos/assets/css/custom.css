@@ -290,3 +290,6 @@
   background: rgba(0, 0, 0, 0.6); /* black overlay */
   z-index: -1;
 }
+.padding-right-30 {
+  padding-right: 30px;
+}
