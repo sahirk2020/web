@@ -7,9 +7,9 @@
 */
 
 $hostname = "localhost";
-$username = "root";
-$password = "";
-$database = "cosmos_laundry";
+$username = "u308580992_cosmos";
+$password = "~C7wS^@un";
+$database = "u308580992_cosmos";
 
 /*
 |--------------------------------------------------------------------------
