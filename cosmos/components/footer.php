@@ -49,21 +49,23 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-md-6 col-xl-auto">
+
+                <div class="col-md-6 col-xl-auto">
                     <div class="widget widget_nav_menu footer-widget">
                         <h3 class="widget_title">Our Services</h3>
                         <div class="menu-all-pages-container">
                             <ul class="menu">
-                                <li><a href="service.html">Dry Cleaning</a></li>
-                                <li><a href="service.html">Dust Removal</a></li>
-                                <li><a href="service.html">Damage Repair</a></li>
-                                <li><a href="service.html">Sanitize clothes</a></li>
-                                <li><a href="service.html"> Laundry Service</a></li>
-
+                                <li><a href="services/laundry-service.php">Laundry Service</a></li>
+                                <li><a href="services/dry-cleaning.php">Dry Cleaning</a></li>
+                                <li><a href="services/premium-wash.php">Premium Wash</a></li>
+                                <li><a href="services/steam-ironing.php">Steam Ironing</a></li>
+                                <li><a href="services/shoe-cleaning.php">Shoe Cleaning</a></li>
+                                <li><a href="services/express-services.php">Express Services</a></li>
+                                <li><a href="services/toy-cleaning.php">Toy Cleaning</a></li>
                             </ul>
                         </div>
                     </div>
-                </div> -->
+                </div>
 
                 <div class="col-md-6 col-xl-auto">
                     <div class="widget widget_nav_menu footer-widget">
