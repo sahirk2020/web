@@ -59,15 +59,15 @@ Hero Area
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="hero-inner">
-                        <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-1.webp"></div>
+                        <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-new.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
                                 <!-- <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Cosmos Laundry</span> -->
                                 <h1 class="hero-title text-white" data-ani="slideinup" data-ani-delay="0.4s">
-                                    Everyday Wear, <span class="text-bg">Exceptional Care</span>
+                                    Advanced Technology, <span class="text-bg">Premium Fabric Care</span>
                                 </h1>
                                 <p class="hero-text text-white" data-ani="slideinup" data-ani-delay="0.6s">
-                                    Premium laundry solutions designed to keep your clothes fresh, hygienic, and impeccably maintained.
+                                    Delivering deeper cleaning, superior hygiene, and long-lasting freshness for every garment.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
                                     <a href="about.html" class="th-btn style2">Discover More</a>

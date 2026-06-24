@@ -198,13 +198,13 @@ include_once __DIR__ . '/db.php';
                         </nav>
                         <button type="button" class="th-menu-toggle d-block d-lg-none"><i class="far fa-bars"></i></button>
                     </div>
-                    <!-- <div class="col-auto d-none d-xl-block">
-                            <div class="header-button">
-                                <button type="button" class="icon-btn2 searchBoxToggler"><i class="far fa-search"></i></button>
-                                <a href="<?php echo BASE_URL; ?>contact.php" class="th-btn th-radius">Schedule A Pickup</a>
-                                <a href="#" class="icon-btn2 sideMenuToggler d-none d-lg-block"><i class="far fa-bars"></i></a>
-                            </div>
-                        </div> -->
+                    <div class="col-auto d-none d-xl-block">
+                        <div class="header-button">
+                            <!-- <button type="button" class="icon-btn2 searchBoxToggler"><i class="far fa-search"></i></button> -->
+                            <a href="<?php echo BASE_URL; ?>contact.php" class="th-btn th-radius">Schedule A Pickup</a>
+                            <!-- <a href="#" class="icon-btn2 sideMenuToggler d-none d-lg-block"><i class="far fa-bars"></i></a> -->
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
