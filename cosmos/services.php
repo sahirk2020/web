@@ -134,11 +134,11 @@ Service Area
             </div>
 
             <div class="row gy-4">
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6  col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/home/laundry.webp" alt="img">
+                                <img src="assets/img/home/laundry-service.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/laundry-service.svg" alt="Icon" width="50" height="50">
@@ -152,11 +152,11 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/home/dry-cleaning.webp" alt="img">
+                                <img src="assets/img/home/sevices-dry-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/dry-cleaning.svg" alt="Icon" width="50" height="50">
@@ -170,11 +170,11 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/home/premium-wash.webp" alt="img">
+                                <img src="assets/img/home/sevices-premium-wash.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/premium-wash.svg" alt="Icon" width="50" height="50">
@@ -188,11 +188,11 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/home/steam-ironing.webp" alt="img">
+                                <img src="assets/img/home/sevices-steam-ironing.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/ironing.svg" alt="Icon" width="50" height="50">
@@ -206,7 +206,7 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -224,7 +224,7 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -242,7 +242,7 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -260,7 +260,7 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -278,7 +278,7 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -296,7 +296,7 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -314,7 +314,7 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -332,7 +332,7 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -352,7 +352,7 @@ Service Area
 
 
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -370,7 +370,7 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-4 col-xl-3">
+                <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -387,6 +387,116 @@ Service Area
                         </div>
                     </div>
                 </div>
+
+                <div class="col-md-6 col-xl-4">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/services/bridal-wear-cleaning.svg" alt="Icon" width="50" height="50">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Bridal Wear Cleaning</a></h3>
+                            <p class="service-item_text">Expert cleaning and preservation of bridal garments, ensuring beauty, freshness, and lasting elegance.</p>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-xl-4">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/services/saree-dry-cleaning.svg" alt="Icon" width="60" height="60">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Saree Dry Cleaning</a></h3>
+                            <p class="service-item_text">Specialized saree care that protects delicate fabrics, embroidery, colors, and intricate detailing.</p>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-xl-4">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/services/designer-wear.svg" alt="Icon" width="50" height="50">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Designer Wear Cleaning</a></h3>
+                            <p class="service-item_text">Professional cleaning solutions designed to preserve the quality and craftsmanship of designer apparel.</p>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-xl-4">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/services/blazer-and-suit-care.svg" alt="Icon" width="50" height="50">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Blazer & Suit Care</a></h3>
+                            <p class="service-item_text">Precision cleaning and finishing for blazers and suits to maintain a sharp appearance.</p>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-xl-4">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/services/silk-wool-care.svg" alt="Icon" width="50" height="50">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Silk & Wool Care</a></h3>
+                            <p class="service-item_text">Gentle treatment for delicate silk and wool fabrics, preserving texture, softness, and durability.</p>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-xl-4">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/services/toy-cleaning.svg" alt="Icon" width="50" height="50">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Toy Cleaning</a></h3>
+                            <p class="service-item_text">Safe and hygienic cleaning process that removes dirt, dust, and allergens from soft toys.</p>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
+                        </div>
+                    </div>
+                </div>
+
+
 
 
 
@@ -568,7 +678,7 @@ Process Area
     }
     ?>
 
-    <section class="laundry-price-area space-bottom">
+    <section class="laundry-price-area space" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/footer-bg.webp">
         <div class="container">
             <div class="title-area text-center">
                 <h2 class="sec-title">Simple pricing for you</h2>
@@ -741,34 +851,48 @@ Process Area
     <!--==============================
 Faq Area
 ==============================-->
-    <div class="space-bottom overflow-hidden" id="faq-sec">
+    <div class="space overflow-hidden" id="faq-sec">
         <div class="container">
-            <div class="row">
+
+            <div class="title-area text-center">
+                <span class="sub-title">Faq</span>
+                <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
+            </div>
+
+            <!-- <div class="row">
                 <div class="col-xl-6">
                     <div class="title-area mb-35 pe-xl-5 text-center text-xl-start">
                         <span class="sub-title style1">Faq</span>
-                        <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
+                    <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
                         <p>The frequency of dry cleaning depends on factors like how often you wear garment, the type of
                             fabric, and whether there are visible stains. A general guideline is every few wears or as
-                            needed.</p>
+                            needed.
+
+                        </p>
                     </div>
-                    <div class="faq-img2">
-                        <img src="assets/img/services/faq.webp" alt="faq">
-                    </div>
+
+
                 </div>
                 <div class="col-xl-6">
-                    <div class="accordion" id="faqAccordion">
+                    <div class="faq-img2">
+                        <img src="assets/img/services/faq.webp" alt="faq" height="500px">
+                    </div>
 
+                </div>
+            </div> -->
+
+            <div class="row">
+                <div class="col-12">
+
+                    <div class="accordion" id="faqAccordion">
 
                         <div class="accordion-card style2">
                             <div class="accordion-header" id="collapse-item-1">
-                                <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">How does dry cleaning differ from traditional washing?</button>
+                                <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">What is included in Cosmos Laundry's standard laundry service?</button>
                             </div>
                             <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    <p class="faq-text">We value your feedback! Let us know about your experience and if
-                                        there's anything else we can do to make your laundry service even better. We're
-                                        always here to assist you.</p>
+                                    <p class="faq-text">The standard laundry service covers daily wear clothing. It includes careful washing, stain removal, fresh folding, and doorstep pickup and delivery. The 9-step process — from inspection and sorting to finishing and quality check — ensures every garment is thoroughly cleaned and neatly returned.</p>
                                 </div>
                             </div>
                         </div>
@@ -776,41 +900,35 @@ Faq Area
 
                         <div class="accordion-card style2">
                             <div class="accordion-header" id="collapse-item-2">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Are there any fabrics that should not be dry cleaned?</button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">What types of items does Cosmos Laundry dry clean?</button>
                             </div>
                             <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    <p class="faq-text">We value your feedback! Let us know about your experience and if
-                                        there's anything else we can do to make your laundry service even better. We're
-                                        always here to assist you.</p>
+                                    <p class="faq-text">Cosmos Laundry dry cleans suits, formal wear, sarees, lehengas, jackets, and other delicate or structured garments that require specialist care. Our dry cleaning process is designed to protect fabric integrity, maintain shape, and preserve colour without water-based washing.</p>
                                 </div>
                             </div>
                         </div>
-
 
                         <div class="accordion-card style2">
                             <div class="accordion-header" id="collapse-item-3">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Are there any items that cannot be dry cleaned?</button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">What is the difference between laundry service and premium wash?</button>
                             </div>
                             <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    <p class="faq-text">We value your feedback! Let us know about your experience and if
-                                        there's anything else we can do to make your laundry service even better. We're
-                                        always here to assist you.</p>
+                                    <p class="faq-text">Standard laundry covers everyday garments using regular cleaning methods. Premium Wash uses superior detergents, a gentler cleaning process, and more detailed finishing — making it ideal for semi-formal or higher-quality clothing that deserves extra care without full dry cleaning.</p>
                                 </div>
                             </div>
                         </div>
+
 
 
                         <div class="accordion-card style2">
                             <div class="accordion-header" id="collapse-item-4">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">What is the typical turnaround time for dry cleaning services?</button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Does Cosmos Laundry clean carpets and sofas at home?</button>
                             </div>
                             <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    <p class="faq-text">We value your feedback! Let us know about your experience and if
-                                        there's anything else we can do to make your laundry service even better. We're
-                                        always here to assist you.</p>
+                                    <p class="faq-text">Yes. Cosmos Laundry provides professional carpet and sofa cleaning services. Our deep carpet cleaning removes embedded dust, allergens, stains, and odours. Sofa cleaning targets fabric and upholstery, removing dirt, stains, and bacteria buildup to leave your furniture fresh and hygienic.</p>
                                 </div>
                             </div>
                         </div>
@@ -818,19 +936,55 @@ Faq Area
 
                         <div class="accordion-card style2">
                             <div class="accordion-header" id="collapse-item-5">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">How often should I get my clothes dry cleaned?</button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Can Cosmos Laundry clean leather jackets and leather bags?</button>
                             </div>
                             <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    <p class="faq-text">We value your feedback! Let us know about your experience and if
-                                        there's anything else we can do to make your laundry service even better. We're
-                                        always here to assist you.</p>
+                                    <p class="faq-text">Yes. We offer specialized leather jacket and leather bag cleaning that removes dirt, restores softness, and protects the original material finish. Our conditioning treatment helps maintain the appearance, texture, and durability of all leather items.</p>
                                 </div>
                             </div>
                         </div>
+
+                        <div class="accordion-card style2">
+                            <div class="accordion-header" id="collapse-item-6">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Does Cosmos Laundry clean shoes?</button>
+                            </div>
+                            <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p class="faq-text">Yes. Cosmos Laundry provides a professional shoe cleaning and restoration service. We deep-clean shoes to remove dirt, stains, and odour while maintaining their original finish and sole condition.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-card style2">
+                            <div class="accordion-header" id="collapse-item-7">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7" aria-expanded="false" aria-controls="collapse-7">How do I book a service with Cosmos Laundry?</button>
+                            </div>
+                            <div id="collapse-7" class="accordion-collapse collapse " aria-labelledby="collapse-item-7" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p class="faq-text">You can book a service by calling or WhatsApp messaging +91 9284630260, or by filling out the contact form on our website. Once confirmed, we will schedule a doorstep pickup at your convenient time.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-card style2">
+                            <div class="accordion-header" id="collapse-item-8">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8" aria-expanded="false" aria-controls="collapse-8">What household items can Cosmos Laundry clean?</button>
+                            </div>
+                            <div id="collapse-8" class="accordion-collapse collapse " aria-labelledby="collapse-item-8" data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    <p class="faq-text">Cosmos Laundry cleans a wide range of household items including curtains, blankets, bed linen, bed mattresses, sofas, carpets, and institutional chairs. Our household cleaning services are available for both residential and commercial clients.</p>
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
+
+
+
         </div>
     </div>
 

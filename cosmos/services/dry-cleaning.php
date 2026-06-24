@@ -116,10 +116,10 @@
     <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/laundry-service.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Laundry Service</h1>
+                <h1 class="breadcumb-title">Dry Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="home-laundry-services.html">Home</a></li>
-                    <li>Laundry Service</li>
+                    <li>Dry Cleaning</li>
                 </ul>
             </div>
         </div>
@@ -155,10 +155,10 @@ About Area
                         <div class="title-area mb-25">
                             <span class="sub-title style1">About Service</span>
                             <h2 class="sec-title mb-20">
-                                Laundry Service
+                                Professional Dry Cleaning Solutions
                             </h2>
                             <p class="about-desc">
-                                At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your daily wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
+                                Our professional dry cleaning service is designed to preserve the quality, color, and texture of your delicate garments. Using advanced cleaning techniques and fabric-specific care processes, we effectively remove stains, odors, and dirt without causing damage. From formal wear and designer outfits to delicate fabrics and specialty garments, every item receives expert attention. We ensure thorough cleaning, careful handling, and a fresh finish, helping your clothes maintain their original appearance and extend their lifespan while delivering a premium garment care experience.
                             </p>
                         </div>
                         <!-- <div class="checklist list-two-column">
