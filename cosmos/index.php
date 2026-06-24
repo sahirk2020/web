@@ -206,7 +206,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/laundry.webp" alt="laundry service">
+                                    <img src="assets/img/home/laundry-service.webp" alt="laundry service">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Laundry Services</a></h3>
@@ -220,7 +220,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/dry-cleaning.webp" alt="dry cleaning">
+                                    <img src="assets/img/home/sevices-dry-cleaning.webp" alt="dry cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Dry Cleaning</a></h3>
@@ -234,7 +234,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/premium-wash.webp" alt="premium wash">
+                                    <img src="assets/img/home/sevices-premium-wash.webp" alt="premium wash">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Premium Wash</a></h3>
@@ -248,7 +248,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/steam-ironing.webp" alt="steam ironing">
+                                    <img src="assets/img/home/sevices-steam-ironing.webp" alt="steam ironing">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Steam Ironing</a></h3>
