@@ -10,7 +10,7 @@
         <!-- logo area end -->
         <div class="nav-area-center">
             <nav class="navigation">
-                <ul class="parent-ul my-0">
+                <ul class="parent-ul">
                     <li class="">
                         <a class="nav-link" href="index.php">Home</a>
                     </li>
@@ -59,6 +59,7 @@
                 </svg>
             </div>
         </div>
+        <img class="p-2" width="70" src="assets/images/27years.png" alt="27years.png">
             </div>
         </div>
     </div>

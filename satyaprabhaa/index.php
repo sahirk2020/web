@@ -40,9 +40,9 @@ Hero Area
     
 <!-- about  page top histoory information  -->
     <!-- rts about area start -->
-    <div class="rts-about-area-seven rts-section-gap">
+    <div class="rts-about-area-seven rts-section-gap pb-0">
         <div class="container">
-            <div class="row">
+            <div class="row pb--50">
                 <div class="col-lg-6 rts-slide-up align-content-center">
                     <div class="about-right-inner-five">
                         <div class="itle-left-style-seven-wrapper">
@@ -119,10 +119,10 @@ Hero Area
 
                     <div class="about-thumbnail-6 rts-reveal-one">
                         <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about">
-                    <div class="years-of-experience-patch">
-                        <!-- <img width="150" src="assets/images/27years.png" alt="27years.png"> -->
+                    <!-- <div class="years-of-experience-patch">
+                        <img width="150" src="assets/images/27years.png" alt="27years.png">
                             <h4>27+<br><span>Years of Experience</span></h4>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="mahesh-img position-relative">
                     <img class="position-absolute" style="right:-110px;" src="assets/images/mahesh1-bg-trans.webp" alt="mahesh">
@@ -164,7 +164,7 @@ Hero Area
                     <!-- swiper product one wrapper -->
                     <div class="swiper-product-one-wrapper">
                         <div class="swiper swiper-product-one">
-                            <div class="swiper-wrapper">
+                            <div class="swiper-wrapper our-projects">
                                 <div class="swiper-slide">
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
@@ -174,9 +174,10 @@ Hero Area
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Seva</h3>
+                                                <h3 class="title">Seva - <span class="category">KOTHRUD, PUNE | Residential</span></h3>
                                             </a>
-                                            <span class="category">BIBVEWADI, PUNE</span>
+                                            <!-- <span class="category">BIBVEWADI, PUNE | Residential</span> -->
+                                            <!-- <p>A place where everyday convenience, familiar surroundings, and comfortable living come together for growing families.</p> -->
                                         </div>
                                     </div>
                                     <!-- single swiper-item end -->
@@ -190,9 +191,9 @@ Hero Area
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Deepak Dev</h3>
+                                                <h3 class="title">Deepak Dev - <span class="category">AUNDH, PUNE</span></h3>
                                             </a>
-                                            <span class="category">AUNDH, PUNE</span>
+                                            <!-- <span class="category">AUNDH, PUNE</span> -->
                                         </div>
                                     </div>
                                     <!-- single swiper-item end -->
@@ -206,9 +207,9 @@ Hero Area
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Shrirang</h3>
+                                                <h3 class="title">Shrirang - <span class="category">BIBVEWADI, PUNE</span></h3>
                                             </a>
-                                            <span class="category">KOTHRUD, PUNE</span>
+                                            <!-- <span class="category">KOTHRUD, PUNE</span> -->
                                         </div>
                                     </div>
                                     <!-- single swiper-item end -->

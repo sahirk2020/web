@@ -166,20 +166,6 @@
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
-                                    <img src="assets/images/why-choose/01.png" alt="choose_icon">
-                                </div>
-                                <div class="right-content">
-                                    <h6 class="title">Trusted Experience</h6>
-                                    <p class="disc">Years of industry knowledge and execution expertise.
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- single choose us area end -->
-                        </div>
-                        <div class="col-lg-6 rts-slide-up">
-                            <!-- single choose us area -->
-                            <div class="single-choose-style-two">
-                                <div class="icon">
                                     <img src="assets/images/why-choose/02.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
@@ -201,6 +187,20 @@
                                     <h6 class="title">Well Connected</h6>
                                     <p class="disc">
                                         Projects located close to everyday conveniences.
+                                    </p>
+                                </div>
+                            </div>
+                            <!-- single choose us area end -->
+                        </div>
+                        <div class="col-lg-6 rts-slide-up">
+                            <!-- single choose us area -->
+                            <div class="single-choose-style-two">
+                                <div class="icon">
+                                    <img src="assets/images/why-choose/01.png" alt="choose_icon">
+                                </div>
+                                <div class="right-content">
+                                    <h6 class="title">Trusted Experience</h6>
+                                    <p class="disc">Years of industry knowledge and execution expertise.
                                     </p>
                                 </div>
                             </div>

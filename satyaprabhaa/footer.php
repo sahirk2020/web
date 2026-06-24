@@ -1,51 +1,37 @@
  <!-- footer area start -->
     <div class="rts-footer-area bg-footer-image bg_image">
+        <div class="copyright-style-one" style="border-bottom: 1px solid #4C535F;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="copyright-area-main-wrapper-one">
+                            <a href="#" class="logo">
+                                <img width="250" src="assets/images/logo/Satyaprabhaa-whitelogo.svg" alt="logo">
+                            </a>
+                            <ul class="social-style-two-wrapper social-anim">
+                                <li><a class="counter__anim" href="https://www.facebook.com/LotusLandmarks/"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a class="counter__anim" href="https://www.instagram.com/lotus_landmarks/"><i class="fa-brands fa-instagram"></i></a></li>
+                                <li><a class="counter__anim" href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                <li><a class="counter__anim" href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row  pb-5 ptb--60 ptb_sm--60">
                 <div class="col-lg-12">
                     <div class="footer-area-wrapper-one">
                         <div class="single-footer-wized">
-                            <a href="#" class="logo">
+                            <!-- <a href="#" class="logo">
                                 <img width="250" src="assets/images/logo/Satyaprabhaa-whitelogo.svg" alt="logo">
                             </a>
                             <p class="disc">
                                 Creating well-planned spaces with quality construction and modern living experiences for families across Pune.
-                            </p>
-                            <!-- <form action="#">
-                                <div class="input-email">
-                                    <input type="text" placeholder="Enter your email address" required>
-                                    <button><i class="fa-thin fa-arrow-right"></i></button>
-                                </div>
-                            </form> -->
-                        </div>
-                        <div class="single-footer-wized">
-                            <div class="menu-links-area">
-                                <h6 class="title">Quick Links</h6>
-                                <ul>
-                                    <li><a href="about-us.php">About Us</a></li>
-                                    <li><a href="events.php">Events</a></li>
-                                    <li><a href="Awards.php">Awards</a></li>
-                                    <li><a href="careers.php">Careers</a></li>
-                                    <li><a href="contacts.php">Contact</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="single-footer-wized">
-                            <div class="menu-links-area">
-                                <h6 class="title">Useful Links</h6>
-                                <ul>
-                                    <li><a href="completed-projects.php">Completed Projects</a></li>
-                                    <li><a href="ongoing-projects.php">Ongoing Projects</a></li>
-                                    <li><a href="upcoming-projects.php">Upcoming Projects</a></li>
-                                    <li><a href="nri-investment.php">NRI Investment</a></li>
-                                    <li><a href="yojangandha.php">Yojangandha</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="single-footer-wized">
-                            <div class="menu-links-area">
-                                <h6 class="title">Contact</h6>
-                                <div class="contact-information-1">
+                            </p> -->
+                            <div class="contact-information-1">
+                                <h6 class="title text-white">Contact </h6>
                                     <!-- single  contact info -->
                                     <div class="single-contact-info">
                                         <div class="icon">
@@ -80,6 +66,47 @@
                                     </div>
                                     <!-- single  contact info end -->
                                 </div>
+                            <!-- <form action="#">
+                                <div class="input-email">
+                                    <input type="text" placeholder="Enter your email address" required>
+                                    <button><i class="fa-thin fa-arrow-right"></i></button>
+                                </div>
+                            </form> -->
+                        </div>
+                        <div class="single-footer-wized">
+                            <div class="menu-links-area">
+                                <h6 class="title">Quick Links</h6>
+                                <ul>
+                                    <li><a href="about-us.php">About Us</a></li>
+                                    <li><a href="events.php">Events</a></li>
+                                    <li><a href="awards.php">Awards</a></li>
+                                    <li><a href="careers.php">Careers</a></li>
+                                    <li><a href="contacts.php">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="single-footer-wized">
+                            <div class="menu-links-area">
+                                <h6 class="title">Useful Links</h6>
+                                <ul>
+                                    <li><a href="completed-projects.php">Completed Projects</a></li>
+                                    <li><a href="ongoing-projects.php">Ongoing Projects</a></li>
+                                    <li><a href="upcoming-projects.php">Upcoming Projects</a></li>
+                                    <li><a href="nri-investment.php">NRI Investment</a></li>
+                                    <!-- <li><a href="yojangandha.php">Yojangandha</a></li> -->
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="single-footer-wized">
+                            <div class="menu-links-area">
+                                <h6 class="title">Useful Links</h6>
+                                <ul>
+                                    <li><a href="completed-projects.php">Completed Projects</a></li>
+                                    <li><a href="ongoing-projects.php">Ongoing Projects</a></li>
+                                    <li><a href="upcoming-projects.php">Upcoming Projects</a></li>
+                                    <li><a href="nri-investment.php">NRI Investment</a></li>
+                                    <!-- <li><a href="yojangandha.php">Yojangandha</a></li> -->
+                                </ul>
                             </div>
                         </div>
                     </div>

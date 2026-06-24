@@ -35,7 +35,7 @@
     <div class="rts-team-area rts-section-gap">
         <div class="container">
             
-            <div class="row mt--30 g-24">
+            <div class="row mt--30 g-24 justify-content-center">
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- team area start -->
                     <div class="team-area-start-one">
