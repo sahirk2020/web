@@ -97,7 +97,7 @@ Hero Area
                 </div>
                 <div class="swiper-slide">
                     <div class="hero-inner">
-                        <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-2.webp"></div>
+                        <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-3.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
                                 <!-- <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Steam Ironing</span> -->
@@ -208,9 +208,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/laundry.webp" alt="laundry service">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_1.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Laundry Services</a></h3>
                                     <p class="service-grid_text">
@@ -225,9 +222,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/dry-cleaning.webp" alt="dry cleaning">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_2.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Dry Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -242,9 +236,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/premium-wash.webp" alt="premium wash">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Premium Wash</a></h3>
                                     <p class="service-grid_text">
@@ -259,9 +250,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/steam-ironing.webp" alt="steam ironing">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_1.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Steam Ironing</a></h3>
                                     <p class="service-grid_text">
@@ -276,9 +264,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/shoe-cleaning.webp" alt="shoe cleaning">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_2.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Shoe Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -293,9 +278,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/leather-bag-cleaning.webp" alt="leather bag">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Leather Bag Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -311,9 +293,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/leather-jacket-cleaning.webp" alt="leather jacket">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Leather Jacket Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -329,9 +308,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/bag-cleaning.webp" alt="bag cleaning">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Traveling Bag Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -347,9 +323,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/carpet-cleaning.webp" alt="carpet cleaning">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Carpet Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -365,9 +338,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/sofa-cleaning.webp" alt="sofa cleaning">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Sofa Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -383,9 +353,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/curtain-cleaning.webp" alt="curtain cleaning">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Curtain Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -401,9 +368,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/bed-and-blanket-cleaning.webp" alt="bed and blanket cleaning">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Blanket & Bed Linen Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -419,9 +383,6 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/bed-matress-cleaning.webp" alt="bed matress cleaning">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Bed Mattress Cleaning</a></h3>
                                     <p class="service-grid_text">
@@ -437,13 +398,124 @@ Service Area
                                 <div class="service-grid_img">
                                     <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
                                 </div>
-                                <!-- <div class="service-grid_icon">
-                                    <img src="assets/img/icon/service_grid_3.svg" alt="Icon">
-                                </div> -->
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Institutional Chair Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Professional chair cleaning services for offices, institutions, and commercial spaces to maintain hygiene and cleanliness standards.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title">
+                                        <a href="services.php">
+                                            Bridal Wear Cleaning
+                                        </a>
+                                    </h3>
+                                    <p class="service-grid_text">
+                                        Expert cleaning and preservation of bridal garments, ensuring beauty, freshness, and lasting elegance.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title">
+                                        <a href="services.php">
+                                            Saree Dry Cleaning
+                                        </a>
+                                    </h3>
+                                    <p class="service-grid_text">
+                                        Specialized saree care that protects delicate fabrics, embroidery, colors, and intricate detailing.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title">
+                                        <a href="services.php">
+                                            Designer Wear Cleaning
+                                        </a>
+                                    </h3>
+                                    <p class="service-grid_text">
+                                        Professional cleaning solutions designed to preserve the quality and craftsmanship of designer apparel.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title">
+                                        <a href="services.php">
+                                            Blazer & Suit Care
+                                        </a>
+                                    </h3>
+                                    <p class="service-grid_text">
+                                        Precision cleaning and finishing for blazers and suits to maintain a sharp appearance.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title">
+                                        <a href="services.php">
+                                            Silk & Wool Care
+                                        </a>
+                                    </h3>
+                                    <p class="service-grid_text">
+                                        Gentle treatment for delicate silk and wool fabrics, preserving texture, softness, and durability.
+                                    </p>
+                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="service-grid">
+                                <div class="service-grid_img">
+                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                </div>
+                                <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
+                                    <h3 class="box-title">
+                                        <a href="services.php">
+                                            Toy Cleaning
+                                        </a>
+                                    </h3>
+                                    <p class="service-grid_text">
+                                        Safe and hygienic cleaning process that removes dirt, dust, and allergens from soft toys.
                                     </p>
                                     <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -538,21 +610,17 @@ Product Area
                     <div class="th-product product-grid">
 
                         <div class="product-content">
-                            <h5>Bronze</h5>
+                            <h5>Silver</h5>
                             <h3 class="product-title">
-                                ₹14,999
+                                ₹10,000
                             </h3>
-                            <span class="price">Valid for 1 month</span>
+                            <span class="price">Valid for 1 year</span>
                             <div class="woocommerce-product-rating">
                                 <ul>
-                                    <li>Extra Credits: ₹1,500</li>
+                                    <li>Extra Credits: ₹1,000</li>
                                     <li>High-Value Garment Insurance of INR 5,000/-</li>
                                     <li>Money-Back Guarantee</li>
                                 </ul>
-                                <!--<span class="count">(5.00 Review)</span>
-                              <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
-                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
-                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -562,30 +630,20 @@ Product Area
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="th-product product-grid">
                         <div class="product-img m-0 bg-transparent">
-                            <!-- <img src="assets/img/product/product_1_2.jpg" alt="Product Image"> -->
                             <span class="product-tag">Most Popular</span>
-                            <!-- <div class="actions">
-                                <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a>
-                                <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
-                                <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
-                            </div> -->
                         </div>
                         <div class="product-content">
-                            <h5>Silver</h5>
+                            <h5>Gold</h5>
                             <h3 class="product-title">
-                                ₹24,999
+                                ₹20,000
                             </h3>
-                            <span class="price"> Valid for 2 month</span>
+                            <span class="price"> Valid for 1 year</span>
                             <div class="woocommerce-product-rating">
                                 <ul>
-                                    <li>Extra Credits: ₹3,750</li>
+                                    <li>Extra Credits: ₹3,000</li>
                                     <li>High-Value Garment Insurance of INR 5,000/-</li>
                                     <li>Money-Back Guarantee</li>
                                 </ul>
-                                <!-- <span class="count">(5.00 Review)</span>
-                                <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5">
-                                    <span>Rated <strong class="rating">5.00</strong> out of 5 based on <span class="rating">1</span> customer rating</span>
-                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -594,24 +652,16 @@ Product Area
 
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="th-product product-grid">
-                        <!-- <div class="product-img">
-                            <img src="assets/img/product/product_1_3.jpg" alt="Product Image">
-                            <span class="product-tag">New</span>
-                            <div class="actions">
-                                <a href="#QuickView" class="icon-btn popup-content"><i class="far fa-eye"></i></a>
-                                <a href="cart.html" class="icon-btn"><i class="far fa-cart-plus"></i></a>
-                                <a href="wishlist.html" class="icon-btn"><i class="far fa-heart"></i></a>
-                            </div>
-                        </div> -->
+
                         <div class="product-content">
-                            <h5>Gold</h5>
+                            <h5>Platinum</h5>
                             <h3 class="product-title">
-                                ₹49,999
+                                ₹30,000
                             </h3>
-                            <span class="price"> Valid for 3 month</span>
+                            <span class="price"> Valid for 1 year</span>
                             <div class="woocommerce-product-rating">
                                 <ul>
-                                    <li>Extra Credits: ₹10,000</li>
+                                    <li>Extra Credits: ₹6,000</li>
                                     <li>High-Value Garment Insurance of INR 10,000/-</li>
                                     <li>Money-Back Guarantee</li>
                                 </ul>
@@ -643,10 +693,10 @@ Choose Area
                         </div>
                         <div class="service-block_wrapper">
                             <h3 class="box-title">
-                                Expert Care
+                                Advanced Hydrocarbon Technology
                             </h3>
                             <p class="mb-0">
-                                Every garment is treated with precision, ensuring lasting freshness and fabric protection.
+                                Advanced cleaning technology that delivers superior results while protecting delicate fabrics and colors.
                             </p>
                         </div>
                     </div>
@@ -658,10 +708,10 @@ Choose Area
                         </div>
                         <div class="service-block_wrapper">
                             <h3 class="box-title">
-                                Advanced Cleaning
+                                Premium & Luxury Care
                             </h3>
                             <p class="mb-0">
-                                Modern cleaning technology removes tough stains while maintaining fabric quality and softness.
+                                Specialized care designed to maintain the elegance, quality, and longevity of premium garments.
                             </p>
                         </div>
                     </div>
@@ -672,15 +722,15 @@ Choose Area
                             <img src="assets/img/icon/service_1_3.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title">Timely Delivery</h3>
-                            <p class="mb-0">Reliable pickup and delivery services ensure your laundry reaches you on schedule.</p>
+                            <h3 class="box-title">Fabric-Friendly Process</h3>
+                            <p class="mb-0">Gentle cleaning methods that preserve fabric texture, softness, color, and overall garment quality.</p>
                         </div>
                     </div>
 
                 </div>
                 <div class="col col-xl-auto text-center d-none d-xl-block">
                     <div class="service-image wow fadeInUp">
-                        <img src="assets/img/about/why-cosmos.webp" alt="cosmos laundrys">
+                        <img src="assets/img/about/why-cosmos-new.webp" alt="cosmos laundry">
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-auto">
@@ -690,9 +740,9 @@ Choose Area
                             <img src="assets/img/icon/service_1_4.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title">Quality Assurance</h3>
+                            <h3 class="box-title">Specialized Garment Treatment</h3>
                             <p class="mb-0">
-                                Every item undergoes careful inspection to maintain consistent cleaning and finishing standards.
+                                Tailored cleaning solutions for delicate, designer, luxury, and occasion-specific garments.
                             </p>
                         </div>
                     </div>
@@ -703,8 +753,8 @@ Choose Area
                             <img src="assets/img/icon/service_1_5.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title">Fabric Protection</h3>
-                            <p class="mb-0">Specialized processes preserve colors, texture, and longevity of your valuable garments.</p>
+                            <h3 class="box-title">Experienced Team</h3>
+                            <p class="mb-0">Skilled professionals with extensive expertise in handling diverse fabrics and garment types.</p>
                         </div>
                     </div>
 
@@ -714,8 +764,10 @@ Choose Area
                             <img src="assets/img/icon/service_1_6.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title">Convenient Service</h3>
-                            <p class="mb-0">Easy scheduling, doorstep pickup, and hassle-free service designed around your routine.</p>
+                            <h3 class="box-title">Quality Assurance</h3>
+                            <p class="mb-0">
+                                Every garment undergoes thorough inspection to ensure exceptional cleaning and finishing standards.
+                            </p>
                         </div>
                     </div>
 
