@@ -113,7 +113,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/laundry-service.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Laundry-Service.webp">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Laundry Service</h1>
@@ -136,7 +136,7 @@ About Area
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/banners/5.jpg" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/home/sevices-Express-Service.webp" width="500px" alt="About" />
                         </div>
                         <!-- <div class="img2">
                             <img src="<?php //echo BASE_URL; 

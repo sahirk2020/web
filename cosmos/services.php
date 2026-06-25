@@ -496,7 +496,7 @@ Service Area
                     </div>
                 </div>
 
-                <div class="col-md-6 col-xl-4">
+                <!-- <div class="col-md-6 col-xl-4">
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
@@ -512,7 +512,7 @@ Service Area
                             <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
 

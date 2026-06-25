@@ -113,7 +113,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/laundry-service.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Dry-Cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Dry Cleaning</h1>
