@@ -12762,7 +12762,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .contact-map.style2 {
-  margin-bottom: -160px;
+  margin-bottom: -170px;
   /* Medium devices */
 }
 
@@ -16168,6 +16168,8 @@ span.select2-selection.select2-selection--single:focus {
 .why-checklist {
   border-bottom: 1px solid var(--th-border-color);
   padding-bottom: 40px;
+  border-top: 1px solid var(--th-border-color);
+  padding-top: 40px;
 }
 
 .why-checklist ul li {
@@ -16465,11 +16467,11 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .feature-box:nth-child(2) .feature-box_step {
-  background-color: var(--theme-color2);
+  background-color: var(--theme-color);
 }
 
 .feature-box:nth-child(3) .feature-box_step {
-  background-color: var(--theme-color);
+  background-color: var(--theme-color2);
 }
 
 .feature-box .box-title {
