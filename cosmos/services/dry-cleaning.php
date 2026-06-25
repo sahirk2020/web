@@ -127,53 +127,198 @@
 
 
 
+
+
+
+
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <div class="about-sec overflow-hidden space-top" id="about-sec">
+    <div class="overflow-hidden space" id="about-sec">
         <div class="container">
             <div class="row">
-                <div class="col-xl-6 wow fadeInLeft">
-                    <div class="img-box1">
+                <div class="col-xl-6">
+                    <div class="img-box3 pe-xl-3">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/banners/5.jpg" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/normal/about_3_1.jpg" alt="About">
                         </div>
-                        <!-- <div class="img2">
-                            <img src="<?php //echo BASE_URL; 
-                                        ?>assets/img/banners/3.jpg" alt="About" />
+                        <div class="img2">
+                            <img src="<?php echo BASE_URL; ?>assets/img/normal/about_3_2.jpg" alt="About">
+                        </div>
+                        <div class="about-shape jump">
+                            <img src="<?php echo BASE_URL; ?>assets/img/shape/dot.png" alt="About">
+                        </div>
+                        <div class="about-shape2">
+                            <img src="<?php echo BASE_URL; ?>assets/img/shape/shape_2.png" alt="About">
+                        </div>
+                        <!-- <div class="th-experience style2" data-bg-src="<?php echo BASE_URL; ?>assets/img/shape/shape_1.png">
+                            <div class="th-experience_content">
+                                <h2 class="experience-year"><span class="counter-number">24</span>+</h2>
+                                <p class="experience-text">Years of Experience</p>
+                            </div>
                         </div> -->
-                        <div class="th-experience jump">
-                            <h3 class="experience-year">
-                                <span class="counter-number">10</span>+
-                            </h3>
-                            <p class="experience-text">Years</p>
+                    </div>
+                </div>
+
+                <div class="col-xl-6">
+                    <div class="ps-xl-3">
+                        <div class="title-area mb-30">
+
+                            <h2 class="sec-title">Advanced Hydrocarbon Dry Cleaning</h2>
+                        </div>
+                        <p class="mt-n2 mb-15 about-quote">Experience a new standard of garment care with our Hydrocarbon Dry Cleaning Technology, an advanced international cleaning process widely used across Europe and America. Unlike conventional dry cleaning methods, hydrocarbon technology is gentler on fabrics and helps preserve color, texture, softness, and garment structure for longer. It effectively removes stains, dirt, and odors while providing superior fabric protection. Ideal for designer wear, formal clothing, delicate fabrics, and premium garments, this advanced process delivers deep cleaning without harsh treatment. Combined with expert handling and specialized care, it helps your clothes stay fresher, softer, and looking newer for longer.</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--==============================
+Feature Area  
+==============================-->
+    <div class="features-area position-relative overflow-hidden bg-top-center" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/about-banner.webp">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-9">
+                    <div class="choose-feature-area">
+                        <div class="title-area mb-25">
+
+                            <h2 class="sec-title">WHAT IS DRY CLEANING?</h2>
+                            <p class="sec-text">Many people think dry cleaning means cleaning without water. But dry cleaning actually uses a special solvent instead of regular water and detergent.</p>
+                        </div>
+                        <div class="checklist list-two-column why-checklist">
+                            <h5 class="sec-title">Dry Cleaning is ideal for</h5>
+                            <ul>
+                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/check.svg" alt=""></span> Suits & Blazers</li>
+
+                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/check.svg" alt=""></span>Sarees & Designer Wear</li>
+
+                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/check.svg" alt=""></span>Silk & Wool Fabrics</li>
+
+                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/check.svg" alt=""></span> Bridal Wear</li>
+
+                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/check.svg" alt=""></span>Premium Garments</li>
+
+                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/check.svg" alt=""></span>Delicate Fabrics</li>
+                            </ul>
+                        </div>
+                        <!-- <div class="btn-group mt-40">
+                            <a href="contact.html" class="th-btn style3">Make An Appointment</a>
+                            <div class="about-profile">
+                                <div class="about-avater">
+                                    <img src="<?php echo BASE_URL; ?>assets/img/shape/about-thumb_1.png" alt="about">
+                                </div>
+                                <div class="media-body">
+                                    <h5 class="box-title mb-0">Alex Hamilton</h5>
+                                    <p class="desig mb-0">Company Director by Laundry Service</p>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+                <!-- <div class="col-xl-3">
+                    <div class="video-box1">
+                        <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn popup-video"><i class="fa-sharp fa-solid fa-play"></i></a>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+        <!-- <div class="shape-mockup jump d-none d-xl-block" data-bottom="8%" data-right="0%"><img src="<?php echo BASE_URL; ?>assets/img/shape/like.png" alt="shape">
+        </div> -->
+    </div>
+
+    <!--==============================
+Faq Area
+==============================-->
+    <div class="  space overflow-hidden" id="faq-sec">
+        <div class="container">
+            <div class="row align-items-end">
+                <div class="col-xl-6 text-center text-xl-start align-self-center">
+                    <div class="">
+                        <div class="title-area text-center text-xl-start">
+                            <span class="sub-title style1">FAQ</span>
+                            <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
+                        </div>
+                        <div class="accordion" id="faqAccordion">
+
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-1">
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">What Services Do You Offer?</button>
+                                </div>
+                                <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">We value your feedback! Let us know about your experience and if there's anything else we can do to make your laundry service even better. We're always here to assist you.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-2">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Do You Have Certified Technicians?</button>
+                                </div>
+                                <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">We value your feedback! Let us know about your experience and if there's anything else we can do to make your laundry service even better. We're always here to assist you.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-3">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Can You Provide a Customized Service Plan?</button>
+                                </div>
+                                <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">We value your feedback! Let us know about your experience and if there's anything else we can do to make your laundry service even better. We're always here to assist you.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-4">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">What is Your Pricing Structure?</button>
+                                </div>
+                                <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">We value your feedback! Let us know about your experience and if there's anything else we can do to make your laundry service even better. We're always here to assist you.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-5">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">What is Your Pricing Structure?</button>
+                                </div>
+                                <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">We value your feedback! Let us know about your experience and if there's anything else we can do to make your laundry service even better. We're always here to assist you.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-6">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">What is Your Pricing Structure?</button>
+                                </div>
+                                <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">We value your feedback! Let us know about your experience and if there's anything else we can do to make your laundry service even better. We're always here to assist you.</p>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-6">
-                    <div class="ps-xl-4 wow fadeInRight">
-                        <div class="title-area mb-25">
-                            <span class="sub-title style1">About Service</span>
-                            <h2 class="sec-title mb-20">
-                                Professional Dry Cleaning Solutions
-                            </h2>
-                            <p class="about-desc">
-                                Our professional dry cleaning service is designed to preserve the quality, color, and texture of your delicate garments. Using advanced cleaning techniques and fabric-specific care processes, we effectively remove stains, odors, and dirt without causing damage. From formal wear and designer outfits to delicate fabrics and specialty garments, every item receives expert attention. We ensure thorough cleaning, careful handling, and a fresh finish, helping your clothes maintain their original appearance and extend their lifespan while delivering a premium garment care experience.
-                            </p>
+                    <div class="faq-img1 ps-xl-4">
+                        <div class="img1">
+                            <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
                         </div>
-                        <!-- <div class="checklist list-two-column">
-                            <ul>
-                                <li>Pickup and Delivery Service</li>
-                                <li>Energy-Efficient Machines</li>
-                                <li>Same-Day or Express Service</li>
-                                <li>Folding Preferences</li>
-                                <li>Hanging or Bagging Options</li>
-                                <li>Satisfaction Guarantee</li>
-                            </ul>
-                        </div> -->
-                        <!-- <div class="btn-group mt-30 justify-content-start">
-                            <a href="about.html" class="th-btn">More About Us</a>
-                        </div> -->
                     </div>
                 </div>
             </div>
@@ -182,59 +327,6 @@ About Area
 
 
 
-    <!--==============================
-feature Area  
-==============================-->
-    <!-- <div class="overflow-hidden space" id="feature-area">
-        <div class="container">
-            <div class="row gy-4 justify-content-center">
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_1.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">100% Happiness Guarantee</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInDown">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_2.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">Free Collection & Delivery</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_3.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">24/7 Dedicated Support</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!--==============================
-Service Area  
-==============================-->
+
 
     <?php include '../components/footer.php'; ?>

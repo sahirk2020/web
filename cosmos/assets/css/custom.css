@@ -293,3 +293,19 @@
 .padding-right-30 {
   padding-right: 30px;
 }
+
+/* Dry Cleaning Page */
+
+.sub-title2 {
+  color: var(--theme-color2);
+  position: relative;
+  display: block;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: var(--title-font);
+  letter-spacing: 0.08em;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  line-height: 28px;
+  margin-top: -0.34em;
+}

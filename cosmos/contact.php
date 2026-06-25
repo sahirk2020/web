@@ -106,7 +106,7 @@ ini_set('display_errors', 1);
   <!--==============================
     Breadcumb
 ============================== -->
-  <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/contact-bg.jpg">
+  <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/Contact-Us-Page.webp">
     <div class="container">
       <div class="breadcumb-content">
         <h1 class="breadcumb-title">Contact Us</h1>
@@ -352,7 +352,7 @@ Price Area
               <!-- A trusted name for laundry and dry cleaning services, serving Jalgaon with care, consistency, and convenience.</p> -->
             <h6 class="address-text">
 
-              Cosmo Enterprises Gat no 99/2,
+              Cosmo Enterprises, Gat no 99/2,
               buldhana urban ware House,
               Chincholi shivar Jalgaon 425003
             </h6>
@@ -370,8 +370,8 @@ Price Area
               Municipal Corporation Limited
               <!-- Helping Nashik residents maintain fresh, well-cared-for garments through professional cleaning and reliable service.</p> -->
 
-            <h6 class="address-text">Nashik address
-              Cosmos Laundry
+            <h6 class="address-text">
+              Cosmos Laundry,
               Nearest landmark: Behind Express Inn hotel, Pathardi
               Phata, of mambai Agra highway
               Nashik 422009</h6>
@@ -390,7 +390,7 @@ Price Area
               <!-- Delivering exceptional fabric care and hassle-free laundry solutions tailored to the everyday needs of Amravati.</p> -->
 
             <h6 class="address-text">Cosmos Laundry, Opposite Ekta Abhushan, Near Rajesh Gas service, Jaistambh Chowk, Amravati-444601</h6>
-            <span>+919697895895</span>
+            <span>+91 9697895895</span>
           </div>
         </div>
 
