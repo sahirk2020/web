@@ -2,9 +2,11 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Innovat Architecture HTML Template</title>
+    <?php
+
+$page_title = "Completed Projects in Pune | Satyaprabhaa developers";
+$page_description = "Completed projects by Satyaprabhaa Developers include 28+ residential and commercial spaces delivered across Pune with quality craftsmanship";
+?>
     <?php include 'css.php'; ?>
 </head>
 

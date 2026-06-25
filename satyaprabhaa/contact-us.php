@@ -2,9 +2,11 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Innovat Architecture HTML Template</title>
+    <?php
+
+$page_title = "Contact Satyaprabhaa | Top Real Estate Builders in Pune";
+$page_description = "Contact us for best upcoming & residential projects in pune or enquiries for 2, 3 &amp; 4 BHK home.";
+?>
     <?php include 'css.php'; ?>
 </head>
 
@@ -54,10 +56,7 @@
                                 </div>
                                 <div class="right-content">
                                     <h6 class="title">Office Address</h6>
-                                    <p class="disc">B-102, Lotus Aman, SR-26, Lane No. 1,
-Dahanukar Colony, Kothrud, Pune - 411038
-                                        
-                                    </p>
+                                    <p class="disc">B-102, Lotus Aman, SR-26, Lane No. 1, Dahanukar Colony, Kothrud, Pune - 411038</p>
                                 </div>
                             </div>
                             <!-- single choose us area end -->

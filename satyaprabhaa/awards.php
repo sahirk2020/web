@@ -2,9 +2,11 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Innovat 2025-26 HTML Template</title>
+    <?php
+
+$page_title = "Awards & Recognition | Satyaprabhaa | Pune";
+$page_description = "Satyaprabhaa has been recognised for excellence in real estate development across Pune. View our awards, accolades, and industry recognitions.";
+?>
     <?php include 'css.php'; ?>
 </head>
 

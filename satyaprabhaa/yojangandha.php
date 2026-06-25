@@ -2,10 +2,12 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yojangandha project page</title>
-    <?php include 'css.php'; ?>
+    <?php
+    $page_title = "Yojangandha | Satyaprabhaa Developers Yojangandha by Satyaprabhaa | 2, 3 & 4 BHK Flats in Kothrud Pune";
+    $page_description = "Yojangandha by Satyaprabhaa - 2, 3 & 4 BHK homes in Kothrud, Pune. Metro-connected, 15+ amenities, rooftop garden &amp; pets park.";
+    include 'css.php';
+    ?>
+    
 </head>
 
 <body>

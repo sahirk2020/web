@@ -2,10 +2,11 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Innovat Architecture HTML Template</title>
-    <?php include 'css.php'; ?>
+    <?php
+    $page_title = "Privacy Policy | Satyaprabhaa Developers";
+    $page_description = "Satyaprabhaa is committed to protecting your privacy. Read our policy to understand how we collect, use, and safeguard your personal information.";
+    include 'css.php';
+    ?>
     <style>
         .bg_image {
             background:linear-gradient(45deg, black, transparent), url(assets/images/banner/bg/Privacy-Policy.jpg);

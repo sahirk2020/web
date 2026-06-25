@@ -1,10 +1,13 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Innovat Architecture HTML Template</title>
+    <?php
+
+$page_title = "Best Real Estate Developers in Pune | Satyaprabhaa Developers";
+$page_description = "Satyaprabhaa Developers builds premium residential, commercial & gated-community projects in Pune, including serviced apartments & rental management solutions.";
+?>
     <?php include 'css.php'; ?>
 </head>
 
