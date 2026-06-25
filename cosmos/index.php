@@ -537,7 +537,7 @@ Contact Area
                 <div class="col-lg-6">
                     <div class="pe-xl-4">
                         <div class="title-area">
-                            <span class="sub-title style1">Get in Tuch</span>
+                            <span class="sub-title style1">Get in Touch</span>
                             <h2 class="sec-title text-white">Need Any Urgent Help? Call us Anytime</h2>
                         </div>
                         <div class="contact-map">
