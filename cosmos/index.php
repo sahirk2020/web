@@ -411,7 +411,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                    <img src="assets/img/home/sevices-Bridal-Wear-Cleaning.webp" alt="institutional chair cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
@@ -430,7 +430,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                    <img src="assets/img/home/sevices-saree-dry-cleaning.webp" alt="institutional chair cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
@@ -449,7 +449,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                    <img src="assets/img/home/deigner-cleaning.webp" alt="institutional chair cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
@@ -468,7 +468,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                    <img src="assets/img/home/sevices-blazer-and-suit-cleaning.webp" alt="institutional chair cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
@@ -487,7 +487,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                    <img src="assets/img/home/silk-and-wool-care.webp" alt="institutional chair cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
@@ -506,7 +506,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
+                                    <img src="assets/img/home/sevices-toy-cleaning.webp" alt="institutional chair cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
