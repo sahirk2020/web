@@ -2,10 +2,10 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lotus shalaka project page</title>
-    <?php include 'css.php'; ?>
+    <?php
+    $page_title = "Lotus Shalaka | Premium Commercial Spaces for sale in Pune";
+    $page_description = "Discover Lotus Shalaka by Lotus Landmarks - a premium commercial address near top healthcare facilities, designed for businesses seeking prime visibility and growth;";
+    ?>
 </head>
 
 <body>

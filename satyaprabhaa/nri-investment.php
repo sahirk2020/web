@@ -2,9 +2,10 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Innovat Architecture HTML Template</title>
+    <?php
+    $page_title = "NRI Real Estate Investment Pune | Satyaprabhaa";
+    $page_description = "Invest in Pune real estate as an NRI with Satyaprabhaa. FEMA - compliant process, trusted developer, quality homes in Kothrud &amp; Aundh. Enquire now.";
+    ?>
     <?php include 'css.php'; ?>
 </head>
 
@@ -45,13 +46,10 @@
                                 <span class="pre-title">Legacy</span>
                                 <!-- <img src="assets/images/service/07.png" alt="service"> -->
                             </div>
-                            <h2 class="title quote">
-                               NRI <br>Investment
+                            <h2 class="title quote">NRI Investment <br> In Pune
                             </h2>
                         </div>
-                        <p class="disc">
-                            Lotus Landmarks brings a deep understanding of how spaces shape the way people live and work. Spanning both residential and commercial developments, we combine design sensibility with execution expertise to create beautiful, enduring environments—delivered with consistency, quality, and care.
-                        </p>
+                        <p class="disc">Living abroad but planning to invest in Pune? We're here to make your homebuying journey simple, secure, and completely transparent. Whether you're buying your first home, investing for the future, or planning your return to India, Satyaprabhaa helps NRIs invest confidently in RERA-registered residential projects across Pune. From property selection and documentation to home loan assistance and registration, our experienced team supports you at every stage, no matter where you are in the world.</p>
                     </div>
                     <!-- why chooseus section end -->
                 </div>
