@@ -6738,8 +6738,9 @@ ol.wp-block-rss {
 }
 
 .widget-area {
-  padding-top: 100px;
-  padding-bottom: 46px;
+  padding-top: 50px;
+  /* padding-bottom: 46px; */
+  /* padding-bottom: 26px; */
 }
 
 .sticky-footer {

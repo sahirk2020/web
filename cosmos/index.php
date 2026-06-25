@@ -59,15 +59,15 @@ Hero Area
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="hero-inner">
-                        <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-1.webp"></div>
+                        <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-new.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
                                 <!-- <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Cosmos Laundry</span> -->
                                 <h1 class="hero-title text-white" data-ani="slideinup" data-ani-delay="0.4s">
-                                    Everyday Wear, <span class="text-bg">Exceptional Care</span>
+                                    Advanced Technology, <span class="text-bg">Premium Fabric Care</span>
                                 </h1>
                                 <p class="hero-text text-white" data-ani="slideinup" data-ani-delay="0.6s">
-                                    Premium laundry solutions designed to keep your clothes fresh, hygienic, and impeccably maintained.
+                                    Delivering deeper cleaning, superior hygiene, and long-lasting freshness for every garment.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
                                     <a href="about.html" class="th-btn style2">Discover More</a>
@@ -206,7 +206,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/laundry.webp" alt="laundry service">
+                                    <img src="assets/img/home/laundry-service.webp" alt="laundry service">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Laundry Services</a></h3>
@@ -220,7 +220,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/dry-cleaning.webp" alt="dry cleaning">
+                                    <img src="assets/img/home/sevices-dry-cleaning.webp" alt="dry cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Dry Cleaning</a></h3>
@@ -234,7 +234,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/premium-wash.webp" alt="premium wash">
+                                    <img src="assets/img/home/sevices-premium-wash.webp" alt="premium wash">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Premium Wash</a></h3>
@@ -248,7 +248,7 @@ Service Area
                         <div class="swiper-slide">
                             <div class="service-grid">
                                 <div class="service-grid_img">
-                                    <img src="assets/img/home/steam-ironing.webp" alt="steam ironing">
+                                    <img src="assets/img/home/sevices-steam-ironing.webp" alt="steam ironing">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Steam Ironing</a></h3>
