@@ -392,7 +392,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                                <img src="assets/img/home/bridal-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/bridal-wear-cleaning.svg" alt="Icon" width="50" height="50">
@@ -410,7 +410,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                                <img src="assets/img/home/sevices-saree-dry-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/saree-dry-cleaning.svg" alt="Icon" width="60" height="60">
@@ -428,7 +428,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                                <img src="assets/img/home/deigner-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/designer-wear.svg" alt="Icon" width="50" height="50">
@@ -446,7 +446,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                                <img src="assets/img/home/sevices-blazer-and-suit-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/blazer-and-suit-care.svg" alt="Icon" width="50" height="50">
@@ -464,7 +464,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                                <img src="assets/img/home/silk-and-wool-care.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/silk-wool-care.svg" alt="Icon" width="50" height="50">
@@ -482,7 +482,7 @@ Service Area
                     <div class="service-item">
                         <div class="service-item_wrapper">
                             <div class="service-item_img">
-                                <img src="assets/img/home/institutional-chair-cleaning.webp" alt="img">
+                                <img src="assets/img/home/sevices-toy-cleaning.webp" alt="img">
                             </div>
                             <div class="service-item_icon">
                                 <img src="assets/img/icon/services/toy-cleaning.svg" alt="Icon" width="50" height="50">
@@ -490,6 +490,24 @@ Service Area
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="service-details.html">Toy Cleaning</a></h3>
+                            <p class="service-item_text">Safe and hygienic cleaning process that removes dirt, dust, and allergens from soft toys.</p>
+                            <a href="service-details.html" class="th-btn border">Know More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-xl-4">
+                    <div class="service-item">
+                        <div class="service-item_wrapper">
+                            <div class="service-item_img">
+                                <img src="assets/img/home/sevices-Express-Service.webp" alt="img">
+                            </div>
+                            <div class="service-item_icon">
+                                <img src="assets/img/icon/services/toy-cleaning.svg" alt="Icon" width="50" height="50">
+                            </div>
+                        </div>
+                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
+                            <h3 class="box-title"><a href="service-details.html">Express Service</a></h3>
                             <p class="service-item_text">Safe and hygienic cleaning process that removes dirt, dust, and allergens from soft toys.</p>
                             <a href="service-details.html" class="th-btn border">Know More</a>
                         </div>
