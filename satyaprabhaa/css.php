@@ -1,3 +1,9 @@
+<?php include 'gtm-head.php'; ?>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title><?php echo $page_title; ?></title>
+
+<meta name="description" content="<?php echo $page_description; ?>">
 <!-- fontawesome 6.4.2 -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-6.css">
     <!-- swiper Css 10.2.0 -->
@@ -15,3 +21,17 @@
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/swastiklogo.svg">
     <!-- for date pick -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pikaday/1.8.0/css/pikaday.min.css">
+<link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>" />
+
+<!-- Facebook Meta Tags -->
+    <meta property="og:title" content="<?php echo $page_title; ?>">
+    <meta property="og:description" content="<?php echo $page_description; ?>">
+    <meta property="og:image" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . '/assets/images/logo/Satyaprabhaa-logo.svg'; ?>">
+    <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
+    <meta property="og:site_name" content="Satyaprabhaa Developers">
+    <meta property="og:type" content="Real Estate Developers">
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo $page_title; ?>">
+    <meta name="twitter:description" content="<?php echo $page_description; ?>">
+    <meta name="twitter:image" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . '/assets/images/logo/Satyaprabhaa-logo.svg'; ?>">

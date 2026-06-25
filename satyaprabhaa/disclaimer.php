@@ -2,9 +2,10 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Innovat Architecture HTML Template</title>
+    <?php
+    $page_title = "Disclaimer | Satyaprabhaa | Pune Real Estate";
+    $page_description = "Read the official disclaimer from Satyaprabhaa regarding the accuracy of information, project details, and content published on this website.";
+    ?>
     <?php include 'css.php'; ?>
 </head>
 
@@ -13,6 +14,7 @@
     <?php include 'header.php'; ?>
     <!-- header three area end -->
 
+    <section
 
     <!-- rts footer area start -->
     <?php include 'footer.php'; ?>
