@@ -25,6 +25,7 @@
                                     <li><a class="sdm-main" href="yojangandha.php">Yojangandha</a></li>
                                     <li><a class="sdm-main" href="lotus-shalaka.php">Lotus Shalaka</a></li>
                                     <li><a class="sdm-main" href="treya.php">Treya</a></li>
+                                    <li><a class="sdm-main" href="deepak-dev.php">Deepak Dev</a></li>
                                 </ul>
                             </li>
                             <li class="mega-menu-item">
