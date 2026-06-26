@@ -129,7 +129,7 @@
                                     <img src="assets/images/why-choose/01.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Amidst Kothrud’s Heritage Charm</h6>
+                                    <h6 class="title">Contemporary Living Spaces</h6>
                                     <!-- <p class="disc">
                                         Interior designers possess the
                                         skills create well-designed.
@@ -145,7 +145,7 @@
                                     <img src="assets/images/why-choose/02.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Seamless Metro Connectivity</h6>
+                                    <h6 class="title">Family-Focused Design</h6>
                                     <!-- <p class="disc">
                                         Interior designers are trained to think creatively and come.
                                     </p> -->
@@ -160,7 +160,7 @@
                                     <img src="assets/images/why-choose/03.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Signature Rooftop Experiences</h6>
+                                    <h6 class="title">Everyday Urban Convenience</h6>
                                     <!-- <p class="disc">
                                         Hiring an interior designer can save you time and money.
                                     </p> -->
@@ -175,7 +175,7 @@
                                     <img src="assets/images/why-choose/04.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">A Prestigious Kothrud Address</h6>
+                                    <h6 class="title">Trusted Quality Construction</h6>
                                     <!-- s -->
                                 </div>
                             </div>
