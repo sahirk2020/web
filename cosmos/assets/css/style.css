@@ -16854,12 +16854,13 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .faq-bg-image {
-  position: absolute;
+  /* position: absolute;
   top: 0;
   right: -30px;
   width: 737px;
   height: 100%;
-  z-index: 1;
+  z-index: 1; */
+  background-image: url("../img/home/overlay-express-service.webp");
   /* Medium Large devices */
 }
 
