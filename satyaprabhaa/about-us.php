@@ -39,7 +39,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     <!-- bread croumba rea end -->
     <!-- header three area end -->
 
-<!-- rts about area start -->
+    <!-- rts about area start -->
     <div class="rts-about-area-one rts-section-gap">
         <div class="container pb--50 pb_sm--0">
             <div class="row">
