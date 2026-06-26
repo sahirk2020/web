@@ -284,10 +284,10 @@ About Area
         <div class="col-xl-5 mb-40 mb-xl-0">
           <div class="img-box2">
             <div class="img1">
-              <img src="assets/img/about/about-1-back.webp" alt="About" />
+              <img src="assets/img/about/about-us-back.webp" alt="About" />
             </div>
             <div class="img2">
-              <img src="assets/img/about/about-2-front.webp" alt="Image" />
+              <img src="assets/img/about/about-us-front.webp" alt="Image" />
             </div>
             <div class="about-shape-1"></div>
             <div class="about-shape-2"></div>
@@ -301,20 +301,16 @@ About Area
             <div class="title-area mb-25">
               <span class="sub-title style1">About Us</span>
               <h2 class="sec-title mb-20">
-                Designed Around Everyday Fabric Care
+                A Decade Of Trusted Garment Care
               </h2>
-              <blockquote class="about-blockquote">
+              <blockquote class="about-blockquote mt-20">
                 <p>
-                  At Cosmos Laundry, we believe laundry should feel simple, reliable, and
-                  stress-free. From everyday wear to premium fabrics, every garment receives
-                  careful attention, modern cleaning treatment, and fabric-safe handling from
-                  start to finish. Our team focuses on quality, hygiene, timely delivery, and
-                  customer convenience to ensure your clothes always look fresh and feel
-                  comfortable. Whether it’s delicate dry cleaning, household cleaning, or
-                  premium garment care, we combine experience with professional processes to
-                  deliver results you can trust. At Cosmos Laundry, we don’t just clean
-                  clothes, we help you maintain the way you live, dress, and present yourself
-                  every day.
+                  For over 10 years, Cosmos Laundry has been delivering premium laundry and
+                  dry-cleaning services with an unwavering commitment to quality, fabric care,
+                  and customer satisfaction. Using advanced cleaning technology and modern processes,
+                  we treat every garment with the attention it deserves, helping clothes stay fresh,
+                  vibrant, and well-maintained for longer. From everyday essentials to luxury wear,
+                  we ensure exceptional care at every step.
                 </p>
               </blockquote>
             </div>
@@ -327,7 +323,7 @@ About Area
   <!--==============================
 Choose Area  
 ==============================-->
-  <section class="overflow-hidden space-bottom">
+  <section class="overflow-hidden space-bottom space">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
@@ -341,93 +337,87 @@ Choose Area
         <div class="col-md-6 col-xl-auto">
           <div class="service-block style1 wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_1.svg" alt="Service" />
+              <img src="assets/img/icon/service_1_1.svg" alt="Service">
             </div>
             <div class="service-block_wrapper">
               <h3 class="box-title">
-                Expert Care
+                Advanced Hydrocarbon Technology
               </h3>
               <p class="mb-0">
-                Every garment is treated with precision, ensuring lasting freshness and fabric protection.
+                Advanced cleaning technology that delivers superior results while protecting delicate fabrics and colors.
               </p>
             </div>
           </div>
 
+
           <div class="service-block style1 wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_2.svg" alt="Service" />
+              <img src="assets/img/icon/service_1_2.svg" alt="Service">
             </div>
             <div class="service-block_wrapper">
               <h3 class="box-title">
-                Advanced Cleaning
+                Premium & Luxury Care
               </h3>
               <p class="mb-0">
-                Modern cleaning technology removes tough stains while maintaining fabric quality and softness.
+                Specialized care designed to maintain the elegance, quality, and longevity of premium garments.
               </p>
             </div>
           </div>
 
+
           <div class="service-block style1 wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_3.svg" alt="Service" />
+              <img src="assets/img/icon/service_1_3.svg" alt="Service">
             </div>
             <div class="service-block_wrapper">
-              <h3 class="box-title">
-                Timely Delivery
-              </h3>
-              <p class="mb-0">
-                Reliable pickup and delivery services ensure your laundry reaches you on schedule.
-              </p>
+              <h3 class="box-title">Fabric-Friendly Process</h3>
+              <p class="mb-0">Gentle cleaning methods that preserve fabric texture, softness, color, and overall garment quality.</p>
             </div>
           </div>
         </div>
         <div class="col col-xl-auto text-center d-none d-xl-block">
           <div class="service-image wow fadeInUp">
-            <img src="assets/img/about/why-cosmos.webp" alt="Why Cosmos" />
+            <img src="assets/img/about/why-choose-about.webp" alt="Why Cosmos" />
           </div>
         </div>
         <div class="col-md-6 col-xl-auto">
+
           <div class="service-block wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_4.svg" alt="Service" />
+              <img src="assets/img/icon/service_1_4.svg" alt="Service">
             </div>
             <div class="service-block_wrapper">
-              <h3 class="box-title">
-                Quality Assurance
-              </h3>
+              <h3 class="box-title">Specialized Garment Treatment</h3>
               <p class="mb-0">
-                Every item undergoes careful inspection to maintain consistent cleaning and finishing standards.
+                Tailored cleaning solutions for delicate, designer, luxury, and occasion-specific garments.
               </p>
             </div>
           </div>
 
+
           <div class="service-block wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_5.svg" alt="Service" />
+              <img src="assets/img/icon/service_1_5.svg" alt="Service">
             </div>
             <div class="service-block_wrapper">
-              <h3 class="box-title">
-                Fabric Protection
-              </h3>
+              <h3 class="box-title">Experienced Team</h3>
+              <p class="mb-0">Skilled professionals with extensive expertise in handling diverse fabrics and garment types.</p>
+            </div>
+          </div>
+
+
+          <div class="service-block wow fadeInLeft">
+            <div class="service-block_img">
+              <img src="assets/img/icon/service_1_6.svg" alt="Service">
+            </div>
+            <div class="service-block_wrapper">
+              <h3 class="box-title">Quality Assurance</h3>
               <p class="mb-0">
-                Specialized processes preserve colors, texture, and longevity of your valuable garments.
+                Every garment undergoes thorough inspection to ensure exceptional cleaning and finishing standards.
               </p>
             </div>
           </div>
 
-          <div class="service-block wow fadeInLeft">
-            <div class="service-block_img">
-              <img src="assets/img/icon/service_1_6.svg" alt="Service" />
-            </div>
-            <div class="service-block_wrapper">
-              <h3 class="box-title">
-                Convenient Service
-              </h3>
-              <p class="mb-0">
-                Easy scheduling, doorstep pickup, and hassle-free service designed around your routine.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
     </div>

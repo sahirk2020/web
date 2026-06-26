@@ -17385,7 +17385,8 @@ span.select2-selection.select2-selection--single:focus {
   -ms-flex-align: center;
   align-items: center;
   gap: 25px;
-  max-width: 358px;
+  max-width: 400px;
+  /* max-width: 358px; */
 }
 
 .service-block:not(:last-child) {
