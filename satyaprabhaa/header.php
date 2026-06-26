@@ -24,7 +24,10 @@
                                     <li><a class="sdm-main" href="ongoing-projects.php">Ongoing Projects</a></li>
                                     <li><a class="sdm-main" href="yojangandha.php">Yojangandha</a></li>
                                     <li><a class="sdm-main" href="lotus-shalaka.php">Lotus Shalaka</a></li>
+<<<<<<< HEAD
                                     <li><a class="sdm-main" href="deepak-dev.php">Deepak Dev</a></li>
+=======
+>>>>>>> 40af8455da659d93a160a9b2ce209d58f19417c5
                                     <li><a class="sdm-main" href="treya.php">Treya</a></li>
                                 </ul>
                             </li>

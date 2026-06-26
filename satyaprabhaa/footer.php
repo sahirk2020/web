@@ -99,12 +99,13 @@
                         </div>
                         <div class="single-footer-wized">
                             <div class="menu-links-area">
-                                <h6 class="title">Useful Links</h6>
+                                <h6 class="title">Information Centre</h6>
                                 <ul>
-                                    <li><a href="completed-projects.php">Completed Projects</a></li>
-                                    <li><a href="ongoing-projects.php">Ongoing Projects</a></li>
-                                    <li><a href="upcoming-projects.php">Upcoming Projects</a></li>
-                                    <li><a href="nri-investment.php">NRI Investment</a></li>
+                                    <li><a href="2-bhk-flats-pune.php">2 BHK Flats in Pune</a></li>
+                                    <li><a href="">3 BHK Flats in Pune</a></li>
+                                    <li><a href="">4 BHK Flats in Pune</a></li>
+                                    <li><a href="">Commercial Projects</a></li>
+                                    <li><a href="">Residential Projects</a></li>
                                     <!-- <li><a href="yojangandha.php">Yojangandha</a></li> -->
                                 </ul>
                             </div>
