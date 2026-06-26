@@ -81,7 +81,7 @@
                                     <li><a href="events.php">Events</a></li>
                                     <li><a href="awards.php">Awards</a></li>
                                     <li><a href="careers.php">Careers</a></li>
-                                    <li><a href="contacts.php">Contact</a></li>
+                                    <li><a href="contact-us.php">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -93,7 +93,7 @@
                                     <li><a href="ongoing-projects.php">Ongoing Projects</a></li>
                                     <li><a href="upcoming-projects.php">Upcoming Projects</a></li>
                                     <li><a href="nri-investment.php">NRI Investment</a></li>
-                                    <!-- <li><a href="yojangandha.php">Yojangandha</a></li> -->
+                                    <li><a href="2-bhk-flats-pune.php">2 BHK Flats in Pune</a></li>
                                 </ul>
                             </div>
                         </div>
