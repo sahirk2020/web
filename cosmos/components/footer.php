@@ -60,7 +60,6 @@
                                 <li><a href="services/premium-wash.php">Premium Wash</a></li>
                                 <li><a href="services/steam-ironing.php">Steam Ironing</a></li>
                                 <li><a href="services/shoe-cleaning.php">Shoe Cleaning</a></li>
-                                <li><a href="services/express-services.php">Express Services</a></li>
                                 <li><a href="services/toy-cleaning.php">Toy Cleaning</a></li>
                             </ul>
                         </div>
