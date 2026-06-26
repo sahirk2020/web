@@ -23,7 +23,9 @@
                                 <ul class="pages">
                                     <li><a class="sdm-main" href="ongoing-projects.php">Ongoing Projects</a></li>
                                     <li><a class="sdm-main" href="yojangandha.php">Yojangandha</a></li>
-                                    <li><a class="sdm-main" href="single-project.php">Lotus Shalaka</a></li>
+                                    <li><a class="sdm-main" href="lotus-shalaka.php">Lotus Shalaka</a></li>
+                                    <li><a class="sdm-main" href="deepak-dev.php">Deepak Dev</a></li>
+                                    <li><a class="sdm-main" href="treya.php">Treya</a></li>
                                 </ul>
                             </li>
                             <li class="mega-menu-item">
@@ -31,7 +33,7 @@
                                     <li><a class="sdm-main" href="upcoming-projects.php">Upcoming Projects</a></li>
                                     <li><a class="sdm-main" href="">Shrirang</a></li>
                                     <li><a class="sdm-main" href="">Seva</a></li>
-                                    <li><a class="sdm-main" href="">Deepak Dev</a></li>
+                                    <!-- <li><a class="sdm-main" href="">Deepak Dev</a></li> -->
                                 </ul>
                             </li>
                             <li class="mega-menu-item">
