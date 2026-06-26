@@ -489,7 +489,10 @@ ul li {
   line-height: var(--line-height-b1);
   margin-top: 10px;
   margin-bottom: 10px;
-  color: var(--color-body);
+  color: var(--color-secondary);
+}
+.social-style-two-wrapper li{
+  color: var(--color-white);
 }
 ul li a {
   text-decoration: none;
@@ -18305,11 +18308,11 @@ a {
   margin-bottom: 25px;
 }
 .singe-serice-style-two .body .wrapper .icon-area span {
-  font-size: 48px;
+  font-size: 35px;
   font-weight: 600;
-  color: transparent;
-  -webkit-text-stroke: 1px;
-  -webkit-text-stroke-color: #88919B;
+  color: var(--color-primary);
+  /* -webkit-text-stroke: 1px;
+  -webkit-text-stroke-color: #88919B; */
 }
 .singe-serice-style-two .body .wrapper .inner .title {
   color: #30373E;
@@ -21212,8 +21215,10 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   left: 50px;
   height: 80px;
   width: 80px;
+  padding: 16px;
   border-radius: 50%;
   background: #f2f2f2;
+  border: 1px solid;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -22225,7 +22230,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   margin-bottom: 3px;
   color: #30373E;
   text-align: center;
-  font-size: 18px;
+  font-size: 25px;
   font-style: normal;
   font-weight: 600;
   line-height: 28px;
@@ -25864,6 +25869,10 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 .bg_image_about {
   background: linear-gradient(45deg, #0000009c, #0000003d), 
   url(../images/banner/bg/about-us.webp) no-repeat center center / cover !important;
+}
+.bg_image_Deepak-dev {
+  background: linear-gradient(45deg, #0000009c, #0000003d), 
+  url(../images/projects/deepak-dev/banner-1000x554.webp) no-repeat center center / cover !important;
 }
 .years-of-experience-patch{
   width: fit-content;

@@ -3,8 +3,8 @@
 
 <head>
     <?php
-    $page_title = "Yojangandha | Satyaprabhaa Developers Yojangandha by Satyaprabhaa | 2, 3 & 4 BHK Flats in Kothrud Pune";
-    $page_description = "Yojangandha by Satyaprabhaa - 2, 3 & 4 BHK homes in Kothrud, Pune. Metro-connected, 15+ amenities, rooftop garden &amp; pets park.";
+    $page_title = "Treya | Satyaprabhaa Developers Treya by Satyaprabhaa | 2, 3 & 4 BHK Flats in Kothrud Pune";
+    $page_description = "Treya by Satyaprabhaa - 2, 3 & 4 BHK homes in Kothrud, Pune. Metro-connected, 15+ amenities, rooftop garden &amp; pets park.";
     include 'css.php';
     ?>
     
@@ -15,17 +15,17 @@
     <?php include 'header.php'; ?>
     <!-- header three area end -->
      <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, black, #00000070), url(assets/images/projects/yojangandha/yojangandha-1000x554.webp) no-repeat center center / cover;">
+    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, black, #00000070), url(assets/images/projects/treya/banner-1000x554.webp) no-repeat center center / cover;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="bread-crumb-area-inner">
                         <div class="breadcrumb-top">
                             <a href="#">Home</a> /
-                            <a class="active" href="#">Yojangandha</a>
+                            <a class="active" href="#">Treya</a>
                         </div>
                         <div class="bottom-title">
-                            <h1 class="title">Yojangandha</h1>
+                            <h1 class="title">Treya</h1>
                         </div>
                     </div>
                 </div>
@@ -62,10 +62,10 @@
                                 <!-- <img src="assets/images/about/02.png" alt="about"> -->
                                 <span class="pre-title">Project Overview</span>
                             </div>
-                            <h2 class="title mt--0 mb--25 quote">Rooted In Kothrud’s Legacy</h2>
+                            <h2 class="title mt--0 mb--25 quote">Modern Living Reimagined</h2>
                         </div>
                         <p class="disc mb--15 rts-slide-up">
-                            Set amidst the cultural richness of Kothrud and surrounded by nature’s quiet beauty, Yojangandha offers a lifestyle that feels both connected and serene. Thoughtfully designed for modern families, it brings together everyday convenience, wellness-focused amenities, and a trusted legacy of craftsmanship. A home that celebrates the character of its location while embracing contemporary living.</p>
+                            Lotus Treya is a premium residential address in Kothrud that brings together elegant architecture, everyday comfort, and excellent connectivity. Designed for modern families, the project offers spacious homes, quality construction, and a peaceful environment while keeping every urban convenience within easy reach.</p>
                         
                         <a href="" data-bs-toggle="modal" data-bs-target="#popModel" class="rts-btn btn-border">Request For Brochure</a> <a href="" data-bs-toggle="modal" data-bs-target="#popModel" class="rts-btn btn-border">Schedule a Visit</a> 
                     </div>
@@ -93,7 +93,7 @@
                                 </div>
                                 <div class="right">
                                     <span>Rera Number:</span>
-                                    <p class="name">P52100053370</p>
+                                    <p class="name">PR00123456</p>
                                 </div>
                             </div>
                             <!-- single detrails short end -->

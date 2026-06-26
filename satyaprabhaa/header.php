@@ -61,7 +61,8 @@
                 </svg>
             </div>
         </div>
-        <img class="p-2" width="90" src="assets/images/27-Years.svg" alt="27-Years">
+        <div class="im-fluid">
+        <img class="pr--20" width="80" src="assets/images/new-27years.svg" alt="27-Years"></div>
             </div>
         </div>
     </div>
