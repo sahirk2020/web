@@ -533,7 +533,7 @@ Process Area
                 <h2 class="sec-title">How We Work It!</h2>
             </div>
             <div class="row gy-4 justify-content-center">
-                <div class="col-xl-2 col-md-6 process-box-wrap">
+                <div class="col-xl-2 col-6 process-box-wrap">
                     <div class="process-box"
                         data-bs-toggle="tooltip"
                         title="Every garment is carefully assessed for fabric type, stains, and special care requirements before entering our cleaning process.">
@@ -548,7 +548,7 @@ Process Area
                     </div>
                 </div>
 
-                <div class="col-xl-2 col-md-6 process-box-wrap">
+                <div class="col-xl-2 col-6 process-box-wrap">
                     <div class="process-box"
                         data-bs-toggle="tooltip"
                         title="A unique identification tag is assigned to every item, ensuring accurate tracking and complete order transparency.">
@@ -562,7 +562,7 @@ Process Area
                     </div>
                 </div>
 
-                <div class="col-xl-2 col-md-6 process-box-wrap">
+                <div class="col-xl-2 col-6 process-box-wrap">
                     <div class="process-box"
                         data-bs-toggle="tooltip"
                         title="Garments are sorted according to fabric, texture, and cleaning needs to provide the most suitable treatment.">
@@ -575,7 +575,7 @@ Process Area
                         <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
                     </div>
                 </div>
-                <div class="col-xl-2 col-md-6 process-box-wrap">
+                <div class="col-xl-2 col-6 process-box-wrap">
                     <div class="process-box"
                         data-bs-toggle="tooltip"
                         title="Clothes are separated by color and fabric category to prevent color transfer and maintain garment quality.">
@@ -589,7 +589,7 @@ Process Area
                     </div>
                 </div>
 
-                <div class="col-xl-2 col-md-6 process-box-wrap">
+                <div class="col-xl-2 col-6 process-box-wrap">
                     <div class="process-box"
                         data-bs-toggle="tooltip"
                         title="Targeted stain treatment is performed using fabric-safe solutions to effectively address marks without compromising garment integrity.">
@@ -602,10 +602,8 @@ Process Area
                         <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
                     </div>
                 </div>
-            </div>
 
-            <div class="row gy-4 pt-5 justify-content-center">
-                <div class="col-xl-2 col-md-6 process-box-wrap">
+                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
                     <div class="process-box"
                         data-bs-toggle="tooltip"
                         title="Advanced cleaning techniques and premium detergents are used to remove dirt, odors, and stains while protecting fabrics.">
@@ -618,7 +616,7 @@ Process Area
                         <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
                     </div>
                 </div>
-                <div class="col-xl-2 col-md-6 process-box-wrap">
+                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
                     <div class="process-box"
                         data-bs-toggle="tooltip"
                         title="Garments are professionally steam pressed and finished to restore their fresh, crisp, and well-maintained appearance.">
@@ -632,7 +630,7 @@ Process Area
                     </div>
                 </div>
 
-                <div class="col-xl-2 col-md-6 process-box-wrap">
+                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
                     <div class="process-box"
                         data-bs-toggle="tooltip"
                         title="Every item undergoes a detailed inspection to ensure it meets our standards for cleanliness and presentation.">
@@ -645,7 +643,7 @@ Process Area
                         <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
                     </div>
                 </div>
-                <div class="col-xl-2 col-md-6 process-box-wrap">
+                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
                     <div class="process-box"
                         data-bs-toggle="tooltip"
                         title="Freshly cleaned garments are neatly packed using hygienic methods, ready for convenient delivery to your doorstep.">
@@ -658,6 +656,65 @@ Process Area
                         <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
                     </div>
                 </div>
+
+            </div>
+
+            <div class="row gy-4 pt-5 d-xl-flex d-none justify-content-center">
+
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Advanced cleaning techniques and premium detergents are used to remove dirt, odors, and stains while protecting fabrics.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/cleaning.svg" alt="icon" width="50" height="50">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">06</p>
+                        <h3 class="box-title">Cleaning</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                    </div>
+                </div>
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Garments are professionally steam pressed and finished to restore their fresh, crisp, and well-maintained appearance.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/finishing.svg" alt="icon" width="60" height="60">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">07</p>
+                        <h3 class="box-title">Finishing</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Every item undergoes a detailed inspection to ensure it meets our standards for cleanliness and presentation.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/quality-check.svg" alt="icon" width="70" height="70">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">08</p>
+                        <h3 class="box-title">Quality Check</h3>
+                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
+                    </div>
+                </div>
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Freshly cleaned garments are neatly packed using hygienic methods, ready for convenient delivery to your doorstep.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/packaging.svg" alt="icon" width="50" height="50">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">09</p>
+                        <h3 class="box-title">Packaging</h3>
+                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
+                    </div>
+                </div>
+
 
 
             </div>
