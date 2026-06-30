@@ -67,7 +67,12 @@
                         <p class="disc mb--15 rts-slide-up">
                             Set amidst the cultural richness of Kothrud and surrounded by nature’s quiet beauty, Yojangandha offers a lifestyle that feels both connected and serene. Thoughtfully designed for modern families, it brings together everyday convenience, wellness-focused amenities, and a trusted legacy of craftsmanship. A home that celebrates the character of its location while embracing contemporary living.</p>
                         
-                        <a href="" data-bs-toggle="modal" data-bs-target="#popModel" class="rts-btn btn-border">Request For Brochure</a> <a href="" data-bs-toggle="modal" data-bs-target="#popModel" class="rts-btn btn-border">Schedule a Visit</a> 
+                        <a href="" data-bs-toggle="modal"
+                        data-bs-target="#popModel"
+                        data-popup="downloadBrochure" class="rts-btn btn-border">Request For Brochure</a> 
+                        <a href="" data-bs-toggle="modal"
+                        data-bs-target="#popModel"
+                        data-popup="scheduleVisit" class="rts-btn btn-border">Schedule a Visit</a> 
                     </div>
                 </div>
                 <div class="col-lg-5 mt_sm--50">

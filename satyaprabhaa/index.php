@@ -22,11 +22,11 @@ Hero Area
             <div class="hero-bg-video">
                 <video class="d-md-none d-block" id="myVideo" autoplay muted loop playsinline>
                     <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
-                    <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/namrata-website/6boulevard/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4">
+                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabha-Website-video-1920X1080-29-06-2026.mp4">
                 </video>
                 <video class="d-none d-md-block" id="myVideo" autoplay muted loop playsinline>
                     <!-- <source src="assets/img/video/6Boulevard-Video-1090X1080.mp4" type="video/mp4"> -->
-                    <source src="assets/images/videos/desktop-mantra-video-1920X1080.mp4" type="video/mp4">
+                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabha-Website-video-1920X1080-29-06-2026.mp4" type="video/mp4">
                 </video>
             </div>
         </div>

@@ -50,12 +50,12 @@
                             <img src="assets/images/projects/yojangandha/yojangandha-1000x554.webp" alt="portfolio">
                         </a>
                         <div class="inner-text">
-                            <a href="">
+                            <a href="yojangandha.php" class="d-flex justify-content-between">
                                 <h5 class="title">Yojangandha</h5>
+                                <h5 class="title">2, 3 & 4 BHK <br><b>Residential</b></h5>
                             </a>
-                            <p class="disc">
-                                Creating vibrant and integrated spaces that combine residential, commercial, and leisure elements.
-                            </p>
+                            <p class="">
+                                Nestled in Kothrud's cultural heart, Yojangandha brings together nature, connectivity, and elevated living for modern Pune families.</p>
                         </div>
                     </div>
                     <!-- single portfolio grid col-2 end -->
@@ -67,11 +67,44 @@
                             <img src="assets/images/projects/lotus-shalaka/banner-1000x554.webp" alt="banner-1000x554">
                         </a>
                         <div class="inner-text">
-                            <a href="">
+                            <a href="lotus-shalaka.php">
                                 <h5 class="title">Lotus Shalaka</h5>
                             </a>
                             <p class="disc">
-                                Creating vibrant and integrated spaces that combine residential, commercial, and leisure elements.
+                                Surrounded by greenery in the heart of Kothrud, Lotus Shalaka offers peaceful living with effortless urban convenience.</p>
+                        </div>
+                    </div>
+                    <!-- single portfolio grid col-2 end -->
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                    <!-- single portfolio grid col-2 -->
+                    <div class="portfolio-grid-col-2-single rts-portfolio__item pl--30 pl_sm--0">
+                        <a href="" class="thumbnail">
+                            <img src="assets/images/projects/treya/banner-1000x554.webp" alt="banner-1000x554">
+                        </a>
+                        <div class="inner-text">
+                            <a href="treya.php">
+                                <h5 class="title">Treya</h5>
+                            </a>
+                            <p class="disc">
+                                A business address that keeps you connected to opportunities, people, and the pulse of Aundh.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- single portfolio grid col-2 end -->
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                    <!-- single portfolio grid col-2 -->
+                    <div class="portfolio-grid-col-2-single rts-portfolio__item pl--30 pl_sm--0">
+                        <a href="" class="thumbnail">
+                            <img src="assets/images/projects/deepak-dev/banner-1000x554.webp" alt="banner-1000x554">
+                        </a>
+                        <div class="inner-text">
+                            <a href="deepak-dev.php">
+                                <h5 class="title">Deepak Dev</h5>
+                            </a>
+                            <p class="disc">
+                                A thoughtfully located Kothrud address where comfort, connectivity, and a sense of belonging come naturally.
                             </p>
                         </div>
                     </div>
