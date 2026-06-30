@@ -5,14 +5,14 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-area-main-wrapper-one">
-                            <a href="#" class="logo">
+                            <a href="#" class="logo pb-5">
                                 <img width="250" src="assets/images/logo/Satyaprabhaa-whitelogo.svg" alt="logo">
                             </a>
                             <ul class="social-style-two-wrapper social-anim">
                                 <li><a class="counter__anim" href="https://www.facebook.com/LotusLandmarks/"><i class="fa-brands fa-facebook-f"></i></a></li>
                                 <li><a class="counter__anim" href="https://www.instagram.com/lotus_landmarks/"><i class="fa-brands fa-instagram"></i></a></li>
-                                <li><a class="counter__anim" href="#"><i class="fa-brands fa-youtube"></i></a></li>
-                                <li><a class="counter__anim" href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                <li><a class="counter__anim" href="https://www.youtube.com/@LotusLandmarks_Kothrud/"><i class="fa-brands fa-youtube"></i></a></li>
+                                <li><a class="counter__anim" href="https://www.linkedin.com/company/lotus-landmark"><i class="fa-brands fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
                     </div>

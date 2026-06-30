@@ -125,7 +125,7 @@ Hero Area
                     </div> -->
                 </div>
                 <div class="mahesh-img position-relative">
-                    <img class="position-absolute" style="right:-110px;" src="assets/images/mahesh1-bg-trans.webp" alt="mahesh">
+                    <img class="" src="assets/images/mahesh1-bg-trans.webp" alt="mahesh">
                 </div>
             </div>
         </div>
@@ -144,7 +144,7 @@ Hero Area
                                 <img src="assets/images/about/02.png" alt="about">
                                 <span class="pre-title">Our Project</span>
                             </div>
-                            <h2 class="title quote">Designed Around Everyday  <br>
+                            <h2 class="title quote">Designed Around  <br>Everyday 
                                Living</h2>
                         </div>
                         <p class="disc">
@@ -274,14 +274,14 @@ Hero Area
                         <div class="counter-single counter__anim">
                             <div class="inner">
                                 <h2 class="title"><span class="counter">1,000</span>+</h2>
-                                <p>Year Experience</p>
+                                <p>Units Delivered</p>
                             </div>
                         </div>
                         <!-- ingle counter up end -->
                          <!-- ingle counter up -->
                         <div class="counter-single counter__anim">
                             <div class="inner">
-                                <h2 class="title"><span class="counter">1</span>M +</h2>
+                                <h2 class="title"><span class="counter">10,00,000</span>L +</h2>
                                 <p>Sq Ft Delivered</p>
                             </div>
                         </div>

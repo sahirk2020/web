@@ -144,10 +144,10 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
             <div class="row align-items-center">
                 <div class="col-lg-5 mt_sm--50">
                     <div class="thumbnail-about-one rts-reveal-one">
-                        <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about">
+                        <img class="rts-reveal-image-one" src="assets/images/why-choose-us.jpg" alt="about">
                     </div>
                 </div>
-                <div class="col-lg-7 pl--120 pr_sm--0">
+                <div class="col-lg-7 pt-5 pl-md-120 pr_sm--0">
                     <!-- why chooseus section start -->
                     <div class="why-choose-us-left-two">
                         <div class="title-left-style-two">
@@ -256,7 +256,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                 </div>
                 <div class="col-lg-5 mt_sm--50">
                     <div class="thumbnail-about-one rts-reveal-one">
-                        <img class="rts-reveal-image-one" src="assets/images/legacyimg.webp" alt="legacyimg">
+                        <img class="rts-reveal-image-one" src="assets/images/Legacy-Images.jpg" alt="legacyimg">
                     </div>
                 </div>
             </div>

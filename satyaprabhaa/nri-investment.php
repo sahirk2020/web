@@ -55,7 +55,7 @@
                 </div>
                 <div class="col-lg-5 mt_sm--50">
                     <div class="thumbnail-about-one rts-reveal-one">
-                        <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about">
+                        <img class="rts-reveal-image-one" src="assets/images/NRI-investment.jpg" alt="about">
                     </div>
                 </div>
             </div>
