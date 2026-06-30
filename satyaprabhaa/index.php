@@ -281,7 +281,7 @@ Hero Area
                          <!-- ingle counter up -->
                         <div class="counter-single counter__anim">
                             <div class="inner">
-                                <h2 class="title"><span class="counter">10,00,000</span>L +</h2>
+                                <h2 class="title"><span class="counter">10</span>L +</h2>
                                 <p>Sq Ft Delivered</p>
                             </div>
                         </div>
