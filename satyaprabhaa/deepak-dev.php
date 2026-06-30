@@ -58,10 +58,10 @@
               <p class="disc mb--15 rts-slide-up"> Located in Aundh, Deepak Dev is a thoughtfully planned commercial development designed for businesses that value visibility, accessibility, and convenience. With quality construction, strategic connectivity, and functional spaces, it offers an ideal destination for entrepreneurs, professionals, and growing enterprises looking to establish a strong business presence.</p>
               <a href="" data-bs-toggle="modal"
               data-bs-target="#popModel"
-              data-popup="downloadBrochure" class="rts-btn btn-border">Request For Brochure</a> 
+              data-popup="downloadBrochure" class="rts-btn btn-border mt-3">Request Brochure</a> 
               <a href="" data-bs-toggle="modal"
               data-bs-target="#popModel"
-              data-popup="scheduleVisit" class="rts-btn btn-border">Schedule a Visit</a>
+              data-popup="scheduleVisit" class="rts-btn btn-border mt-3">Schedule a Visit</a>
             </div>
           </div>
           <div class="col-lg-5 mt_sm--50">
@@ -70,12 +70,12 @@
                 <!-- single detrails short -->
                 <div class="single-details-short">
                   <div class="left">
-                    <span>Apartments:</span>
-                    <p class="name">2, 3 & 4 BHK</p>
+                    <span>Commercial Spaces:</span>
+                    <p class="name">Office Spaces</p>
                   </div>
                   <div class="right">
                     <span>Starting Price:</span>
-                    <p class="name">96 lakhs</p>
+                    <p class="name">Price On Request</p>
                   </div>
                 </div>
                 <!-- single detrails short end -->
@@ -86,7 +86,7 @@
                     <p class="name">Aundh</p>
                   </div>
                   <div class="right">
-                    <span>Rera Number:</span>
+                    <span>MahaRERA No.:</span>
                     <p class="name">PM1260002600285</p>
                   </div>
                 </div>

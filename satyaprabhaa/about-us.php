@@ -43,12 +43,12 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     <div class="rts-about-area-one rts-section-gap">
         <div class="container pb--50 pb_sm--0">
             <div class="row">
-                <div class="col-lg-5">
+                <div class="col-lg-5 order-2 order-md-1 pt-5 pt-md-0">
                     <div class="thumbnail-about-one rts-reveal-one">
                         <img class="rts-reveal-image-one" src="assets/images/team/satyaprabhaa-managing-partner.avif" alt="about">
                     </div>
                 </div>
-                <div class="col-lg-6 mt_md--50 mt_sm--50 align-content-center">
+                <div class="col-lg-6 mt_md--50 mt_sm--50 align-content-center order-1 order-md-2">
                     <div class="about-style-one-right">
                         <div class="title-style-left">
                             <div class="pre-title-area">
@@ -73,7 +73,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     <!-- rts about area end -->
 
     <!-- Vision Mission section start -->
-    <div class="rts-section-gap why-chooseus-section">
+    <div class="rts-section-gap why-chooseus-section pt-0">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7 pr--120 pr_sm--0">
@@ -142,12 +142,12 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     <div class="rts-section-gap why-chooseus-section">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-5 mt_sm--50">
+                <div class="col-lg-5 mt_sm--50 order-2 order-md-1">
                     <div class="thumbnail-about-one rts-reveal-one">
                         <img class="rts-reveal-image-one" src="assets/images/why-choose-us.jpg" alt="about">
                     </div>
                 </div>
-                <div class="col-lg-7 pt-5 pl-md-120 pr_sm--0">
+                <div class="col-lg-7 pt-5 pl-md-120 pr_sm--0 order-1 order-md-2">
                     <!-- why chooseus section start -->
                     <div class="why-choose-us-left-two">
                         <div class="title-left-style-two">
@@ -155,7 +155,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                                 <span class="pre-title">Why Choose Us</span>
                                 <!-- <img src="assets/images/service/07.png" alt="service"> -->
                             </div>
-                            <h2 class="title quote">
+                            <h2 class="title quote mt-0">
                                Built On Trust 
                             </h2>
                         </div>

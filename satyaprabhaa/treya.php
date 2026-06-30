@@ -69,10 +69,10 @@
                         
                         <a href="" data-bs-toggle="modal"
                         data-bs-target="#popModel"
-                        data-popup="downloadBrochure" class="rts-btn btn-border">Request For Brochure</a> 
+                        data-popup="downloadBrochure" class="rts-btn btn-border mt-3">Request Brochure</a> 
                         <a href="" data-bs-toggle="modal"
                         data-bs-target="#popModel"
-                        data-popup="scheduleVisit" class="rts-btn btn-border">Schedule a Visit</a>
+                        data-popup="scheduleVisit" class="rts-btn btn-border mt-3">Schedule a Visit</a>
                     </div>
                 </div>
                 <div class="col-lg-5 mt_sm--50">
@@ -86,7 +86,7 @@
                                 </div>
                                 <div class="right">
                                     <span>Starting Price:</span>
-                                    <p class="name">1.40 Cr</p>
+                                    <p class="name">Price On Request</p>
                                 </div>
                             </div>
                             <!-- single detrails short end -->
@@ -97,8 +97,8 @@
                                     <p class="name">Kothrud</p>
                                 </div>
                                 <div class="right">
-                                    <span>Rera Number:</span>
-                                    <p class="name">PR00123456</p>
+                                    <span>MahaRERA No.</span>
+                                    <p class="name">NA</p>
                                 </div>
                             </div>
                             <!-- single detrails short end -->
@@ -120,7 +120,7 @@
     </div> -->
 
      <!-- why choose us section start -->
-    <div class="rts-section-gap why-chooseus-section">
+    <div class="rts-section-gap why-chooseus-section pt-0">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12 pr_sm--0">
@@ -263,7 +263,7 @@
                         <!-- title-left -->
                         <div class="title-area-style-six-left">
                             <span class="pre">
-                                Amenities
+                                <!-- Amenities -->
                             </span>
                             <h2 class="title">Amenities</h2>
                         </div>
