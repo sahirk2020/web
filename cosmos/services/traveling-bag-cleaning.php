@@ -113,40 +113,47 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Dry-Cleaning.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Traveling-Bag-Cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Dry Cleaning</h1>
+                <h1 class="breadcumb-title">Traveling Bag Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="home-laundry-services.html">Home</a></li>
-                    <li>Dry Cleaning</li>
+                    <li>Traveling Bag Cleaning</li>
                 </ul>
             </div>
         </div>
     </div>
 
+
+
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <div class="overflow-hidden space" id="about-sec">
+    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
+    <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
 
                 <div class="col-xl-6">
-                    <!-- <div class="ps-xl-3 "> -->
-                    <div class="title-area mb-30">
-                        <span class="sub-title style1">About Service</span>
-                        <h2 class="sec-title">Advanced Hydrocarbon Dry Cleaning</h2>
-                    </div>
-                    <p class="mt-n2 mb-15 about-quote">Experience a new standard of garment care with our Hydrocarbon Dry Cleaning Technology, an advanced international cleaning process widely used across Europe and America. Unlike conventional dry cleaning methods, hydrocarbon technology is gentler on fabrics and helps preserve color, texture, softness, and garment structure for longer. It effectively removes stains, dirt, and odors while providing superior fabric protection. Ideal for designer wear, formal clothing, delicate fabrics, and premium garments, this advanced process delivers deep cleaning without harsh treatment. Combined with expert handling and specialized care, it helps your clothes stay fresher, softer, and looking newer for longer.</p>
+                    <div class="ps-xl-3 wow fadeInRight">
+                        <div class="title-area mb-25">
+                            <span class="sub-title style1">About Service</span>
+                            <h2 class="sec-title mb-20">
+                                Complete Travel Bag Refresh
+                            </h2>
+                            <p class="about-desc">
+                                Travel bags are exposed to dust, stains, germs, and heavy usage during every journey. Our travel bag cleaning service thoroughly cleans and sanitizes your luggage inside and out. We remove dirt, marks, odors, and accumulated grime while preserving the material and structure of the bag. Suitable for trolley bags, backpacks, duffle bags, and travel accessories, our process helps restore cleanliness and freshness. Ensure your travel essentials remain hygienic, presentable, and ready for your next trip with professional care.
+                            </p>
+                        </div>
 
-                    <!-- </div> -->
+                    </div>
                 </div>
 
-                <div class="col-xl-6">
+                <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/dry-cleaning.webp" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/laundry-service.webp" alt="About" />
                         </div>
 
                     </div>
@@ -154,47 +161,6 @@ About Area
 
             </div>
         </div>
-    </div>
-
-    <!--==============================
-Feature Area  
-==============================-->
-    <div class="features-area position-relative process overflow-hidden" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/about-banner.webp">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-9">
-                    <div class="choose-feature-area">
-                        <div class="title-area mb-25">
-
-                            <h2 class="sec-title">WHAT IS DRY CLEANING?</h2>
-                            <p class="sec-text">Many people think dry cleaning means cleaning without water. But dry cleaning actually uses a special solvent instead of regular water and detergent.</p>
-                        </div>
-                        <div class="checklist list-two-column why-checklist">
-                            <h5 class="sec-title">Dry Cleaning is ideal for</h5>
-                            <ul>
-                                <li><span class="check-img">
-                                        <img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/suit-blazers.svg" alt="Icon" width="40" height="40">
-
-                                    </span> Suits & Blazers</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/saree-designer-wear.svg" alt="Icon" width="50" height="50"></span>Sarees & Designer Wear</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/silk-wool-fabric.svg" alt="Icon" width="40" height="40"></span>Silk & Wool Fabrics</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/bridal-wear.svg" alt="Icon" width="40" height="40"></span> Bridal Wear</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/premium-garments.svg" alt="Icon" width="40" height="40"></span>Premium Garments</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/delicate-fabric.svg" alt="Icon" width="40" height="40"></span>Delicate Fabrics</li>
-                            </ul>
-                        </div>
-
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
     </div>
 
     <!--==============================
@@ -203,7 +169,7 @@ Faq Area
     <div class="  space overflow-hidden process" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
-                <div class="col-xl-6 text-center text-xl-start align-self-center">
+                <div class="col-xl-12 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
@@ -214,11 +180,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">Which technology or solvent do you use?</button>
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">What types of traveling bags does Cosmos Laundry clean?</button>
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">We use Hydrocarbon Solvent Dry Cleaning Technology, an advanced international fabric care system widely used across Europe and America. It provides deep cleaning while being gentle on delicate fabrics.</p>
+                                        <p class="faq-text">Cosmos Laundry cleans all types of traveling bags including suitcases, trolley bags, duffel bags, backpacks, and cabin bags. We clean both the exterior and interior of bags, removing travel dirt, dust, stains, and odours accumulated during journeys.</p>
                                     </div>
                                 </div>
                             </div>
@@ -226,11 +192,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Is stain inspection done before processing?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Why is it important to clean a traveling bag after a trip?</button>
                                 </div>
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. Every garment undergoes a detailed stain and fabric inspection before cleaning to identify treatment requirements and ensure the best possible results.</p>
+                                        <p class="faq-text">Traveling bags accumulate surface dirt, airport floor bacteria, dust, and odour-causing microbes during every journey. Regular cleaning sanitizes the bag inside and out, preventing the spread of germs to your clothes and personal items, extending the bag's lifespan, and keeping it presentable for future travel.</p>
                                     </div>
                                 </div>
                             </div>
@@ -238,11 +204,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> Is fabric handled according to garment type?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> Does Cosmos Laundry clean and sanitize the inside of bags?</button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Absolutely. Each garment is assessed individually and processed according to its fabric, construction, embellishments, and care requirements for maximum protection.</p>
+                                        <p class="faq-text">Yes. Our traveling bag cleaning service includes interior cleaning and sanitization to remove dust, debris, and odours from inside the bag. We also clean pockets, zippers, and liners where dirt and bacteria tend to accumulate most.</p>
                                     </div>
                                 </div>
                             </div>
@@ -250,42 +216,32 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">How do you maintain fabric quality?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Can Cosmos Laundry remove scuffs and stains from hard-shell suitcases?</button>
                                 </div>
                                 <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Our Hydrocarbon Dry Cleaning Technology helps preserve color, texture, softness, and garment structure, ensuring clothes stay looking newer for longer.</p>
+                                        <p class="faq-text">Our cleaning service removes surface dirt, dust, and many types of stains from hard-shell suitcases. While deep scuffs that are physical marks in the shell material cannot be fully removed, the cleaning process noticeably improves the overall appearance and hygiene of the bag.</p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Do you use modern machines?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">How long does traveling bag cleaning take?</button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. We use advanced dry cleaning equipment and modern fabric care processes to deliver consistent cleaning quality, hygiene, and garment protection.</p>
+                                        <p class="faq-text">Most traveling bag cleaning orders are completed within 24 to 48 hours. For large suitcases or heavily soiled bags, the process may take slightly longer. Contact us before your next trip so your bags are fresh and ready when you need them.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Why Hydrocarbon?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Can I get my bag cleaned before an upcoming trip?</button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <div class="checklist list-two-column">
-                                            <ul>
-                                                <li>Gentle on fabrics</li>
-                                                <li>Better color protection</li>
-                                                <li>Maintains softness & texture</li>
-                                                <li>Safe for delicate garments</li>
-                                                <li>Less chemical odor</li>
-                                                <li>Longer garment life</li>
-                                                <li> Advanced & fabric-friendly process</li>
-                                            </ul>
-                                        </div>
+                                        <p class="faq-text">Absolutely. We recommend scheduling a bag clean before important trips so you travel with a fresh, hygienic, and presentable bag. Contact us on +91 9284630260 a few days before your travel date to ensure timely pickup and delivery.</p>
                                     </div>
                                 </div>
                             </div>
@@ -293,16 +249,18 @@ Faq Area
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
+                <!-- <div class="col-xl-6">
                     <div class="faq-img1 ps-xl-4">
                         <div class="img1">
                             <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
+
+
 
 
 

@@ -2072,7 +2072,7 @@ textarea.is-invalid {
 
 /*------------------- 3.3. Titles -------------------*/
 .sec-title {
-  margin-bottom: calc(var(--section-title-space) - 11px);
+  /* margin-bottom: calc(var(--section-title-space) - 11px); */
   margin-top: -0.2em;
   text-transform: capitalize;
 }
@@ -12839,10 +12839,13 @@ span.select2-selection.select2-selection--single:focus {
 
 .img-box1 .img1 {
   text-align: center;
+  /* border: solid 1px red; */
 }
 
 .img-box1 .img1 img {
   border-radius: 30px;
+  height: auto;
+  /* height: 400px; */
 }
 
 .img-box1 .img2 {
@@ -16146,7 +16149,7 @@ span.select2-selection.select2-selection--single:focus {
   background-color: var(--white-color);
   box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.05);
   border-radius: 30px;
-  padding: 80px;
+  padding: 50px;
   position: relative;
   margin-bottom: 60px;
   /* Large devices */
@@ -16215,9 +16218,9 @@ span.select2-selection.select2-selection--single:focus {
 
 .why-checklist {
   border-bottom: 1px solid var(--th-border-color);
-  padding-bottom: 40px;
+  padding-bottom: 30px;
   border-top: 1px solid var(--th-border-color);
-  padding-top: 40px;
+  padding-top: 30px;
 }
 
 .why-checklist ul li {
