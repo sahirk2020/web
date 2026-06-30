@@ -56,8 +56,12 @@
                 <h2 class="title mt--0 mb--25 quote">Business Spaces That Inspire</h2>
               </div>
               <p class="disc mb--15 rts-slide-up"> Located in Aundh, Deepak Dev is a thoughtfully planned commercial development designed for businesses that value visibility, accessibility, and convenience. With quality construction, strategic connectivity, and functional spaces, it offers an ideal destination for entrepreneurs, professionals, and growing enterprises looking to establish a strong business presence.</p>
-              <a href="" class="rts-btn btn-border">Request For Brochure</a>
-              <a href="" class="rts-btn btn-border">Schedule a Visit</a>
+              <a href="" data-bs-toggle="modal"
+              data-bs-target="#popModel"
+              data-popup="downloadBrochure" class="rts-btn btn-border">Request For Brochure</a> 
+              <a href="" data-bs-toggle="modal"
+              data-bs-target="#popModel"
+              data-popup="scheduleVisit" class="rts-btn btn-border">Schedule a Visit</a>
             </div>
           </div>
           <div class="col-lg-5 mt_sm--50">
@@ -168,6 +172,15 @@
         </div>
     </div>
     <!-- why choose us section end -->
+     <!--==============================Map Area  ==============================-->
+        <div class="mt-5" id="location">
+            <div class="contact-map">
+                <iframe height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15129.44910991326!2d73.80733854999998!3d18.557698999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf483a6041cd%3A0xd968e07ed9df3a2d!2sAundh%2C%20Pune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1782803034025!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+                <div class="contact-icon">
+                    <img src="assets/img/icon/location-dot.svg" alt="">
+                </div>
+            </div>
+        </div>
 
     <!-- rts footer area start -->
     <?php include 'footer.php'; ?>

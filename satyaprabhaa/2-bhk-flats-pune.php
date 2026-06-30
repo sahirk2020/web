@@ -14,7 +14,7 @@
     <?php include 'header.php'; ?>
     <!-- header three area end -->
      <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image_awards">
+    <div class="breadcrumb-area-bg bg_image_2bhk">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

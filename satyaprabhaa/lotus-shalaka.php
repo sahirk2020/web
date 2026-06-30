@@ -49,8 +49,12 @@
                 <h2 class="title mt--0 mb--25 quote">Designed Around The Way You Live</h2>
               </div>
               <p class="disc mb--15 rts-slide-up"> Lotus Shalaka is thoughtfully planned for those who value comfort, convenience, and a sense of belonging. Blending modern design with practical living spaces, it creates an environment where everyday life feels effortless. Backed by the trusted legacy of Lotus, it offers a home that balances contemporary living with lasting quality and warmth.</p>
-              <a href="" class="rts-btn btn-border">Request For Brochure</a>
-              <a href="" class="rts-btn btn-border">Schedule a Visit</a>
+              <a href="" data-bs-toggle="modal"
+                        data-bs-target="#popModel"
+                        data-popup="downloadBrochure" class="rts-btn btn-border">Request For Brochure</a> 
+                        <a href="" data-bs-toggle="modal"
+                        data-bs-target="#popModel"
+                        data-popup="scheduleVisit" class="rts-btn btn-border">Schedule a Visit</a>
             </div>
           </div>
           <div class="col-lg-5 mt_sm--50">
@@ -512,7 +516,7 @@ Ultratech, Birla, ACC
                                             </div>
                                             <div class="col-lg-6">
                                                 <div class="thumbnail">
-                                                    <img src="assets/images/banner/28.jpg" alt="banner">
+                                                    <img src="assets/images/projects/lotus-shalaka/showroom.webp" alt="showroom">
                                                 </div>
                                             </div>
                                         </div>

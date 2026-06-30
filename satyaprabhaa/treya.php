@@ -67,7 +67,12 @@
                         <p class="disc mb--15 rts-slide-up">
                             Lotus Treya is a premium residential address in Kothrud that brings together elegant architecture, everyday comfort, and excellent connectivity. Designed for modern families, the project offers spacious homes, quality construction, and a peaceful environment while keeping every urban convenience within easy reach.</p>
                         
-                        <a href="" data-bs-toggle="modal" data-bs-target="#popModel" class="rts-btn btn-border">Request For Brochure</a> <a href="" data-bs-toggle="modal" data-bs-target="#popModel" class="rts-btn btn-border">Schedule a Visit</a> 
+                        <a href="" data-bs-toggle="modal"
+                        data-bs-target="#popModel"
+                        data-popup="downloadBrochure" class="rts-btn btn-border">Request For Brochure</a> 
+                        <a href="" data-bs-toggle="modal"
+                        data-bs-target="#popModel"
+                        data-popup="scheduleVisit" class="rts-btn btn-border">Schedule a Visit</a>
                     </div>
                 </div>
                 <div class="col-lg-5 mt_sm--50">
@@ -214,8 +219,8 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/balcony.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/balcony.webp" class="gallery-image">
+                                        <img class="image-zoom-hover" src="assets/images/projects/treya/gallery/elevation-img1.webp" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/treya/gallery/elevation-img1.webp" class="gallery-image">
                                             <div class="item-overlay">
                                                 <span>
                                                     <i class="fa-solid fa-plus"></i>
@@ -228,50 +233,8 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/entrance.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/entrance.webp" class="gallery-image">
-                                            <div class="item-overlay">
-                                                <span>
-                                                    <i class="fa-solid fa-plus"></i>
-                                                </span>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <!-- sigle projects area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- sigle projects area start -->
-                                    <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/guest-toilet.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/guest-toilet.webp" class="gallery-image">
-                                            <div class="item-overlay">
-                                                <span>
-                                                    <i class="fa-solid fa-plus"></i>
-                                                </span>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <!-- sigle projects area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- sigle projects area start -->
-                                    <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/common-washroom.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/common-washroom.webp" class="gallery-image">
-                                            <div class="item-overlay">
-                                                <span>
-                                                    <i class="fa-solid fa-plus"></i>
-                                                </span>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <!-- sigle projects area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- sigle projects area start -->
-                                    <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/master-bedroom.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/master-bedroom.webp" class="gallery-image">
+                                        <img class="image-zoom-hover" src="assets/images/projects/treya/gallery/elevation-img.webp" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/treya/gallery/elevation-img.webp" class="gallery-image">
                                             <div class="item-overlay">
                                                 <span>
                                                     <i class="fa-solid fa-plus"></i>

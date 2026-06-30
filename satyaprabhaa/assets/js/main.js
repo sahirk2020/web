@@ -1533,3 +1533,34 @@
     rtsJs.m();
 
 })(jQuery, window)
+
+// popup js
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    const popModel = document.getElementById("popModel");
+
+    popModel.addEventListener("show.bs.modal", function (event) {
+
+        const button = event.relatedTarget;
+        const popup = button.getAttribute("data-popup");
+
+        const popupContent = document.getElementById("popupContent");
+
+        if (popup === "enquireNow") {
+
+            popupContent.innerHTML = document.getElementById("enquireForm").innerHTML;
+
+        } else if (popup === "scheduleVisit") {
+
+            popupContent.innerHTML = document.getElementById("scheduleForm").innerHTML;
+
+        } else if (popup === "downloadBrochure") {
+
+            popupContent.innerHTML = document.getElementById("brochureForm").innerHTML;
+
+        }
+
+    });
+
+});
