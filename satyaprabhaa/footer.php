@@ -39,7 +39,7 @@
                                         </div>
                                         <div class="information">
                                             <a href="Tel:+918740042002">+91 87 4004 2002</a>
-                                            <span class="support">Call us for support</span>
+                                            <span class="support">Speak With Our Team</span>
                                         </div>
                                     </div>
                                     <!-- single  contact info end -->
@@ -50,7 +50,7 @@
                                         </div>
                                         <div class="information">
                                             <a href="mailto:Sales@llipl.com">Sales@llipl.com</a>
-                                            <span class="support">Email us for query</span>
+                                            <span class="support">Email us for queries</span>
                                         </div>
                                     </div>
                                     <!-- single  contact info end -->
@@ -124,14 +124,14 @@
                                     document.write(
                                         new Date().getFullYear()
                                     )
-                                </script>. All rights reserved by Satyaprabhaa Developers. Designed by <a href="https://digitaltokri.com/" target="_blank">Digital Tokri.</a>.
+                                </script>. All rights reserved by Satyaprabhaa Developers. Designed by <a href="https://digitaltokri.com/" target="_blank">Digital Tokri.</a>
                             </p>
                             <ul>
                                 <li>
-                                    <a href="terms-and-condition.php">Terms & conditions</a>
+                                    <a href="terms-and-condition.php" class="text-white">Terms & Conditions</a>
                                 </li>
                                 <li>
-                                    <a href="privacy-policy.php">Privacy policy</a>
+                                    <a href="privacy-policy.php" class="text-white">Privacy Policy</a>
                                 </li>
                             </ul>
                         </div>

@@ -87,8 +87,7 @@
                                 <h5 class="title">Treya</h5>
                             </a>
                             <p class="disc">
-                                A business address that keeps you connected to opportunities, people, and the pulse of Aundh.
-                            </p>
+                                A premium residential address in Kothrud offering thoughtfully designed homes, modern comforts, and excellent connectivity for everyday living.</p>
                         </div>
                     </div>
                     <!-- single portfolio grid col-2 end -->
@@ -104,7 +103,7 @@
                                 <h5 class="title">Deepak Dev</h5>
                             </a>
                             <p class="disc">
-                                A thoughtfully located Kothrud address where comfort, connectivity, and a sense of belonging come naturally.
+                                Premium commercial spaces in Aundh designed for modern businesses, excellent connectivity, and long-term value.
                             </p>
                         </div>
                     </div>

@@ -14204,7 +14204,7 @@ xclip
 }
 @media only screen and (max-width: 575px) {
   .rts-header-style-one {
-    padding: 20px 15px;
+    padding: 10px 15px;
   }
 }
 @media only screen and (max-width: 575px) {
@@ -14877,7 +14877,7 @@ a {
 .title-left-style-two .pre-title {
   position: relative;
   z-index: 1;
-  padding-left: 10px;
+  /* padding-left: 10px; */
 }
 .title-left-style-two .pre-title span {
   color: #B19777;
@@ -14973,6 +14973,7 @@ a {
     font-size: 36px;
     line-height: 48px;
   }
+  
 }
 @media only screen and (max-width: 479px) {
   .cta-wrapper-two .title {
@@ -16010,6 +16011,11 @@ a {
 @media only screen and (max-width: 767px) {
   .banner-content-inner-six p.disc {
     max-width: 100%;
+  }
+}
+@media only screen and (min-width: 767px) {
+  .pl-md-120{
+padding-left: 120px !important;
   }
 }
 
@@ -23351,8 +23357,9 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 }
 @media only screen and (max-width: 575px) {
   .counter-main-wrapper-two .inner .title {
-    font-size: 45px;
+    font-size: 35px;
     line-height: 18px;
+    padding-bottom: 10px;
   }
 }
 .counter-main-wrapper-two .inner .title span.counter {
@@ -25810,6 +25817,9 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 
 @media(max-width:767px) {
 
+  .sticky .new-header{
+    padding:12px 12px 12px 12px;
+  }
   .new-header{
   margin-top: 0px;
     padding: 8px 12px 8px 12px;
@@ -25936,9 +25946,9 @@ font-size: 15px;
   width: 40px;
   height: 40px;
   /* bottom: 40px; */
-  bottom: 54px;
+  bottom: 35px;
   /* right: 40px; */
-  left: 30px;
+  left: 10px;
   background-color: #25d366;
   color: #fff;
   border-radius: 50px;
@@ -25951,7 +25961,7 @@ font-size: 15px;
   align-items: center;
 }
 .float:after {
-  content: "";
+  /* content: ""; */
   /*background: rgba(189, 9, 38, 0.7);*/
   background: #6bba49;
   width: 100%;

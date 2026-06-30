@@ -71,7 +71,8 @@
 </div>
     <!-- header style one end -->
 
-    <!-- header style two -->
+
+    <!--old header style two -->
     <div id="side-bar" class="side-bar header-two">
         <button class="close-icon-menu"><i class="far fa-times"></i></button>
         <!-- inner menu area desktop start -->
@@ -133,42 +134,29 @@
         <div class="mobile-menu-main">
             <nav class="nav-main mainmenu-nav mt--30">
                 <ul class="mainmenu metismenu" id="mobile-menu-active">
-                     <li class="">
-                        <a class="nav-link" href="index.php">Home</a>
-                    </li>
+                    <li class=""><a href="index.php" class="main">Home</a></li>
                     <li class="has-droupdown">
-                        <a class="nav-link" href="">Projects</a>
-                        <ul class="submenu">
-                            <li class="mega-menu-item">
-                                <ul class="pages">
-                                    <li><a class="sdm-main" href="ongoing-projects.php">Ongoing Projects</a></li>
+                        <a href="#" class="main">Projects</a>
+                        <ul class="submenu mm-collapse">
+                            <li class="has-droupdown third-lvl">
+                                <a class="main" href="#">Ongoing Projects</a>
+                                <ul class="submenu-third-lvl mm-collapse">
                                     <li><a class="sdm-main" href="yojangandha.php">Yojangandha</a></li>
                                     <li><a class="sdm-main" href="lotus-shalaka.php">Lotus Shalaka</a></li>
                                     <li><a class="sdm-main" href="treya.php">Treya</a></li>
                                     <li><a class="sdm-main" href="deepak-dev.php">Deepak Dev</a></li>
                                 </ul>
                             </li>
-                            <li class="mega-menu-item">
-                                <ul class="pages">
-                                    <li><a class="sdm-main" href="upcoming-projects.php">Upcoming Projects</a></li>
-                                    <li><a class="sdm-main" href="">Shrirang</a></li>
-                                    <li><a class="sdm-main" href="">Seva</a></li>
-                                    <!-- <li><a class="sdm-main" href="">Deepak Dev</a></li> -->
-                                </ul>
-                            </li>
-                            <li class="mega-menu-item">
-                                <ul class="pages">
-                                    <li><a class="sdm-main" href="completed-projects.php">Completed Projects</a></li>
-                                    
-                                </ul>
+                            <li class="third-lvl">
+                                <a class="main" href="completed-projects.php">Completed Projects</a>
                             </li>
                         </ul>
                     </li>
                     <li class="">
-                        <a class="nav-link" href="about-us.php">About Us</a>
+                        <a href="about.php" class="main">About Us</a>
                     </li>
-                    <li class="">
-                        <a class="nav-link" href="contact-us.php">Contact Us</a>
+                    <li>
+                        <a href="contact-us.php" class="main">Contact Us</a>
                     </li>
                 </ul>
             </nav>

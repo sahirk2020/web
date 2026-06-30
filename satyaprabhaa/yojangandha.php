@@ -67,12 +67,12 @@
                         <p class="disc mb--15 rts-slide-up">
                             Set amidst the cultural richness of Kothrud and surrounded by nature’s quiet beauty, Yojangandha offers a lifestyle that feels both connected and serene. Thoughtfully designed for modern families, it brings together everyday convenience, wellness-focused amenities, and a trusted legacy of craftsmanship. A home that celebrates the character of its location while embracing contemporary living.</p>
                         
-                        <a href="" data-bs-toggle="modal"
+                        <a  href="" data-bs-toggle="modal"
                         data-bs-target="#popModel"
-                        data-popup="downloadBrochure" class="rts-btn btn-border">Request For Brochure</a> 
-                        <a href="" data-bs-toggle="modal"
+                        data-popup="downloadBrochure" class="mt-3 rts-btn btn-border">Request Brochure</a> 
+                        <a  href="" data-bs-toggle="modal"
                         data-bs-target="#popModel"
-                        data-popup="scheduleVisit" class="rts-btn btn-border">Schedule a Visit</a> 
+                        data-popup="scheduleVisit" class="mt-3 rts-btn btn-border">Schedule a Visit</a> 
                     </div>
                 </div>
                 <div class="col-lg-5 mt_sm--50">
@@ -86,7 +86,7 @@
                                 </div>
                                 <div class="right">
                                     <span>Starting Price:</span>
-                                    <p class="name">1.40 Cr</p>
+                                    <p class="name">₹1.40 Cr onwards</p>
                                 </div>
                             </div>
                             <!-- single detrails short end -->
@@ -97,7 +97,7 @@
                                     <p class="name">Kothrud</p>
                                 </div>
                                 <div class="right">
-                                    <span>Rera Number:</span>
+                                    <span>MahaRERA No.</span>
                                     <p class="name">P52100053370</p>
                                 </div>
                             </div>
@@ -120,7 +120,7 @@
     </div> -->
 
      <!-- why choose us section start -->
-    <div class="rts-section-gap why-chooseus-section">
+    <div class="rts-section-gap why-chooseus-section pt-0">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12 pr_sm--0">
@@ -305,7 +305,7 @@
                         <!-- title-left -->
                         <div class="title-area-style-six-left">
                             <span class="pre">
-                                Amenities
+                                <!-- Amenities -->
                             </span>
                             <h2 class="title">Amenities</h2>
                         </div>
@@ -672,7 +672,7 @@
     <!-- cta-main wrapper end -->
 
     <!-- rts service area start -->
-    <div class="rts-service-area rts-section-gap pt-0 pt-md-5" id="floorplan">
+    <div class="rts-service-area rts-section-gap pt-5 id="floorplan">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-12">

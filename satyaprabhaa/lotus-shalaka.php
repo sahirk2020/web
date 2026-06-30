@@ -46,15 +46,15 @@
                   <!-- <img src="assets/images/about/02.png" alt="about"> -->
                   <span class="pre-title">Project Overview</span>
                 </div>
-                <h2 class="title mt--0 mb--25 quote">Designed Around The Way You Live</h2>
+                <h2 class="title mt--0 mb--25 quote">Designed Around Modern Business</h2>
               </div>
-              <p class="disc mb--15 rts-slide-up"> Lotus Shalaka is thoughtfully planned for those who value comfort, convenience, and a sense of belonging. Blending modern design with practical living spaces, it creates an environment where everyday life feels effortless. Backed by the trusted legacy of Lotus, it offers a home that balances contemporary living with lasting quality and warmth.</p>
-              <a href="" data-bs-toggle="modal"
+              <p class="disc mb--15 rts-slide-up"> Lotus Shalaka is thoughtfully designed for businesses seeking premium commercial spaces in Aundh. Combining modern architecture, efficient layouts, and excellent connectivity, it creates an environment where businesses can grow with confidence and long-term value.</p>
+              <a  href="" data-bs-toggle="modal"
                         data-bs-target="#popModel"
-                        data-popup="downloadBrochure" class="rts-btn btn-border">Request For Brochure</a> 
-                        <a href="" data-bs-toggle="modal"
+                        data-popup="downloadBrochure" class="rts-btn btn-border mt-3">Request Brochure</a> 
+                        <a  href="" data-bs-toggle="modal"
                         data-bs-target="#popModel"
-                        data-popup="scheduleVisit" class="rts-btn btn-border">Schedule a Visit</a>
+                        data-popup="scheduleVisit" class="rts-btn btn-border mt-3">Schedule a Visit</a>
             </div>
           </div>
           <div class="col-lg-5 mt_sm--50">
@@ -68,7 +68,7 @@
                   </div>
                   <div class="right">
                     <span>Starting Price:</span>
-                    <p class="name">NA</p>
+                    <p class="name">Price On Request</p>
                   </div>
                 </div>
                 <!-- single detrails short end -->
@@ -79,7 +79,7 @@
                     <p class="name">Aundh</p>
                   </div>
                   <div class="right">
-                    <span>Rera Number:</span>
+                    <span>MahaRERA No.</span>
                     <p class="name">P52100081054</p>
                   </div>
                 </div>

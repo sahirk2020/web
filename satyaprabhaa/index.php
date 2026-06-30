@@ -22,11 +22,11 @@ Hero Area
             <div class="hero-bg-video">
                 <video class="d-md-none d-block" id="myVideo" autoplay muted loop playsinline>
                     <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
-                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabha-Website-video-1920X1080-29-06-2026.mp4">
+                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabhaa-Website-video-1080X1920-30-06-2026.mp4">
                 </video>
                 <video class="d-none d-md-block" id="myVideo" autoplay muted loop playsinline>
                     <!-- <source src="assets/img/video/6Boulevard-Video-1090X1080.mp4" type="video/mp4"> -->
-                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabha-Website-video-1920X1080-29-06-2026.mp4" type="video/mp4">
+                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabhan-Website-video-1920X1080-30-06-2026.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
@@ -54,7 +54,7 @@ Hero Area
                             <h2 class="title">Built On Trust <span class="text-primary">&</span> Care</h2>
                         </div>
                         <p class="disc-1">
-                            Lotus Landmarks brings a deep understanding of how spaces shape the way people live and work. Spanning both residential and commercial developments, we combine design sensibility with execution expertise to create beautiful, enduring environments—delivered with consistency, quality, and care.
+                            Satyaprabhaa brings a deep understanding of how spaces shape the way people live and work. Spanning both residential and commercial developments, we combine design sensibility with execution expertise to create beautiful, enduring environments—delivered with consistency, quality, and care.
                         </p>
                         <!-- <div class="short-service-small"> -->
                             <!-- single service area -->
@@ -142,7 +142,7 @@ Hero Area
                         <div class="title-style-left">
                             <div class="pre-title-area">
                                 <img src="assets/images/about/02.png" alt="about">
-                                <span class="pre-title">Our Project</span>
+                                <span class="pre-title">Our Projects</span>
                             </div>
                             <h2 class="title quote">Designed Around  <br>Everyday 
                                Living</h2>
@@ -282,7 +282,7 @@ Hero Area
                         <div class="counter-single counter__anim">
                             <div class="inner">
                                 <h2 class="title"><span class="counter">10</span>L +</h2>
-                                <p>Sq Ft Delivered</p>
+                                <p>Sq. Ft. Delivered</p>
                             </div>
                         </div>
                         <!-- ingle counter up end -->
