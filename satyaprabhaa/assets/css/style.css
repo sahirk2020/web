@@ -21509,6 +21509,9 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 
 .single-testimonials-area-six {
   position: relative;
+  padding: 10px 0;
+    background: #f6f6f6;
+    border-radius: 5px;
 }
 .single-testimonials-area-six .quotes-area {
   position: absolute;

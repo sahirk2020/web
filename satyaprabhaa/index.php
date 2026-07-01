@@ -18,13 +18,14 @@
 Hero Area
 ==============================-->
     <div class="hero-7 position-relative">
+        
         <div class="hero hero-video" id="home">
             <div class="hero-bg-video">
-                <video class="d-md-none d-block" id="myVideo" autoplay muted loop playsinline>
+                <video class="d-md-none d-block" id="myVideo" autoplay loop playsinline>
                     <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
                     <source src="https://digitaltokri.co.in/demo/video/Satyaprabhaa-Website-video-1080X1920-30-06-2026.mp4">
                 </video>
-                <video class="d-none d-md-block" id="myVideo" autoplay muted loop playsinline>
+                <video class="d-none d-md-block" id="myVideo" autoplay loop playsinline>
                     <!-- <source src="assets/img/video/6Boulevard-Video-1090X1080.mp4" type="video/mp4"> -->
                     <source src="https://digitaltokri.co.in/demo/video/Satyaprabhan-Website-video-1920X1080-30-06-2026.mp4" type="video/mp4">
                 </video>
@@ -584,6 +585,41 @@ Hero Area
     </div>
 
     <?php include 'js.php'; ?>
+
+    <script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    const heroSection = document.querySelector(".hero-video");
+    const videos = document.querySelectorAll(".hero-video-player");
+
+    const observer = new IntersectionObserver(function(entries) {
+
+        entries.forEach(entry => {
+
+            videos.forEach(video => {
+
+                if (entry.isIntersecting) {
+
+                    video.play();
+
+                } else {
+
+                    video.pause();
+
+                }
+
+            });
+
+        });
+
+    }, {
+        threshold: 0.5   // 50% of the section must be visible
+    });
+
+    observer.observe(heroSection);
+
+});
+</script>
 
 </body>
 

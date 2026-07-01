@@ -691,7 +691,7 @@
         </div>
     </div>
                 </div>
-                <div class="col-xl-6 pt-5"><iframe class="h-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4023692973665!2d73.809192!3d18.510710599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfba52281ae1%3A0xde5a7d3f1a3d7483!2sYojangandha%20Society!5e0!3m2!1sen!2sin!4v1780651730009!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+                <div class="col-xl-6 pt-5"><iframe height="650" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4023692973665!2d73.809192!3d18.510710599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfba52281ae1%3A0xde5a7d3f1a3d7483!2sYojangandha%20Society!5e0!3m2!1sen!2sin!4v1780651730009!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
                   
                 </div>
             </div>
