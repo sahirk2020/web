@@ -591,7 +591,7 @@ ol ul {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   h2 {
     font-size: 36px;
-    line-height: 56px;
+    line-height: 40px;
   }
 }
 @media only screen and (max-width: 767px) {
@@ -23146,6 +23146,21 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   .brand-area-wrapper-one img {
     max-width: 120px;
   }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    .container, .container-sm {
+        max-width: 540px !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .container, .container-md, .container-sm {
+        max-width: 720px !important;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 960px !important;
+    }
 }
 
 #counter {
