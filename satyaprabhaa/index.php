@@ -23,11 +23,11 @@ Hero Area
             <div class="hero-bg-video">
                 <video class="d-md-none d-block" id="myVideo" muted autoplay loop playsinline>
                     <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
-                    <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/satyaprabha-desk-video.mp4">
+                    <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/satyaprabha-mobile-video.mp4">
                 </video>
                 <video class="d-none d-md-block" id="myVideo" muted autoplay loop playsinline>
                     <!-- <source src="assets/img/video/6Boulevard-Video-1090X1080.mp4" type="video/mp4"> -->
-                    <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/satyaprabha-mobile-video.mp4" type="video/mp4">
+                    <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/satyaprabha-desk-video.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
