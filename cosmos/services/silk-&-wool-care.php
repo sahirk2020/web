@@ -113,40 +113,59 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Dry-Cleaning.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Laundry-Service.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Dry Cleaning</h1>
+                <h1 class="breadcumb-title">Silk & Wool Care Service</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="home-laundry-services.html">Home</a></li>
-                    <li>Dry Cleaning</li>
+                    <li>Silk & Wool Care Service</li>
                 </ul>
             </div>
         </div>
     </div>
 
+
+
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <div class="overflow-hidden space" id="about-sec">
+    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
+    <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
 
                 <div class="col-xl-6">
-                    <!-- <div class="ps-xl-3 "> -->
-                    <div class="title-area mb-30">
-                        <span class="sub-title style1">About Service</span>
-                        <h2 class="sec-title">Advanced Hydrocarbon Dry Cleaning</h2>
+                    <div class="ps-xl-3 wow fadeInRight">
+                        <div class="title-area mb-25">
+                            <span class="sub-title style1">About Service</span>
+                            <h2 class="sec-title mb-20">
+                                Laundry Service
+                            </h2>
+                            <p class="about-desc">
+                                At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your daily wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
+                            </p>
+                        </div>
+                        <!-- <div class="checklist list-two-column">
+                            <ul>
+                                <li>Pickup and Delivery Service</li>
+                                <li>Energy-Efficient Machines</li>
+                                <li>Same-Day or Express Service</li>
+                                <li>Folding Preferences</li>
+                                <li>Hanging or Bagging Options</li>
+                                <li>Satisfaction Guarantee</li>
+                            </ul>
+                        </div> -->
+                        <!-- <div class="btn-group mt-30 justify-content-start">
+                            <a href="about.html" class="th-btn">More About Us</a>
+                        </div> -->
                     </div>
-                    <p class="mt-n2 mb-15 about-quote">Experience a new standard of garment care with our Hydrocarbon Dry Cleaning Technology, an advanced international cleaning process widely used across Europe and America. Unlike conventional dry cleaning methods, hydrocarbon technology is gentler on fabrics and helps preserve color, texture, softness, and garment structure for longer. It effectively removes stains, dirt, and odors while providing superior fabric protection. Ideal for designer wear, formal clothing, delicate fabrics, and premium garments, this advanced process delivers deep cleaning without harsh treatment. Combined with expert handling and specialized care, it helps your clothes stay fresher, softer, and looking newer for longer.</p>
-
-                    <!-- </div> -->
                 </div>
 
-                <div class="col-xl-6">
+                <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/dry-cleaning.webp" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/home/sevices-Express-Service.webp" width="100%" alt="About" />
                         </div>
 
                     </div>
@@ -155,52 +174,69 @@ About Area
             </div>
         </div>
     </div>
+
+
 
     <!--==============================
-Feature Area  
+feature Area  
 ==============================-->
-    <div class="features-area position-relative process overflow-hidden" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/about-banner.webp">
+    <!-- <div class="overflow-hidden space" id="feature-area">
         <div class="container">
-            <div class="row">
-                <div class="col-xl-9">
-                    <div class="choose-feature-area">
-                        <div class="title-area mb-25">
-
-                            <h2 class="sec-title">WHAT IS DRY CLEANING?</h2>
-                            <p class="sec-text">Many people think dry cleaning means cleaning without water. But dry cleaning actually uses a special solvent instead of regular water and detergent.</p>
+            <div class="row gy-4 justify-content-center">
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInUp">
+                        <div class="feature-item_icon">
+                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_1.svg" alt="icon" />
                         </div>
-                        <div class="checklist list-two-column why-checklist">
-                            <h5 class="sec-title">Dry Cleaning is ideal for</h5>
-                            <ul>
-                                <li><span class="check-img">
-                                        <img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/suit-blazers.svg" alt="Icon" width="40" height="40">
-
-                                    </span> Suits & Blazers</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/saree-designer-wear.svg" alt="Icon" width="50" height="50"></span>Sarees & Designer Wear</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/silk-wool-fabric.svg" alt="Icon" width="40" height="40"></span>Silk & Wool Fabrics</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/bridal-wear.svg" alt="Icon" width="40" height="40"></span> Bridal Wear</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/premium-garments.svg" alt="Icon" width="40" height="40"></span>Premium Garments</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/delicate-fabric.svg" alt="Icon" width="40" height="40"></span>Delicate Fabrics</li>
-                            </ul>
+                        <div class="media-body">
+                            <h3 class="box-title">100% Happiness Guarantee</h3>
+                            <p class="feature-item_text">
+                                Emphasize the use of high-quality detergents, fabric
+                                softeners.
+                            </p>
                         </div>
-
                     </div>
                 </div>
-
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInDown">
+                        <div class="feature-item_icon">
+                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_2.svg" alt="icon" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Free Collection & Delivery</h3>
+                            <p class="feature-item_text">
+                                Emphasize the use of high-quality detergents, fabric
+                                softeners.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInUp">
+                        <div class="feature-item_icon">
+                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_3.svg" alt="icon" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">24/7 Dedicated Support</h3>
+                            <p class="feature-item_text">
+                                Emphasize the use of high-quality detergents, fabric
+                                softeners.
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+    </div> -->
+    <!--==============================
+Service Area  
+==============================-->
 
-    </div>
 
     <!--==============================
 Faq Area
 ==============================-->
-    <div class="  space overflow-hidden process" id="faq-sec">
+    <div class="  space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-xl-6 text-center text-xl-start align-self-center">
@@ -214,11 +250,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">Which technology or solvent do you use?</button>
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">How does the laundry process work at Cosmos Laundry?</button>
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">We use Hydrocarbon Solvent Dry Cleaning Technology, an advanced international fabric care system widely used across Europe and America. It provides deep cleaning while being gentle on delicate fabrics.</p>
+                                        <p class="faq-text">Our laundry process follows 9 systematic steps: Inspection (checking each garment for damage or special needs), Tagging (labelling for tracking), Sorting (separating by type and care requirement), Colour Segregation (preventing colour bleeding), Spotting (pre-treating stains), Cleaning (washing with appropriate method), Finishing (ironing and folding), Quality Check (final inspection), and Packaging (neat, hygienic wrapping before delivery).</p>
                                     </div>
                                 </div>
                             </div>
@@ -226,11 +262,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Is stain inspection done before processing?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Which types of clothing does the laundry service cover?</button>
                                 </div>
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. Every garment undergoes a detailed stain and fabric inspection before cleaning to identify treatment requirements and ensure the best possible results.</p>
+                                        <p class="faq-text">The laundry service covers everyday men's, women's, and children's clothing including shirts, trousers, t-shirts, kurtas, dresses, school uniforms, and casual wear. We also handle household items like bedsheets and pillow covers under this category.</p>
                                     </div>
                                 </div>
                             </div>
@@ -238,11 +274,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> Is fabric handled according to garment type?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> How long does laundry take at Cosmos Laundry?</button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Absolutely. Each garment is assessed individually and processed according to its fabric, construction, embellishments, and care requirements for maximum protection.</p>
+                                        <p class="faq-text">Standard laundry orders are typically processed and returned within 24 to 48 hours of pickup, depending on the volume and type of garments. For urgent orders, please contact us directly and we will advise on the fastest available option.</p>
                                     </div>
                                 </div>
                             </div>
@@ -250,42 +286,32 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">How do you maintain fabric quality?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Does Cosmos Laundry offer ironing-only service?</button>
                                 </div>
                                 <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Our Hydrocarbon Dry Cleaning Technology helps preserve color, texture, softness, and garment structure, ensuring clothes stay looking newer for longer.</p>
+                                        <p class="faq-text">Yes. Cosmos Laundry provides professional steam ironing as a standalone service. Our steam ironing delivers a crisp, wrinkle-free finish that keeps garments polished and ready to wear immediately.</p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Do you use modern machines?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Can I send clothes for just stain removal?</button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. We use advanced dry cleaning equipment and modern fabric care processes to deliver consistent cleaning quality, hygiene, and garment protection.</p>
+                                        <p class="faq-text">Yes. If you have a specific stain treatment need, contact us on +91 9284630260 and our team will advise the appropriate service. Stain removal is part of our standard laundry and premium wash process, and difficult stains are handled at the pre-treatment spotting stage.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Why Hydrocarbon?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Is Cosmos Laundry's washing process safe for all fabrics?</button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <div class="checklist list-two-column">
-                                            <ul>
-                                                <li>Gentle on fabrics</li>
-                                                <li>Better color protection</li>
-                                                <li>Maintains softness & texture</li>
-                                                <li>Safe for delicate garments</li>
-                                                <li>Less chemical odor</li>
-                                                <li>Longer garment life</li>
-                                                <li> Advanced & fabric-friendly process</li>
-                                            </ul>
-                                        </div>
+                                        <p class="faq-text">Cosmos Laundry carefully sorts garments by fabric type and care instructions before washing. Each item is processed using the appropriate method — whether standard wash, premium wash, or dry cleaning — to ensure fabric safety and preserve the quality and life of your clothing.</p>
                                     </div>
                                 </div>
                             </div>
@@ -303,9 +329,6 @@ Faq Area
             </div>
         </div>
     </div>
-
-
-
 
 
     <?php include '../components/footer.php'; ?>

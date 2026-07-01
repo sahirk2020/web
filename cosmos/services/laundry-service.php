@@ -136,36 +136,24 @@ About Area
             <div class="row">
 
                 <div class="col-xl-6">
-                    <div class="ps-xl-3 wow fadeInRight">
-                        <div class="title-area mb-25">
-                            <span class="sub-title style1">About Service</span>
-                            <h2 class="sec-title mb-20">
-                                Laundry Service
-                            </h2>
-                            <p class="about-desc">
-                                At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your daily wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
-                            </p>
-                        </div>
-                        <!-- <div class="checklist list-two-column">
-                            <ul>
-                                <li>Pickup and Delivery Service</li>
-                                <li>Energy-Efficient Machines</li>
-                                <li>Same-Day or Express Service</li>
-                                <li>Folding Preferences</li>
-                                <li>Hanging or Bagging Options</li>
-                                <li>Satisfaction Guarantee</li>
-                            </ul>
-                        </div> -->
-                        <!-- <div class="btn-group mt-30 justify-content-start">
-                            <a href="about.html" class="th-btn">More About Us</a>
-                        </div> -->
+                    <!-- <div class="ps-xl-3 wow fadeInRight"> -->
+                    <div class="title-area mb-25">
+                        <span class="sub-title style1">About Service</span>
+                        <h2 class="sec-title mb-20">
+                            Laundry Service
+                        </h2>
+                        <p class="about-desc">
+                            At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your daily wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
+                        </p>
                     </div>
+
+                    <!-- </div> -->
                 </div>
 
-                <div class="col-xl-6 wow fadeInLeft">
+                <div class="col-xl-6">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/home/sevices-Express-Service.webp" width="100%" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/laundry-service.webp" alt="About" />
                         </div>
 
                     </div>
@@ -176,70 +164,13 @@ About Area
     </div>
 
 
-
-    <!--==============================
-feature Area  
-==============================-->
-    <!-- <div class="overflow-hidden space" id="feature-area">
-        <div class="container">
-            <div class="row gy-4 justify-content-center">
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_1.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">100% Happiness Guarantee</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInDown">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_2.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">Free Collection & Delivery</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_3.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">24/7 Dedicated Support</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!--==============================
-Service Area  
-==============================-->
-
-
     <!--==============================
 Faq Area
 ==============================-->
-    <div class="  space overflow-hidden" id="faq-sec">
+    <div class="  space overflow-hidden process" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
-                <div class="col-xl-6 text-center text-xl-start align-self-center">
+                <div class="col-xl-12 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
@@ -319,13 +250,13 @@ Faq Area
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
+                <!-- <div class="col-xl-6">
                     <div class="faq-img1 ps-xl-4">
                         <div class="img1">
                             <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
