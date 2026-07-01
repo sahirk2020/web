@@ -473,7 +473,7 @@ Hero Area
 
             <!-- mobile view -->
              <!-- rts blog area start -->
-    <div class="d-md-none d-block rts-blog-area rts-section-gap">
+    <div class="d-md-none d-block rts-blog-area rts-section-gap pt-0">
         <div class="container">
             <div class="testimonials-main-wrapper">
                 <div class="swiper mySwiper-three-testimonials">
@@ -481,73 +481,71 @@ Hero Area
                         <div class="swiper-slide">
                             <div class="row mt--70 align-items-center">
                                 <!-- single blog area start -->
-                    <div class="signle-blog-style-one">
-                            <a href="" class="thumbnail">
-                                <img src="assets/images/blog/03.jpg" alt="blog">
-                                <span class="tag">Interior</span>
-                            </a>
-                            <div class="inner-content">
-                                <a href="">
-                                    <h5 class="title">
-                                        Unlocking Creativity: 10 Exercises to Inspire Your Imagination
-                                    </h5>
-                                </a>
-                                <a class="btn-blog-readmore" href=""> Read More +</a>
+                                <div class="signle-blog-style-one">
+                                    <a href="" class="thumbnail">
+                                        <img src="assets/images/blog/03.jpg" alt="blog">
+                                        <span class="tag">Interior</span>
+                                    </a>
+                                    <div class="inner-content">
+                                        <a href="">
+                                            <h5 class="title">
+                                                Unlocking Creativity: 10 Exercises to Inspire Your Imagination
+                                            </h5>
+                                        </a>
+                                        <a class="btn-blog-readmore" href=""> Read More +</a>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
-                    </div>
-                    <!-- single blog area end -->
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="row mt--70 align-items-center">
-                                <!-- single blog area start -->
-                    <div class="signle-blog-style-one">
-                            <a href="" class="thumbnail">
-                                <img src="assets/images/blog/03.jpg" alt="blog">
-                                <span class="tag">Interior</span>
-                            </a>
-                            <div class="inner-content">
-                                <a href="">
-                                    <h5 class="title">
-                                        Unlocking Creativity: 10 Exercises to Inspire Your Imagination
-                                    </h5>
-                                </a>
-                                <a class="btn-blog-readmore" href=""> Read More +</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single blog area end -->
-                            </div>
+                            <!-- single blog area end -->
                         </div>
                         <div class="swiper-slide">
                             <div class="row mt--70 align-items-center">
                                 <!-- single blog area start -->
-                    <div class="signle-blog-style-one">
-                            <a href="" class="thumbnail">
-                                <img src="assets/images/blog/03.jpg" alt="blog">
-                                <span class="tag">Interior</span>
-                            </a>
-                            <div class="inner-content">
-                                <a href="">
-                                    <h5 class="title">
-                                        Unlocking Creativity: 10 Exercises to Inspire Your Imagination
-                                    </h5>
-                                </a>
-                                <a class="btn-blog-readmore" href=""> Read More +</a>
+                                <div class="signle-blog-style-one">
+                                    <a href="" class="thumbnail">
+                                        <img src="assets/images/blog/03.jpg" alt="blog">
+                                        <span class="tag">Interior</span>
+                                    </a>
+                                    <div class="inner-content">
+                                        <a href="">
+                                            <h5 class="title">
+                                                Unlocking Creativity: 10 Exercises to Inspire Your Imagination
+                                            </h5>
+                                        </a>
+                                        <a class="btn-blog-readmore" href=""> Read More +</a>
+                                    </div>
+                                </div>
                             </div>
+                            <!-- single blog area end -->
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="row mt--70 align-items-center">
+                                <!-- single blog area start -->
+                                <div class="signle-blog-style-one">
+                                    <a href="" class="thumbnail">
+                                        <img src="assets/images/blog/03.jpg" alt="blog">
+                                        <span class="tag">Interior</span>
+                                    </a>
+                                    <div class="inner-content">
+                                        <a href="">
+                                            <h5 class="title">
+                                                Unlocking Creativity: 10 Exercises to Inspire Your Imagination
+                                            </h5>
+                                        </a>
+                                        <a class="btn-blog-readmore" href=""> Read More +</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single blog area end -->
                         </div>
                     </div>
-                    <!-- single blog area end -->
-                            </div>
-                        </div>
-                    </div>
+                </div>
                     <!-- <div class="swiper-button-next"></div>
                     <div class="swiper-button-prev"></div> -->
-                </div>
             </div>
         </div>
     </div>
+
     <!-- rts blog area end -->
      <!-- mobile view end -->
         </div>
