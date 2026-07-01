@@ -191,7 +191,7 @@ Hero Area
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Deepak Dev - <span class="category">AUNDH, PUNE</span></h3>
+                                                <h3 class="title">Deepak Dev - <span class="category">AUNDH, PUNE | Commercial</span></h3>
                                             </a>
                                             <!-- <span class="category">AUNDH, PUNE</span> -->
                                         </div>
@@ -207,7 +207,7 @@ Hero Area
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Shrirang - <span class="category">BIBVEWADI, PUNE</span></h3>
+                                                <h3 class="title">Shrirang - <span class="category">BIBVEWADI, PUNE | Residential</span></h3>
                                             </a>
                                             <!-- <span class="category">KOTHRUD, PUNE</span> -->
                                         </div>
@@ -223,9 +223,9 @@ Hero Area
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Lotus Treya</h3>
+                                                <h3 class="title">Treya - <span class="category">KOTHRUD, PUNE | Commercial</span></h3>
                                             </a>
-                                            <span class="category">KOTHRUD, PUNE</span>
+                                            <!-- <span class="category">KOTHRUD, PUNE</span> -->
                                         </div>
                                     </div>
                                     <!-- single swiper-item end -->

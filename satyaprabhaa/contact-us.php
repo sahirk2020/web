@@ -95,7 +95,7 @@ $page_description = "Contact us for best upcoming & residential projects in pune
                                 </div>
                                 <div class="right-content">
                                     <h6 class="title">Working Hours</h6>
-                                    <p class="disc">Monday to Saturday: 10:00 AM - 6:00 PM</p>
+                                    <p class="disc">Monday to Saturday:<br> 10:00 AM - 6:00 PM</p>
                                     <!-- s -->
                                 </div>
                             </div>
@@ -118,16 +118,16 @@ $page_description = "Contact us for best upcoming & residential projects in pune
                     </div>
                 </div>
                 <div class="col-lg-6 pl--60 pr--100 pr_md--10 pr_sm--10 pl_sm--10 pl_md--10 pt_md--50 pt_sm--50">
-                    <div class="easy-appoinment-area">
+                    <div class="easy-appoinment-area contact-page-form">
                         <div class="title-left-style-seven-wrapper">
                             <!-- <span class="pre">Feature Services</span> -->
                             <h2 class="title">Have Any Questions</h2>
                         </div>
                         <form action="#">
-                            <input type="text" placeholder="Your Name">
-                            <input type="email" placeholder="Your Email">
-                            <input type="text" placeholder="Your Number">
-                            <textarea placeholder="Send Message"></textarea>
+                            <input type="text" placeholder="Name">
+                            <input type="email" placeholder="Email">
+                            <input type="text" placeholder="Contact Number">
+                            <textarea placeholder="Write a Message"></textarea>
                             <button class="rts-btn btn-primary">Submit</button>
                         </form>
                     </div>

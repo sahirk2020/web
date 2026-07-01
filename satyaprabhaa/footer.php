@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-area-main-wrapper-one">
-                            <a href="#" class="logo pb-5">
+                            <a href="#" class="logo pb-5 pb-md-0">
                                 <img width="250" src="assets/images/logo/Satyaprabhaa-whitelogo.svg" alt="logo">
                             </a>
                             <ul class="social-style-two-wrapper social-anim">
@@ -78,7 +78,7 @@
                                 <h6 class="title">Quick Links</h6>
                                 <ul>
                                     <li><a href="about-us.php">About Us</a></li>
-                                    <li><a href="events.php">Events</a></li>
+                                    <!-- <li><a href="events.php">Events</a></li> -->
                                     <li><a href="awards.php">Awards</a></li>
                                     <li><a href="careers.php">Careers</a></li>
                                     <li><a href="contact-us.php">Contact</a></li>
