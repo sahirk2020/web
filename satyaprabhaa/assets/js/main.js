@@ -298,25 +298,25 @@
             });
             $(document).ready(function () {
                 var swiper = new Swiper(".mySwiper-three-testimonials", {
-                    // slidesPerView: 3,
+                    slidesPerView: 1,
                     spaceBetween: 20,
                     centeredSlides: true,
                     // autoplay: true,
                     breakpoints: {
                         1700: {
-                            slidesPerView: 4,
+                            slidesPerView: 1,
                         },
                         1500: {
-                            slidesPerView: 3,
+                            slidesPerView: 1,
                         },
                         1024: {
-                            slidesPerView: 3,
+                            slidesPerView: 1,
                         },
                         768: {
-                            slidesPerView: 2,
+                            slidesPerView: 1,
                         },
                         640: {
-                            slidesPerView: 2,
+                            slidesPerView: 1,
                         },
                         320: {
                             slidesPerView: 1,
