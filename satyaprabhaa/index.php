@@ -129,7 +129,7 @@ Hero Area
                     </div> -->
                 </div>
                 <div class="mahesh-img position-relative">
-                    <img class="d-none d-md-block" width="250" src="assets/images/mahesh.webp" alt="mahesh">
+                    <img class="d-none d-lg-block" width="250" src="assets/images/mahesh.webp" alt="mahesh">
                 </div>
             </div>
         </div>
