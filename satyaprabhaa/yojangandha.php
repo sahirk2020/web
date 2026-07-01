@@ -131,6 +131,7 @@
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
+                                    <i class="fa-regular fa-map-location-dot"></i>
                                     <img src="assets/images/why-choose/01.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
@@ -658,7 +659,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="vedio-icone">
-                        <a class="play-video popup-youtube video-play-button" href="https://youtu.be/zLORxbhlOA8?si=BjUE5R_TsdTTbzAv">
+                        <a class="play-video popup-youtube video-play-button" href="https://youtu.be/7XRusv97ZRs">
                             <span></span>
                         </a>
                         <div class="video-overlay">

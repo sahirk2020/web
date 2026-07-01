@@ -125,7 +125,7 @@ Hero Area
                     </div> -->
                 </div>
                 <div class="mahesh-img position-relative">
-                    <img class="" src="assets/images/mahesh1-bg-trans.webp" alt="mahesh">
+                    <img class="d-none d-md-block" width="250" src="assets/images/mahesh.webp" alt="mahesh">
                 </div>
             </div>
         </div>
@@ -407,7 +407,8 @@ Hero Area
                     </div>
                 </div>
             </div>
-            <div class="row g-24 rts-slide-up mt--30">
+            <!-- desktop view -->
+            <div class="row d-none d-md-flex g-24 rts-slide-up mt--30">
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single blog area start -->
                     <div class="signle-blog-style-one">
@@ -464,6 +465,87 @@ Hero Area
                     <!-- single blog area end -->
                 </div>
             </div>
+            <!-- desktop view end -->
+
+            <!-- mobile view -->
+             <!-- rts blog area start -->
+    <div class="d-md-none d-block rts-blog-area rts-section-gap">
+        <div class="container">
+            <div class="testimonials-main-wrapper">
+                <div class="swiper mySwiper-three-testimonials">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="row mt--70 align-items-center">
+                                <!-- single blog area start -->
+                    <div class="signle-blog-style-one">
+                            <a href="" class="thumbnail">
+                                <img src="assets/images/blog/03.jpg" alt="blog">
+                                <span class="tag">Interior</span>
+                            </a>
+                            <div class="inner-content">
+                                <a href="">
+                                    <h5 class="title">
+                                        Unlocking Creativity: 10 Exercises to Inspire Your Imagination
+                                    </h5>
+                                </a>
+                                <a class="btn-blog-readmore" href=""> Read More +</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- single blog area end -->
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="row mt--70 align-items-center">
+                                <!-- single blog area start -->
+                    <div class="signle-blog-style-one">
+                            <a href="" class="thumbnail">
+                                <img src="assets/images/blog/03.jpg" alt="blog">
+                                <span class="tag">Interior</span>
+                            </a>
+                            <div class="inner-content">
+                                <a href="">
+                                    <h5 class="title">
+                                        Unlocking Creativity: 10 Exercises to Inspire Your Imagination
+                                    </h5>
+                                </a>
+                                <a class="btn-blog-readmore" href=""> Read More +</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- single blog area end -->
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="row mt--70 align-items-center">
+                                <!-- single blog area start -->
+                    <div class="signle-blog-style-one">
+                            <a href="" class="thumbnail">
+                                <img src="assets/images/blog/03.jpg" alt="blog">
+                                <span class="tag">Interior</span>
+                            </a>
+                            <div class="inner-content">
+                                <a href="">
+                                    <h5 class="title">
+                                        Unlocking Creativity: 10 Exercises to Inspire Your Imagination
+                                    </h5>
+                                </a>
+                                <a class="btn-blog-readmore" href=""> Read More +</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- single blog area end -->
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- rts blog area end -->
+     <!-- mobile view end -->
         </div>
     </div>
     <!-- rts blog area end -->
