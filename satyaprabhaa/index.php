@@ -21,13 +21,13 @@ Hero Area
         
         <div class="hero hero-video" id="home">
             <div class="hero-bg-video">
-                <video class="d-md-none d-block" id="myVideo" autoplay loop playsinline>
+                <video class="d-md-none d-block" id="myVideo" muted autoplay loop playsinline>
                     <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
-                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabhaa-Website-video-1080X1920-30-06-2026.mp4">
+                    <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/satyaprabha-desk-video.mp4">
                 </video>
-                <video class="d-none d-md-block" id="myVideo" autoplay loop playsinline>
+                <video class="d-none d-md-block" id="myVideo" muted autoplay loop playsinline>
                     <!-- <source src="assets/img/video/6Boulevard-Video-1090X1080.mp4" type="video/mp4"> -->
-                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabhan-Website-video-1920X1080-30-06-2026.mp4" type="video/mp4">
+                    <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/satyaprabha-mobile-video.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
@@ -38,6 +38,7 @@ Hero Area
             </div>
         </div>
         <!--======== / Hero Section ========-->
+</div>
     
 <!-- about  page top histoory information  -->
     <!-- rts about area start -->
@@ -286,7 +287,7 @@ Hero Area
                          <!-- ingle counter up -->
                         <div class="counter-single counter__anim">
                             <div class="inner">
-                                <h2 class="title"><span class="counter">10</span>L +</h2>
+                                <h2 class="title"><span class="counter">10</span>+</h2>
                                 <p>Sq. Ft. Delivered</p>
                             </div>
                         </div>
