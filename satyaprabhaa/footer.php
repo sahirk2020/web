@@ -20,7 +20,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="row  pb-5 ptb--60 ptb_sm--60">
+            <div class="row  pb-5 ptb--60 px-5 px-md-0">
                 <div class="col-lg-12">
                     <div class="footer-area-wrapper-one">
                         <div class="single-footer-wized">

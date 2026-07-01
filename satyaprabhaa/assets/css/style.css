@@ -144,6 +144,11 @@ body {
   body {
     overflow: hidden;
   }
+  .rts-header-style-one .action-area .menu-icon{
+    cursor: pointer;
+    position: absolute !important;
+    right: 20px;
+  }
   .mahesh-img img{
   right:-45px !important;
   }

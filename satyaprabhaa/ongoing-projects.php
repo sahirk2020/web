@@ -54,9 +54,10 @@
                                 <h5 class="title">Yojangandha</h5>
                                 <h5 class="title">Residential</h5>
                             </a>
-                            <p class="">
+                            <p class="mb-4">
                                 Nestled in Kothrud's cultural heart, Yojangandha brings together nature, connectivity, and elevated living for modern Pune families.</p>
-                        </div>
+                            <a  href="yojangandha.php" class="rts-btn btn-border">Know More</a> 
+                            </div>
                     </div>
                     <!-- single portfolio grid col-2 end -->
                 </div>
@@ -71,9 +72,10 @@
                                 <h5 class="title">Lotus Shalaka</h5>
                                 <h5 class="title">Commercial Spaces</h5>
                             </a>
-                            <p class="">
+                            <p class="mb-4">
                                 Surrounded by greenery in the heart of Kothrud, Lotus Shalaka offers peaceful living with effortless urban convenience.</p>
-                        </div>
+                            <a  href="lotus-shalaka.php" class="rts-btn btn-border">Know More</a>
+                            </div>
                     </div>
                     <!-- single portfolio grid col-2 end -->
                 </div>
@@ -88,9 +90,10 @@
                                 <h5 class="title">Treya</h5>
                                 <h5 class="title">Residential</h5>
                             </a>
-                            <p class="">
+                            <p class="mb-4">
                                 A premium residential address in Kothrud offering thoughtfully designed homes, modern comforts, and excellent connectivity for everyday living.</p>
-                        </div>
+                            <a  href="treya.php" class="rts-btn btn-border">Know More</a>
+                            </div>
                     </div>
                     <!-- single portfolio grid col-2 end -->
                 </div>
@@ -105,9 +108,10 @@
                                 <h5 class="title">Deepak Dev</h5>
                                 <h5 class="title">Commercial Spaces</h5>
                             </a>
-                            <p class="">
+                            <p class="mb-4">
                                 Premium commercial spaces in Aundh designed for modern businesses, excellent connectivity, and long-term value.
                             </p>
+                            <a  href="deepak-dev.php" class="rts-btn btn-border">Know More</a>
                         </div>
                     </div>
                     <!-- single portfolio grid col-2 end -->
