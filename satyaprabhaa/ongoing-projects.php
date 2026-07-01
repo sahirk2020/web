@@ -52,7 +52,7 @@
                         <div class="inner-text">
                             <a href="yojangandha.php" class="d-flex justify-content-between">
                                 <h5 class="title">Yojangandha</h5>
-                                <h5 class="title">2, 3 & 4 BHK <br><b>Residential</b></h5>
+                                <h5 class="title">Residential</h5>
                             </a>
                             <p class="">
                                 Nestled in Kothrud's cultural heart, Yojangandha brings together nature, connectivity, and elevated living for modern Pune families.</p>
@@ -67,10 +67,11 @@
                             <img src="assets/images/projects/lotus-shalaka/banner-1000x554.webp" alt="banner-1000x554">
                         </a>
                         <div class="inner-text">
-                            <a href="lotus-shalaka.php">
+                            <a href="lotus-shalaka.php" class="d-flex justify-content-between">
                                 <h5 class="title">Lotus Shalaka</h5>
+                                <h5 class="title">Commercial Spaces</h5>
                             </a>
-                            <p class="disc">
+                            <p class="">
                                 Surrounded by greenery in the heart of Kothrud, Lotus Shalaka offers peaceful living with effortless urban convenience.</p>
                         </div>
                     </div>
@@ -83,10 +84,11 @@
                             <img src="assets/images/projects/treya/banner-1000x554.webp" alt="banner-1000x554">
                         </a>
                         <div class="inner-text">
-                            <a href="treya.php">
+                            <a href="treya.php" class="d-flex justify-content-between">
                                 <h5 class="title">Treya</h5>
+                                <h5 class="title">Residential</h5>
                             </a>
-                            <p class="disc">
+                            <p class="">
                                 A premium residential address in Kothrud offering thoughtfully designed homes, modern comforts, and excellent connectivity for everyday living.</p>
                         </div>
                     </div>
@@ -99,10 +101,11 @@
                             <img src="assets/images/projects/deepak-dev/banner-1000x554.webp" alt="banner-1000x554">
                         </a>
                         <div class="inner-text">
-                            <a href="deepak-dev.php">
+                            <a href="deepak-dev.php" class="d-flex justify-content-between">
                                 <h5 class="title">Deepak Dev</h5>
+                                <h5 class="title">Commercial Spaces</h5>
                             </a>
-                            <p class="disc">
+                            <p class="">
                                 Premium commercial spaces in Aundh designed for modern businesses, excellent connectivity, and long-term value.
                             </p>
                         </div>
