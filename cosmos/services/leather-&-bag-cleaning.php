@@ -113,40 +113,47 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Dry-Cleaning.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Leather-&-Bag-Cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Dry Cleaning</h1>
+                <h1 class="breadcumb-title">Leather & Bag Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="home-laundry-services.html">Home</a></li>
-                    <li>Dry Cleaning</li>
+                    <li>Leather & Bag Cleaning</li>
                 </ul>
             </div>
         </div>
     </div>
 
+
+
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <div class="overflow-hidden space" id="about-sec">
+    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
+    <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
 
                 <div class="col-xl-6">
-                    <!-- <div class="ps-xl-3 "> -->
-                    <div class="title-area mb-30">
-                        <span class="sub-title style1">About Service</span>
-                        <h2 class="sec-title">Advanced Hydrocarbon Dry Cleaning</h2>
-                    </div>
-                    <p class="mt-n2 mb-15 about-quote">Experience a new standard of garment care with our Hydrocarbon Dry Cleaning Technology, an advanced international cleaning process widely used across Europe and America. Unlike conventional dry cleaning methods, hydrocarbon technology is gentler on fabrics and helps preserve color, texture, softness, and garment structure for longer. It effectively removes stains, dirt, and odors while providing superior fabric protection. Ideal for designer wear, formal clothing, delicate fabrics, and premium garments, this advanced process delivers deep cleaning without harsh treatment. Combined with expert handling and specialized care, it helps your clothes stay fresher, softer, and looking newer for longer.</p>
+                    <div class="ps-xl-3 wow fadeInRight">
+                        <div class="title-area mb-25">
+                            <span class="sub-title style1">About Service</span>
+                            <h2 class="sec-title mb-20">
+                                Premium Leather And Bag Care
+                            </h2>
+                            <p class="about-desc">
+                                Our leather and bag cleaning service is designed to restore the beauty and longevity of your valuable accessories. Using specialized cleaning solutions and conditioning treatments, we remove dirt, stains, and surface buildup while protecting the material's natural texture and finish. From luxury handbags and travel bags to leather accessories, every item is carefully inspected and treated according to its specific material requirements. We help maintain appearance, durability, and freshness, ensuring your bags and leather products continue to look their best.
+                            </p>
+                        </div>
 
-                    <!-- </div> -->
+                    </div>
                 </div>
 
-                <div class="col-xl-6">
+                <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/dry-cleaning.webp" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/Leather-&-Bag-Cleaning.webp" alt="About" />
                         </div>
 
                     </div>
@@ -156,46 +163,10 @@ About Area
         </div>
     </div>
 
-    <!--==============================
-Feature Area  
-==============================-->
-    <div class="features-area position-relative process overflow-hidden" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/about-banner.webp">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-9">
-                    <div class="choose-feature-area">
-                        <div class="title-area mb-25">
 
-                            <h2 class="sec-title">WHAT IS DRY CLEANING?</h2>
-                            <p class="sec-text">Many people think dry cleaning means cleaning without water. But dry cleaning actually uses a special solvent instead of regular water and detergent.</p>
-                        </div>
-                        <div class="checklist list-two-column why-checklist">
-                            <h5 class="sec-title">Dry Cleaning is ideal for</h5>
-                            <ul>
-                                <li><span class="check-img">
-                                        <img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/suit-blazers.svg" alt="Icon" width="40" height="40">
 
-                                    </span> Suits & Blazers</li>
 
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/saree-designer-wear.svg" alt="Icon" width="50" height="50"></span>Sarees & Designer Wear</li>
 
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/silk-wool-fabric.svg" alt="Icon" width="40" height="40"></span>Silk & Wool Fabrics</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/bridal-wear.svg" alt="Icon" width="40" height="40"></span> Bridal Wear</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/premium-garments.svg" alt="Icon" width="40" height="40"></span>Premium Garments</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/delicate-fabric.svg" alt="Icon" width="40" height="40"></span>Delicate Fabrics</li>
-                            </ul>
-                        </div>
-
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-    </div>
 
     <!--==============================
 Faq Area
@@ -203,7 +174,7 @@ Faq Area
     <div class="  space overflow-hidden process" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
-                <div class="col-xl-6 text-center text-xl-start align-self-center">
+                <div class="col-xl-12 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
@@ -214,11 +185,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">Which technology or solvent do you use?</button>
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">What types of bags does Cosmos Laundry clean?</button>
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">We use Hydrocarbon Solvent Dry Cleaning Technology, an advanced international fabric care system widely used across Europe and America. It provides deep cleaning while being gentle on delicate fabrics.</p>
+                                        <p class="faq-text">Cosmos Laundry cleans a wide range of bags including leather handbags, luxury designer bags, purses, clutches, fabric tote bags, backpacks, and office bags. Each bag is assessed individually and cleaned using methods appropriate for its material and construction.</p>
                                     </div>
                                 </div>
                             </div>
@@ -226,11 +197,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Is stain inspection done before processing?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Is professional bag cleaning safe for luxury and designer bags?</button>
                                 </div>
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. Every garment undergoes a detailed stain and fabric inspection before cleaning to identify treatment requirements and ensure the best possible results.</p>
+                                        <p class="faq-text">Yes. We treat luxury and designer bags with exceptional care, using specialist cleaning agents that are safe for high-end materials including genuine leather, PU leather, canvas, and fabric. Our team handles each bag individually to protect hardware, stitching, and surface finish.</p>
                                     </div>
                                 </div>
                             </div>
@@ -238,11 +209,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> Is fabric handled according to garment type?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> Does Cosmos Laundry condition leather bags after cleaning?</button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Absolutely. Each garment is assessed individually and processed according to its fabric, construction, embellishments, and care requirements for maximum protection.</p>
+                                        <p class="faq-text">Yes. Leather bags receive conditioning treatment after cleaning to restore moisture, softness, and suppleness to the leather. This prevents cracking, maintains the bag's texture, and extends its life — particularly important for premium or frequently used leather items.</p>
                                     </div>
                                 </div>
                             </div>
@@ -250,42 +221,32 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">How do you maintain fabric quality?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Can Cosmos Laundry remove ink or dye stains from bags?</button>
                                 </div>
                                 <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Our Hydrocarbon Dry Cleaning Technology helps preserve color, texture, softness, and garment structure, ensuring clothes stay looking newer for longer.</p>
+                                        <p class="faq-text">Our team pre-treats stains on bags before cleaning and uses targeted stain removal agents suited to the bag's material. Ink and dye stains can be challenging, particularly on light-coloured leather, but our specialists will assess and advise you honestly on the expected result before proceeding.</p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Do you use modern machines?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">How often should I get my leather bag professionally cleaned?</button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. We use advanced dry cleaning equipment and modern fabric care processes to deliver consistent cleaning quality, hygiene, and garment protection.</p>
+                                        <p class="faq-text">For everyday-use bags, professional cleaning every 3 to 6 months helps maintain appearance and prevent dirt buildup from embedding into the leather. For occasion bags used less frequently, once a year or whenever you notice visible soiling or dullness is appropriate.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Why Hydrocarbon?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">How do I send my bag to Cosmos Laundry for cleaning?</button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <div class="checklist list-two-column">
-                                            <ul>
-                                                <li>Gentle on fabrics</li>
-                                                <li>Better color protection</li>
-                                                <li>Maintains softness & texture</li>
-                                                <li>Safe for delicate garments</li>
-                                                <li>Less chemical odor</li>
-                                                <li>Longer garment life</li>
-                                                <li> Advanced & fabric-friendly process</li>
-                                            </ul>
-                                        </div>
+                                        <p class="faq-text">Call or WhatsApp us on +91 9284630260 to arrange a doorstep pickup. Our team will collect your bag, clean and condition it at our facility, and return it packaged safely. You may also drop it off directly at our facility in Jalgaon during business hours.</p>
                                     </div>
                                 </div>
                             </div>
@@ -293,19 +254,16 @@ Faq Area
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
+                <!-- <div class="col-xl-6">
                     <div class="faq-img1 ps-xl-4">
                         <div class="img1">
                             <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
-
-
-
 
 
     <?php include '../components/footer.php'; ?>

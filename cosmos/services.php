@@ -523,206 +523,6 @@ Service Area
         </div>
     </section>
 
-    <!--==============================
-Process Area  
-==============================-->
-    <section class="overflow-hidden space-bottom" id="process-sec">
-        <div class="container-fluid">
-            <div class="title-area text-center">
-                <span class="sub-title">Work Process</span>
-                <h2 class="sec-title">How We Work It!</h2>
-            </div>
-            <div class="row gy-4 justify-content-center">
-                <div class="col-xl-2 col-6 process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Every garment is carefully assessed for fabric type, stains, and special care requirements before entering our cleaning process.">
-
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/Inspection.svg" alt="icon" width="50" height="50">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">01</p>
-                        <h3 class="box-title">Inspection</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
-                    </div>
-                </div>
-
-                <div class="col-xl-2 col-6 process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="A unique identification tag is assigned to every item, ensuring accurate tracking and complete order transparency.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/tagging.svg" alt="icon" width="50" height="50">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">02</p>
-                        <h3 class="box-title">Tagging</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
-                    </div>
-                </div>
-
-                <div class="col-xl-2 col-6 process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Garments are sorted according to fabric, texture, and cleaning needs to provide the most suitable treatment.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/sorting.svg" alt="icon" width="60" height="60">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">03</p>
-                        <h3 class="box-title">Sorting</h3>
-                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
-                    </div>
-                </div>
-                <div class="col-xl-2 col-6 process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Clothes are separated by color and fabric category to prevent color transfer and maintain garment quality.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/color-segregation.svg" alt="icon" width="60" height="60">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">04</p>
-                        <h3 class="box-title">Segregation</h3>
-                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
-                    </div>
-                </div>
-
-                <div class="col-xl-2 col-6 process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Targeted stain treatment is performed using fabric-safe solutions to effectively address marks without compromising garment integrity.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/spotting.svg" alt="icon" width="70" height="70">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">05</p>
-                        <h3 class="box-title">Spotting</h3>
-                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
-                    </div>
-                </div>
-
-                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Advanced cleaning techniques and premium detergents are used to remove dirt, odors, and stains while protecting fabrics.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/cleaning.svg" alt="icon" width="50" height="50">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">06</p>
-                        <h3 class="box-title">Cleaning</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
-                    </div>
-                </div>
-                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Garments are professionally steam pressed and finished to restore their fresh, crisp, and well-maintained appearance.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/finishing.svg" alt="icon" width="60" height="60">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">07</p>
-                        <h3 class="box-title">Finishing</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
-                    </div>
-                </div>
-
-                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Every item undergoes a detailed inspection to ensure it meets our standards for cleanliness and presentation.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/quality-check.svg" alt="icon" width="70" height="70">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">08</p>
-                        <h3 class="box-title">Quality Check</h3>
-                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
-                    </div>
-                </div>
-                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Freshly cleaned garments are neatly packed using hygienic methods, ready for convenient delivery to your doorstep.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/packaging.svg" alt="icon" width="50" height="50">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">09</p>
-                        <h3 class="box-title">Packaging</h3>
-                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="row gy-4 pt-5 d-xl-flex d-none justify-content-center">
-
-                <div class="col-xl-2 col-6 process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Advanced cleaning techniques and premium detergents are used to remove dirt, odors, and stains while protecting fabrics.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/cleaning.svg" alt="icon" width="50" height="50">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">06</p>
-                        <h3 class="box-title">Cleaning</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
-                    </div>
-                </div>
-                <div class="col-xl-2 col-6 process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Garments are professionally steam pressed and finished to restore their fresh, crisp, and well-maintained appearance.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/finishing.svg" alt="icon" width="60" height="60">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">07</p>
-                        <h3 class="box-title">Finishing</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
-                    </div>
-                </div>
-
-                <div class="col-xl-2 col-6 process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Every item undergoes a detailed inspection to ensure it meets our standards for cleanliness and presentation.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/quality-check.svg" alt="icon" width="70" height="70">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">08</p>
-                        <h3 class="box-title">Quality Check</h3>
-                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
-                    </div>
-                </div>
-                <div class="col-xl-2 col-6 process-box-wrap">
-                    <div class="process-box"
-                        data-bs-toggle="tooltip"
-                        title="Freshly cleaned garments are neatly packed using hygienic methods, ready for convenient delivery to your doorstep.">
-                        <div class="box-icon">
-                            <img src="assets/img/icon/laundry-process/packaging.svg" alt="icon" width="50" height="50">
-                            <div class="icon-shape"></div>
-                        </div>
-                        <p class="box-number">09</p>
-                        <h3 class="box-title">Packaging</h3>
-                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
-                    </div>
-                </div>
-
-
-
-            </div>
-
-
-        </div>
-
-    </section>
 
     <!-- =====================================
         Cosmos Laundry Price Section
@@ -924,9 +724,211 @@ Process Area
     </section>
 
     <!--==============================
+Process Area  
+==============================-->
+    <section class="overflow-hidden space" id="process-sec">
+        <div class="container-fluid">
+            <div class="title-area text-center">
+                <span class="sub-title">Work Process</span>
+                <h2 class="sec-title">How We Work It!</h2>
+            </div>
+            <div class="row gy-4 justify-content-center">
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Every garment is carefully assessed for fabric type, stains, and special care requirements before entering our cleaning process.">
+
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/Inspection.svg" alt="icon" width="50" height="50">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">01</p>
+                        <h3 class="box-title">Inspection</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="A unique identification tag is assigned to every item, ensuring accurate tracking and complete order transparency.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/tagging.svg" alt="icon" width="50" height="50">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">02</p>
+                        <h3 class="box-title">Tagging</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Garments are sorted according to fabric, texture, and cleaning needs to provide the most suitable treatment.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/sorting.svg" alt="icon" width="60" height="60">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">03</p>
+                        <h3 class="box-title">Sorting</h3>
+                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
+                    </div>
+                </div>
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Clothes are separated by color and fabric category to prevent color transfer and maintain garment quality.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/color-segregation.svg" alt="icon" width="60" height="60">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">04</p>
+                        <h3 class="box-title">Segregation</h3>
+                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Targeted stain treatment is performed using fabric-safe solutions to effectively address marks without compromising garment integrity.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/spotting.svg" alt="icon" width="70" height="70">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">05</p>
+                        <h3 class="box-title">Spotting</h3>
+                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Advanced cleaning techniques and premium detergents are used to remove dirt, odors, and stains while protecting fabrics.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/cleaning.svg" alt="icon" width="50" height="50">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">06</p>
+                        <h3 class="box-title">Cleaning</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                    </div>
+                </div>
+                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Garments are professionally steam pressed and finished to restore their fresh, crisp, and well-maintained appearance.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/finishing.svg" alt="icon" width="60" height="60">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">07</p>
+                        <h3 class="box-title">Finishing</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Every item undergoes a detailed inspection to ensure it meets our standards for cleanliness and presentation.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/quality-check.svg" alt="icon" width="70" height="70">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">08</p>
+                        <h3 class="box-title">Quality Check</h3>
+                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
+                    </div>
+                </div>
+                <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Freshly cleaned garments are neatly packed using hygienic methods, ready for convenient delivery to your doorstep.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/packaging.svg" alt="icon" width="50" height="50">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">09</p>
+                        <h3 class="box-title">Packaging</h3>
+                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row gy-4 pt-5 d-xl-flex d-none justify-content-center">
+
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Advanced cleaning techniques and premium detergents are used to remove dirt, odors, and stains while protecting fabrics.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/cleaning.svg" alt="icon" width="50" height="50">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">06</p>
+                        <h3 class="box-title">Cleaning</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                    </div>
+                </div>
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Garments are professionally steam pressed and finished to restore their fresh, crisp, and well-maintained appearance.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/finishing.svg" alt="icon" width="60" height="60">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">07</p>
+                        <h3 class="box-title">Finishing</h3>
+                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                    </div>
+                </div>
+
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Every item undergoes a detailed inspection to ensure it meets our standards for cleanliness and presentation.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/quality-check.svg" alt="icon" width="70" height="70">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">08</p>
+                        <h3 class="box-title">Quality Check</h3>
+                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
+                    </div>
+                </div>
+                <div class="col-xl-2 col-6 process-box-wrap">
+                    <div class="process-box"
+                        data-bs-toggle="tooltip"
+                        title="Freshly cleaned garments are neatly packed using hygienic methods, ready for convenient delivery to your doorstep.">
+                        <div class="box-icon">
+                            <img src="assets/img/icon/laundry-process/packaging.svg" alt="icon" width="50" height="50">
+                            <div class="icon-shape"></div>
+                        </div>
+                        <p class="box-number">09</p>
+                        <h3 class="box-title">Packaging</h3>
+                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
+                    </div>
+                </div>
+
+
+
+            </div>
+
+
+        </div>
+
+    </section>
+
+
+    <!--==============================
 Faq Area
 ==============================-->
-    <div class="space overflow-hidden" id="faq-sec">
+    <div class="space overflow-hidden process" id="faq-sec">
         <div class="container">
 
             <div class="title-area text-center">
@@ -961,7 +963,7 @@ Faq Area
 
                     <div class="accordion" id="faqAccordion">
 
-                        <div class="accordion-card style2">
+                        <div class="accordion-card">
                             <div class="accordion-header" id="collapse-item-1">
                                 <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">What is included in Cosmos Laundry's standard laundry service?</button>
                             </div>
@@ -973,7 +975,7 @@ Faq Area
                         </div>
 
 
-                        <div class="accordion-card style2">
+                        <div class="accordion-card">
                             <div class="accordion-header" id="collapse-item-2">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">What types of items does Cosmos Laundry dry clean?</button>
                             </div>
@@ -984,7 +986,7 @@ Faq Area
                             </div>
                         </div>
 
-                        <div class="accordion-card style2">
+                        <div class="accordion-card">
                             <div class="accordion-header" id="collapse-item-3">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">What is the difference between laundry service and premium wash?</button>
                             </div>
@@ -997,7 +999,7 @@ Faq Area
 
 
 
-                        <div class="accordion-card style2">
+                        <div class="accordion-card">
                             <div class="accordion-header" id="collapse-item-4">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Does Cosmos Laundry clean carpets and sofas at home?</button>
                             </div>
@@ -1009,7 +1011,7 @@ Faq Area
                         </div>
 
 
-                        <div class="accordion-card style2">
+                        <div class="accordion-card">
                             <div class="accordion-header" id="collapse-item-5">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Can Cosmos Laundry clean leather jackets and leather bags?</button>
                             </div>
@@ -1020,7 +1022,7 @@ Faq Area
                             </div>
                         </div>
 
-                        <div class="accordion-card style2">
+                        <div class="accordion-card">
                             <div class="accordion-header" id="collapse-item-6">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Does Cosmos Laundry clean shoes?</button>
                             </div>
@@ -1031,7 +1033,7 @@ Faq Area
                             </div>
                         </div>
 
-                        <div class="accordion-card style2">
+                        <div class="accordion-card">
                             <div class="accordion-header" id="collapse-item-7">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7" aria-expanded="false" aria-controls="collapse-7">How do I book a service with Cosmos Laundry?</button>
                             </div>
@@ -1042,7 +1044,7 @@ Faq Area
                             </div>
                         </div>
 
-                        <div class="accordion-card style2">
+                        <div class="accordion-card">
                             <div class="accordion-header" id="collapse-item-8">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8" aria-expanded="false" aria-controls="collapse-8">What household items can Cosmos Laundry clean?</button>
                             </div>

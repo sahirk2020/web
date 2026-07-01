@@ -113,13 +113,13 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Dry-Cleaning.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Premium-Wash.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Dry Cleaning</h1>
+                <h1 class="breadcumb-title">Premium Wash</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="home-laundry-services.html">Home</a></li>
-                    <li>Dry Cleaning</li>
+                    <li>Premium Wash</li>
                 </ul>
             </div>
         </div>
@@ -128,25 +128,33 @@
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <div class="overflow-hidden space" id="about-sec">
+    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
+    <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
 
                 <div class="col-xl-6">
-                    <!-- <div class="ps-xl-3 "> -->
-                    <div class="title-area mb-30">
-                        <span class="sub-title style1">About Service</span>
-                        <h2 class="sec-title">Advanced Hydrocarbon Dry Cleaning</h2>
-                    </div>
-                    <p class="mt-n2 mb-15 about-quote">Experience a new standard of garment care with our Hydrocarbon Dry Cleaning Technology, an advanced international cleaning process widely used across Europe and America. Unlike conventional dry cleaning methods, hydrocarbon technology is gentler on fabrics and helps preserve color, texture, softness, and garment structure for longer. It effectively removes stains, dirt, and odors while providing superior fabric protection. Ideal for designer wear, formal clothing, delicate fabrics, and premium garments, this advanced process delivers deep cleaning without harsh treatment. Combined with expert handling and specialized care, it helps your clothes stay fresher, softer, and looking newer for longer.</p>
 
-                    <!-- </div> -->
+                    <div class="title-area mb-25">
+                        <span class="sub-title style1">About Service</span>
+                        <h2 class="sec-title mb-20">
+                            Superior Everyday Garment Care
+                        </h2>
+                        <p class="about-desc">
+                            Our premium wash service provides deep yet gentle cleaning for your everyday clothing. We use high-quality detergents, fabric-friendly processes, and advanced washing equipment to remove dirt, sweat, and odors while protecting fabric softness and color. Each garment is handled with care and processed according to its fabric requirements. Ideal for daily wear, office attire, and casual clothing, this service ensures your garments are returned fresh, hygienic, neatly finished, and ready to wear, offering convenience without compromising on quality.
+                        </p>
+                    </div>
+
+                    <!-- <div class="btn-group justify-content-start">
+                        <a href="about.html" class="th-btn">More About Us</a>
+                    </div> -->
+
                 </div>
 
                 <div class="col-xl-6">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/dry-cleaning.webp" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/premium-wash.webp" alt="About" />
                         </div>
 
                     </div>
@@ -156,54 +164,14 @@ About Area
         </div>
     </div>
 
-    <!--==============================
-Feature Area  
-==============================-->
-    <div class="features-area position-relative process overflow-hidden" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/about-banner.webp">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-9">
-                    <div class="choose-feature-area">
-                        <div class="title-area mb-25">
-
-                            <h2 class="sec-title">WHAT IS DRY CLEANING?</h2>
-                            <p class="sec-text">Many people think dry cleaning means cleaning without water. But dry cleaning actually uses a special solvent instead of regular water and detergent.</p>
-                        </div>
-                        <div class="checklist list-two-column why-checklist">
-                            <h5 class="sec-title">Dry Cleaning is ideal for</h5>
-                            <ul>
-                                <li><span class="check-img">
-                                        <img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/suit-blazers.svg" alt="Icon" width="40" height="40">
-
-                                    </span> Suits & Blazers</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/saree-designer-wear.svg" alt="Icon" width="50" height="50"></span>Sarees & Designer Wear</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/silk-wool-fabric.svg" alt="Icon" width="40" height="40"></span>Silk & Wool Fabrics</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/bridal-wear.svg" alt="Icon" width="40" height="40"></span> Bridal Wear</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/premium-garments.svg" alt="Icon" width="40" height="40"></span>Premium Garments</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/delicate-fabric.svg" alt="Icon" width="40" height="40"></span>Delicate Fabrics</li>
-                            </ul>
-                        </div>
-
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-    </div>
 
     <!--==============================
 Faq Area
 ==============================-->
-    <div class="  space overflow-hidden process" id="faq-sec">
+    <div class="space  overflow-hidden process" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
-                <div class="col-xl-6 text-center text-xl-start align-self-center">
+                <div class="col-xl-12 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
@@ -214,11 +182,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">Which technology or solvent do you use?</button>
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">What is Premium Wash and how does it differ from standard laundry?</button>
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">We use Hydrocarbon Solvent Dry Cleaning Technology, an advanced international fabric care system widely used across Europe and America. It provides deep cleaning while being gentle on delicate fabrics.</p>
+                                        <p class="faq-text">Premium Wash is an advanced garment care service that uses high-quality detergents, a gentler washing process, and more detailed hand-finishing compared to standard laundry. It is ideal for semi-formal clothing, premium casual wear, and garments that need extra care without requiring full dry cleaning.</p>
                                     </div>
                                 </div>
                             </div>
@@ -226,11 +194,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Is stain inspection done before processing?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Which clothes are best suited for Premium Wash?</button>
                                 </div>
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. Every garment undergoes a detailed stain and fabric inspection before cleaning to identify treatment requirements and ensure the best possible results.</p>
+                                        <p class="faq-text">Premium Wash is best suited for branded clothing, semi-formal shirts, linen garments, premium cotton wear, light ethnic wear, and any garments that are of higher value or require a cleaner, crisper finish than everyday laundry delivers.</p>
                                     </div>
                                 </div>
                             </div>
@@ -238,11 +206,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> Is fabric handled according to garment type?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">Does Premium Wash include ironing and finishing?</button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Absolutely. Each garment is assessed individually and processed according to its fabric, construction, embellishments, and care requirements for maximum protection.</p>
+                                        <p class="faq-text">Yes. Premium Wash includes detailed finishing, which covers steam pressing or ironing to ensure garments come back crisp, neat, and ready to wear. The finishing quality is notably superior to standard laundry, reflecting the premium care applied throughout the process.</p>
                                     </div>
                                 </div>
                             </div>
@@ -250,62 +218,42 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">How do you maintain fabric quality?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Is Premium Wash safe for sensitive skin?</button>
                                 </div>
                                 <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Our Hydrocarbon Dry Cleaning Technology helps preserve color, texture, softness, and garment structure, ensuring clothes stay looking newer for longer.</p>
+                                        <p class="faq-text">Yes. The detergents used in our Premium Wash are selected for their effectiveness and fabric safety, making them suitable for people with sensitive skin. If you have a specific skin sensitivity or allergy concern, please inform us when booking so we can accommodate accordingly.</p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Do you use modern machines?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">How long does Premium Wash take?</button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. We use advanced dry cleaning equipment and modern fabric care processes to deliver consistent cleaning quality, hygiene, and garment protection.</p>
+                                        <p class="faq-text">Premium Wash orders are typically ready within 48 hours of pickup. The additional care and finishing steps take slightly longer than standard laundry. If you have a deadline, please mention it when booking and we will do our best to accommodate your timing.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Why Hydrocarbon?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Can Premium Wash remove stains effectively?</button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <div class="checklist list-two-column">
-                                            <ul>
-                                                <li>Gentle on fabrics</li>
-                                                <li>Better color protection</li>
-                                                <li>Maintains softness & texture</li>
-                                                <li>Safe for delicate garments</li>
-                                                <li>Less chemical odor</li>
-                                                <li>Longer garment life</li>
-                                                <li> Advanced & fabric-friendly process</li>
-                                            </ul>
-                                        </div>
+                                        <p class="faq-text">Yes. Premium Wash includes stain pre-treatment as part of the process. Our specialists assess each garment individually and apply targeted stain removal before washing, improving outcomes for common stains such as food, sweat, and light oil marks.</p>
                                     </div>
                                 </div>
                             </div>
 
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="faq-img1 ps-xl-4">
-                        <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-
-
 
 
     <?php include '../components/footer.php'; ?>
