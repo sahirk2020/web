@@ -305,9 +305,9 @@
                     <div class="top-title-full-w-wrapper">
                         <!-- title-left -->
                         <div class="title-area-style-six-left">
-                            <span class="pre">
-                                <!-- Amenities -->
-                            </span>
+                            <!-- <span class="pre">
+                                Amenities
+                            </span> -->
                             <h2 class="title">Amenities</h2>
                         </div>
                         <!-- title mid text -->
@@ -323,6 +323,7 @@
                     <div class="testimonials-wrapper-main-swiper">
                         <!-- Swiper -->
                         <div class="swiper mySwiper-testimonials-6">
+                            <!-- desktop view -->
                             <div class="swiper-wrapper">
 
                                 <div class="swiper-slide">
@@ -645,6 +646,7 @@
                                 </div>
 
                             </div>
+                            <!-- desktop view end -->
                         </div>
                     </div>
                 </div>
@@ -673,7 +675,7 @@
     <!-- cta-main wrapper end -->
 
     <!-- rts service area start -->
-    <div class="rts-service-area rts-section-gap pt-5 id="floorplan">
+    <div class="rts-service-area rts-section-gap bg-light-1" id="floorplan">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-12">
@@ -698,7 +700,7 @@
                     <!-- title area multiple elements end -->
                 </div>
             </div>
-            <div class="row g-5 mt--30 mb--50 rts-slide-up d-flex justify-content-center">
+            <div class="row g-5 mb--50 rts-slide-up d-flex justify-content-center mt--10">
 
                 <!-- <div class="col-lg-4 col-md-6 col-sm-12"> -->
                     <!-- ingle srevice area start -->
@@ -828,14 +830,13 @@
         </div>
     </div>
     <!-- rts service area end -->
-     <div class="space-bottom overflow-hidden bg-white" id="faq-sec">
+     <div class="space-bottom overflow-hidden bg-white pt-5" id="faq-sec">
         <div class="container">
             <div class="row gx-0">
                 <div class="col-xl-6">
                     <div class="faqs-page-wrapper-area rts-section-gap">
         <div class="container">
             <div class="row">
-                
                 <div class="">
                     <div class="faq-style-two">
                         <div class="left-accordion-faq rts-slide-up">
@@ -908,7 +909,7 @@
         </div>
     </div>
                 </div>
-                <div class="col-xl-6 pt-5"><iframe class="h-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4023692973665!2d73.809192!3d18.510710599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfba52281ae1%3A0xde5a7d3f1a3d7483!2sYojangandha%20Society!5e0!3m2!1sen!2sin!4v1780651730009!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+                <div class="col-xl-6 pt-5"><iframe height="650" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4023692973665!2d73.809192!3d18.510710599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfba52281ae1%3A0xde5a7d3f1a3d7483!2sYojangandha%20Society!5e0!3m2!1sen!2sin!4v1780651730009!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
                   
                 </div>
             </div>
