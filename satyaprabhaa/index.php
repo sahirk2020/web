@@ -118,7 +118,11 @@ Hero Area
                 <div class="col-lg-6 mt_sm--50 mt_md--50">
 
                     <div class="about-thumbnail-6 rts-reveal-one">
-                        <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about">
+                        <video class="" id="myVideo" autoplay muted loop playsinline>
+                    <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
+                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabha-533X488-Building-GIF2.mp4">
+                </video>
+                        <!-- <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about"> -->
                     <!-- <div class="years-of-experience-patch">
                         <img width="150" src="assets/images/27years.png" alt="27years.png">
                             <h4>27+<br><span>Years of Experience</span></h4>
