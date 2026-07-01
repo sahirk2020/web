@@ -120,7 +120,7 @@ Hero Area
                     <div class="about-thumbnail-6 rts-reveal-one">
                         <video class="" id="myVideo" autoplay muted loop playsinline>
                     <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
-                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabha-533X488-Building-GIF2.mp4">
+                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabha-533X488-Building-GIF-without-music.mp4">
                 </video>
                         <!-- <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about"> -->
                     <!-- <div class="years-of-experience-patch">
