@@ -141,10 +141,10 @@
                             <li class="has-droupdown third-lvl">
                                 <a class="main" href="#">Ongoing Projects</a>
                                 <ul class="submenu-third-lvl mm-collapse">
-                                    <li><a class="sdm-main" href="yojangandha.php">Yojangandha</a></li>
-                                    <li><a class="sdm-main" href="lotus-shalaka.php">Lotus Shalaka</a></li>
-                                    <li><a class="sdm-main" href="treya.php">Treya</a></li>
-                                    <li><a class="sdm-main" href="deepak-dev.php">Deepak Dev</a></li>
+                                    <li><a class="sdm-main" href="yojangandha.php"></a>Yojangandha</li>
+                                    <li><a class="sdm-main" href="lotus-shalaka.php"></a>Lotus Shalaka</li>
+                                    <li><a class="sdm-main" href="treya.php"></a>Treya</li>
+                                    <li><a class="sdm-main" href="deepak-dev.php"></a>Deepak Dev</li>
                                 </ul>
                             </li>
                             <li class="third-lvl">
@@ -153,7 +153,7 @@
                         </ul>
                     </li>
                     <li class="">
-                        <a href="about.php" class="main">About Us</a>
+                        <a href="about-us.php" class="main">About Us</a>
                     </li>
                     <li>
                         <a href="contact-us.php" class="main">Contact Us</a>

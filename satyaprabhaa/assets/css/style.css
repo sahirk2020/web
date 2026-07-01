@@ -22238,14 +22238,14 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 .team-area-start-one .team-content .name-area .name {
   margin-bottom: 3px;
   color: #30373E;
-  text-align: center;
+  /* text-align: center; */
   font-size: 25px;
   font-style: normal;
   font-weight: 600;
   line-height: 28px;
 }
 .team-area-start-one .team-content .name-area .desig {
-  padding-left: 10px;
+  /* padding-left: 10px; */
 }
 .team-area-start-one:hover .team-content {
   background: #F6F6F6;
@@ -23313,7 +23313,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 100px 0;
+  padding: 70px 0;
   border-bottom: 1px solid #E3E3E3;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -25227,6 +25227,11 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 
 .easy-appoinment-area form {
   margin-top: 40px;
+}
+.contact-page-form form input, .contact-page-form form select, .contact-page-form form textarea {
+  padding: 10px 0;
+  border-bottom: 1px solid #E3E3E3 !important;
+  margin-bottom: 25px;
 }
 .easy-appoinment-area form input {
   padding: 10px 0;

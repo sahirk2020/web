@@ -175,7 +175,7 @@
             <div class="title-style-center">
               <div class="pre-title-area">
                 <img src="assets/images/about/02.png" alt="about">
-                <span class="pre-title">Specifications</span>
+                <!-- <span class="pre-title">Specifications</span> -->
               </div>
               <h2 class="title">Specifications</h2>
             </div>
@@ -222,10 +222,10 @@
                       </div>
                       <h5 class="title">Building Specifications</h5>
                       <ul>
-                        <li><b>Structure:</b> Earthquake-proof RCC.</li>
+                        <li><b>Structure:</b> Earthquake-Resistant RCC Structure</li>
                         <li><b>Brickwork:</b> Autoclaved Aerated Concrete (AAC).</li>
                         <li><b>Plaster:</b> Double coat external and gypsum internal.</li>
-                        <li><b>Paints:</b> Premium external and luster internal paint.</li>
+                        <li><b>Paints:</b> Premium Exterior Paint & Lustre Finish Interior Walls.</li>
                         <li><b>Windows:</b> Three-track aluminium with mosquito mesh.</li>
                         <li><b>Tiles:</b> Vitrified tiles with designer bathroom tiling.</li>
                       </ul>
@@ -327,7 +327,7 @@ Ultratech, Birla, ACC
             <div class="title-area-style-five-center">
               <div class="pre-title-area">
                 <img src="assets/images/about/02.png" alt="about">
-                <span class="pre-title">Visuals that inspire living</span>
+                <span class="pre-title">Spaces That Inspire Business</span>
               </div>
               <h2 class="title">Gallery</h2>
             </div>
