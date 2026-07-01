@@ -19,14 +19,7 @@ include_once __DIR__ . '/db.php';
             <ul>
                 <li>
                     <a href="<?php echo BASE_URL; ?>index.php">Home</a>
-                    <!-- <ul class="sub-menu">
-                        <li><a href="<?php echo BASE_URL;
-                                        ?>home-laundry-services.php">Laundry Services</a></li>
-                        <li><a href="<?php echo BASE_URL;
-                                        ?>home-dry-cleaning.php">Home Dry Cleaning</a></li>
-                        <li><a href="<?php echo BASE_URL;
-                                        ?>home-laundry-dry-services.php">Laundry & Dry Services</a></li>
-                    </ul> -->
+
                 </li>
                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
 
@@ -53,54 +46,15 @@ include_once __DIR__ . '/db.php';
                         <li><a href="<?php echo BASE_URL; ?>services/blazer-&-suit-care.php">Blazer & Suit Care</a></li>
                         <li><a href="<?php echo BASE_URL; ?>services/silk-&-wool-care.php">Silk & Wool Care</a></li>
                         <li><a href="<?php echo BASE_URL; ?>services/toy-cleaning.php">Toy Cleaning</a></li>
-                        <li><a href="<?php echo BASE_URL; ?>services/express-service.php">Express Service</a></li>
 
 
 
                     </ul>
                 </li>
-                <!-- <li class="menu-item-has-children">
-                    <a href="#">Pages</a>
-                    <ul class="sub-menu">
-                        <li class="menu-item-has-children">
-                            <a href="#">Shop</a>
-                            <ul class="sub-menu">
-                                <li><a href="<?php echo BASE_URL; ?>shop.php">Shop</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>shop-details.php">Shop Details</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>cart.php">Cart Page</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>checkout.php">Checkout</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>wishlist.php">Wishlist</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="<?php echo BASE_URL; ?>team.php">Team</a></li>
-                        <li><a href="<?php echo BASE_URL; ?>team-details.php">Team Details</a></li>
-                        <li><a href="<?php echo BASE_URL; ?>gallery.php">Proto Gallery</a></li>
-                        <li><a href="<?php echo BASE_URL; ?>faq.php">Faq Page</a></li>
-                        <li><a href="<?php echo BASE_URL; ?>price.php">Price Package</a></li>
-                        <li><a href="<?php echo BASE_URL; ?>error.php">Error Page</a></li>
-                    </ul>
-                </li> -->
+
                 <li>
                     <a href="#">Blogs</a>
-                    <!-- <ul class="sub-menu">
-                        <li>
-                            <a href="#">Blog Layout</a>
-                            <ul class="sub-menu">
-                                <li><a href="<?php echo BASE_URL; ?>blog-grid-2-columns.php">Blog Grid 02 Columns</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>blog-grid-3-columns.php">Blog Grid 03 Columns</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>blog-list.php">Blog List</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="<?php echo BASE_URL; ?>blog.php">Blog Sidebar</a>
-                            <ul class="sub-menu">
-                                <li><a href="<?php echo BASE_URL; ?>blog-left-sidebar.php">Blog Left Sidebar</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>blog-right-sidebar.php">Blog Right Sidebar</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>blog.php">Blog No Sidebar</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="<?php echo BASE_URL; ?>blog-details.php">Blog Details</a></li>
-                    </ul> -->
+
                 </li>
                 <li>
                     <a href="<?php echo BASE_URL; ?>contact.php">Contact</a>
@@ -156,11 +110,7 @@ include_once __DIR__ . '/db.php';
                             <ul>
                                 <li>
                                     <a href="<?php echo BASE_URL; ?>index.php">Home</a>
-                                    <!-- <ul class="sub-menu">
-                                        <li><a href="<?php echo BASE_URL; ?>home-laundry-services.php">Laundry Services</a></li>
-                                        <li><a href="<?php echo BASE_URL; ?>home-dry-cleaning.php">Home Dry Cleaning</a></li>
-                                        <li><a href="<?php echo BASE_URL; ?>home-laundry-dry-services.php">Laundry & Dry Services</a></li>
-                                    </ul> -->
+
                                 </li>
                                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
                                 <li>
@@ -199,48 +149,10 @@ include_once __DIR__ . '/db.php';
 
                                     </ul>
                                 </li>
-                                <!-- <li class="menu-item-has-children">
-                                    <a href="#">Pages</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item-has-children">
-                                            <a href="#">Shop</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="<?php echo BASE_URL; ?>shop.php">Shop</a></li>
-                                                <li><a href="<?php echo BASE_URL; ?>shop-details.php">Shop Details</a></li>
-                                                <li><a href="<?php echo BASE_URL; ?>cart.php">Cart Page</a></li>
-                                                <li><a href="<?php echo BASE_URL; ?>checkout.php">Checkout</a></li>
-                                                <li><a href="<?php echo BASE_URL; ?>wishlist.php">Wishlist</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="<?php echo BASE_URL; ?>team.php">Team</a></li>
-                                        <li><a href="<?php echo BASE_URL; ?>team-details.php">Team Details</a></li>
-                                        <li><a href="<?php echo BASE_URL; ?>gallery.php">Proto Gallery</a></li>
-                                        <li><a href="<?php echo BASE_URL; ?>faq.php">Faq Page</a></li>
-                                        <li><a href="<?php echo BASE_URL; ?>price.php">Price Package</a></li>
-                                        <li><a href="<?php echo BASE_URL; ?>error.php">Error Page</a></li>
-                                    </ul>
-                                </li> -->
+
                                 <li>
                                     <a href="#">Blogs</a>
-                                    <!-- <ul class="sub-menu">
-                                        <li>
-                                            <a href="#">Blog Layout</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="<?php echo BASE_URL; ?>blog-grid-2-columns.php">Blog Grid 02 Columns</a></li>
-                                                <li><a href="<?php echo BASE_URL; ?>blog-grid-3-columns.php">Blog Grid 03 Columns</a></li>
-                                                <li><a href="<?php echo BASE_URL; ?>blog-list.php">Blog List</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="<?php echo BASE_URL; ?>blog.php">Blog Sidebar</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="<?php echo BASE_URL; ?>blog-left-sidebar.php">Blog Left Sidebar</a></li>
-                                                <li><a href="<?php echo BASE_URL; ?>blog-right-sidebar.php">Blog Right Sidebar</a></li>
-                                                <li><a href="<?php echo BASE_URL; ?>blog.php">Blog No Sidebar</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="<?php echo BASE_URL; ?>blog-details.php">Blog Details</a></li>
-                                    </ul> -->
+
                                 </li>
                                 <li>
                                     <a href="<?php echo BASE_URL; ?>contact.php">Contact</a>
