@@ -12,8 +12,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
-        Laun - Laundry Service & Dry Cleaning HTML Template - Home Laundry
-        Services
+        Bridal Wear Cleaning
     </title>
     <meta name="author" content="Laun" />
     <meta
@@ -113,7 +112,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Laundry-Service.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/bridal-wear-cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Bridal Wear Cleaning Service</h1>
@@ -140,32 +139,27 @@ About Area
                         <div class="title-area mb-25">
                             <span class="sub-title style1">About Service</span>
                             <h2 class="sec-title mb-20">
-                                Laundry Service
+                                Preserve Every Bridal Memory
                             </h2>
                             <p class="about-desc">
-                                At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your daily wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
+                                Your bridal outfit deserves expert care long after the celebrations end.
+                                At Cosmos Laundry, we specialize in cleaning delicate bridal lehengas, gowns,
+                                sherwanis, and wedding attire using fabric-safe techniques that remove stains
+                                while protecting intricate embroidery, sequins, zari, and embellishments.
+                                Every garment is inspected individually and treated with the utmost care to
+                                maintain its beauty, color, and structure. Whether you're preserving your wedding
+                                memories or preparing your outfit for future use, our professional bridal wear
+                                cleaning service keeps it looking as elegant as the day you wore it.
                             </p>
                         </div>
-                        <!-- <div class="checklist list-two-column">
-                            <ul>
-                                <li>Pickup and Delivery Service</li>
-                                <li>Energy-Efficient Machines</li>
-                                <li>Same-Day or Express Service</li>
-                                <li>Folding Preferences</li>
-                                <li>Hanging or Bagging Options</li>
-                                <li>Satisfaction Guarantee</li>
-                            </ul>
-                        </div> -->
-                        <!-- <div class="btn-group mt-30 justify-content-start">
-                            <a href="about.html" class="th-btn">More About Us</a>
-                        </div> -->
+
                     </div>
                 </div>
 
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/home/sevices-Express-Service.webp" width="100%" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/bridal-wear-cleaning.webp" width="100%" alt="About" />
                         </div>
 
                     </div>
@@ -178,83 +172,31 @@ About Area
 
 
     <!--==============================
-feature Area  
-==============================-->
-    <!-- <div class="overflow-hidden space" id="feature-area">
-        <div class="container">
-            <div class="row gy-4 justify-content-center">
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_1.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">100% Happiness Guarantee</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInDown">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_2.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">Free Collection & Delivery</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_3.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">24/7 Dedicated Support</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!--==============================
-Service Area  
-==============================-->
-
-
-    <!--==============================
 Faq Area
 ==============================-->
     <div class="  space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
-                <div class="col-xl-6 text-center text-xl-start align-self-center">
+                <div class="col-xl-12 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
-                            <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
+                            <h2 class="sec-title">Frequently Asked Questions</h2>
                         </div>
                         <div class="accordion" id="faqAccordion">
 
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">How does the laundry process work at Cosmos Laundry?</button>
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                                        Can you clean a heavily embellished bridal lehenga without damaging the work?
+                                    </button>
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Our laundry process follows 9 systematic steps: Inspection (checking each garment for damage or special needs), Tagging (labelling for tracking), Sorting (separating by type and care requirement), Colour Segregation (preventing colour bleeding), Spotting (pre-treating stains), Cleaning (washing with appropriate method), Finishing (ironing and folding), Quality Check (final inspection), and Packaging (neat, hygienic wrapping before delivery).</p>
+                                        <p class="faq-text">
+                                            Yes. Bridal outfits with zardozi, stonework, sequins, and beadwork are hand-finished and spot-treated rather than thrown into a standard machine cycle. Loose or fragile embellishments are checked first, and the cleaning method is chosen around the most delicate part of the outfit, not the fabric alone. That's the difference between bridal wear cleaning and ordinary dry cleaning.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -262,11 +204,15 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Which types of clothing does the laundry service cover?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                                        Should I get my wedding outfit cleaned right after the function, or can it wait?
+                                    </button>
                                 </div>
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">The laundry service covers everyday men's, women's, and children's clothing including shirts, trousers, t-shirts, kurtas, dresses, school uniforms, and casual wear. We also handle household items like bedsheets and pillow covers under this category.</p>
+                                        <p class="faq-text">
+                                            ? Sooner is better. Sweat, perfume, and food stains look invisible on the day but oxidise over weeks and turn yellow-brown, which is much harder to lift later. If you can drop it off within a week or two of the wedding, you give the fabric the best chance of coming back to its original colour.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -274,11 +220,15 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> How long does laundry take at Cosmos Laundry?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                                        How do you deal with makeup, sweat, and food stains on bridal wear?
+                                    </button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Standard laundry orders are typically processed and returned within 24 to 48 hours of pickup, depending on the volume and type of garments. For urgent orders, please contact us directly and we will advise on the fastest available option.</p>
+                                        <p class="faq-text">
+                                            Each stain is treated for what it is. Oil-based marks like foundation and gravy need a different solvent than sweat or wine, so the garment is inspected under good light and treated stain by stain before any full clean. Underarm and neckline areas usually get extra attention, since that's where most bridal staining hides.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -286,32 +236,44 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Does Cosmos Laundry offer ironing-only service?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                                        Do you offer preservation or boxing so I can store my outfit long-term?
+                                    </button>
                                 </div>
                                 <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. Cosmos Laundry provides professional steam ironing as a standalone service. Our steam ironing delivers a crisp, wrinkle-free finish that keeps garments polished and ready to wear immediately.</p>
+                                        <p class="faq-text">
+                                            ? Many brides want to keep the outfit as a keepsake, so we offer acid-free preservation packing on request. Storing a bridal lehenga in a regular plastic cover traps moisture and invites yellowing and mildew. Proper boxing with breathable material keeps the fabric and the work safe for years.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Can I send clothes for just stain removal?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
+                                        Will cleaning fade the colour or dull the zari?
+                                    </button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. If you have a specific stain treatment need, contact us on +91 9284630260 and our team will advise the appropriate service. Stain removal is part of our standard laundry and premium wash process, and difficult stains are handled at the pre-treatment spotting stage.</p>
+                                        <p class="faq-text">
+                                            ? No, when it's done right. The risk with bright bridal colours is bleeding and with zari it's tarnishing, so colour-fastness is tested on a hidden patch first and metallic work is shielded during the process. Done properly, the outfit comes back with its colour and shine intact.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Is Cosmos Laundry's washing process safe for all fabrics?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                                        Do you clean the dupatta, blouse, and inner lining as well?
+                                    </button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Cosmos Laundry carefully sorts garments by fabric type and care instructions before washing. Each item is processed using the appropriate method — whether standard wash, premium wash, or dry cleaning — to ensure fabric safety and preserve the quality and life of your clothing.</p>
+                                        <p class="faq-text">
+                                            Yes, the full set is treated as one outfit. The dupatta often carries the most embroidery and the blouse holds the most sweat, so both get the same care as the main piece. Linings are checked too, since that's where odour tends to settle.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -319,13 +281,7 @@ Faq Area
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
-                    <div class="faq-img1 ps-xl-4">
-                        <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>

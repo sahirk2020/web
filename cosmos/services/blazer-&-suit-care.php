@@ -12,8 +12,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
-        Laun - Laundry Service & Dry Cleaning HTML Template - Home Laundry
-        Services
+        Blazer & Suit Care
     </title>
     <meta name="author" content="Laun" />
     <meta
@@ -113,7 +112,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Laundry-Service.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/suit-and-blazer-care-banner.webp">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Blazer & Suit Care</h1>
@@ -140,32 +139,26 @@ About Area
                         <div class="title-area mb-25">
                             <span class="sub-title style1">About Service</span>
                             <h2 class="sec-title mb-20">
-                                Laundry Service
+                                Professional Suit Care Service
                             </h2>
                             <p class="about-desc">
-                                At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your daily wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
+                                Keep your formal wardrobe looking sharp with Cosmos Laundry's professional blazer
+                                and suit care service. We clean business suits, tuxedos, blazers, coats, and
+                                formal jackets using premium dry cleaning techniques that remove stains, dust,
+                                and odors while maintaining the garment's structure and fabric quality. Every
+                                piece is carefully pressed and finished to restore its crisp appearance. Whether
+                                for daily office wear or special occasions, our expert care helps your formal
+                                attire always make a lasting impression.
                             </p>
                         </div>
-                        <!-- <div class="checklist list-two-column">
-                            <ul>
-                                <li>Pickup and Delivery Service</li>
-                                <li>Energy-Efficient Machines</li>
-                                <li>Same-Day or Express Service</li>
-                                <li>Folding Preferences</li>
-                                <li>Hanging or Bagging Options</li>
-                                <li>Satisfaction Guarantee</li>
-                            </ul>
-                        </div> -->
-                        <!-- <div class="btn-group mt-30 justify-content-start">
-                            <a href="about.html" class="th-btn">More About Us</a>
-                        </div> -->
+
                     </div>
                 </div>
 
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/home/sevices-Express-Service.webp" width="100%" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/blazer-&-suit-care.webp" width="100%" alt="About" />
                         </div>
 
                     </div>
@@ -176,85 +169,32 @@ About Area
     </div>
 
 
-
-    <!--==============================
-feature Area  
-==============================-->
-    <!-- <div class="overflow-hidden space" id="feature-area">
-        <div class="container">
-            <div class="row gy-4 justify-content-center">
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_1.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">100% Happiness Guarantee</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInDown">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_2.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">Free Collection & Delivery</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_3.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">24/7 Dedicated Support</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!--==============================
-Service Area  
-==============================-->
-
-
     <!--==============================
 Faq Area
 ==============================-->
     <div class="  space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
-                <div class="col-xl-6 text-center text-xl-start align-self-center">
+                <div class="col-xl-12 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
-                            <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
+                            <h2 class="sec-title">Frequently Asked Questions</h2>
                         </div>
                         <div class="accordion" id="faqAccordion">
 
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">How does the laundry process work at Cosmos Laundry?</button>
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                                        How often should I dry clean my suit or blazer?
+                                    </button>
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Our laundry process follows 9 systematic steps: Inspection (checking each garment for damage or special needs), Tagging (labelling for tracking), Sorting (separating by type and care requirement), Colour Segregation (preventing colour bleeding), Spotting (pre-treating stains), Cleaning (washing with appropriate method), Finishing (ironing and folding), Quality Check (final inspection), and Packaging (neat, hygienic wrapping before delivery).</p>
+                                        <p class="faq-text">
+                                            Less often than most people think. Over-cleaning wears out the fabric and the structure faster than wearing it does. For regular use, clean a suit every few wears or when it's visibly soiled or smells of sweat, and air it out and brush it down between cleans to stretch the time in between.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -262,11 +202,16 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Which types of clothing does the laundry service cover?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                                        Can I clean just the jacket, or do both pieces need to go together?
+
+                                    </button>
                                 </div>
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">The laundry service covers everyday men's, women's, and children's clothing including shirts, trousers, t-shirts, kurtas, dresses, school uniforms, and casual wear. We also handle household items like bedsheets and pillow covers under this category.</p>
+                                        <p class="faq-text">
+                                            Always clean the jacket and trousers together, even if only one looks dirty. Fabric shifts colour very slightly with each clean, so cleaning the two pieces separately over time leaves you with a jacket and trousers that no longer match. Keeping them in sync keeps the suit looking like a suit.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -274,11 +219,15 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> How long does laundry take at Cosmos Laundry?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                                        How do you get rid of sweat odour and underarm marks on a blazer?
+                                    </button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Standard laundry orders are typically processed and returned within 24 to 48 hours of pickup, depending on the volume and type of garments. For urgent orders, please contact us directly and we will advise on the fastest available option.</p>
+                                        <p class="faq-text">
+                                            Underarm and collar areas are spot-treated before the full clean, since that's where sweat, salts, and deodorant build up. These marks need targeted treatment rather than a general clean, otherwise the smell comes straight back the next time you wear it.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -286,32 +235,44 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Does Cosmos Laundry offer ironing-only service?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                                        Will dry cleaning shrink my suit or leave it shiny?
+                                    </button>
                                 </div>
                                 <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. Cosmos Laundry provides professional steam ironing as a standalone service. Our steam ironing delivers a crisp, wrinkle-free finish that keeps garments polished and ready to wear immediately.</p>
+                                        <p class="faq-text">
+                                            Not when it's handled properly. Shine on a suit usually comes from too much heat or pressing the fabric flat without protection, which we avoid by pressing with the right technique for the cloth. Proper dry cleaning keeps the shape and the matte finish intact.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Can I send clothes for just stain removal?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
+                                        Do you offer pressing or steaming only, without a full dry clean?
+                                    </button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. If you have a specific stain treatment need, contact us on +91 9284630260 and our team will advise the appropriate service. Stain removal is part of our standard laundry and premium wash process, and difficult stains are handled at the pre-treatment spotting stage.</p>
+                                        <p class="faq-text">
+                                            Yes. If your suit is clean but creased from travel or storage, a press or steam is all it needs, and it's gentler on the fabric than a full clean. It's a good option for keeping a suit event-ready between proper cleans.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Is Cosmos Laundry's washing process safe for all fabrics?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                                        Can you fix small issues like a loose button or torn lining?
+                                    </button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Cosmos Laundry carefully sorts garments by fabric type and care instructions before washing. Each item is processed using the appropriate method — whether standard wash, premium wash, or dry cleaning — to ensure fabric safety and preserve the quality and life of your clothing.</p>
+                                        <p class="faq-text">
+                                            Minor repairs like a loose button or a small lining tear can usually be handled alongside cleaning. [Confirm which repairs you offer in-house.] Tell us when you drop the suit off and we'll take a look.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -319,13 +280,7 @@ Faq Area
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
-                    <div class="faq-img1 ps-xl-4">
-                        <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
