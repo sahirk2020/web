@@ -113,7 +113,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Laundry-Service.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/laundry-service.webp">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Laundry Service</h1>
@@ -250,13 +250,7 @@ Faq Area
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-xl-6">
-                    <div class="faq-img1 ps-xl-4">
-                        <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
-                        </div>
-                    </div>
-                </div> -->
+
             </div>
         </div>
     </div>
