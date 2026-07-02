@@ -159,7 +159,7 @@ About Area
     <!--==============================
 Feature Area  
 ==============================-->
-    <div class="features-area position-relative process overflow-hidden" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/about-banner.webp">
+    <div class="features-area services-banner position-relative process overflow-hidden" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/DRY-CLEANING-Bg-image.webp">
         <div class="container">
             <div class="row">
                 <div class="col-xl-9">
@@ -167,7 +167,7 @@ Feature Area
                         <div class="title-area mb-25">
 
                             <h2 class="sec-title">WHAT IS DRY CLEANING?</h2>
-                            <p class="sec-text">Many people think dry cleaning means cleaning without water. But dry cleaning actually uses a special solvent instead of regular water and detergent.</p>
+                            <p class="sec-text sec-title-new">Many people think dry cleaning means cleaning without water. But dry cleaning actually uses a special solvent instead of regular water and detergent.</p>
                         </div>
                         <div class="checklist list-two-column why-checklist">
                             <h5 class="sec-title">Dry Cleaning is ideal for</h5>
@@ -296,7 +296,7 @@ Faq Area
                 <div class="col-xl-6">
                     <div class="faq-img1 ps-xl-4">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/Dry-Cleaning-FAQ.webp" alt="faq">
                         </div>
                     </div>
                 </div>

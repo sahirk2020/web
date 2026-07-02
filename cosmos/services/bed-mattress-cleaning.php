@@ -12,8 +12,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
-        Laun - Laundry Service & Dry Cleaning HTML Template - Home Laundry
-        Services
+        Bed Mattress Cleaning Service - Cosmos Laundry | Professional Laundry & Dry Cleaning Services
     </title>
     <meta name="author" content="Laun" />
     <meta
@@ -113,7 +112,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Laundry-Service.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/bed-mattress-cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Bed Mattress Cleaning</h1>
@@ -140,32 +139,27 @@ About Area
                         <div class="title-area mb-25">
                             <span class="sub-title style1">About Service</span>
                             <h2 class="sec-title mb-20">
-                                Laundry Service
+                                Deep Mattress Sanitization Service
                             </h2>
                             <p class="about-desc">
-                                At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your daily wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
+                                Mattresses can accumulate dust, allergens, bacteria, sweat, and unwanted odors
+                                over time. Our professional mattress cleaning service uses advanced cleaning
+                                and sanitization methods to remove contaminants and improve overall hygiene.
+                                The process helps create a cleaner and healthier sleeping environment while
+                                extending the lifespan of your mattress. Suitable for residential and commercial
+                                use, our deep cleaning solutions target hidden dirt and allergens effectively.
+                                Experience improved freshness, cleanliness, and comfort with expert mattress care
+                                tailored for better sleep quality.
                             </p>
                         </div>
-                        <!-- <div class="checklist list-two-column">
-                            <ul>
-                                <li>Pickup and Delivery Service</li>
-                                <li>Energy-Efficient Machines</li>
-                                <li>Same-Day or Express Service</li>
-                                <li>Folding Preferences</li>
-                                <li>Hanging or Bagging Options</li>
-                                <li>Satisfaction Guarantee</li>
-                            </ul>
-                        </div> -->
-                        <!-- <div class="btn-group mt-30 justify-content-start">
-                            <a href="about.html" class="th-btn">More About Us</a>
-                        </div> -->
+
                     </div>
                 </div>
 
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/home/sevices-Express-Service.webp" width="100%" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/bed-mattress-cleaning.webp" width="100%" alt="About" />
                         </div>
 
                     </div>
@@ -239,22 +233,28 @@ Faq Area
     <div class="  space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
-                <div class="col-xl-6 text-center text-xl-start align-self-center">
+                <div class="col-xl-12 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
-                            <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
+                            <h2 class="sec-title">Frequently Asked Questions</h2>
                         </div>
                         <div class="accordion" id="faqAccordion">
 
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">How does the laundry process work at Cosmos Laundry?</button>
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                                        Why is professional mattress cleaning important?
+                                    </button>
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Our laundry process follows 9 systematic steps: Inspection (checking each garment for damage or special needs), Tagging (labelling for tracking), Sorting (separating by type and care requirement), Colour Segregation (preventing colour bleeding), Spotting (pre-treating stains), Cleaning (washing with appropriate method), Finishing (ironing and folding), Quality Check (final inspection), and Packaging (neat, hygienic wrapping before delivery).</p>
+                                        <p class="faq-text">
+                                            Mattresses accumulate sweat, dead skin cells, dust mites, and allergens over time, all of
+                                            which are invisible to the naked eye. Professional mattress cleaning removes these contaminants through deep cleaning
+                                            and sanitization, improving sleep hygiene, reducing allergy triggers, and extending the life of the mattress.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -262,11 +262,15 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Which types of clothing does the laundry service cover?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                                        What does Cosmos Laundry's mattress cleaning process involve?
+                                    </button>
                                 </div>
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">The laundry service covers everyday men's, women's, and children's clothing including shirts, trousers, t-shirts, kurtas, dresses, school uniforms, and casual wear. We also handle household items like bedsheets and pillow covers under this category.</p>
+                                        <p class="faq-text">
+                                            Our mattress cleaning process includes surface inspection, vacuuming to remove loose dust and debris, stain pre-treatment, deep cleaning with specialist agents, deodorization to neutralize odours, and a final drying stage. The result is a thoroughly sanitized, fresher-smelling mattress.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -274,11 +278,17 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> How long does laundry take at Cosmos Laundry?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                                        How long does laundry take at Cosmos Laundry?
+                                    </button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Standard laundry orders are typically processed and returned within 24 to 48 hours of pickup, depending on the volume and type of garments. For urgent orders, please contact us directly and we will advise on the fastest available option.</p>
+                                        <p class="faq-text">
+                                            Standard laundry orders are typically processed and returned within 24 to 48 hours
+                                            of pickup, depending on the volume and type of garments. For urgent orders, please contact us
+                                            directly and we will advise on the fastest available option.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -286,32 +296,44 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Does Cosmos Laundry offer ironing-only service?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                                        Can mattress cleaning help with dust allergy or asthma?
+                                    </button>
                                 </div>
                                 <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. Cosmos Laundry provides professional steam ironing as a standalone service. Our steam ironing delivers a crisp, wrinkle-free finish that keeps garments polished and ready to wear immediately.</p>
+                                        <p class="faq-text">
+                                            Yes. Dust mites are one of the most common triggers for dust allergies, eczema, and asthma, and they thrive in mattresses. Professional deep cleaning removes dust mites and their waste matter effectively, which can significantly reduce allergy and asthma symptoms for sensitive individuals.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Can I send clothes for just stain removal?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
+                                        Can Cosmos Laundry remove urine or sweat stains from mattresses?
+                                    </button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. If you have a specific stain treatment need, contact us on +91 9284630260 and our team will advise the appropriate service. Stain removal is part of our standard laundry and premium wash process, and difficult stains are handled at the pre-treatment spotting stage.</p>
+                                        <p class="faq-text">
+                                            Yes. Urine, sweat, and other biological stains on mattresses are treated with enzyme-based or specialist stain removal agents during the pre-treatment stage. While deeply set or old stains may not be completely eliminated, our process achieves a marked improvement and full sanitization of the affected area.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Is Cosmos Laundry's washing process safe for all fabrics?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                                        How long does mattress cleaning take and how long before I can use it?
+                                    </button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Cosmos Laundry carefully sorts garments by fabric type and care instructions before washing. Each item is processed using the appropriate method — whether standard wash, premium wash, or dry cleaning — to ensure fabric safety and preserve the quality and life of your clothing.</p>
+                                        <p class="faq-text">
+                                            Mattress cleaning takes approximately 2 to 4 hours for the cleaning process. The mattress should then be allowed to air and dry thoroughly in a well-ventilated room for several hours before use. We recommend arranging cleaning on a day when the mattress can be aired out properly before bedtime.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -319,13 +341,7 @@ Faq Area
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
-                    <div class="faq-img1 ps-xl-4">
-                        <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>

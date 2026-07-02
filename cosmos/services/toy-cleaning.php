@@ -12,8 +12,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
-        Laun - Laundry Service & Dry Cleaning HTML Template - Home Laundry
-        Services
+        Toy Cleaning Service
     </title>
     <meta name="author" content="Laun" />
     <meta
@@ -113,7 +112,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Laundry-Service.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/toy-cleaning-banner.webp">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Toy Cleaning Service</h1>
@@ -140,32 +139,27 @@ About Area
                         <div class="title-area mb-25">
                             <span class="sub-title style1">About Service</span>
                             <h2 class="sec-title mb-20">
-                                Laundry Service
+                                Hygienic Care For Toys
                             </h2>
                             <p class="about-desc">
-                                At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your daily wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
+                                Children's toys collect dust, allergens, and germs through everyday use, making
+                                regular cleaning essential. Cosmos Laundry provides professional toy cleaning
+                                services for soft toys, plush toys, stuffed animals, and fabric play items using
+                                child-safe cleaning methods. Our process removes dirt, stains, bacteria, and
+                                unpleasant odors while protecting the toy's softness, shape, and colors. Every
+                                toy is thoroughly cleaned, sanitized, and carefully finished so your little ones
+                                can continue enjoying their favorite companions in a cleaner and healthier
+                                environment.
                             </p>
                         </div>
-                        <!-- <div class="checklist list-two-column">
-                            <ul>
-                                <li>Pickup and Delivery Service</li>
-                                <li>Energy-Efficient Machines</li>
-                                <li>Same-Day or Express Service</li>
-                                <li>Folding Preferences</li>
-                                <li>Hanging or Bagging Options</li>
-                                <li>Satisfaction Guarantee</li>
-                            </ul>
-                        </div> -->
-                        <!-- <div class="btn-group mt-30 justify-content-start">
-                            <a href="about.html" class="th-btn">More About Us</a>
-                        </div> -->
+
                     </div>
                 </div>
 
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/home/sevices-Express-Service.webp" width="100%" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/toy-cleaning.webp" width="100%" alt="About" />
                         </div>
 
                     </div>
@@ -178,83 +172,31 @@ About Area
 
 
     <!--==============================
-feature Area  
-==============================-->
-    <!-- <div class="overflow-hidden space" id="feature-area">
-        <div class="container">
-            <div class="row gy-4 justify-content-center">
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_1.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">100% Happiness Guarantee</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInDown">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_2.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">Free Collection & Delivery</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_3.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">24/7 Dedicated Support</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!--==============================
-Service Area  
-==============================-->
-
-
-    <!--==============================
 Faq Area
 ==============================-->
     <div class="  space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
-                <div class="col-xl-6 text-center text-xl-start align-self-center">
+                <div class="col-xl-12 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
-                            <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
+                            <h2 class="sec-title">Frequently Asked Questions</h2>
                         </div>
                         <div class="accordion" id="faqAccordion">
 
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">How does the laundry process work at Cosmos Laundry?</button>
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                                        What kinds of toys can you clean?
+                                    </button>
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Our laundry process follows 9 systematic steps: Inspection (checking each garment for damage or special needs), Tagging (labelling for tracking), Sorting (separating by type and care requirement), Colour Segregation (preventing colour bleeding), Spotting (pre-treating stains), Cleaning (washing with appropriate method), Finishing (ironing and folding), Quality Check (final inspection), and Packaging (neat, hygienic wrapping before delivery).</p>
+                                        <p class="faq-text">
+                                            We clean soft toys and plush toys of all sizes, from small stuffed animals to large teddy bears, along with fabric dolls and similar items. If you're unsure whether a particular toy can be cleaned, send us a photo and we'll tell you before you bring it in.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -262,11 +204,15 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Which types of clothing does the laundry service cover?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                                        Is the cleaning safe for babies and young children?
+                                    </button>
                                 </div>
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">The laundry service covers everyday men's, women's, and children's clothing including shirts, trousers, t-shirts, kurtas, dresses, school uniforms, and casual wear. We also handle household items like bedsheets and pillow covers under this category.</p>
+                                        <p class="faq-text">
+                                            Yes. Toys that babies hug, drool on, and chew are cleaned with child-safe, skin-friendly methods and rinsed thoroughly so nothing harsh is left behind. Keeping the cleaning gentle and non-irritating is the whole reason to get toys professionally cleaned rather than scrubbing them at home.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -274,11 +220,15 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> How long does laundry take at Cosmos Laundry?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                                        Do you actually sanitise the toys, or just clean them on the surface?
+                                    </button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Standard laundry orders are typically processed and returned within 24 to 48 hours of pickup, depending on the volume and type of garments. For urgent orders, please contact us directly and we will advise on the fastest available option.</p>
+                                        <p class="faq-text">
+                                            Both. Soft toys hold dust, bacteria, and allergens deep in the fibres, not just on the surface, so cleaning goes beyond wiping them down. The aim is to leave the toy genuinely hygienic for a child to hold, which matters a lot more for toys than for ordinary fabric.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -286,32 +236,44 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Does Cosmos Laundry offer ironing-only service?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                                        Can you clean large soft toys and giant teddy bears?
+                                    </button>
                                 </div>
                                 <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. Cosmos Laundry provides professional steam ironing as a standalone service. Our steam ironing delivers a crisp, wrinkle-free finish that keeps garments polished and ready to wear immediately.</p>
+                                        <p class="faq-text">
+                                            Yes, big plush toys are no problem. Large teddies actually trap the most dust and odour because of their size, so they benefit the most from a proper clean. [Confirm any size limits you have.]
+                                        </p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Can I send clothes for just stain removal?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
+                                        Will cleaning ruin the toy's shape, fur, or stuffing?
+                                    </button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. If you have a specific stain treatment need, contact us on +91 9284630260 and our team will advise the appropriate service. Stain removal is part of our standard laundry and premium wash process, and difficult stains are handled at the pre-treatment spotting stage.</p>
+                                        <p class="faq-text">
+                                            No. The toy is cleaned and dried in a way that protects the stuffing and fur so it comes back soft and keeps its shape, not lumpy or flattened. Careful drying is the part that matters most, and it's where home washing usually goes wrong.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Is Cosmos Laundry's washing process safe for all fabrics?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                                        Can you remove stains, smell, and dust mites?
+                                    </button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Cosmos Laundry carefully sorts garments by fabric type and care instructions before washing. Each item is processed using the appropriate method — whether standard wash, premium wash, or dry cleaning — to ensure fabric safety and preserve the quality and life of your clothing.</p>
+                                        <p class="faq-text">
+                                            Yes. Cleaning lifts stains, clears trapped odour, and removes the dust mites and allergens that build up inside well-loved toys. For a toy a child sleeps with every night, that allergen removal is often the real reason parents bring it in.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -319,13 +281,7 @@ Faq Area
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
-                    <div class="faq-img1 ps-xl-4">
-                        <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>

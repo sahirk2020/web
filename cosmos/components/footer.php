@@ -34,17 +34,15 @@
                     <div class="widget footer-widget">
                         <div class="th-widget-about">
                             <div class="about-logo">
-                                <!-- <a href="home-laundry-services.html"><img src="<?php echo BASE_URL; ?>assets/img/logo-white.svg" alt="Laun"></a> -->
-                                <a href="home-laundry-services.html"><img src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
+                                <a href="<?php echo BASE_URL; ?>index.php"><img src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
                             </div>
-                            <p class="about-text white-color">Cosmos Laundry combines advanced cleaning technology, expert fabric care, and dependable service to deliver exceptional results.</p>
+
+                            <p class="about-text white-color">
+                                Cosmos Laundry combines advanced cleaning technology, expert fabric care, and dependable service to deliver exceptional results.
+                            </p>
                             <div class="th-social">
                                 <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
-                                <!-- <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -55,12 +53,12 @@
                         <h3 class="widget_title">Our Services</h3>
                         <div class="menu-all-pages-container">
                             <ul class="menu">
-                                <li><a href="services/laundry-service.php">Laundry Service</a></li>
-                                <li><a href="services/dry-cleaning.php">Dry Cleaning</a></li>
-                                <li><a href="services/premium-wash.php">Premium Wash</a></li>
-                                <li><a href="services/steam-ironing.php">Steam Ironing</a></li>
-                                <li><a href="services/shoe-cleaning.php">Shoe Cleaning</a></li>
-                                <li><a href="services/toy-cleaning.php">Toy Cleaning</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/laundry-service.php">Laundry Service</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/dry-cleaning.php">Dry Cleaning</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/premium-wash.php">Premium Wash</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/steam-ironing.php">Steam Ironing</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/shoe-cleaning.php">Shoe Cleaning</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/toy-cleaning.php">Toy Cleaning</a></li>
                             </ul>
                         </div>
                     </div>
@@ -73,7 +71,8 @@
                             <ul class="menu">
                                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
                                 <li><a href="<?php echo BASE_URL; ?>services.php">Services</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>faq.php">Help & FAQs</a></li>
+                                <!-- <li><a href="<?php //echo BASE_URL; 
+                                                    ?>faq.php">Help & FAQs</a></li> -->
                                 <li><a href="<?php echo BASE_URL; ?>blog.php">Blog</a></li>
                                 <li><a href="<?php echo BASE_URL; ?>contact.php">Contact Us</a></li>
                                 <li><a href="<?php echo BASE_URL; ?>t&c.php">Terms and Conditions</a></li>
@@ -89,31 +88,6 @@
                     <div class="widget footer-widget">
                         <h3 class="widget_title">Contact Us</h3>
 
-                        <!-- <div class="th-widget-contact">
-                            <div class="info-box">
-                                <div class="info-box_icon">
-                                    <i class="fas fa-location-dot"></i>
-                                </div>
-                                <p class="info-box_text">4140 Parker Rd. Allentown, New Mexico 31134</p>
-                            </div>
-                            <div class="info-box">
-                                <div class="info-box_icon">
-                                    <i class="fas fa-phone"></i>
-                                </div>
-                                <p class="info-box_text">
-                                    <a href="tel:+16326543564" class="info-box_link">+(163)-2654-3564</a>
-                                    <a href="tel:+16326545432" class="info-box_link">+(163)-2654-5432</a>
-                                </p>
-                            </div>
-                            <div class="info-box">
-                                <div class="info-box_icon">
-                                    <i class="fas fa-envelope"></i>
-                                </div>
-                                <p class="info-box_text">
-                                    <a href="mailto:help24/7@Laun.com" class="info-box_link">help24/7@Laun.com</a>
-                                </p>
-                            </div>
-                        </div> -->
 
                         <div class="footer-info-wrapper white-color">
                             <div class="footer-info">
@@ -121,7 +95,7 @@
                                     <!-- <i class="fa-sharp fa-solid fa-phone"></i> -->
                                     <i class="fas fa-location-dot"></i>
                                 </div>
-                                <p class="text-inherit">Cosmo Enterprises
+                                <p class="text-inherit mb-0">Cosmo Enterprises
                                     Gat no 99/2, <br>buldhana urban ware House, <br>Chincholi shivar Jalgaon 425003
                                 </p>
                             </div>
