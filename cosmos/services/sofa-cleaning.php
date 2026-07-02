@@ -153,7 +153,7 @@ About Area
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/laundry-service.webp" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/Sofa-Cleaning.webp" alt="About" />
                         </div>
 
                     </div>
