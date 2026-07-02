@@ -17,15 +17,15 @@
 <!--==============================
 Hero Area
 ==============================-->
-    <div class="hero-7 position-relative">
+    <div class="hero-7 position-relative" id="home">
         
-        <div class="hero hero-video" id="home">
+        <div class="hero hero-video">
             <div class="hero-bg-video">
-                <video class="d-md-none d-block" id="myVideo" muted autoplay loop playsinline>
+                <video class="d-md-none d-block hero-video-player" muted autoplay loop playsinline>
                     <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
                     <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/satyaprabha-mobile-video.mp4">
                 </video>
-                <video class="d-none d-md-block" id="myVideo" muted autoplay loop playsinline>
+                <video class="d-none d-md-block hero-video-player" muted autoplay loop playsinline>
                     <!-- <source src="assets/img/video/6Boulevard-Video-1090X1080.mp4" type="video/mp4"> -->
                     <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/satyaprabha-desk-video.mp4" type="video/mp4">
                 </video>
@@ -38,7 +38,7 @@ Hero Area
             </div>
         </div>
         <!--======== / Hero Section ========-->
-</div>
+    </div>
     
 <!-- about  page top histoory information  -->
     <!-- rts about area start -->
@@ -110,7 +110,7 @@ Hero Area
                                     Experience
                                 </p>
                             </div> -->
-                            <a href="" data-bs-toggle="modal" data-bs-target="#popModel" class="rts-read-more-circle-btn">
+                            <a href=""  data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireForm" class="rts-read-more-circle-btn">
                                 <i class="fa-solid fa-arrow-up-right"></i>
                                 <p>Enquire Now</p>
                             </a>
@@ -587,13 +587,18 @@ Hero Area
 
     <?php include 'js.php'; ?>
 
+    
+
     <script>
 document.addEventListener("DOMContentLoaded", function () {
 
     const heroSection = document.querySelector(".hero-video");
     const videos = document.querySelectorAll(".hero-video-player");
 
-    const observer = new IntersectionObserver(function(entries) {
+    if (!heroSection || videos.length === 0) return;
+
+    // Play/Pause video based on visibility
+    const observer = new IntersectionObserver((entries) => {
 
         entries.forEach(entry => {
 
@@ -601,7 +606,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 if (entry.isIntersecting) {
 
-                    video.play();
+                    video.play().catch(err => console.log(err));
 
                 } else {
 
@@ -614,10 +619,29 @@ document.addEventListener("DOMContentLoaded", function () {
         });
 
     }, {
-        threshold: 0.5   // 50% of the section must be visible
+        threshold: 0.5
     });
 
     observer.observe(heroSection);
+
+    // Unmute on the first user interaction
+    function enableAudio() {
+
+        videos.forEach(video => {
+
+            video.muted = false;
+
+            video.play().catch(err => console.log(err));
+
+        });
+
+        document.removeEventListener("click", enableAudio);
+        document.removeEventListener("touchstart", enableAudio);
+
+    }
+
+    document.addEventListener("click", enableAudio);
+    document.addEventListener("touchstart", enableAudio);
 
 });
 </script>
