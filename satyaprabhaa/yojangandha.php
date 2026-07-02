@@ -742,7 +742,7 @@
                                 </div>
                                 <!-- Enquire Now Center -->
                                 <div class="inner d-flex justify-content-center">
-                                    <a data-bs-toggle="modal" data-bs-target="#popModel"
+                                    <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireForm"
                                     class="rts-read-more-circle-btn under-line text-center">
                                         <i class="fa-solid fa-arrow-up-right"></i>
                                         <p class="mb-0">Enquire Now</p>
@@ -767,7 +767,7 @@
                                 </div>
                                 <!-- Enquire Now Center -->
                                 <div class="inner d-flex justify-content-center">
-                                    <a data-bs-toggle="modal" data-bs-target="#popModel"
+                                    <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireForm"
                                     class="rts-read-more-circle-btn under-line text-center">
                                         <i class="fa-solid fa-arrow-up-right"></i>
                                         <p class="mb-0">Enquire Now</p>
@@ -791,7 +791,7 @@
                                 </div>
                                 <!-- Enquire Now Center -->
                                 <div class="inner d-flex justify-content-center">
-                                    <a data-bs-toggle="modal" data-bs-target="#popModel"
+                                    <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireForm"
                                     class="rts-read-more-circle-btn under-line text-center">
                                         <i class="fa-solid fa-arrow-up-right"></i>
                                         <p class="mb-0">Enquire Now</p>

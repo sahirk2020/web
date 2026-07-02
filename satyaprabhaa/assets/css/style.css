@@ -17527,10 +17527,10 @@ padding-left: 120px !important;
   /* Add some content at the bottom of the video/page */
   /* Style the button used to pause/play the video */
 }
-.bg-video-five video#myVideo.show {
+.bg-video-five video.hero-video-player.show {
   opacity: 1;
 }
-.bg-video-five #myVideo {
+.bg-video-five .hero-video-player {
   position: absolute;
   right: 0;
   bottom: -225px;
