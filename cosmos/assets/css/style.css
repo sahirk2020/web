@@ -1817,7 +1817,7 @@ textarea.is-invalid {
 }
 
 .th-btn.th-radius {
-  border-radius: 0;
+  border-radius: 14px;
 }
 
 .icon-btn {
@@ -12579,6 +12579,8 @@ span.select2-selection.select2-selection--single:focus {
   background-color: var(--smoke-color);
   padding: 50px;
   margin-left: 20px;
+  border-radius: 14px;
+  background-color: #ffffffd6;
   /* Medium devices */
   /* Extra small devices */
 }
@@ -12601,8 +12603,8 @@ span.select2-selection.select2-selection--single:focus {
 .contact-form .form-select,
 .contact-form textarea,
 .contact-form input {
-  background-color: var(--white-color);
-  border-radius: 0px;
+  background-color: #ffffffd6;
+  border-radius: 14px;
 }
 
 .contact-form textarea.form-control,
@@ -12706,8 +12708,9 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .contact-info {
-  background-color: var(--smoke-color);
+  background-color: #ffffffd6;
   padding: 30px;
+  border-radius: 14px;
 }
 
 .contact-info_icon {
@@ -15022,7 +15025,8 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .price-box .box-title {
-  margin: 20px 0 10px 0;
+  /* margin: 20px 0 10px 0; */
+  margin: 0px 0 0px 0;
   font-size: 30px;
   /* Medium devices */
   /* Extra small devices */
@@ -16147,6 +16151,7 @@ span.select2-selection.select2-selection--single:focus {
 
 .choose-feature-area {
   background-color: var(--white-color);
+  /* background-color: #ffffffd6; */
   box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.05);
   border-radius: 30px;
   padding: 50px;

@@ -553,7 +553,7 @@ Service Area
     }
     ?>
 
-    <section class="laundry-price-area space" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/footer-bg.webp">
+    <section class="laundry-price-area space services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/pricing-table.webp">
         <div class="container">
             <div class="title-area text-center">
                 <h2 class="sec-title">Simple pricing for you</h2>

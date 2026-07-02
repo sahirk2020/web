@@ -18,7 +18,8 @@ table {
 
 .laundry-tabs .nav-link {
   border: none !important;
-  background: #f4f8fb !important;
+  /* background: #f4f8fb !important; */
+  background-color: #ffffffd6;
   color: #1b1b1b;
   padding: 10px 24px;
   border-radius: 12px;
@@ -54,7 +55,7 @@ table {
 }
 
 .price-table-wrap {
-  background: #fff;
+  background: #ffffffd6;
   border-radius: 22px;
   overflow-x: hidden;
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
@@ -65,6 +66,7 @@ table {
 .laundry-price-table {
   width: 100%;
   border-collapse: collapse;
+  background-color: transparent;
 }
 
 /* Header */
@@ -174,10 +176,6 @@ table {
 }
 
 /* Horizontal scrolling appears only when the table is wider than the screen. Therefore add: */
-
-.laundry-price-table {
-  width: 100%;
-}
 
 @media (max-width: 767px) {
   .laundry-price-table {
