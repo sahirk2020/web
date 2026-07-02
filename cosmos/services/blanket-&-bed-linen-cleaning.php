@@ -112,7 +112,7 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/blanket-&-bed-linen-cleaning.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/blanket-&-bed-linen-cleaning-1.webp">
         <div class="container">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Blanket & Bed Linen Cleaning</h1>
