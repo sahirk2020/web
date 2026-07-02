@@ -81,7 +81,7 @@ Hero Area
                         <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-2.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
-                                <!-- <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Dry Cleaning</span> -->
+
                                 <h1 class="hero-title text-white" data-ani="slideinup" data-ani-delay="0.4s">
                                     Luxury Care For <span class="text-bg">Fine Garments</span>
                                 </h1>
@@ -100,7 +100,7 @@ Hero Area
                         <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-3.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
-                                <!-- <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Steam Ironing</span> -->
+
                                 <h1 class="hero-title text-white" data-ani="slideinup" data-ani-delay="0.4s">
                                     Impeccably Pressed. <span class="text-bg">Effortlessly Elegant.</span>
                                 </h1>

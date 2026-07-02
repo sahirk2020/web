@@ -13,7 +13,7 @@ include_once __DIR__ . '/db.php';
     <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
         <div class="mobile-logo">
-            <a href="<?php echo BASE_URL; ?>index.php"><img src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
+            <a href="<?php echo BASE_URL; ?>index.php"><img class="w-75" src="<?php echo BASE_URL; ?>assets/img/cosmos-laundry-logo.svg" alt="Cosmos"></a>
         </div>
         <div class="th-mobile-menu">
             <ul>

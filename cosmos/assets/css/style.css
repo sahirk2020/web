@@ -1383,8 +1383,8 @@ textarea.is-invalid {
 }
 
 .th-menu-wrapper .mobile-logo {
-  padding-bottom: 30px;
-  padding-top: 40px;
+  padding-bottom: 16px;
+  padding-top: 20px;
   display: block;
   text-align: center;
   background-color: var(--smoke-color2);
@@ -9445,6 +9445,48 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
 @media (max-width: 991px) {
   .hero-style3 {
     padding: 100px 12px;
+  }
+}
+
+/* Added for home page slider mobile view */
+@media (max-width: 767px) {
+  .hero-style3 .text-bg:before {
+    content: "";
+    width: 95%;
+    height: 100%;
+    position: absolute;
+    background-color: var(--white-color);
+    top: 0;
+    left: 0;
+    z-index: -1;
+    -webkit-transform: skew(-10deg);
+    -ms-transform: skew(-10deg);
+    transform: skew(-10deg);
+  }
+  .hero-style3 .hero-title {
+    font-size: 34px;
+    /* 74px 80px */
+    line-height: 40px;
+  }
+  .hero-style3 .hero-text {
+    font-size: 14px;
+  }
+
+  .hero-3 .icon-box:after,
+  .hero-3 .icon-box:before {
+    content: "";
+    height: 54px;
+    width: 2px;
+    background-color: var(--theme-color);
+    position: absolute;
+    right: calc(50% - 5.5px);
+  }
+  .hero-3 .icon-box {
+    width: 30px;
+  }
+  .hero-style3 .hero-text {
+    max-width: 300px;
+    margin-bottom: 35px;
   }
 }
 
