@@ -113,32 +113,39 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Dry-Cleaning.webp">
+    <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/curtain-cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Dry Cleaning</h1>
+                <h1 class="breadcumb-title">Curtain Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="home-laundry-services.html">Home</a></li>
-                    <li>Dry Cleaning</li>
+                    <li>Curtain Cleaning</li>
                 </ul>
             </div>
         </div>
     </div>
 
+
+
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <div class="overflow-hidden space" id="about-sec">
+    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
+    <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
 
                 <div class="col-xl-6">
-                    <!-- <div class="ps-xl-3 "> -->
-                    <div class="title-area mb-30">
+                    <!-- <div class="ps-xl-3 wow fadeInRight"> -->
+                    <div class="title-area mb-25">
                         <span class="sub-title style1">About Service</span>
-                        <h2 class="sec-title">Advanced Hydrocarbon Dry Cleaning</h2>
+                        <h2 class="sec-title mb-20">
+                            Fresh And Clean Curtains
+                        </h2>
+                        <p class="about-desc">
+                            Curtains naturally collect dust, allergens, odors, and pollutants over time. Our curtain cleaning service provides thorough cleaning while preserving fabric quality, color, and texture. Using fabric-specific cleaning techniques, we carefully remove accumulated dirt and stains without causing shrinkage or damage. Whether for homes, offices, hotels, or commercial spaces, our service helps improve indoor hygiene and refresh your interiors. Clean curtains not only enhance the appearance of your space but also contribute to a healthier and more comfortable environment.
+                        </p>
                     </div>
-                    <p class="mt-n2 mb-15 about-quote">Experience a new standard of garment care with our Hydrocarbon Dry Cleaning Technology, an advanced international cleaning process widely used across Europe and America. Unlike conventional dry cleaning methods, hydrocarbon technology is gentler on fabrics and helps preserve color, texture, softness, and garment structure for longer. It effectively removes stains, dirt, and odors while providing superior fabric protection. Ideal for designer wear, formal clothing, delicate fabrics, and premium garments, this advanced process delivers deep cleaning without harsh treatment. Combined with expert handling and specialized care, it helps your clothes stay fresher, softer, and looking newer for longer.</p>
 
                     <!-- </div> -->
                 </div>
@@ -146,7 +153,7 @@ About Area
                 <div class="col-xl-6">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/dry-cleaning.webp" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/Curtain-Cleaning.webp" alt="About" />
                         </div>
 
                     </div>
@@ -156,46 +163,6 @@ About Area
         </div>
     </div>
 
-    <!--==============================
-Feature Area  
-==============================-->
-    <div class="features-area services-banner position-relative process overflow-hidden" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/DRY-CLEANING-Bg-image.webp">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-9">
-                    <div class="choose-feature-area">
-                        <div class="title-area mb-25">
-
-                            <h2 class="sec-title">WHAT IS DRY CLEANING?</h2>
-                            <p class="sec-text sec-title-new">Many people think dry cleaning means cleaning without water. But dry cleaning actually uses a special solvent instead of regular water and detergent.</p>
-                        </div>
-                        <div class="checklist list-two-column why-checklist">
-                            <h5 class="sec-title">Dry Cleaning is ideal for</h5>
-                            <ul>
-                                <li><span class="check-img">
-                                        <img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/suit-blazers.svg" alt="Icon" width="40" height="40">
-
-                                    </span> Suits & Blazers</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/saree-designer-wear.svg" alt="Icon" width="50" height="50"></span>Sarees & Designer Wear</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/silk-wool-fabric.svg" alt="Icon" width="40" height="40"></span>Silk & Wool Fabrics</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/bridal-wear.svg" alt="Icon" width="40" height="40"></span> Bridal Wear</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/premium-garments.svg" alt="Icon" width="40" height="40"></span>Premium Garments</li>
-
-                                <li><span class="check-img"><img src="<?php echo BASE_URL; ?>assets/img/icon/dry-cleaning-service/delicate-fabric.svg" alt="Icon" width="40" height="40"></span>Delicate Fabrics</li>
-                            </ul>
-                        </div>
-
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-    </div>
 
     <!--==============================
 Faq Area
@@ -203,7 +170,7 @@ Faq Area
     <div class="  space overflow-hidden process" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
-                <div class="col-xl-6 text-center text-xl-start align-self-center">
+                <div class="col-xl-12 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
@@ -214,11 +181,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">Which technology or solvent do you use?</button>
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">Why should curtains be professionally cleaned?</button>
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">We use Hydrocarbon Solvent Dry Cleaning Technology, an advanced international fabric care system widely used across Europe and America. It provides deep cleaning while being gentle on delicate fabrics.</p>
+                                        <p class="faq-text">Curtains trap dust, pollen, cooking fumes, pet dander, and humidity over time, which affects indoor air quality and can trigger allergies. Professional cleaning removes these contaminants thoroughly, restores the fabric's colour and drape, and extends the life of your curtains far beyond what regular shaking or vacuuming achieves.</p>
                                     </div>
                                 </div>
                             </div>
@@ -226,11 +193,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Is stain inspection done before processing?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">What types of curtains does Cosmos Laundry clean?</button>
                                 </div>
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. Every garment undergoes a detailed stain and fabric inspection before cleaning to identify treatment requirements and ensure the best possible results.</p>
+                                        <p class="faq-text">We clean all curtain types including sheer and net curtains, blackout curtains, velvet and thick drapes, printed and dyed curtains, and eyelet or pinch-pleat styles. Our team identifies the fabric and cleaning method before proceeding to ensure the curtain's colour, texture, and fall are fully preserved.</p>
                                     </div>
                                 </div>
                             </div>
@@ -238,11 +205,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> Is fabric handled according to garment type?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3"> Does curtain cleaning cause shrinkage or colour fading?</button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Absolutely. Each garment is assessed individually and processed according to its fabric, construction, embellishments, and care requirements for maximum protection.</p>
+                                        <p class="faq-text">When handled correctly, professional curtain cleaning does not cause shrinkage or colour fading. Cosmos Laundry assesses each curtain's fabric and care label and uses appropriate cleaning methods — whether gentle washing or dry cleaning — to maintain the original dimensions and colour vibrancy.</p>
                                     </div>
                                 </div>
                             </div>
@@ -250,42 +217,32 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-4">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">How do you maintain fabric quality?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Does Cosmos Laundry take down and rehang curtains?</button>
                                 </div>
                                 <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Our Hydrocarbon Dry Cleaning Technology helps preserve color, texture, softness, and garment structure, ensuring clothes stay looking newer for longer.</p>
+                                        <p class="faq-text">We offer curtain pickup from your home as part of our service. Our team collects the curtains, cleans them at our facility, and returns them neatly packaged. For assistance with taking down or rehanging, please enquire when booking and we will advise based on your location and requirements.</p>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Do you use modern machines?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">How often should curtains be professionally cleaned?</button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Yes. We use advanced dry cleaning equipment and modern fabric care processes to deliver consistent cleaning quality, hygiene, and garment protection.</p>
+                                        <p class="faq-text">Curtains in living areas and bedrooms should be professionally cleaned at least once a year. Curtains in kitchens or near open windows in dusty environments may benefit from cleaning every 6 months. Regular cleaning maintains a healthier home environment and preserves fabric quality.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">Why Hydrocarbon?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">How long does curtain cleaning take at Cosmos Laundry?</button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <div class="checklist list-two-column">
-                                            <ul>
-                                                <li>Gentle on fabrics</li>
-                                                <li>Better color protection</li>
-                                                <li>Maintains softness & texture</li>
-                                                <li>Safe for delicate garments</li>
-                                                <li>Less chemical odor</li>
-                                                <li>Longer garment life</li>
-                                                <li> Advanced & fabric-friendly process</li>
-                                            </ul>
-                                        </div>
+                                        <p class="faq-text">Curtain cleaning typically takes 48 to 72 hours from pickup to delivery, depending on the fabric type and number of panels. If you need your curtains back for a specific occasion or event, please plan your booking a few days in advance.</p>
                                     </div>
                                 </div>
                             </div>
@@ -293,19 +250,10 @@ Faq Area
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6">
-                    <div class="faq-img1 ps-xl-4">
-                        <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/Dry-Cleaning-FAQ.webp" alt="faq">
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
-
-
-
 
 
     <?php include '../components/footer.php'; ?>

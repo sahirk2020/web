@@ -226,39 +226,12 @@ Price Area
     </div>
   </section>
 
-  <!--==============================
-Map Area  
-==============================-->
-  <!-- <div class="space-bottom">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="contact-map style2">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7449.736586313819!2d75.556114!3d20.997916!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90f99c35e51c3%3A0xdb207799be67c5ca!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1779877037548!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div>
-        </div>
-
-        <div class="col-lg-4">
-          <div class="contact-map style2">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7449.736586313819!2d75.556114!3d20.997916!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90f99c35e51c3%3A0xdb207799be67c5ca!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1779877037548!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div>
-        </div>
-
-        <div class="col-lg-4">
-          <div class="contact-map style2">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7449.736586313819!2d75.556114!3d20.997916!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90f99c35e51c3%3A0xdb207799be67c5ca!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1779877037548!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div> -->
-
+ 
   <!--==============================
 Contact Area   
 ==============================-->
   <!-- <div class="space services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/footer-bg.webp"> -->
-  <div class="space" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/bg-get-in-touch.webp">
+  <div class="space services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/Contact-page.webp">
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
@@ -342,21 +315,12 @@ Contact Area
                     <!-- <i class="fa-solid fa-share-from-square"></i> -->
                   </div>
 
-
-
-
-
-
-
                   <h6 class="contact-info_title">Social Media:</h6>
 
                   <div class="th-social">
                     <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
                   </div>
-
-
-
                 </div>
               </div>
             </div>
@@ -441,9 +405,6 @@ Contact Area
             </div>
             <p class="form-messages mb-0 mt-3"></p>
           </form>
-
-
-
 
         </div>
       </div>

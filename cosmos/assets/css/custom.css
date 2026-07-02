@@ -87,9 +87,9 @@
 .breadcumb-title-contact-us {
   color: black;
 }
-.th-social a {
+/* .th-social a {
   background: #5db1db;
-}
+} */
 
 .loc-dec {
   font-size: 12px !important;
@@ -158,10 +158,10 @@
   }
 }
 
-.space-city,
+/* .space-city,
 .space-bottom {
   padding-bottom: var(--section-space);
-}
+} */
 
 .contact-info_text:hover a {
   color: var(--theme-color);
@@ -229,7 +229,10 @@
   transform: rotate(180deg);
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
+  .breadcumb-wrapper {
+    padding: 70px;
+  }
   .process-step {
     width: 50%;
   }
@@ -259,9 +262,9 @@
 
 /* footer */
 
-.footer-widget .widget_title {
+/* .footer-widget .widget_title {
   color: #2c9fda;
-}
+} */
 
 .white-color {
   color: white !important;
@@ -339,9 +342,13 @@
 }
 
 .contact-title {
-  color: var(--white-color);
+  color: var(--theme-color);
 }
 
 .contact-title2 {
   color: var(--smoke-color2);
+}
+
+.sec-title-new {
+  color: var(--black-color2);
 }
