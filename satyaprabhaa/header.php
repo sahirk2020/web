@@ -36,12 +36,12 @@
                                     <!-- <li><a class="sdm-main" href="">Deepak Dev</a></li> -->
                                 </ul>
                             </li>
-                            <li class="mega-menu-item">
+                            <!-- <li class="mega-menu-item">
                                 <ul class="pages">
                                     <li><a class="sdm-main" href="completed-projects.php">Completed Projects</a></li>
                                     
                                 </ul>
-                            </li>
+                            </li> -->
                         </ul>
                     </li>
                     <li class="">
@@ -148,7 +148,7 @@
                                 </ul>
                             </li>
                             <li class="third-lvl">
-                                <a class="main" href="completed-projects.php">Completed Projects</a>
+                                <a class="main" href="upcoming-projects.php">Upcoming Projects</a>
                             </li>
                         </ul>
                     </li>
