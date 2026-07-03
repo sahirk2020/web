@@ -81,7 +81,7 @@ Hero Area
                         <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-2.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
-                                <!-- <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Dry Cleaning</span> -->
+
                                 <h1 class="hero-title text-white" data-ani="slideinup" data-ani-delay="0.4s">
                                     Luxury Care For <span class="text-bg">Fine Garments</span>
                                 </h1>
@@ -100,7 +100,7 @@ Hero Area
                         <div class="th-hero-bg" data-bg-src="assets/img/hero/banner-3.webp"></div>
                         <div class="container">
                             <div class="hero-style3">
-                                <!-- <span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Steam Ironing</span> -->
+
                                 <h1 class="hero-title text-white" data-ani="slideinup" data-ani-delay="0.4s">
                                     Impeccably Pressed. <span class="text-bg">Effortlessly Elegant.</span>
                                 </h1>
@@ -138,7 +138,7 @@ Hero Area
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <div class="overflow-hidden space-top" id="about-sec">
+    <div class="overflow-hidden space-top space-bottom" id="about-sec">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6">
@@ -187,7 +187,61 @@ About Area
                 </div>
             </div>
         </div>
-    </div><!--==============================
+    </div>
+
+    <div class="space bg-title d-none" id="faq-sec">
+        <div class="">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6">
+                        <div class="pe-xl-5 pb-5 pb-xl-0">
+                            <div class="title-area mb-25"><span class="sub-title style1">Express Service</span>
+                                <h2 class="sec-title text-white">Need Your Clothes Today? </h2>
+                                <p>
+                                    Drop your garments before 12 PM and get them delivered by 7 PM with our Express Service.
+                                </p>
+
+                                <h4 class="text-white">
+                                    Why Choose Express Service?
+                                </h4>
+                                <ul>
+                                    <li>Same Day Delivery</li>
+                                    <li>Priority Handling</li>
+                                    <li>Premium Garment Care</li>
+                                    <li>Reliable & Hassle-Free Service </li>
+                                </ul>
+                            </div>
+                            <div class="feature-wrapper">
+                                <div class="feature-icon"><a href="tel:+919284630260"><i class="fa-solid fa-phone"></i></a></div>
+                                <div class="media-body"><span class="feature_subtitle">Call Us For Service</span>
+                                    <h3 class="box-title"><a href="tel:+919284630260">+919284630260</a></h3>
+                                </div>
+                            </div><a href="contact.php" class="th-btn style2">Book Express Service</a>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 faq-bg-image">
+
+                        <h4>
+                            Terms & Conditions -
+                        </h4>
+                        <ul>
+                            <li>• Garments must be submitted before 12:00 PM to qualify for same-day delivery. </li>
+                            <li>• Express Service charges are 2× the standard service rates.</li>
+                            <li>• Available only at selected Cosmos Laundry locations. </li>
+                            <li>• Cancellations or modifications must be requested at least 2 hours in advance. </li>
+                            <li>• Delivery timelines may vary in exceptional circumstances beyond operational control. </li>
+                        </ul>
+                    </div>
+                    <!-- <div class=""><img src="assets/img/home/overlay-express-service.webp" alt="shape"></div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <!--==============================
 Service Area  
 ==============================-->
     <section class="space" id="service-sec">
@@ -537,7 +591,7 @@ Contact Area
                 <div class="col-lg-6">
                     <div class="pe-xl-4">
                         <div class="title-area">
-                            <span class="sub-title style1">Get in Tuch</span>
+                            <span class="sub-title style1">Get in Touch</span>
                             <h2 class="sec-title text-white">Need Any Urgent Help? Call us Anytime</h2>
                         </div>
                         <div class="contact-map">
@@ -1119,31 +1173,7 @@ Blog Area
     <!-- Scroll To Top -->
 
 
-    <!--==============================
-    All Js File
-============================== -->
-    <!-- Jquery -->
-    <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-    <!-- Swiper Js -->
-    <script src="assets/js/swiper-bundle.min.js"></script>
-    <!-- Bootstrap -->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <!-- Magnific Popup -->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <!-- Counter Up -->
-    <script src="assets/js/jquery.counterup.min.js"></script>
-    <!-- Range Slider -->
-    <script src="assets/js/jquery-ui.min.js"></script>
-    <!-- imagesloaded -->
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
 
-    <!-- isotope -->
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <!-- nice select -->
-    <script src="assets/js/nice-select.min.js"></script>
-
-    <!-- Main Js File -->
-    <script src="assets/js/main.js"></script>
 </body>
 
 </html>

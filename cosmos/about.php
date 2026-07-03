@@ -594,37 +594,8 @@ Team Area
 
   <?php include 'components/footer.php'; ?>
 
-  <!--********************************
-			Code End  Here 
-	******************************** -->
 
-  <!-- Scroll To Top -->
 
-  <!--==============================
-    All Js File
-============================== -->
-  <!-- Jquery -->
-  <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-  <!-- Swiper Js -->
-  <script src="assets/js/swiper-bundle.min.js"></script>
-  <!-- Bootstrap -->
-  <script src="assets/js/bootstrap.min.js"></script>
-  <!-- Magnific Popup -->
-  <script src="assets/js/jquery.magnific-popup.min.js"></script>
-  <!-- Counter Up -->
-  <script src="assets/js/jquery.counterup.min.js"></script>
-  <!-- Range Slider -->
-  <script src="assets/js/jquery-ui.min.js"></script>
-  <!-- imagesloaded -->
-  <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-
-  <!-- isotope -->
-  <script src="assets/js/isotope.pkgd.min.js"></script>
-  <!-- nice select -->
-  <script src="assets/js/nice-select.min.js"></script>
-
-  <!-- Main Js File -->
-  <script src="assets/js/main.js"></script>
 </body>
 
 </html>
