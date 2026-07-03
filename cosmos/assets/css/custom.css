@@ -94,8 +94,12 @@
 .loc-dec {
   font-size: 12px !important;
 }
-.contact-map.style2 iframe {
+/* .contact-map.style2 iframe {
   height: 500px;
+} */
+
+.price-box a {
+  color: #3e3e3e;
 }
 
 .card-shadow {
@@ -163,10 +167,6 @@
   padding-bottom: var(--section-space);
 } */
 
-.contact-info_text:hover a {
-  color: var(--theme-color);
-}
-
 /* Attractive Section Title Animation */
 .sec-title1 {
   font-size: 42px;
@@ -178,12 +178,14 @@
     #00b4db,
     #8dc149,
     #00b4db,
-    var(--theme-color)
+    var(--theme-color),
+    var(--theme-color2),
+    var(--theme-color2)
   );
   background-size: 200% auto;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: gradientMove 4s linear infinite;
+  animation: gradientMove 6s linear infinite;
 }
 
 @keyframes gradientMove {
@@ -316,22 +318,7 @@
   margin-top: -0.34em;
 }
 
-@media (max-width: 376px) {
-  .process-box .box-icon {
-    position: relative;
-    /* height: 260px; */
-    height: 150px;
-    /* width: 260px; */
-    width: 150px;
-    text-align: center;
-    line-height: 150px;
-    background-color: var(--white-color);
-    border: 2px solid #f5f7fa;
-    border-radius: 50%;
-    z-index: 2;
-    margin-bottom: 20px;
-  }
-}
+
 
 .process {
   background-color: var(--smoke-color2) !important;

@@ -116,9 +116,9 @@
     <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Premium-Wash.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Premium Wash</h1>
+                <h1 class="breadcumb-title sec-title1">Premium Wash</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="home-laundry-services.html">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
                     <li>Premium Wash</li>
                 </ul>
             </div>
