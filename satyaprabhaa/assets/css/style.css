@@ -25300,7 +25300,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 .contact-form-conatct-page textarea {
   padding: 0 5px;
   height: 85px;
-  border-bottom: 1px solid #E3E3E3;
+  border-bottom: 1px solid #E3E3E3 !important;
 }
 .contact-form-conatct-page textarea:focus {
   border-bottom: 1px solid var(--color-primary);
@@ -25950,8 +25950,9 @@ font-size: 15px;
 
 }
 .consent_tick{
-  font-size: 12px;
-    color: #000;
+  line-height: 18px;
+  font-size: 10px;
+  color: #000;
 }
 .swastik-logo{
   z-index: -1;

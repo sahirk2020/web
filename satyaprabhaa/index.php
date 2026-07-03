@@ -7,6 +7,13 @@
     $page_description = "Satyaprabhaa Developers builds premium residential, commercial & gated-community projects in Pune, including serviced apartments & rental management solutions.";
     include 'css.php';
     ?>
+    <style>
+        .new-header{
+            backdrop-filter: blur(5px);
+            background: #ffffff57 !important;
+            border: 1px solid #ffffff4d;
+        }
+        </style>
 </head>
 
 <body class="index-one">
@@ -110,7 +117,7 @@ Hero Area
                                     Experience
                                 </p>
                             </div> -->
-                            <a href=""  data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireForm" class="rts-read-more-circle-btn">
+                            <a href=""  data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn">
                                 <i class="fa-solid fa-arrow-up-right"></i>
                                 <p>Enquire Now</p>
                             </a>
@@ -120,9 +127,9 @@ Hero Area
                 <div class="col-lg-6 mt_sm--50 mt_md--50">
 
                     <div class="about-thumbnail-6 rts-reveal-one">
-                        <video class="" id="myVideo" autoplay muted loop playsinline>
+                        <video class="w-100" id="" autoplay muted loop playsinline>
                     <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
-                    <source src="https://digitaltokri.co.in/demo/video/Satyaprabha-533X488-Building-GIF-without-music.mp4">
+                    <source src="https://digitaltokri.co.in/demo/video/satyaprabha-building-GIF-high-resolution-533X488.mp4">
                 </video>
                         <!-- <img class="rts-reveal-image-one" src="assets/images/about/about-us.webp" alt="about"> -->
                     <!-- <div class="years-of-experience-patch">

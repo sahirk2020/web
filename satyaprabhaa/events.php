@@ -5,14 +5,15 @@
     <?php
     $page_title = "";
     $page_description = "";
+    include 'css.php';
     ?>
-    <?php include 'css.php'; ?>
 </head>
 
 <body>
     <!-- header three area start -->
     <?php include 'header.php'; ?>
     <!-- header three area end -->
+    
      <!-- bread croumba rea start -->
     <div class="breadcrumb-area-bg bg_image_events">
         <div class="container">
@@ -32,6 +33,7 @@
         </div>
     </div>
     <!-- bread croumba rea end -->
+
      <!-- rts project area start -->
     <div class="rts-project-area rts-section-gap bg-light">
         <div class="container">

@@ -72,6 +72,162 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     </div>
     <!-- rts about area end -->
 
+    <!-- <div class="rts-team-area rts-section-gap pt-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="title-style-center">
+                        <h2 class="title">Meet Our Talented Team</h2>
+                        <p class="disc">
+                            we are proud to have a dedicated and skilled team of professionals <br>
+                            who are passionate about interior renovation and design.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-5 mt--50">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                    <!-- team style three -->
+                    <!-- <div class="team-style-three">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/team/01.jpg" alt="team">
+                        </a>
+                        <div class="bottom-content">
+                            <span class="name">CEO</span>
+                            <a href="#">
+                                <h6 class="title">David Leo</h6>
+                            </a>
+                        </div>
+                        <div class="social-style-team-h">
+                            <ul>
+                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> -->
+                    <!-- team style three end -->
+                <!-- </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                    <!-- team style three -->
+                    <!-- <div class="team-style-three">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/team/02.jpg" alt="team">
+                        </a>
+                        <div class="bottom-content">
+                            <span class="name">Architect</span>
+                            <a href="#">
+                                <h6 class="title">Joseph Liam</h6>
+                            </a>
+                        </div>
+                        <div class="social-style-team-h">
+                            <ul>
+                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> -->
+                    <!-- team style three end -->
+                <!-- </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                    <!-- team style three -->
+                    <!-- <div class="team-style-three">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/team/03.jpg" alt="team">
+                        </a>
+                        <div class="bottom-content">
+                            <span class="name">Designer</span>
+                            <a href="#">
+                                <h6 class="title">Eleanor</h6>
+                            </a>
+                        </div>
+                        <div class="social-style-team-h">
+                            <ul>
+                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> -->
+                    <!-- team style three end -->
+                <!-- </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                    <!-- team style three -->
+                    <!-- <div class="team-style-three">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/team/04.jpg" alt="team">
+                        </a>
+                        <div class="bottom-content">
+                            <span class="name">Manager</span>
+                            <a href="#">
+                                <h6 class="title">Alexander</h6>
+                            </a>
+                        </div>
+                        <div class="social-style-team-h">
+                            <ul>
+                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> -->
+                    <!-- team style three end -->
+                <!-- </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                    <!-- team style three -->
+                    <!-- <div class="team-style-three">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/team/06.jpg" alt="team">
+                        </a>
+                        <div class="bottom-content">
+                            <span class="name">Architect</span>
+                            <a href="#">
+                                <h6 class="title">Thomas Leo</h6>
+                            </a>
+                        </div>
+                        <div class="social-style-team-h">
+                            <ul>
+                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> -->
+                    <!-- team style three end -->
+                <!-- </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                    <!-- team style three -->
+                    <!-- <div class="team-style-three">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/team/07.jpg" alt="team">
+                        </a>
+                        <div class="bottom-content">
+                            <span class="name">Designer</span>
+                            <a href="#">
+                                <h6 class="title">Charlotte Luna</h6>
+                            </a>
+                        </div>
+                        <div class="social-style-team-h">
+                            <ul>
+                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> -->
+                    <!-- team style three end -->
+                <!-- </div> -->
+            </div>
+        </div>
+    </div>
+
     <!-- Vision Mission section start -->
     <div class="rts-section-gap why-chooseus-section pt-0">
         <div class="container">

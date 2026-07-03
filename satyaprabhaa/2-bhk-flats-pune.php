@@ -35,7 +35,7 @@
 
     <!-- rts about area start -->
     <div class="rts-section-gap">
-        <div class="container pb--50 pb_sm--0">
+        <div class="container pb_sm--0">
             <div class="row">
                 <div class="col-lg-12 mt_md--50 mt_sm--50 align-content-center">
                     <div class="about-style-one-right">
@@ -57,106 +57,78 @@
     </div>
     <!-- rts about area end -->
     <!-- rts project area start -->
-    <div class="rts-project-area rts-section-gap bg-light">
+    <div class="rts-team-area">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-area-product-one">
-                        <div class="title-style-left">
-                            <div class="pre-title-area">
-                                <img src="assets/images/about/02.png" alt="about">
-                                <span class="pre-title">Our Project</span>
-                            </div>
-                            <h2 class="title quote">Designed Around Everyday  <br>
-                               Living</h2>
-                        </div>
+                <div class="col-lg-12 text-center">
+                    <div class="title-style-center">
+                        <h2 class="title">2 BHk Projects</h2>
                         <p class="disc">
-                            Explore thoughtfully designed residential and commercial developments that bring together modern architecture, practical planning, comfort, and lasting value.
+                            Explore our range of 2 BHK projects in Pune, designed for modern living and exceptional comfort.
                         </p>
-                        <div class="swiper-next-prev-wrapper">
-                            <div class="swiper-button-next"></div>
-                            <div class="swiper-button-prev"></div>
-                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="container-full mt--50">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- swiper product one wrapper -->
-                    <div class="swiper-product-one-wrapper">
-                        <div class="swiper swiper-product-one">
-                            <div class="swiper-wrapper our-projects">
-                                <div class="swiper-slide">
-                                    <!-- single swiper-item -->
-                                    <div class="single-product-one">
-                                        <span class="number">01</span>
-                                        <a href="" class="thumbnail">
-                                            <img src="assets/images/projects/seva-project.webp" alt="seva-project.webp">
-                                        </a>
-                                        <div class="inenr-content-absolute">
-                                            <a href="">
-                                                <h3 class="title">Seva - <span class="category">KOTHRUD, PUNE | Residential</span></h3>
-                                            </a>
-                                            <!-- <span class="category">BIBVEWADI, PUNE | Residential</span> -->
-                                            <!-- <p>A place where everyday convenience, familiar surroundings, and comfortable living come together for growing families.</p> -->
-                                        </div>
-                                    </div>
-                                    <!-- single swiper-item end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single swiper-item -->
-                                    <div class="single-product-one">
-                                        <span class="number">02</span>
-                                        <a href="" class="thumbnail">
-                                            <img src="assets/images/projects/deepak-dev-768x900.webp" alt="deepak-dev-768x900.webp">
-                                        </a>
-                                        <div class="inenr-content-absolute">
-                                            <a href="">
-                                                <h3 class="title">Deepak Dev - <span class="category">AUNDH, PUNE</span></h3>
-                                            </a>
-                                            <!-- <span class="category">AUNDH, PUNE</span> -->
-                                        </div>
-                                    </div>
-                                    <!-- single swiper-item end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single swiper-item -->
-                                    <div class="single-product-one">
-                                        <span class="number">03</span>
-                                        <a href="" class="thumbnail">
-                                            <img src="assets/images/projects/shrirang-768x900.webp" alt="shrirang-768x900.webp">
-                                        </a>
-                                        <div class="inenr-content-absolute">
-                                            <a href="">
-                                                <h3 class="title">Shrirang - <span class="category">BIBVEWADI, PUNE</span></h3>
-                                            </a>
-                                            <!-- <span class="category">KOTHRUD, PUNE</span> -->
-                                        </div>
-                                    </div>
-                                    <!-- single swiper-item end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single swiper-item -->
-                                    <div class="single-product-one">
-                                        <span class="number">03</span>
-                                        <a href="" class="thumbnail">
-                                            <img src="assets/images/projects/treya-768x900.webp" alt="treya-768x900.webp">
-                                        </a>
-                                        <div class="inenr-content-absolute">
-                                            <a href="">
-                                                <h3 class="title">Lotus Treya</h3>
-                                            </a>
-                                            <span class="category">KOTHRUD, PUNE</span>
-                                        </div>
-                                    </div>
-                                    <!-- single swiper-item end -->
-                                </div>
+            <div class="row mt--30 g-24">
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- team area start -->
+                    <div class="team-area-start-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/projects/shrirang-project-HlbBH4Oaj1YFgUgf.avif" alt="team_area">
+                        </a>
+                        <div class="team-content">
+                            <div class="name-area">
+                                <h6 class="name">Shrirang</h6>
+                                <span class="desig">Bibwewadi, Pune | Residential</span>
                             </div>
                         </div>
                     </div>
-                    <!-- swiper product one wrapper end -->
+                    <!-- team area end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- team area start -->
+                    <div class="team-area-start-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/projects/seva-project-Q36gwhhViv900NXS.avif" alt="team_area">
+                        </a>
+                        <div class="team-content">
+                            <div class="name-area">
+                                <h6 class="name">Seva</h6>
+                                <span class="desig">Kothrud, Pune | Residential</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- team area end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- team area start -->
+                    <div class="team-area-start-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/projects/deepak-dev-project-r3F9dbUxRoosBnu9.avif" alt="team_area">
+                        </a>
+                        <div class="team-content">
+                            <div class="name-area">
+                                <h6 class="name">Deepak Dev</h6>
+                                <span class="desig">Aundh, Pune | Commercial</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- team area end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- team area start -->
+                    <div class="team-area-start-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/projects/upcoming-projects/treya-project-768x815.webp" alt="Lotus Treya">
+                        </a>
+                        <div class="team-content">
+                            <div class="name-area">
+                                <h6 class="name">Lotus Treya</h6>
+                                <span class="desig">Kothrud, Pune | Residential</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- team area end -->
                 </div>
             </div>
         </div>
