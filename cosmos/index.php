@@ -218,7 +218,7 @@ Service Area
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Laundry Services</a></h3>
                                     <p class="service-grid_text">
-                                        Daily wear cleaning with careful washing, stain removal, fresh folding, and doorstep convenience for everyday comfort.
+                                        Daily wear cleaning with careful washing, effective stain removal, neat folding, and convenient doorstep pickup and delivery.
                                     </p>
                                     <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -316,7 +316,7 @@ Service Area
                                     <img src="assets/img/home/bag-cleaning.webp" alt="bag cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Traveling Bag Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services.php">Travel Bag Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Complete cleaning and sanitization for travel bags, removing stains, dust, and odours after every journey.
                                     </p>
@@ -378,7 +378,7 @@ Service Area
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Blanket & Bed Linen Cleaning</a></h3>
                                     <p class="service-grid_text">
-                                        Thorough cleaning and sanitization for blankets, bedsheets, and linen to ensure freshness and hygienic everyday use.
+                                        Thorough cleaning and sanitization for blankets, bed sheets, and linen to ensure freshness and hygienic everyday use.
                                     </p>
                                     <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -742,7 +742,7 @@ Choose Area
                 <div class="col-lg-6 offset-lg-3">
                     <div class="title-area text-center pe-xl-4 ps-xl-4">
                         <span class="sub-title">Why Cosmos</span>
-                        <h2 class="sec-title">Cleaning Clothes One Spin at a Time</h2>
+                        <h2 class="sec-title">Premium Fabric Care, Every Time</h2>
                     </div>
                 </div>
             </div>
@@ -802,7 +802,7 @@ Choose Area
                             <img src="assets/img/icon/service_1_4.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title">Specialized Garment Treatment</h3>
+                            <h3 class="box-title">Specialized Garment Care</h3>
                             <p class="mb-0">
                                 Tailored cleaning solutions for delicate, designer, luxury, and occasion-specific garments.
                             </p>

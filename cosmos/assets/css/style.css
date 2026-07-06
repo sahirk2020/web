@@ -110,7 +110,8 @@ Version: 1.0.0
   --main-container: 1220px;
   --container-gutters: 24px;
   --section-space: 120px;
-  --section-space-mobile: 80px;
+  --section-space-mobile: 60px;
+  /* 80px to 60px */
   --section-title-space: 60px;
   --ripple-ani-duration: 5s;
 }
@@ -17427,6 +17428,11 @@ span.select2-selection.select2-selection--single:focus {
     padding: 0;
   }
 }
+@media (max-width: 1025px) {
+  .service-block:nth-child(2) {
+    padding: 0;
+  }
+}
 
 .service-block.style1 {
   direction: rtl;
@@ -17445,6 +17451,11 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 @media (max-width: 767px) {
+  .service-block.style1:nth-child(2) {
+    padding: 0;
+  }
+}
+@media (max-width: 1025px) {
   .service-block.style1:nth-child(2) {
     padding: 0;
   }

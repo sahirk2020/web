@@ -301,7 +301,7 @@ About Area
             <div class="title-area mb-25">
               <span class="sub-title style1">About Us</span>
               <h2 class="sec-title mb-20">
-                A Decade Of Trusted Garment Care
+                A Decade of Trusted Garment Care
               </h2>
               <blockquote class="about-blockquote mt-20">
                 <p>
@@ -329,7 +329,7 @@ Choose Area
         <div class="col-lg-6 offset-lg-3">
           <div class="title-area text-center pe-xl-4 ps-xl-4">
             <span class="sub-title">Why Choose Us</span>
-            <h2 class="sec-title">Cleaning Clothes One Spin at a Time</h2>
+            <h2 class="sec-title">Premium Fabric Care, Every Time</h2>
           </div>
         </div>
       </div>
@@ -387,7 +387,7 @@ Choose Area
               <img src="assets/img/icon/service_1_4.svg" alt="Service">
             </div>
             <div class="service-block_wrapper">
-              <h3 class="box-title">Specialized Garment Treatment</h3>
+              <h3 class="box-title">Specialized Garment Care</h3>
               <p class="mb-0">
                 Tailored cleaning solutions for delicate, designer, luxury, and occasion-specific garments.
               </p>
@@ -484,7 +484,7 @@ Team Area
     <div class="container z-index-common">
       <div class="title-area text-center">
         <span class="sub-title">Expert Team</span>
-        <h2 class="sec-title">Our Strategic team</h2>
+        <h2 class="sec-title">Meet Our Leadership Team</h2>
       </div>
       <div class="slider-area">
         <div
