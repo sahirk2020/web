@@ -116,9 +116,9 @@
     <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Dry-Cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Dry Cleaning</h1>
+                <h1 class="breadcumb-title sec-title1">Dry Cleaning</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="home-laundry-services.html">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
                     <li>Dry Cleaning</li>
                 </ul>
             </div>
@@ -128,7 +128,7 @@
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <div class="overflow-hidden space" id="about-sec">
+    <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
 

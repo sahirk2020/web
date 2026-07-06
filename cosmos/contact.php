@@ -109,9 +109,9 @@ ini_set('display_errors', 1);
   <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/Contact-Us-Page.webp">
     <div class="container">
       <div class="breadcumb-content">
-        <h1 class="breadcumb-title">Contact Us</h1>
+        <h1 class="breadcumb-title sec-title1">Contact Us</h1>
         <ul class="breadcumb-menu">
-          <li><a href="home-laundry-services.html">Home</a></li>
+          <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
           <li>Contact Us</li>
         </ul>
       </div>
@@ -166,13 +166,11 @@ Price Area
 
               Shop No. 6, Arihant Heights, Chatrapati Colony, Ramdas Colony, Jalgaon, Maharashtra 425001 -->
             </p>
-            <span>+91 9284630260</span>
-
+            <span><a href="tel:+91 9284630260">+91 9284630260</a></span>
 
             <div class="mapouter">
               <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7449.736586313819!2d75.556114!3d20.997916!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90f99c35e51c3%3A0xdb207799be67c5ca!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1779877037548!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
-
 
           </div>
         </div>
@@ -192,7 +190,8 @@ Price Area
               Cosmos Laundry, Behind Express Inn hotel, Pathardi
               Phata, of Mumbai Agra highway
               Nashik, Maharashtra 422009</p>
-            <span>+91 90670 55586</span>
+
+            <span><a href="tel:+91 9067055586">+91 9067055586</a></span>
 
             <div class="mapouter">
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.377919693635!2d73.74896527474176!3d19.950602823935395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdd957001684af7%3A0xe5a12dc011a3fbc2!2sCosmos%20Laundry%20Nashik!5e0!3m2!1sen!2sin!4v1782895907130!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -213,7 +212,8 @@ Price Area
             </p>
 
             <p class="address-text">Cosmos Laundry, Opposite Ekta Abhushan, Near Rajesh Gas service, Jaistambh Chowk, Amravati 444601</p>
-            <span>+91 9697895895</span>
+            <span><a href="tel:+91 9697895895">+91 9697895895</a></span>
+
 
             <div class="mapouter">
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3726.5595688983194!2d77.75013767476662!3d20.930032091163145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd6a5b26da1004d%3A0x8b85b066507f4350!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1782898294488!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -226,7 +226,7 @@ Price Area
     </div>
   </section>
 
- 
+
   <!--==============================
 Contact Area   
 ==============================-->

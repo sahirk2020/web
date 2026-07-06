@@ -116,9 +116,9 @@
     <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Traveling-Bag-Cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Traveling Bag Cleaning</h1>
+                <h1 class="breadcumb-title sec-title1">Traveling Bag Cleaning</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="home-laundry-services.html">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
                     <li>Traveling Bag Cleaning</li>
                 </ul>
             </div>
@@ -153,7 +153,7 @@ About Area
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/laundry-service.webp" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/Traveling-Bag-Cleaning.webp" alt="About" />
                         </div>
 
                     </div>
