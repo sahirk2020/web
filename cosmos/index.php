@@ -189,54 +189,7 @@ About Area
         </div>
     </div>
 
-    <div class="space bg-title d-none" id="faq-sec">
-        <div class="">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="pe-xl-5 pb-5 pb-xl-0">
-                            <div class="title-area mb-25"><span class="sub-title style1">Express Service</span>
-                                <h2 class="sec-title text-white">Need Your Clothes Today? </h2>
-                                <p>
-                                    Drop your garments before 12 PM and get them delivered by 7 PM with our Express Service.
-                                </p>
 
-                                <h4 class="text-white">
-                                    Why Choose Express Service?
-                                </h4>
-                                <ul>
-                                    <li>Same Day Delivery</li>
-                                    <li>Priority Handling</li>
-                                    <li>Premium Garment Care</li>
-                                    <li>Reliable & Hassle-Free Service </li>
-                                </ul>
-                            </div>
-                            <div class="feature-wrapper">
-                                <div class="feature-icon"><a href="tel:+919284630260"><i class="fa-solid fa-phone"></i></a></div>
-                                <div class="media-body"><span class="feature_subtitle">Call Us For Service</span>
-                                    <h3 class="box-title"><a href="tel:+919284630260">+919284630260</a></h3>
-                                </div>
-                            </div><a href="contact.php" class="th-btn style2">Book Express Service</a>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 faq-bg-image">
-
-                        <h4>
-                            Terms & Conditions -
-                        </h4>
-                        <ul>
-                            <li>• Garments must be submitted before 12:00 PM to qualify for same-day delivery. </li>
-                            <li>• Express Service charges are 2× the standard service rates.</li>
-                            <li>• Available only at selected Cosmos Laundry locations. </li>
-                            <li>• Cancellations or modifications must be requested at least 2 hours in advance. </li>
-                            <li>• Delivery timelines may vary in exceptional circumstances beyond operational control. </li>
-                        </ul>
-                    </div>
-                    <!-- <div class=""><img src="assets/img/home/overlay-express-service.webp" alt="shape"></div> -->
-                </div>
-            </div>
-        </div>
-    </div>
 
 
 
@@ -582,10 +535,61 @@ Service Area
                 <button data-slider-next="#serviceSlider1" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
             </div>
         </div>
-    </section> <!--==============================
+    </section>
+
+    <!--==============================
 Contact Area  
 ==============================-->
-    <div class="space" data-bg-src="assets/img/bg/bg-get-in-touch.webp">
+    <div class="space bg-title" id="faq-sec" data-bg-src="assets/img/bg/bg-express-1.webp">
+        <div class="">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6">
+                        <div class="pe-xl-5 pb-5 pb-xl-0">
+                            <div class="title-area mb-25"><span class="sub-title style1">Express Service</span>
+                                <h2 class="sec-title text-white">Need Your Clothes Today? </h2>
+                                <p class="text-white">
+                                    Drop your garments before 12 PM and get them delivered by 7 PM with our Express Service.
+                                </p>
+
+                                <h4 class="box-title">
+                                    Why Choose Express Service?
+                                </h4>
+                                <ul class="text-white">
+                                    <li>Same Day Delivery</li>
+                                    <li>Priority Handling</li>
+                                    <li>Premium Garment Care</li>
+                                    <li>Reliable & Hassle-Free Service </li>
+                                </ul>
+                            </div>
+                            <div class="feature-wrapper">
+                                <div class="feature-icon"><a href="tel:+919284630260"><i class="fa-solid fa-phone"></i></a></div>
+                                <div class="media-body"><span class="feature_subtitle">Call Us For Service</span>
+                                    <h3 class="box-title"><a href="tel:+919284630260">+919284630260</a></h3>
+                                </div>
+                            </div><a href="contact.php" class="th-btn style2">Book Express Service</a>
+                        </div>
+                    </div>
+                    <div class="col-xl-6">
+
+                        <h4 class="box-title">
+                            Terms & Conditions -
+                        </h4>
+                        <ul class="text-white">
+                            <li>Garments must be submitted before 12:00 PM to qualify for same-day delivery. </li>
+                            <li>Express Service charges are 2× the standard service rates.</li>
+                            <li>Available only at selected Cosmos Laundry locations. </li>
+                            <li>Cancellations or modifications must be requested at least 2 hours in advance. </li>
+                            <li>Delivery timelines may vary in exceptional circumstances beyond operational control. </li>
+                        </ul>
+                    </div>
+                    <!-- <div class=""><img src="assets/img/home/overlay-express-service.webp" alt="shape"></div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="space d-none" data-bg-src="assets/img/bg/bg-get-in-touch.webp">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -644,7 +648,9 @@ Contact Area
                 </div>
             </div>
         </div>
-    </div><!--==============================
+    </div>
+
+    <!--==============================
 Product Area
 ==============================-->
     <section class="space" id="shop-sec">
@@ -725,7 +731,9 @@ Product Area
                 </div>
             </div>
         </div>
-    </section><!--==============================
+    </section>
+
+    <!--==============================
 Choose Area  
 ==============================-->
     <section class=" overflow-hidden space-bottom">
