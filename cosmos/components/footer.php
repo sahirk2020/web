@@ -9,14 +9,14 @@
                     <div class="title-area mb-0 text-center text-lg-start">
                         <span class="sub-title style1">Ready For Effortless Laundry?</span>
                         <!-- <h2 class="sec-title1 text-white">Ready For Effortless Laundry?</h2> -->
-                        <h2 class="sec-title1 text-white">You Get Premium Laundry Service From Us!</h2>
+                        <h2 class="sec-title1 text-white">Experience Premium Laundry Services with Cosmos Laundry!</h2>
                     </div>
                 </div>
                 <div class="col-xl-5 col-lg-6">
                     <form class="cta-form">
                         <div class="form-group">
                             <input class="form-control" type="email" placeholder="Email Address" required="">
-                            <button type="submit" class="th-btn style4">Get your services</button>
+                            <button type="submit" class="th-btn style4">Book Your Service</button>
                         </div>
                     </form>
                 </div>
@@ -71,8 +71,6 @@
                             <ul class="menu">
                                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
                                 <li><a href="<?php echo BASE_URL; ?>services.php">Services</a></li>
-                                <!-- <li><a href="<?php //echo BASE_URL; 
-                                                    ?>faq.php">Help & FAQs</a></li> -->
                                 <li><a href="<?php echo BASE_URL; ?>blog.php">Blog</a></li>
                                 <li><a href="<?php echo BASE_URL; ?>contact.php">Contact Us</a></li>
                                 <li><a href="<?php echo BASE_URL; ?>t&c.php">Terms and Conditions</a></li>
@@ -95,29 +93,31 @@
                                     <!-- <i class="fa-sharp fa-solid fa-phone"></i> -->
                                     <i class="fas fa-location-dot"></i>
                                 </div>
-                                <p class="text-inherit mb-0">Cosmo Enterprises
-                                    Gat no 99/2, <br>buldhana urban ware House, <br>Chincholi shivar Jalgaon 425003
+                                <p class="text-inherit mb-0">
+                                    Cosmo Enterprises, Gat No. 99/2,
+                                    <br>Buldhana Urban Warehouse,
+                                    <br>Chincholi Shivar, Jalgaon – 425003
                                 </p>
                             </div>
                             <div class="footer-info">
                                 <div class="footer-info_icon">
                                     <i class="fa-sharp fa-solid fa-phone"></i>
                                 </div>
-                                <a class="text-inherit" href="tel:9284630260">9284630260
+                                <a class="text-inherit" href="tel:+91 92846 30260">+91 92846 30260
                                 </a>
                             </div>
                             <div class="footer-info">
                                 <div class="footer-info_icon">
                                     <i class="fas fa-envelope"></i>
                                 </div>
-                                <a class="text-inherit" href="mailto:info@laun.com">info@laun.com</a>
+                                <a class="text-inherit" href="mailto:info@cosmos.com">info@cosmos.com</a>
                             </div>
                             <div class="footer-info">
                                 <div class="footer-info_icon">
                                     <i class="fa-solid fa-clock"></i>
                                 </div>
-                                <span class="text-inherit"> Monday to Saturday: 9AM - 8PM
-                                    <br> Sunday: 9AM - 1PM
+                                <span class="text-inherit"> Monday to Saturday: 9:00 AM – 8:00 PM
+                                    <br> Sunday: 9:00 AM – 1:00 PM
                                 </span>
                             </div>
                         </div>
@@ -125,46 +125,6 @@
                     </div>
                 </div>
 
-                <!-- <div class="col-md-6 col-xl-auto">
-                    <div class="widget footer-widget">
-                        <h3 class="widget_title">Recent Posts</h3>
-                        <div class="recent-post-wrap">
-                            <div class="recent-post">
-                                <div class="media-img">
-                                    <a href="blog-details.html"><img src="<?php echo BASE_URL; ?>assets/img/blog/recent-post-1-1.jpg" alt="Blog Image"></a>
-                                </div>
-                                <div class="media-body">
-                                    <div class="recent-post-meta">
-                                        <a href="blog.html"><i class="far fa-calendar"></i>21 October , 2023</a>
-                                    </div>
-                                    <h4 class="post-title"><a class="text-inherit" href="blog-details.html">A Fresh Start for Your Wardrobe</a></h4>
-                                </div>
-                            </div>
-                            <div class="recent-post">
-                                <div class="media-img">
-                                    <a href="blog-details.html"><img src="<?php echo BASE_URL; ?>assets/img/blog/recent-post-1-2.jpg" alt="Blog Image"></a>
-                                </div>
-                                <div class="media-body">
-                                    <div class="recent-post-meta">
-                                        <a href="blog.html"><i class="far fa-calendar"></i>22 October , 2023</a>
-                                    </div>
-                                    <h4 class="post-title"><a class="text-inherit" href="blog-details.html">Where Clean Meets Convenience</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
-                <!-- <div class="col-md-6 col-xl-auto">
-                    <div class="widget footer-widget">
-                        <h3 class="widget_title">Opening Our</h3>
-                        <div class="th-widget-schedule">
-                            <p class="schedule-info"><span>Mon - Tuesday</span><span>8:00 AM - 6:00 PM</span></p>
-                            <p class="schedule-info"><span>Wed:</span><span>9:00 AM - 5:00 PM</span></p>
-                            <p class="schedule-info"><span>Fri - Sat:</span><span>9:00 AM - 6:00 PM</span></p>
-                            <p class="schedule-info"><span>Sunday</span><span>Closed</span></p>
-                        </div>
-                    </div>
-                </div> -->
 
             </div>
         </div>
@@ -175,7 +135,7 @@
         <div class="container">
             <div class="row gy-2 align-items-center">
                 <div class="col-lg-12">
-                    <p class="copyright-text text-center">Copyright <i class="fal fa-copyright"></i> <?php echo date("Y"); ?> <a href="home-laundry-services.html">Cosmos Laundry</a>. All Rights Reserved.</p>
+                    <p class="copyright-text text-center"><i class="fal fa-copyright"></i> <?php echo date("Y"); ?> <a href="home-laundry-services.html">Cosmos Laundry</a>. All Rights Reserved.</p>
                 </div>
                 <!-- <div class="col-lg-6 text-center text-md-end">
                     <div class="footer-links">
