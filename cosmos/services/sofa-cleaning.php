@@ -116,9 +116,9 @@
     <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/Sofa-Cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Sofa Cleaning</h1>
+                <h1 class="breadcumb-title sec-title1">Sofa Cleaning</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="home-laundry-services.html">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
                     <li>Sofa Cleaning</li>
                 </ul>
             </div>

@@ -106,9 +106,9 @@
     <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/service-banner.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Services</h1>
+                <h1 class="breadcumb-title sec-title1">Services</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="home-laundry-services.html">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
                     <li>Services</li>
                 </ul>
             </div>
@@ -145,9 +145,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Laundry Service</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/laundry-service.php">Laundry Service</a></h3>
                             <p class="service-item_text">Daily wear cleaning with careful washing, stain removal, fresh folding, and doorstep convenience for everyday comfort.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/laundry-service.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -163,9 +163,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Dry Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/dry-cleaning.php">Dry Cleaning</a></h3>
                             <p class="service-item_text">Professional fabric-safe dry cleaning designed to protect delicate garments, maintain texture, and preserve garment quality.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/dry-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -181,9 +181,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Premium Wash</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/premium-wash.php">Premium Wash</a></h3>
                             <p class="service-item_text">Advanced garment care using premium detergents, gentle processing, and detailed finishing for a cleaner, fresher feel.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/premium-wash.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -199,9 +199,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Steam Ironing</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/steam-ironing.php">Steam Ironing</a></h3>
                             <p class="service-item_text">Wrinkle-free finishing with steam ironing that keeps garments crisp, polished, and ready to wear anytime.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/steam-ironing.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -217,9 +217,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Shoe Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/shoe-cleaning.php">Shoe Cleaning</a></h3>
                             <p class="service-item_text">Deep cleaning and restoration for shoes, removing dirt, stains, and odour while maintaining their original finish.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/shoe-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -235,9 +235,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Leather & Bag Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/leather-and-bag-cleaning.php">Leather & Bag Cleaning</a></h3>
                             <p class="service-item_text">Careful cleaning and conditioning for leather items and luxury bags to maintain appearance, texture, and durability.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/leather-&-bag-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -253,9 +253,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Leather Jacket Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/leather-jacket-cleaning.php">Leather Jacket Cleaning</a></h3>
                             <p class="service-item_text">Specialized leather jacket treatment that removes dirt, restores softness, and protects the original material finish.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/leather-jacket-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -271,9 +271,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Traveling Bag Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/traveling-bag-cleaning.php">Traveling Bag Cleaning</a></h3>
                             <p class="service-item_text">Complete cleaning and sanitization for travel bags, removing stains, dust, and odours after every journey.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/traveling-bag-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -289,9 +289,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Carpet Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/carpet-cleaning.php">Carpet Cleaning</a></h3>
                             <p class="service-item_text">Deep carpet cleaning that removes embedded dust, allergens, stains, and odours for a fresher living environment.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/carpet-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -307,9 +307,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Sofa Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/sofa-cleaning.php">Sofa Cleaning</a></h3>
                             <p class="service-item_text">Professional sofa cleaning for fabric and upholstery, removing dirt, stains, and everyday bacteria buildup effectively.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/sofa-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -325,9 +325,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Curtain Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/curtain-cleaning.php">Curtain Cleaning</a></h3>
                             <p class="service-item_text">Gentle curtain cleaning that removes dust and odours while maintaining fabric softness, colour, and fall quality.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/curtain-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -343,9 +343,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Blanket & Bed Linen Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/blanket-&-bed-linen-cleaning.php">Blanket & Bed Linen Cleaning</a></h3>
                             <p class="service-item_text">Thorough cleaning and sanitization for blankets, bedsheets, and linen to ensure freshness and hygienic everyday use.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/blanket-&-bed-linen-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -363,9 +363,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Bed Mattress Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/bed-mattress-cleaning.php">Bed Mattress Cleaning</a></h3>
                             <p class="service-item_text">Deep mattress cleaning and sanitization that helps remove dust mites, stains, allergens, and unwanted odours effectively.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/bed-mattress-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -381,9 +381,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Institutional Chair Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/institutional-chair-cleaning.php">Institutional Chair Cleaning</a></h3>
                             <p class="service-item_text">Professional chair cleaning services for offices, institutions, and commercial spaces to maintain hygiene and cleanliness standards.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/institutional-chair-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -399,9 +399,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Bridal Wear Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/bridal-wear-cleaning.php">Bridal Wear Cleaning</a></h3>
                             <p class="service-item_text">Expert cleaning and preservation of bridal garments, ensuring beauty, freshness, and lasting elegance.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/bridal-wear-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -417,9 +417,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Saree Dry Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/saree-dry-cleaning.php">Saree Dry Cleaning</a></h3>
                             <p class="service-item_text">Specialized saree care that protects delicate fabrics, embroidery, colors, and intricate detailing.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/saree-dry-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -435,9 +435,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Designer Wear Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/designer-wear-cleaning.php">Designer Wear Cleaning</a></h3>
                             <p class="service-item_text">Professional cleaning solutions designed to preserve the quality and craftsmanship of designer apparel.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/designer-wear-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -453,9 +453,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Blazer & Suit Care</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/blazer-&-suit-care.php">Blazer & Suit Care</a></h3>
                             <p class="service-item_text">Precision cleaning and finishing for blazers and suits to maintain a sharp appearance.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/blazer-&-suit-care.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -471,9 +471,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Silk & Wool Care</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/silk-&-wool-care.php">Silk & Wool Care</a></h3>
                             <p class="service-item_text">Gentle treatment for delicate silk and wool fabrics, preserving texture, softness, and durability.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/silk-&-wool-care.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -489,9 +489,9 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Toy Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/toy-cleaning.php">Toy Cleaning</a></h3>
                             <p class="service-item_text">Safe and hygienic cleaning process that removes dirt, dust, and allergens from soft toys.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
+                            <a href="<?php echo BASE_URL; ?>services/toy-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
                 </div>
