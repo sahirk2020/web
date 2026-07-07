@@ -53,12 +53,12 @@
                         <h3 class="widget_title">Our Services</h3>
                         <div class="menu-all-pages-container">
                             <ul class="menu">
-                                <li><a href="<?php echo BASE_URL; ?>services/laundry-service.php">Laundry Service</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>services/dry-cleaning.php">Dry Cleaning</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>services/premium-wash.php">Premium Wash</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>services/steam-ironing.php">Steam Ironing</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>services/shoe-cleaning.php">Shoe Cleaning</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>services/toy-cleaning.php">Toy Cleaning</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/laundry-service.php"><span class="text-inherit">Laundry Service</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/dry-cleaning.php"><span class="text-inherit">Dry Cleaning</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/premium-wash.php"><span class="text-inherit">Premium Wash</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/steam-ironing.php"><span class="text-inherit">Steam Ironing</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/shoe-cleaning.php"><span class="text-inherit">Shoe Cleaning</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services/toy-cleaning.php"><span class="text-inherit">Toy Cleaning</span></a></li>
                             </ul>
                         </div>
                     </div>
@@ -69,12 +69,12 @@
                         <h3 class="widget_title">Quick Links</h3>
                         <div class="menu-all-pages-container">
                             <ul class="menu">
-                                <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>services.php">Services</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>blog.php">Blog</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>contact.php">Contact Us</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>t&c.php">Terms and Conditions</a></li>
-                                <li><a href="<?php echo BASE_URL; ?>privacy.php">Privacy Policy</a></li>
+                                <li><a href="<?php echo BASE_URL; ?>about.php"><span class="text-inherit">About Us</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>services.php"><span class="text-inherit">Services</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>blog.php"><span class="text-inherit">Blog</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>contact.php"><span class="text-inherit">Contact Us</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>terms-and-conditions.php"><span class="text-inherit">Terms and Conditions</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>privacy-policy.php"><span class="text-inherit">Privacy Policy</span></a></li>
                             </ul>
                         </div>
                     </div>
@@ -135,16 +135,8 @@
         <div class="container">
             <div class="row gy-2 align-items-center">
                 <div class="col-lg-12">
-                    <p class="copyright-text text-center"><i class="fal fa-copyright"></i> <?php echo date("Y"); ?> <a href="home-laundry-services.html">Cosmos Laundry</a>. All Rights Reserved.</p>
+                    <p class="copyright-text text-center"><i class="fal fa-copyright"></i><?php echo date("Y"); ?> <a href="<?php echo BASE_URL; ?>index.php">Cosmos Laundry</a>. All Rights Reserved.</p>
                 </div>
-                <!-- <div class="col-lg-6 text-center text-md-end">
-                    <div class="footer-links">
-                        <ul>
-                            <li><a href="contact.html">Privacy Policy</a></li>
-                            <li><a href="contact.html">Terms &amp; Condition</a></li>
-                        </ul>
-                    </div>
-                </div> -->
             </div>
         </div>
     </div>
