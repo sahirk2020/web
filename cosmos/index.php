@@ -623,7 +623,7 @@ Contact Area
                         <div class="title-area mb-25"><span class="sub-title style1">Express Service</span>
                             <h2 class="sec-title text-white">Need Your Clothes Today?</h2>
                             <p>
-                                Drop your garments before 12 PM and get them delivered by 7 PM with our Express Service.
+                                Drop off your garments before 12 PM and get them delivered by 7 PM with our Express Service.
                             </p>
                         </div>
                         <h4 class="box-title">
@@ -632,7 +632,7 @@ Contact Area
                         <ul class="text-white">
                             <div class="row">
                                 <div class="col-6">
-                                    <li>Same Day Delivery</li>
+                                    <li>Same-Day Delivery</li>
                                     <li>Priority Handling</li>
                                 </div>
                                 <div class="col-6">
@@ -645,8 +645,8 @@ Contact Area
                         </ul>
                         <div class="feature-wrapper">
                             <div class="feature-icon"><a href="tel:+919284630260"><i class="fa-solid fa-phone"></i></a></div>
-                            <div class="media-body"><span class="feature_subtitle">Call Us For Service</span>
-                                <h3 class="box-title"><a href="tel:+919284630260">+919284630260</a></h3>
+                            <div class="media-body"><span class="feature_subtitle"> Call Us for Service</span>
+                                <h3 class="box-title"><a href="tel:+919284630260">+91 92846 30260</a></h3>
                             </div>
                         </div><a href="contact.php" class="th-btn style2">Book Express Service</a>
                     </div>
