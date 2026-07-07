@@ -72,158 +72,182 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     </div>
     <!-- rts about area end -->
 
-    <!-- <div class="rts-team-area rts-section-gap pt-0">
+    <div class="rts-team-area rts-section-gap pt-0">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="title-style-center">
-                        <h2 class="title">Meet Our Talented Team</h2>
-                        <p class="disc">
-                            we are proud to have a dedicated and skilled team of professionals <br>
-                            who are passionate about interior renovation and design.
-                        </p>
+                        <h2 class="title">Experience That Leads. Expertise That Delivers.</h2>
+                        <p class="disc">Behind every Satyaprabhaa development is a team of experienced professionals with deep expertise in construction, finance, land acquisition, and project execution. Their collective knowledge, strategic thinking, and unwavering commitment ensure every development is planned with care, executed with precision, and built to inspire lasting confidence.</p>
                     </div>
                 </div>
             </div>
-            <div class="row g-5 mt--50">
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+            <div class="row g-5 mt--50 justify-content-center">
+                <div class="col-lg-10">
+                    <div class="row g-5  justify-content-center">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <!-- team style three -->
-                    <!-- <div class="team-style-three">
+                    <div class="team-style-three">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/team/01.jpg" alt="team">
+                            <img src="assets/images/team/vaman-giri.webp" alt="team">
                         </a>
                         <div class="bottom-content">
-                            <span class="name">CEO</span>
+                            <span class="name">Executive Director</span>
                             <a href="#">
-                                <h6 class="title">David Leo</h6>
+                                <h6 class="title">Mr. Vaman Giri</h6>
                             </a>
                         </div>
-                        <div class="social-style-team-h">
+                        <!-- <div class="social-style-team-h">
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                             </ul>
-                        </div>
-                    </div> -->
+                        </div> -->
+                    </div>
                     <!-- team style three end -->
-                <!-- </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <!-- team style three -->
-                    <!-- <div class="team-style-three">
+                    <div class="team-style-three">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/team/02.jpg" alt="team">
+                            <img src="assets/images/team/smita-giri.webp" alt="team">
                         </a>
                         <div class="bottom-content">
-                            <span class="name">Architect</span>
+                            <span class="name">Joint Managing Director</span>
                             <a href="#">
-                                <h6 class="title">Joseph Liam</h6>
+                                <h6 class="title">Mrs. Smita Giri</h6>
                             </a>
                         </div>
-                        <div class="social-style-team-h">
+                        <!-- <div class="social-style-team-h">
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                             </ul>
-                        </div>
-                    </div> -->
+                        </div> -->
+                    </div>
                     <!-- team style three end -->
-                <!-- </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <!-- team style three -->
-                    <!-- <div class="team-style-three">
+                    <div class="team-style-three">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/team/03.jpg" alt="team">
+                            <img src="assets/images/team/indrayini-giri.webp" alt="team">
                         </a>
                         <div class="bottom-content">
-                            <span class="name">Designer</span>
+                            <span class="name">Joint Managing Director</span>
                             <a href="#">
-                                <h6 class="title">Eleanor</h6>
+                                <h6 class="title">Miss. Indrayini Giri</h6>
                             </a>
                         </div>
-                        <div class="social-style-team-h">
+                        <!-- <div class="social-style-team-h">
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                             </ul>
-                        </div>
-                    </div> -->
+                        </div> -->
+                    </div>
                     <!-- team style three end -->
-                <!-- </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <!-- team style three -->
-                    <!-- <div class="team-style-three">
+                    <div class="team-style-three">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/team/04.jpg" alt="team">
+                            <img src="assets/images/team/kishore-gore.webp" alt="team">
                         </a>
                         <div class="bottom-content">
-                            <span class="name">Manager</span>
+                            <span class="name">Director Sales & Marketing</span>
                             <a href="#">
-                                <h6 class="title">Alexander</h6>
+                                <h6 class="title">Mr. Kishore Gore</h6>
                             </a>
                         </div>
-                        <div class="social-style-team-h">
+                        <!-- <div class="social-style-team-h">
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                             </ul>
-                        </div>
-                    </div> -->
+                        </div> -->
+                    </div>
                     <!-- team style three end -->
-                <!-- </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <!-- team style three -->
-                    <!-- <div class="team-style-three">
+                    <div class="team-style-three">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/team/06.jpg" alt="team">
+                            <img src="assets/images/team/sachin-bhimrajka.webp" alt="team">
                         </a>
                         <div class="bottom-content">
-                            <span class="name">Architect</span>
+                            <span class="name">CFO</span>
                             <a href="#">
-                                <h6 class="title">Thomas Leo</h6>
+                                <h6 class="title">Mr. Sachin Bhimrajka</h6>
                             </a>
                         </div>
-                        <div class="social-style-team-h">
+                        <!-- <div class="social-style-team-h">
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                             </ul>
-                        </div>
-                    </div> -->
+                        </div> -->
+                    </div>
                     <!-- team style three end -->
-                <!-- </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12"> -->
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <!-- team style three -->
-                    <!-- <div class="team-style-three">
+                    <div class="team-style-three">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/team/07.jpg" alt="team">
+                            <img src="assets/images/team/vishal-bhosale.webp" alt="team">
                         </a>
                         <div class="bottom-content">
-                            <span class="name">Designer</span>
+                            <span class="name">Business Development Head</span>
                             <a href="#">
-                                <h6 class="title">Charlotte Luna</h6>
+                                <h6 class="title">Mr. Vishal Bhosale</h6>
                             </a>
                         </div>
-                        <div class="social-style-team-h">
+                        <!-- <div class="social-style-team-h">
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                             </ul>
-                        </div>
-                    </div> -->
+                        </div> -->
+                    </div>
                     <!-- team style three end -->
-                <!-- </div> -->
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                    <!-- team style three -->
+                    <div class="team-style-three">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/team/jameer-shaikh.webp" alt="team">
+                        </a>
+                        <div class="bottom-content">
+                            <span class="name">Finance Head</span>
+                            <a href="#">
+                                <h6 class="title">Mr. Jameer Shaikh</h6>
+                            </a>
+                        </div>
+                        <!-- <div class="social-style-team-h">
+                            <ul>
+                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div> -->
+                    </div>
+                    <!-- team style three end -->
+                </div>
+</div>
+</div>
             </div>
         </div>
     </div>
@@ -294,6 +318,155 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     </div>
     <!-- Vision Mission section end -->
 
+    <div class="rts-service-area rts-section-gap">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="text-center">
+                        <!-- title-left -->
+                        <div class="title-area-style-six-left">
+                            <!-- <span class="pre">
+                                Feature Services
+                            </span> -->
+                            <h2 class="title">What we are PROUD OF</h2>
+                        </div>
+                        <!-- title mid text -->
+                        <!-- <p class="disc">
+                            In our interior design projects, we aim to create environments that inspire, uplift, &amp;
+                            enhance the lives of those who inhabit.
+                        </p> -->
+                        <!-- <a href="#" class="rts-read-more-circle-btn under-line">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p>View All Services</p>
+                        </a> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row mt--50 align-items-center">
+                <div class="col-lg-5">
+                    <div class="thumbnail-serice-6-left">
+                        <div class="image-hover-bg">
+                            <div class="rts-img-hover one active">
+                                <img src="assets/images/about/Redevelopment-Expertise.webp" alt="Redevelopment-Expertise">
+                            </div>
+                            <div class="rts-img-hover two">
+                                <img src="assets/images/about/Timely-Delivery.webp" alt="Timely-Delivery">
+                            </div>
+                            <div class="rts-img-hover three">
+                                <img src="assets/images/about/Cost-Efficiency.webp" alt="Cost-Efficiency">
+                            </div>
+                            <div class="rts-img-hover four">
+                                <img src="assets/images/about/Value-Creation.webp" alt="Value-Creation">
+                            </div>
+                            <div class="rts-img-hover five">
+                                <img src="assets/images/about/Recurring-Revenue-Model.webp" alt="Recurring-Revenue-Model">
+                            </div>
+                            <div class="rts-img-hover six">
+                                <img src="assets/images/about/Community-first-Approach.webp" alt="Community-first-Approach">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-7 mt_md--50 mt_sm--50">
+                    <div class="service-list-one-wrapper">
+                        <!-- ingle service area start -->
+                        <div class="signle-service-list row one active">
+                            <div class="left-one col-md-3">
+                                <span>01</span>
+                                <a href="">
+                                    <h5 class="title">Redevelopment Expertise</h5>
+                                </a>
+                            </div>
+                            <div class="col-8">
+                                <p class="disc">Delivering trusted redevelopment projects in well-connected, high-demand locations.</p>
+                            </div>
+                            <!-- <a href="" class="rts-read-more-circle-btn">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                                <p>View Details</p>
+                            </a> -->
+                        </div>
+                        <!-- ingle service area end -->
+                        <!-- ingle service area start -->
+                        <div class="signle-service-list row two">
+                            <div class="left-one col-md-3">
+                                <span>02</span>
+                                <h5 class="title">Timely Delivery</h5>
+                            </div>
+                            <div class="col-8">
+                                <p class="disc">A consistent track record of completing projects on time with uncompromised quality.</p>
+                            </div>
+                            <!-- <a href="" class="rts-read-more-circle-btn">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                                <p>View Details</p>
+                            </a> -->
+                        </div>
+                        <!-- ingle service area end -->
+                        <!-- ingle service area start -->
+                        <div class="signle-service-list row three">
+                            <div class="left-one col-md-3">
+                                <span>03</span>
+                                <h5 class="title">Cost Efficiency</h5>
+                            </div>
+                            <div class="col-8">
+                                <p class="disc">Strong in-house capabilities that ensure better quality control and cost efficiency.</p>
+                            </div>
+                            <!-- <a href="" class="rts-read-more-circle-btn">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                                <p>View Details</p>
+                            </a> -->
+                        </div>
+                        <!-- ingle service area end -->
+                        <!-- ingle service area start -->
+                        <div class="signle-service-list row four">
+                            <div class="left-one col-md-3">
+                                <span>04</span>
+                                <h5 class="title">Value Creation</h5>
+                            </div>
+                            <div class="col-8">
+                                <p class="disc">Thoughtful planning and strategic locations designed for lasting appreciation.</p>
+                            </div>
+                            <!-- <a href="" class="rts-read-more-circle-btn">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                                <p>View Details</p>
+                            </a> -->
+                        </div>
+                        <!-- ingle service area end -->
+                         <!-- ingle service area start -->
+                        <div class="signle-service-list row five">
+                            <div class="left-one col-md-3">
+                                <span>05</span>
+                                <h5 class="title">Recurring Revenue Model</h5>
+                            </div>
+                            <div class="col-8">
+                                <p class="disc">Integrated residential and commercial developments that create long-term value.</p>
+                            </div>
+                            <!-- <a href="" class="rts-read-more-circle-btn">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                                <p>View Details</p>
+                            </a> -->
+                        </div>
+                        <!-- ingle service area end -->
+                         <!-- ingle service area start -->
+                        <div class="signle-service-list row six">
+                            <div class="left-one col-md-3">
+                                <span>06</span>
+                                <h5 class="title">Community-first Approach</h5>
+                            </div>
+                            <div class="col-8">
+                                <p class="disc">Transparent processes, lasting relationships, and a commitment to every stakeholder.</p>
+                            </div>
+                            <!-- <a href="" class="rts-read-more-circle-btn">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                                <p>View Details</p>
+                            </a> -->
+                        </div>
+                        <!-- ingle service area end -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- why choose us section start -->
     <div class="rts-section-gap why-chooseus-section">
         <div class="container">
@@ -320,7 +493,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                         </p>
                     </div>
                     <!-- why chooseus section end -->
-                    <div class="row mt--20 g-5">
+                    <div class="row mt--0 g-5">
                         <div class="col-lg-6 rts-slide-up">
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
@@ -387,6 +560,151 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
         </div>
     </div>
     <!-- why choose us section end -->
+
+    <!-- rts pricing area start -->
+    <div class="rts-pricing-area rts-section-gap">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="title-style-center">
+                        <div class="pre-title-area">
+                            <!-- <img src="assets/images/about/02.png" alt="about"> -->
+                            <!-- <span class="pre-title"></span> -->
+                        </div>
+                        <h2 class="title mt--10">Sustainability & ESG MEASURES</h2>
+                        <p class="disc">
+                            Sustainability is at the heart of every Satyaprabhaa development. Through green building practices, responsible construction, workforce welfare, and transparent governance, we create spaces designed for a better future.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-5 mt--30">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single pricing area -->
+                    <div class="single-pricing-main">
+                        <div class="head">
+                            <!-- <span>basic Plane</span> -->
+                            <h2 class="price">ENVIRONMENTAL (E)</h2>
+                        </div>
+                        <div class="body">
+                            <!-- <p class="disc">
+                                The initial consultation is a meeting between the
+                                designer and the client to discuss the project.
+                            </p> -->
+                            <ul>
+                                <li>Rainwater harvesting</li>
+                                <li>Preserve and plant trees onsite</li>
+                                <li>Optimal use of natural light</li>
+                                <li>Sedimentation & recharge pits</li>
+                                <li>Waste management</li>
+                                <li>Minimise soil erosion</li>
+                                <li>Local sourcing</li>
+                                <li>Proper construction material management</li>
+                            </ul>
+                            <!-- <div class="available">
+                                <i class="fa-light fa-check"></i>
+                                Rainwater harvesting
+                            </div>
+                            <div class="available not">
+                                <i class="fa-light fa-x"></i>
+                                Design Development
+                            </div>
+                            <div class="available">
+                                <i class="fa-light fa-check"></i>
+                                Construction Administration
+                            </div>
+                            <div class="available not">
+                                <i class="fa-light fa-x"></i>
+                                Additional Services
+                            </div> -->
+                            <!-- <a href="#" class="rts-btn btn-border">Get Started</a> -->
+                        </div>
+                    </div>
+                    <!-- single pricing area end -->
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single pricing area -->
+                    <div class="single-pricing-main">
+                        <div class="head">
+                            <!-- <span>Popular Plan </span> -->
+                            <h2 class="price">SOCIAL (S)</h2>
+                        </div>
+                        <div class="body">
+                            <ul>
+                                <li>Onsite toilets, drinking water, and first aid</li>
+                                <li>Labour hutments for accommodation</li>
+                                <li>Safety equipment and onsite signage</li>
+                                <li>Education programs for labour welfare</li>
+                                <li>Creche for labour kids</li>
+                                <li>Labour Insurance</li>
+                            </ul>
+                            <!-- <p class="disc">
+                                The initial consultation is a meeting between the
+                                designer and the client to discuss the project.
+                            </p> -->
+                            <!-- <div class="available">
+                                <i class="fa-light fa-check"></i>
+                                Concept Development
+                            </div>
+                            <div class="available">
+                                <i class="fa-light fa-x"></i>
+                                Design Development
+                            </div>
+                            <div class="available">
+                                <i class="fa-light fa-check"></i>
+                                Construction Administration
+                            </div>
+                            <div class="available not">
+                                <i class="fa-light fa-x"></i>
+                                Additional Services
+                            </div>
+                            <a href="#" class="rts-btn btn-border">Get Started</a> -->
+                        </div>
+                    </div>
+                    <!-- single pricing area end -->
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single pricing area -->
+                    <div class="single-pricing-main">
+                        <div class="head">
+                            <!-- <span>Premium Plan</span> -->
+                            <h2 class="price">GOVERNANCE (G)</h2>
+                        </div>
+                        <div class="body">
+                            <ul>
+                                <li>Compliance with construction norms</li>
+                                <li>Monitoring through GEM checklist</li>
+                                <li>Transparent documentation processes</li>
+                            </ul>
+                            <!-- <p class="disc">
+                                The initial consultation is a meeting between the
+                                designer and the client to discuss the project.
+                            </p>
+                            <div class="available">
+                                <i class="fa-light fa-check"></i>
+                                Concept Development
+                            </div>
+                            <div class="available">
+                                <i class="fa-light fa-x"></i>
+                                Design Development
+                            </div>
+                            <div class="available">
+                                <i class="fa-light fa-check"></i>
+                                Construction Administration
+                            </div>
+                            <div class="available ">
+                                <i class="fa-light fa-x"></i>
+                                Additional Services
+                            </div>
+                            <a href="#" class="rts-btn btn-border">Get Started</a> -->
+                        </div>
+                    </div>
+                    <!-- single pricing area end -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- rts pricing area end -->
 
     <!-- why choose us section start -->
     <div class="rts-section-gap why-chooseus-section">

@@ -93,7 +93,7 @@
                         <a href="#">B-102, Lotus Aman, SR-26, Lane No. 1, Dahanukar Colony, Kothrud, Pune - 411038 </a>
                     </div>
                     <div class="single-info">
-                        <a href="mailto:Sales@llipl.com">Sales@llipl.com</a>
+                        <a href="mailto:sales@satyaprabhaa.com">sales@satyaprabhaa.com</a>
                     </div>
                     <!-- <h6 class="title mt--30">Office Address</h6>
                     <div class="single-info">

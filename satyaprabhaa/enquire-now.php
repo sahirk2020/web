@@ -18,7 +18,7 @@
                                 <option value="Aundh">Aundh</option>
                             </select>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-12">
                             <select class="form-control" name="requirement" id="requirement" aria-required="true" aria-invalid="false" data-ml-field="Flat Type">
 
                             <option value="">Select Your Requirement</option>

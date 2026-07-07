@@ -661,7 +661,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="vedio-icone">
-                        <a class="play-video popup-youtube video-play-button" href="https://youtu.be/7XRusv97ZRs">
+                        <a class="play-video popup-youtube video-play-button" href="https://www.youtube.com/watch?v=7XRusv97ZRs">
                             <span></span>
                         </a>
                         <div class="video-overlay">

@@ -68,8 +68,8 @@ $page_description = "Contact us for best upcoming & residential projects in pune
                                     <i class="fa-regular fa-envelope"></i>
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title text-capitalize">CUSTOMER ENQUIRY</h6>
-                                    <p class="disc">Sales@llipl.com</p>
+                                    <h6 class="title text-capitalize">Customer Enquiry</h6>
+                                    <p class="disc">sales@satyaprabhaa.com</p>
                                 </div>
                             </div>
                             <!-- single choose us area end -->

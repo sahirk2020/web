@@ -18582,11 +18582,12 @@ padding-left: 120px !important;
 
 .service-list-one-wrapper .signle-service-list {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  gap: 25px;
+  /* align-items: center; */
+  /* justify-content: space-between; */
   border-bottom: 1px solid #E3E3E3;
-  padding-bottom: 25px;
-  padding-top: 25px;
+  padding-bottom: 15px;
+  padding-top: 15px;
 }
 @media only screen and (max-width: 1199px) {
   .service-list-one-wrapper .signle-service-list {
@@ -18607,12 +18608,12 @@ padding-left: 120px !important;
 .service-list-one-wrapper .signle-service-list .left-one {
   flex-basis: 27%;
   display: flex;
-  align-items: center;
-  gap: 30px;
+  /* align-items: center; */
+  gap: 20px;
 }
 .service-list-one-wrapper .signle-service-list .left-one span {
   color: #30373E;
-  font-size: 24px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 700;
   transition: 0.3s;
@@ -18620,10 +18621,10 @@ padding-left: 120px !important;
 }
 .service-list-one-wrapper .signle-service-list .left-one .title {
   color: #30373E;
-  font-size: 24px;
+  font-size: 19px;
   font-style: normal;
   font-weight: 600;
-  line-height: 34px;
+  line-height: 24px;
   margin: 0;
   transition: 0.3s;
 }
@@ -22436,6 +22437,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   overflow: hidden;
 }
 .team-style-three .thumbnail img {
+  background: #f6f6f6;
   width: 100%;
 }
 .team-style-three .bottom-content {
@@ -22443,16 +22445,23 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 }
 .team-style-three .bottom-content .name {
   padding: 6px 14px;
+  text-align: center;
   background: #F6F6F6;
+  font-size: 14px;
   display: block;
   color: #30373E;
-  max-width: max-content;
+  max-width: 100%;
+}
+.team-style-three .bottom-content a{
+  display:flex;
+  justify-content:center;
+  text-align:center;
 }
 .team-style-three .bottom-content .title {
   background: #30373E;
   padding: 10px 14px;
   text-align: left;
-  max-width: 160px;
+  max-width: fit-content;
   color: #fff;
   transition: 0.3s;
 }
@@ -23648,7 +23657,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   align-items: flex-start;
   height: 100%;
   gap: 19px;
-  padding: 24px;
+  padding: 10px;
   border: 1px solid #E3E3E3;
   transition: 0.4s;
 }
@@ -24932,6 +24941,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 .single-pricing-main {
   background: #F6F6F6;
   padding: 35px;
+  height: 100%;
   border: 1px solid transparent;
   transition: 0.3s;
 }
@@ -24951,10 +24961,11 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 }
 .single-pricing-main .head .price {
   color: #30373E;
-  font-size: 34px;
+  font-size: 30px;
   font-style: normal;
+  text-align: center;
   font-weight: 700;
-  line-height: 44px;
+  line-height: 34px;
   margin-top: 5px;
 }
 .single-pricing-main .body p.disc {
