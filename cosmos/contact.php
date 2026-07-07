@@ -1,8 +1,3 @@
-<?php
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-?>
-
 <!doctype html>
 <html class="no-js" lang="zxx">
 
@@ -21,74 +16,12 @@ ini_set('display_errors', 1);
     content="Laun - Laundry Service & Dry Cleaning HTML Template" />
   <meta name="robots" content="INDEX,FOLLOW" />
 
+  <?php include_once "css.php" ?>
+
   <!-- Mobile Specific Metas -->
   <meta
     name="viewport"
     content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
-  <!-- Favicons - Place favicon.ico in the root directory -->
-  <link
-    rel="apple-touch-icon"
-    sizes="57x57"
-    href="assets/img/favicons/apple-icon-57x57.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="60x60"
-    href="assets/img/favicons/apple-icon-60x60.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="72x72"
-    href="assets/img/favicons/apple-icon-72x72.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="76x76"
-    href="assets/img/favicons/apple-icon-76x76.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="114x114"
-    href="assets/img/favicons/apple-icon-114x114.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="120x120"
-    href="assets/img/favicons/apple-icon-120x120.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="144x144"
-    href="assets/img/favicons/apple-icon-144x144.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="152x152"
-    href="assets/img/favicons/apple-icon-152x152.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="assets/img/favicons/apple-icon-180x180.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="192x192"
-    href="assets/img/favicons/android-icon-192x192.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="32x32"
-    href="assets/img/favicons/favicon-32x32.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="96x96"
-    href="assets/img/favicons/favicon-96x96.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="16x16"
-    href="assets/img/favicons/favicon-16x16.png" />
-  <link rel="manifest" href="assets/img/favicons/manifest.json" />
-  <meta name="msapplication-TileColor" content="#ffffff" />
-  <meta
-    name="msapplication-TileImage"
-    content="assets/img/favicons/ms-icon-144x144.png" />
-  <meta name="theme-color" content="#ffffff" />
 
   <!--==============================
 	  Google Fonts
@@ -157,7 +90,7 @@ Price Area
             <p class="address-text">
 
               Cosmos Laundry, Shop No. 6,
-              Arihant Heights, Chatrapati Colony,
+              Arihant Heights, Chhatrapati Colony,
               Ramdas Colony, Jalgaon, Maharashtra 425001
 
               <!-- Cosmos Laundry, Gat no 99/2,
@@ -187,9 +120,7 @@ Price Area
             </p>
 
             <p class="address-text">
-              Cosmos Laundry, Behind Express Inn hotel, Pathardi
-              Phata, of Mumbai Agra highway
-              Nashik, Maharashtra 422009</p>
+              Cosmos Laundry, Behind Express Inn Hotel, Pathardi Phata, off the Mumbai–Agra Highway, Nashik, Maharashtra 422009</p>
 
             <span><a href="tel:+91 9067055586">+91 9067055586</a></span>
 
@@ -211,7 +142,7 @@ Price Area
               Municipal Corporation Limited
             </p>
 
-            <p class="address-text">Cosmos Laundry, Opposite Ekta Abhushan, Near Rajesh Gas service, Jaistambh Chowk, Amravati 444601</p>
+            <p class="address-text">Cosmos Laundry, Opposite Ekta Abhushan, Near Rajesh Gas Service, Jaistambh Chowk, Amravati 444601</p>
             <span><a href="tel:+91 9697895895">+91 9697895895</a></span>
 
 
@@ -237,7 +168,7 @@ Contact Area
         <div class="col-lg-6">
           <div class="title-area pe-xl-4 mb-10">
             <h2 class="sec-title contact-title">
-              Laundry Care, Just A Call Away
+              Laundry Care, Just a Call Away
             </h2>
             <p class="contact-title2">
               Get in touch for expert garment care, doorstep convenience, and responsive support that makes laundry effortless.
@@ -285,8 +216,8 @@ Contact Area
                 </div>
                 <div class="media-body ">
                   <h6 class="contact-info_title">Store Time</h6>
-                  <span class="contact-info_text"> <a>Mon to Sat: 9AM - 8PM
-                      <br> Sunday: 9AM - 1PM</a>
+                  <span class="contact-info_text"> <a>Mon–Sat: 9:00 AM – 8:00 PM
+                      <br> Sun: 9:00 AM – 1:00 PM</a>
                   </span>
                 </div>
               </div>

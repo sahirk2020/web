@@ -1,13 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
-?>
-
-<?php include '../components/header.php'; ?>
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -28,68 +21,13 @@
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link
-        rel="apple-touch-icon"
-        sizes="57x57"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-57x57.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="60x60"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-60x60.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="72x72"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-72x72.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="76x76"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-76x76.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="114x114"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-114x114.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="120x120"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-120x120.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="144x144"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-144x144.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="152x152"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-152x152.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-180x180.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/android-icon-192x192.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-32x32.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-96x96.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-16x16.png" />
-    <link rel="manifest" href="<?php echo BASE_URL; ?>assets/img/favicons/manifest.json" />
+    <?php include_once "../css.php" ?>
+
+    <link rel="manifest" href="assets/img/favicons/manifest.json" />
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta
         name="msapplication-TileImage"
-        content="<?php echo BASE_URL; ?>assets/img/favicons/ms-icon-144x144.png" />
+        content="assets/img/favicons/ms-icon-144x144.png" />
     <meta name="theme-color" content="#ffffff" />
 
     <!--==============================
@@ -109,13 +47,15 @@
 
 <body>
 
+    <?php include '../components/header.php'; ?>
+
     <!--==============================
     Breadcumb
 ============================== -->
     <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/bed-mattress-cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Bed Mattress Cleaning</h1>
+                <h1 class="breadcumb-title sec-title1">Bed Mattress Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="home-laundry-services.html">Home</a></li>
                     <li>Bed Mattress Cleaning</li>
@@ -139,14 +79,14 @@ About Area
                         <div class="title-area mb-25">
                             <span class="sub-title style1">About Service</span>
                             <h2 class="sec-title mb-20">
-                                Deep Mattress Sanitization Service
+                                Deep Mattress Cleaning & Sanitization
                             </h2>
                             <p class="about-desc">
                                 Mattresses can accumulate dust, allergens, bacteria, sweat, and unwanted odors
                                 over time. Our professional mattress cleaning service uses advanced cleaning
                                 and sanitization methods to remove contaminants and improve overall hygiene.
                                 The process helps create a cleaner and healthier sleeping environment while
-                                extending the lifespan of your mattress. Suitable for residential and commercial
+                                extending the <b>life</b> of your mattress. Suitable for residential and commercial
                                 use, our deep cleaning solutions target hidden dirt and allergens effectively.
                                 Experience improved freshness, cleanliness, and comfort with expert mattress care
                                 tailored for better sleep quality.
@@ -159,7 +99,7 @@ About Area
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/bed-mattress-cleaning.webp" width="100%" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/bed-mattress-cleaning.webp" alt="About" />
                         </div>
 
                     </div>
@@ -172,65 +112,9 @@ About Area
 
 
     <!--==============================
-feature Area  
-==============================-->
-    <!-- <div class="overflow-hidden space" id="feature-area">
-        <div class="container">
-            <div class="row gy-4 justify-content-center">
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_1.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">100% Happiness Guarantee</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInDown">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_2.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">Free Collection & Delivery</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="<?php echo BASE_URL; ?>assets/img/icon/feature_1_3.svg" alt="icon" />
-                        </div>
-                        <div class="media-body">
-                            <h3 class="box-title">24/7 Dedicated Support</h3>
-                            <p class="feature-item_text">
-                                Emphasize the use of high-quality detergents, fabric
-                                softeners.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!--==============================
-Service Area  
-==============================-->
-
-
-    <!--==============================
 Faq Area
 ==============================-->
-    <div class="  space overflow-hidden" id="faq-sec">
+    <div class=" process space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-xl-12 text-center text-xl-start align-self-center">
@@ -279,7 +163,7 @@ Faq Area
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
-                                        How long does laundry take at Cosmos Laundry?
+                                        How long does mattress cleaning take at Cosmos Laundry?
                                     </button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
@@ -326,7 +210,7 @@ Faq Area
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
-                                        How long does mattress cleaning take and how long before I can use it?
+                                        How long does mattress cleaning take, and when can I use the mattress again?
                                     </button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">

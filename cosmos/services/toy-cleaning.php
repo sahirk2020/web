@@ -6,7 +6,7 @@
 // ini_set('display_errors', 1);
 ?>
 
-<?php include '../components/header.php'; ?>
+
 
 <head>
     <meta charset="utf-8" />
@@ -27,64 +27,8 @@
     <meta
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <?php include_once "../css.php" ?>
 
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link
-        rel="apple-touch-icon"
-        sizes="57x57"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-57x57.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="60x60"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-60x60.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="72x72"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-72x72.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="76x76"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-76x76.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="114x114"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-114x114.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="120x120"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-120x120.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="144x144"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-144x144.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="152x152"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-152x152.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-180x180.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/android-icon-192x192.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-32x32.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-96x96.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-16x16.png" />
     <link rel="manifest" href="<?php echo BASE_URL; ?>assets/img/favicons/manifest.json" />
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta
@@ -108,14 +52,14 @@
 </head>
 
 <body>
-
+    <?php include '../components/header.php'; ?>
     <!--==============================
     Breadcumb
 ============================== -->
     <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/toy-cleaning-banner.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Toy Cleaning Service</h1>
+                <h1 class="breadcumb-title sec-title1">Toy Cleaning Service</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="index">Home</a></li>
                     <li>Toy Cleaning Service</li>
@@ -123,7 +67,6 @@
             </div>
         </div>
     </div>
-
 
 
     <!--======== / Hero Section ========--><!--==============================
@@ -146,7 +89,7 @@ About Area
                                 regular cleaning essential. Cosmos Laundry provides professional toy cleaning
                                 services for soft toys, plush toys, stuffed animals, and fabric play items using
                                 child-safe cleaning methods. Our process removes dirt, stains, bacteria, and
-                                unpleasant odors while protecting the toy's softness, shape, and colors. Every
+                                unpleasant odors while protecting the toy's softness, shape, and color. Every
                                 toy is thoroughly cleaned, sanitized, and carefully finished so your little ones
                                 can continue enjoying their favorite companions in a cleaner and healthier
                                 environment.
@@ -159,7 +102,7 @@ About Area
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/toy-cleaning.webp" width="100%" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/toy-cleaning.webp" alt="About" />
                         </div>
 
                     </div>
@@ -174,7 +117,7 @@ About Area
     <!--==============================
 Faq Area
 ==============================-->
-    <div class="  space overflow-hidden" id="faq-sec">
+    <div class=" process space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-xl-12 text-center text-xl-start align-self-center">
@@ -195,7 +138,7 @@ Faq Area
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p class="faq-text">
-                                            We clean soft toys and plush toys of all sizes, from small stuffed animals to large teddy bears, along with fabric dolls and similar items. If you're unsure whether a particular toy can be cleaned, send us a photo and we'll tell you before you bring it in.
+                                            We clean soft toys and plush toys of all sizes, from small stuffed animals to large teddy bears, along with fabric dolls and similar items. If you're unsure whether a particular toy can be cleaned, send us a photo, and we'll let you know whether it can be safely cleaned before you bring it in.
                                         </p>
                                     </div>
                                 </div>
@@ -221,7 +164,7 @@ Faq Area
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
-                                        Do you actually sanitise the toys, or just clean them on the surface?
+                                        Do you actually sanitize the toys, or just clean the surface?
                                     </button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
@@ -266,7 +209,7 @@ Faq Area
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-6">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
-                                        Can you remove stains, smell, and dust mites?
+                                        Can you remove stains, odors, and dust mites?
                                     </button>
                                 </div>
                                 <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">

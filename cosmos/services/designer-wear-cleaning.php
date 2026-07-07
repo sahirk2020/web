@@ -6,7 +6,7 @@
 // ini_set('display_errors', 1);
 ?>
 
-<?php include '../components/header.php'; ?>
+
 
 <head>
     <meta charset="utf-8" />
@@ -28,63 +28,8 @@
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link
-        rel="apple-touch-icon"
-        sizes="57x57"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-57x57.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="60x60"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-60x60.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="72x72"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-72x72.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="76x76"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-76x76.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="114x114"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-114x114.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="120x120"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-120x120.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="144x144"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-144x144.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="152x152"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-152x152.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-180x180.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/android-icon-192x192.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-32x32.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-96x96.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-16x16.png" />
+    <?php include_once "../css.php" ?>
+
     <link rel="manifest" href="<?php echo BASE_URL; ?>assets/img/favicons/manifest.json" />
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta
@@ -108,14 +53,14 @@
 </head>
 
 <body>
-
+    <?php include '../components/header.php'; ?>
     <!--==============================
     Breadcumb
 ============================== -->
     <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/designer-wear-cleaning-banner.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Designer Wear Cleaning Service</h1>
+                <h1 class="breadcumb-title sec-title1">Designer Wear Cleaning Service</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="home-laundry-services.html">Home</a></li>
                     <li>Designer Wear Cleaning Service</li>
@@ -142,7 +87,7 @@ About Area
                                 Luxury Garment Cleaning Experts
                             </h2>
                             <p class="about-desc">
-                                signer garments require specialized care that goes beyond regular cleaning.
+                                Designer garments require specialized care that goes beyond regular cleaning.
                                 Cosmos Laundry uses advanced dry cleaning methods designed to protect premium
                                 fabrics, intricate detailing, and unique craftsmanship. Whether it's couture
                                 dresses, designer kurtas, gowns, jackets, or luxury ethnic wear, every piece
@@ -159,7 +104,7 @@ About Area
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/designer-wear-cleaning.webp" width="100%" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/designer-wear-cleaning.webp" alt="About" />
                         </div>
 
                     </div>
@@ -172,7 +117,7 @@ About Area
     <!--==============================
 Faq Area
 ==============================-->
-    <div class="  space overflow-hidden" id="faq-sec">
+    <div class=" process space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-xl-12 text-center text-xl-start align-self-center">
@@ -193,7 +138,7 @@ Faq Area
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p class="faq-text">
-                                            Designer wear usually means outfits with delicate construction, mixed fabrics, or detailed handwork, the kind of garment where one wrong cleaning step ruins the whole piece. These are cleaned by hand and by eye, with the method chosen around the embellishment and the fabric rather than a one-size-fits-all cycle.
+                                            Designer wear usually means outfits with delicate construction, mixed fabrics, or detailed handwork, the kind of garment where one wrong cleaning step ruins the whole piece. These garments are carefully cleaned by hand when required, with the method chosen around the embellishment and the fabric rather than a one-size-fits-all cycle.
                                         </p>
                                     </div>
                                 </div>
@@ -250,7 +195,7 @@ Faq Area
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
-                                        My designer outfit was never worn but has yellowed in storage. Can you fix it?
+                                        My designer outfit has yellowed in storage even though it was never worn. Can you restore it?
                                     </button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">

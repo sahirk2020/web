@@ -1,13 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
-?>
-
-<?php include '../components/header.php'; ?>
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -28,63 +21,8 @@
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link
-        rel="apple-touch-icon"
-        sizes="57x57"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-57x57.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="60x60"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-60x60.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="72x72"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-72x72.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="76x76"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-76x76.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="114x114"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-114x114.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="120x120"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-120x120.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="144x144"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-144x144.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="152x152"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-152x152.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-180x180.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/android-icon-192x192.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-32x32.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-96x96.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-16x16.png" />
+    <?php include_once "../css.php" ?>
+
     <link rel="manifest" href="<?php echo BASE_URL; ?>assets/img/favicons/manifest.json" />
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta
@@ -109,13 +47,14 @@
 
 <body>
 
+    <?php include '../components/header.php'; ?>
     <!--==============================
     Breadcumb
 ============================== -->
     <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/suit-and-blazer-care-banner.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Blazer & Suit Care</h1>
+                <h1 class="breadcumb-title sec-title1">Blazer & Suit Care</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="home-laundry-services.html">Home</a></li>
                     <li>Blazer & Suit Care</li>
@@ -158,7 +97,7 @@ About Area
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/blazer-&-suit-care.webp" width="100%" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/blazer-&-suit-care.webp" alt="About" />
                         </div>
 
                     </div>
@@ -172,7 +111,7 @@ About Area
     <!--==============================
 Faq Area
 ==============================-->
-    <div class="  space overflow-hidden" id="faq-sec">
+    <div class="process  space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-xl-12 text-center text-xl-start align-self-center">
@@ -193,7 +132,7 @@ Faq Area
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p class="faq-text">
-                                            Less often than most people think. Over-cleaning wears out the fabric and the structure faster than wearing it does. For regular use, clean a suit every few wears or when it's visibly soiled or smells of sweat, and air it out and brush it down between cleans to stretch the time in between.
+                                            Less often than you might think. Over-cleaning wears out the fabric and the structure faster than wearing it does. For regular use, clean a suit every few wears or when it's visibly soiled or smells of sweat, and air it out and brush it after each use to extend the time between cleanings.
                                         </p>
                                     </div>
                                 </div>
@@ -220,7 +159,7 @@ Faq Area
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
-                                        How do you get rid of sweat odour and underarm marks on a blazer?
+                                        How do you remove sweat odor and underarm stains from a blazer?
                                     </button>
                                 </div>
                                 <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">

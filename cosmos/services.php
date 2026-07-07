@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Laun - Laundry Service & Dry Cleaning HTML Template - Home Dry Cleaning</title>
+    <title></title>
     <meta name="author" content="Laun">
     <meta name="description" content="Laun - Laundry Service & Dry Cleaning HTML Template">
     <meta name="keywords" content="Laun - Laundry Service & Dry Cleaning HTML Template">
@@ -13,27 +13,12 @@
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
+    <?php include_once "css.php" ?>
+
     <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-
-    <!-- <link rel="stylesheet" href="<?php //echo BASE_URL; 
-                                        ?>assets/css/price-table-new.css" /> -->
 
     <!--==============================
 	  Google Fonts
@@ -74,23 +59,6 @@
         .tooltip.bs-tooltip-end .tooltip-arrow::before {
             border-right-color: var(--theme-color2) !important;
         }
-
-        /* @media (min-width: 768px) {
-
-            .container,
-            .container-md,
-            .container-sm {
-                max-width: 720px !important;
-            }
-        }
-
-        @media (min-width: 576px) {
-
-            .container,
-            .container-sm {
-                max-width: 540px !important;
-            }
-        } */
     </style>
 
 </head>
@@ -115,9 +83,7 @@
         </div>
     </div>
 
-    <?php
-    // require("price-table.php");
-    ?>
+
 
     <!--==============================
 Service Area  
@@ -574,7 +540,7 @@ Service Area
 
                         <!-- <i class="fa fa-user"></i> -->
                         <img src="<?php echo BASE_URL; ?>assets/img/icon/price-table/mens.svg" width="30" height="30" alt="Mens Icon" class="tab-icon" />
-                        Mens
+                        Men
                     </button>
                 </li>
 
@@ -587,7 +553,7 @@ Service Area
 
                         <!-- <i class="fa fa-female"></i> -->
                         <img src="<?php echo BASE_URL; ?>assets/img/icon/price-table/woman.svg" width="30" height="30" alt="Womens Icon" class="tab-icon" />
-                        Womens
+                        Women
                     </button>
                 </li>
 
@@ -734,7 +700,7 @@ Process Area
         <div class="container-fluid">
             <div class="title-area text-center">
                 <span class="sub-title">Work Process</span>
-                <h2 class="sec-title">How We Work It!</h2>
+                <h2 class="sec-title">How We Work</h2>
             </div>
             <div class="row gy-4 justify-content-center">
                 <div class="col-xl-2 col-6 process-box-wrap">
@@ -937,7 +903,7 @@ Faq Area
 
             <div class="title-area text-center">
                 <span class="sub-title">Faq</span>
-                <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
+                <h2 class="sec-title">Frequently Asked Questions</h2>
             </div>
 
             <!-- <div class="row">
@@ -973,7 +939,7 @@ Faq Area
                             </div>
                             <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    <p class="faq-text">The standard laundry service covers daily wear clothing. It includes careful washing, stain removal, fresh folding, and doorstep pickup and delivery. The 9-step process — from inspection and sorting to finishing and quality check — ensures every garment is thoroughly cleaned and neatly returned.</p>
+                                    <p class="faq-text">The standard laundry service covers everyday clothing. It includes careful washing, stain removal, fresh folding, and doorstep pickup and delivery. The 9-step process — from inspection and sorting to finishing and quality check — ensures every garment is thoroughly cleaned and neatly returned.</p>
                                 </div>
                             </div>
                         </div>
