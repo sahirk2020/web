@@ -77,10 +77,8 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="title-style-center">
-                        <h2 class="title">Led by Experience. SUPPORTED BY EXPERTISE.</h2>
-                        <p class="disc">
-                            Behind every Satyaprabhaa development is a team that brings together strong domain knowledge across construction, finance, land acquisition, and operations. With decades of combined experience, the team ensures that every project is executed with discipline, foresight, and precision.
-                        </p>
+                        <h2 class="title">Experience That Leads. Expertise That Delivers.</h2>
+                        <p class="disc">Behind every Satyaprabhaa development is a team of experienced professionals with deep expertise in construction, finance, land acquisition, and project execution. Their collective knowledge, strategic thinking, and unwavering commitment ensure every development is planned with care, executed with precision, and built to inspire lasting confidence.</p>
                     </div>
                 </div>
             </div>
@@ -380,9 +378,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                                 </a>
                             </div>
                             <div class="col-8">
-                                <p class="disc">
-                                    Strong presence in high-demand micro-markets with clear-title projects and high trust.
-                                </p>
+                                <p class="disc">Delivering trusted redevelopment projects in well-connected, high-demand locations.</p>
                             </div>
                             <!-- <a href="" class="rts-read-more-circle-btn">
                                 <i class="fa-solid fa-arrow-up-right"></i>
@@ -397,9 +393,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                                 <h5 class="title">Timely Delivery</h5>
                             </div>
                             <div class="col-8">
-                                <p class="disc">
-                                    Proven ability to deliver ahead of schedule.
-                                </p>
+                                <p class="disc">A consistent track record of completing projects on time with uncompromised quality.</p>
                             </div>
                             <!-- <a href="" class="rts-read-more-circle-btn">
                                 <i class="fa-solid fa-arrow-up-right"></i>
@@ -414,9 +408,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                                 <h5 class="title">Cost Efficiency</h5>
                             </div>
                             <div class="col-8">
-                                <p class="disc">
-                                    Direct execution capabilities ensure better cost control and value.
-                                </p>
+                                <p class="disc">Strong in-house capabilities that ensure better quality control and cost efficiency.</p>
                             </div>
                             <!-- <a href="" class="rts-read-more-circle-btn">
                                 <i class="fa-solid fa-arrow-up-right"></i>
@@ -431,9 +423,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                                 <h5 class="title">Value Creation</h5>
                             </div>
                             <div class="col-8">
-                                <p class="disc">
-                                    Thoughtful design and location choices enable premium appreciation.
-                                </p>
+                                <p class="disc">Thoughtful planning and strategic locations designed for lasting appreciation.</p>
                             </div>
                             <!-- <a href="" class="rts-read-more-circle-btn">
                                 <i class="fa-solid fa-arrow-up-right"></i>
@@ -448,9 +438,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                                 <h5 class="title">Recurring Revenue Model</h5>
                             </div>
                             <div class="col-8">
-                                <p class="disc">
-                                    Integrated commercial components strengthen long-term returns.
-                                </p>
+                                <p class="disc">Integrated residential and commercial developments that create long-term value.</p>
                             </div>
                             <!-- <a href="" class="rts-read-more-circle-btn">
                                 <i class="fa-solid fa-arrow-up-right"></i>
@@ -465,9 +453,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                                 <h5 class="title">Community-first Approach</h5>
                             </div>
                             <div class="col-8">
-                                <p class="disc">
-                                    Transparent processes and strong stakeholder relationships at every stage.
-                                </p>
+                                <p class="disc">Transparent processes, lasting relationships, and a commitment to every stakeholder.</p>
                             </div>
                             <!-- <a href="" class="rts-read-more-circle-btn">
                                 <i class="fa-solid fa-arrow-up-right"></i>
@@ -587,7 +573,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                         </div>
                         <h2 class="title mt--10">Sustainability & ESG MEASURES</h2>
                         <p class="disc">
-                            Commitment to responsible construction (IGBC certified buildings), welfare-focused site management, and transparent governance for long-term sustainability.
+                            Sustainability is at the heart of every Satyaprabhaa development. Through green building practices, responsible construction, workforce welfare, and transparent governance, we create spaces designed for a better future.
                         </p>
                     </div>
                 </div>
