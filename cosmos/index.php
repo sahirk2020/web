@@ -13,20 +13,8 @@
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
+    <?php include_once "css.php" ?>
+
     <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
@@ -135,7 +123,11 @@ Hero Area
             <div class="bubble-10"></div>
         </div>
     </div>
-    <!--======== / Hero Section ========--><!--==============================
+    <!--======== / Hero Section ========-->
+
+
+
+    <!--==============================
 About Area  
 ==============================-->
     <div class="overflow-hidden space-top space-bottom" id="about-sec">
@@ -191,7 +183,41 @@ About Area
 
 
 
+    <!--==============================
+Cta Area  
+==============================-->
+    <section
+        class="cta-sec"
+        data-pos-for=".team-area">
+        <div class="container th-container">
+            <div
+                class="cta-area"
+                data-overlay="title"
+                data-opacity="9"
+                data-bg-src="assets/img/bg/new-cta-bg.webp">
+                <div class="row align-items-center">
+                    <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
+                        <div class="title-area mb-0 text-center text-lg-start">
+                            <!-- <span class="sub-title style1">Get Free Contact For Services</span> -->
+                            <h2 class="sec-title text-white">
+                                You Get Premium Laundry Service From Us!
+                            </h2>
+                            <p>We value your feedback! Let us know about your experience and if there's anything else we can do to make your laundry service even better.
 
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-xl-5 col-lg-6">
+                        <div
+                            class="cta-group justify-content-lg-end justify-content-center">
+                            <a href="services/dry-cleaning.php" class="th-btn style2">Know More</a>
+                            <a href="contact.php" class="th-btn style3">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
     <!--==============================
@@ -218,7 +244,7 @@ Service Area
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Laundry Services</a></h3>
                                     <p class="service-grid_text">
-                                        Daily wear cleaning with careful washing, stain removal, fresh folding, and doorstep convenience for everyday comfort.
+                                        Daily wear cleaning with careful washing, effective stain removal, neat folding, and convenient doorstep pickup and delivery.
                                     </p>
                                     <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -316,7 +342,7 @@ Service Area
                                     <img src="assets/img/home/bag-cleaning.webp" alt="bag cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Traveling Bag Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services.php">Travel Bag Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Complete cleaning and sanitization for travel bags, removing stains, dust, and odours after every journey.
                                     </p>
@@ -378,7 +404,7 @@ Service Area
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services.php">Blanket & Bed Linen Cleaning</a></h3>
                                     <p class="service-grid_text">
-                                        Thorough cleaning and sanitization for blankets, bedsheets, and linen to ensure freshness and hygienic everyday use.
+                                        Thorough cleaning and sanitization for blankets, bed sheets, and linen to ensure freshness and hygienic everyday use.
                                     </p>
                                     <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -540,7 +566,7 @@ Service Area
     <!--==============================
 Contact Area  
 ==============================-->
-    <div class="space bg-title" id="faq-sec" data-bg-src="assets/img/bg/bg-express-1.webp">
+    <div class="space bg-title d-none" id="faq-sec" data-bg-src="assets/img/bg/bg-express-1.webp">
         <div class="">
             <div class="container">
                 <div class="row">
@@ -588,6 +614,62 @@ Contact Area
             </div>
         </div>
     </div>
+
+    <div class="position-relative overflow-hidden bg-top-center space bg-title background-image" id="faq-sec" data-bg-src="assets/img/bg/faq_bg_11.png">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6">
+                    <div class="pe-xl-5 pb-5 pb-xl-0">
+                        <div class="title-area mb-25"><span class="sub-title style1">Express Service</span>
+                            <h2 class="sec-title text-white">Need Your Clothes Today?</h2>
+                            <p>
+                                Drop off your garments before 12 PM and get them delivered by 7 PM with our Express Service.
+                            </p>
+                        </div>
+                        <h4 class="box-title">
+                            Why Choose Express Service?
+                        </h4>
+                        <ul class="text-white">
+                            <div class="row">
+                                <div class="col-6">
+                                    <li>Same-Day Delivery</li>
+                                    <li>Priority Handling</li>
+                                </div>
+                                <div class="col-6">
+                                    <li>Premium Garment Care</li>
+                                    <li>Reliable & Hassle-Free Service </li>
+                                </div>
+                            </div>
+
+
+                        </ul>
+                        <div class="feature-wrapper">
+                            <div class="feature-icon"><a href="tel:+919284630260"><i class="fa-solid fa-phone"></i></a></div>
+                            <div class="media-body"><span class="feature_subtitle"> Call Us for Service</span>
+                                <h3 class="box-title"><a href="tel:+919284630260">+91 92846 30260</a></h3>
+                            </div>
+                        </div><a href="contact.php" class="th-btn style2">Book Express Service</a>
+                    </div>
+                </div>
+                <div class="col-xl-6">
+                    <div class="accordion style3">
+                        <h4 class="box-title">
+                            Terms & Conditions -
+                        </h4>
+                        <ul class="mt-20">
+                            <li class=" mb-20">Garments must be submitted before 12:00 PM to qualify for same-day delivery. </li>
+                            <li class="mb-20">Express Service charges are 2× the standard service rates.</li>
+                            <li class="mb-20">Available only at selected Cosmos Laundry locations. </li>
+                            <li class="mb-20">Cancellations or modifications must be requested at least 2 hours in advance. </li>
+                            <li>Delivery timelines may vary in exceptional circumstances beyond operational control. </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="faq-bg-image"><img src="assets/img/normal/faq-bg-1.webp" alt="shape"></div>
+            </div>
+        </div>
+    </div>
+
 
     <div class="space d-none" data-bg-src="assets/img/bg/bg-get-in-touch.webp">
         <div class="container">
@@ -742,7 +824,7 @@ Choose Area
                 <div class="col-lg-6 offset-lg-3">
                     <div class="title-area text-center pe-xl-4 ps-xl-4">
                         <span class="sub-title">Why Cosmos</span>
-                        <h2 class="sec-title">Cleaning Clothes One Spin at a Time</h2>
+                        <h2 class="sec-title">Premium Fabric Care, Every Time</h2>
                     </div>
                 </div>
             </div>
@@ -751,7 +833,7 @@ Choose Area
 
                     <div class="service-block style1 wow fadeInLeft">
                         <div class="service-block_img">
-                            <img src="assets/img/icon/service_1_1.svg" alt="Service">
+                            <img src="assets/img/icon/why-us/service_1_1.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
                             <h3 class="box-title">
@@ -766,7 +848,7 @@ Choose Area
 
                     <div class="service-block style1 wow fadeInLeft">
                         <div class="service-block_img">
-                            <img src="assets/img/icon/service_1_2.svg" alt="Service">
+                            <img src="assets/img/icon/why-us/luxury-care.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
                             <h3 class="box-title">
@@ -781,7 +863,7 @@ Choose Area
 
                     <div class="service-block style1 wow fadeInLeft">
                         <div class="service-block_img">
-                            <img src="assets/img/icon/service_1_3.svg" alt="Service">
+                            <img src="assets/img/icon/why-us/service_1_3.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
                             <h3 class="box-title">Fabric-Friendly Process</h3>
@@ -799,10 +881,10 @@ Choose Area
 
                     <div class="service-block wow fadeInLeft">
                         <div class="service-block_img">
-                            <img src="assets/img/icon/service_1_4.svg" alt="Service">
+                            <img src="assets/img/icon/why-us/garment-treatment.svg" width="60" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
-                            <h3 class="box-title">Specialized Garment Treatment</h3>
+                            <h3 class="box-title">Specialized Garment Care</h3>
                             <p class="mb-0">
                                 Tailored cleaning solutions for delicate, designer, luxury, and occasion-specific garments.
                             </p>
@@ -812,7 +894,7 @@ Choose Area
 
                     <div class="service-block wow fadeInLeft">
                         <div class="service-block_img">
-                            <img src="assets/img/icon/service_1_5.svg" alt="Service">
+                            <img src="assets/img/icon/why-us/experienced-team.svg" width="60" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
                             <h3 class="box-title">Experienced Team</h3>
@@ -823,7 +905,7 @@ Choose Area
 
                     <div class="service-block wow fadeInLeft">
                         <div class="service-block_img">
-                            <img src="assets/img/icon/service_1_6.svg" alt="Service">
+                            <img src="assets/img/icon/why-us/quality.svg" alt="Service">
                         </div>
                         <div class="service-block_wrapper">
                             <h3 class="box-title">Quality Assurance</h3>
