@@ -97,164 +97,11 @@
   <!--==============================
 	    All CSS File
 	============================== -->
-  <!-- Bootstrap -->
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-  <!-- Fontawesome Icon -->
-  <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
-  <!-- Magnific Popup -->
-  <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
-  <!-- Swiper Js -->
-  <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
-  <!-- Theme Custom CSS -->
-  <link rel="stylesheet" href="assets/css/style.css" />
+  <?php include_once "css.php" ?>
 </head>
 
 <body>
-  <!--[if lte IE 9]>
-      <p class="browserupgrade">
-        You are using an <strong>outdated</strong> browser. Please
-        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
-        your experience and security.
-      </p>
-    <![endif]-->
 
-  <!--********************************
-   		Code Start From Here 
-	******************************** -->
-
-  <!--==============================
-     Preloader
-  ==============================-->
-  <!-- <div class="preloader">
-      <button class="th-btn style2 preloaderCls">Cancel Preloader</button>
-      <div class="preloader-inner">
-        <div class="loader">
-          <div class="rot"></div>
-          <img src="assets/img/logo-white.svg" alt="Laun" />
-        </div>
-      </div>
-    </div> -->
-  <!--==============================
-    Sidemenu
-============================== -->
-  <!-- <div class="sidemenu-wrapper shopping-cart">
-      <div class="sidemenu-content">
-        <button class="closeButton sideMenuCls">
-          <i class="far fa-times"></i>
-        </button>
-        <div class="widget woocommerce widget_shopping_cart">
-          <h3 class="widget_title">Shopping cart</h3>
-          <div class="widget_shopping_cart_content">
-            <ul class="woocommerce-mini-cart cart_list product_list_widget">
-              <li class="woocommerce-mini-cart-item mini_cart_item">
-                <a href="#" class="remove remove_from_cart_button"
-                  ><i class="far fa-times"></i
-                ></a>
-                <a href="#"
-                  ><img
-                    src="assets/img/product/product_thumb_1_1.jpg"
-                    alt="Cart Image" />Laundry Surf Excel</a
-                >
-                <span class="quantity"
-                  >1 ×
-                  <span class="woocommerce-Price-amount amount">
-                    <span class="woocommerce-Price-currencySymbol">$</span
-                    >45</span
-                  >
-                </span>
-              </li>
-              <li class="woocommerce-mini-cart-item mini_cart_item">
-                <a href="#" class="remove remove_from_cart_button"
-                  ><i class="far fa-times"></i
-                ></a>
-                <a href="#"
-                  ><img
-                    src="assets/img/product/product_thumb_1_2.jpg"
-                    alt="Cart Image" />Tide Fresh Coral Blast</a
-                >
-                <span class="quantity"
-                  >1 ×
-                  <span class="woocommerce-Price-amount amount">
-                    <span class="woocommerce-Price-currencySymbol">$</span
-                    >20</span
-                  >
-                </span>
-              </li>
-              <li class="woocommerce-mini-cart-item mini_cart_item">
-                <a href="#" class="remove remove_from_cart_button"
-                  ><i class="far fa-times"></i
-                ></a>
-                <a href="#"
-                  ><img
-                    src="assets/img/product/product_thumb_1_3.jpg"
-                    alt="Cart Image" />Laundry detergent Stain</a
-                >
-                <span class="quantity"
-                  >1 ×
-                  <span class="woocommerce-Price-amount amount">
-                    <span class="woocommerce-Price-currencySymbol">$</span
-                    >35</span
-                  >
-                </span>
-              </li>
-              <li class="woocommerce-mini-cart-item mini_cart_item">
-                <a href="#" class="remove remove_from_cart_button"
-                  ><i class="far fa-times"></i
-                ></a>
-                <a href="#"
-                  ><img
-                    src="assets/img/product/product_thumb_1_4.jpg"
-                    alt="Cart Image" />Surf Dishwashing liquid</a
-                >
-                <span class="quantity"
-                  >1 ×
-                  <span class="woocommerce-Price-amount amount">
-                    <span class="woocommerce-Price-currencySymbol">$</span
-                    >40</span
-                  >
-                </span>
-              </li>
-              <li class="woocommerce-mini-cart-item mini_cart_item">
-                <a href="#" class="remove remove_from_cart_button"
-                  ><i class="far fa-times"></i
-                ></a>
-                <a href="#"
-                  ><img
-                    src="assets/img/product/product_thumb_1_5.jpg"
-                    alt="Cart Image" />Persil Detergent Washing</a
-                >
-                <span class="quantity"
-                  >1 ×
-                  <span class="woocommerce-Price-amount amount">
-                    <span class="woocommerce-Price-currencySymbol">$</span
-                    >35</span
-                  >
-                </span>
-              </li>
-            </ul>
-            <p class="woocommerce-mini-cart__total total">
-              <strong>Subtotal:</strong>
-              <span class="woocommerce-Price-amount amount">
-                <span class="woocommerce-Price-currencySymbol">$</span>65</span
-              >
-            </p>
-            <p class="woocommerce-mini-cart__buttons buttons">
-              <a href="cart.html" class="th-btn wc-forward">View cart</a>
-              <a href="checkout.html" class="th-btn checkout wc-forward"
-                >Checkout</a
-              >
-            </p>
-          </div>
-        </div>
-      </div>
-    </div> -->
-  <!-- <div class="popup-search-box">
-      <button class="searchClose"><i class="fal fa-times"></i></button>
-      <form action="#">
-        <input type="text" placeholder="What are you looking for?" />
-        <button type="submit"><i class="fal fa-search"></i></button>
-      </form>
-    </div> -->
 
   <!--==============================
 	Header Area
@@ -337,7 +184,7 @@ Choose Area
         <div class="col-md-6 col-xl-auto">
           <div class="service-block style1 wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_1.svg" alt="Service">
+              <img src="assets/img/icon/why-us/service_1_1.svg" alt="Service">
             </div>
             <div class="service-block_wrapper">
               <h3 class="box-title">
@@ -352,7 +199,7 @@ Choose Area
 
           <div class="service-block style1 wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_2.svg" alt="Service">
+              <img src="assets/img/icon/why-us/luxury-care.svg" alt="Service">
             </div>
             <div class="service-block_wrapper">
               <h3 class="box-title">
@@ -367,7 +214,7 @@ Choose Area
 
           <div class="service-block style1 wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_3.svg" alt="Service">
+              <img src="assets/img/icon/why-us/service_1_3.svg" alt="Service">
             </div>
             <div class="service-block_wrapper">
               <h3 class="box-title">Fabric-Friendly Process</h3>
@@ -384,7 +231,7 @@ Choose Area
 
           <div class="service-block wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_4.svg" alt="Service">
+              <img src="assets/img/icon/why-us/garment-treatment.svg" width="60" alt="Service">
             </div>
             <div class="service-block_wrapper">
               <h3 class="box-title">Specialized Garment Care</h3>
@@ -397,7 +244,7 @@ Choose Area
 
           <div class="service-block wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_5.svg" alt="Service">
+              <img src="assets/img/icon/why-us/experienced-team.svg" width="60" alt="Service">
             </div>
             <div class="service-block_wrapper">
               <h3 class="box-title">Experienced Team</h3>
@@ -408,7 +255,7 @@ Choose Area
 
           <div class="service-block wow fadeInLeft">
             <div class="service-block_img">
-              <img src="assets/img/icon/service_1_6.svg" alt="Service">
+              <img src="assets/img/icon/why-us/quality.svg" alt="Service">
             </div>
             <div class="service-block_wrapper">
               <h3 class="box-title">Quality Assurance</h3>
@@ -490,14 +337,14 @@ Team Area
         <div
           class="swiper th-slider has-shadow"
           id="teamSlider3"
-          data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
+          data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"4"}}}'>
           <div class="swiper-wrapper">
             <!-- Single Item -->
             <div class="swiper-slide">
               <div class="th-team team-grid">
                 <div class="team-grid_wrapper">
                   <div class="team-img">
-                    <img src="assets/img/team/team_3_1.jpg" alt="Team" />
+                    <img src="assets/img/team/purab-bang-ceo.webp" alt="purab-bang-ceo" />
                   </div>
 
                 </div>
@@ -517,7 +364,7 @@ Team Area
               <div class="th-team team-grid">
                 <div class="team-grid_wrapper">
                   <div class="team-img">
-                    <img src="assets/img/team/team_3_2.jpg" alt="Team" />
+                    <img src="assets/img/team/naresh-manchanda-operations.webp" alt="naresh-manchanda-operations" />
                   </div>
 
                 </div>
@@ -537,7 +384,7 @@ Team Area
               <div class="th-team team-grid">
                 <div class="team-grid_wrapper">
                   <div class="team-img">
-                    <img src="assets/img/team/team_3_3.jpg" alt="Team" />
+                    <img src="assets/img/team/vibha-bang-marketing.webp" alt="vibha-bang-marketing" />
                   </div>
 
                 </div>
@@ -557,7 +404,7 @@ Team Area
               <div class="th-team team-grid">
                 <div class="team-grid_wrapper">
                   <div class="team-img">
-                    <img src="assets/img/team/team_3_1.jpg" alt="Team" />
+                    <img src="assets/img/team/anoop-finance.webp" alt="anoop-finance" />
                   </div>
 
                 </div>
