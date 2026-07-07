@@ -49,7 +49,7 @@
                                             <i class="fa-regular fa-envelope"></i>
                                         </div>
                                         <div class="information">
-                                            <a href="mailto:Sales@llipl.com">Sales@llipl.com</a>
+                                            <a href="mailto:sales@satyaprabhaa.com">sales@satyaprabhaa.com</a>
                                             <span class="support">Email us for queries</span>
                                         </div>
                                     </div>

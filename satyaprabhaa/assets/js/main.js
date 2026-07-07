@@ -924,6 +924,28 @@
                     });
                 }
             });
+            $(document).ready(function () {
+                let hover_portfolio = document.querySelectorAll('.signle-service-list.five');
+                let hover_portfolioHover = document.querySelectorAll('.rts-img-hover.five');
+
+                if (hover_portfolio.length) {
+                    $(".signle-service-list.five").on("mouseenter", function () {
+                        $(hover_portfolioHover).addClass("active").siblings().removeClass("active");
+                        $(hover_portfolio).addClass("active").siblings().removeClass("active");
+                    });
+                }
+            });
+            $(document).ready(function () {
+                let hover_portfolio = document.querySelectorAll('.signle-service-list.six');
+                let hover_portfolioHover = document.querySelectorAll('.rts-img-hover.six');
+
+                if (hover_portfolio.length) {
+                    $(".signle-service-list.six").on("mouseenter", function () {
+                        $(hover_portfolioHover).addClass("active").siblings().removeClass("active");
+                        $(hover_portfolio).addClass("active").siblings().removeClass("active");
+                    });
+                }
+            });
 
         },
         scrollingTextGsap: function () {
