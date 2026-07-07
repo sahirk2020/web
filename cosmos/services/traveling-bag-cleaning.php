@@ -6,7 +6,7 @@
 // ini_set('display_errors', 1);
 ?>
 
-<?php include '../components/header.php'; ?>
+
 
 <head>
     <meta charset="utf-8" />
@@ -28,64 +28,8 @@
     <meta
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <?php include_once "../css.php" ?>
 
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link
-        rel="apple-touch-icon"
-        sizes="57x57"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-57x57.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="60x60"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-60x60.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="72x72"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-72x72.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="76x76"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-76x76.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="114x114"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-114x114.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="120x120"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-120x120.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="144x144"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-144x144.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="152x152"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-152x152.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-180x180.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/android-icon-192x192.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-32x32.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-96x96.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-16x16.png" />
     <link rel="manifest" href="<?php echo BASE_URL; ?>assets/img/favicons/manifest.json" />
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta
@@ -109,7 +53,7 @@
 </head>
 
 <body>
-
+    <?php include '../components/header.php'; ?>
     <!--==============================
     Breadcumb
 ============================== -->
@@ -180,11 +124,11 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
-                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">What types of traveling bags does Cosmos Laundry clean?</button>
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">What types of travel bags does Cosmos Laundry clean?</button>
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Cosmos Laundry cleans all types of traveling bags including suitcases, trolley bags, duffel bags, backpacks, and cabin bags. We clean both the exterior and interior of bags, removing travel dirt, dust, stains, and odours accumulated during journeys.</p>
+                                        <p class="faq-text">Cosmos Laundry cleans all types of travel bags including suitcases, trolley bags, duffel bags, backpacks, and cabin bags. We clean both the exterior and interior of bags, removing travel dirt, dust, stains, and odours accumulated during journeys.</p>
                                     </div>
                                 </div>
                             </div>
@@ -192,7 +136,7 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Why is it important to clean a traveling bag after a trip?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">Why is it important to clean a travel bag after a trip?</button>
                                 </div>
                                 <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
@@ -227,7 +171,7 @@ Faq Area
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-5">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">How long does traveling bag cleaning take?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">How long does travel bag cleaning take?</button>
                                 </div>
                                 <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">

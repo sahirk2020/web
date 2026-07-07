@@ -1,8 +1,4 @@
 <?php
-
-// echo __DIR__;
-include_once __DIR__ . '/../config.php';
-include_once __DIR__ . '/../css.php';
 include_once __DIR__ . '/db.php';
 ?>
 
@@ -24,7 +20,7 @@ include_once __DIR__ . '/db.php';
                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
 
                 <li class="menu-item-has-children">
-                    <a href="<?php echo BASE_URL; ?>services.php">Service</a>
+                    <a href="<?php echo BASE_URL; ?>services.php">Services</a>
                     <ul class="sub-menu">
                         <li><a href="<?php echo BASE_URL; ?>services/laundry-service.php">Laundry Services</a></li>
                         <li><a href="<?php echo BASE_URL; ?>services/dry-cleaning.php">Dry Cleaning</a></li>
@@ -114,7 +110,7 @@ include_once __DIR__ . '/db.php';
                                 </li>
                                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
                                 <li>
-                                    <a href="<?php echo BASE_URL; ?>services.php">Service</a>
+                                    <a href="<?php echo BASE_URL; ?>services.php">Services</a>
                                     <ul class="sub-menu">
                                         <div class="row">
                                             <div class="col-6">

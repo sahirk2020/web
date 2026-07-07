@@ -1,13 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
-?>
-
-<?php include '../components/header.php'; ?>
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -28,68 +21,14 @@
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link
-        rel="apple-touch-icon"
-        sizes="57x57"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-57x57.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="60x60"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-60x60.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="72x72"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-72x72.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="76x76"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-76x76.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="114x114"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-114x114.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="120x120"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-120x120.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="144x144"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-144x144.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="152x152"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-152x152.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-180x180.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/android-icon-192x192.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-32x32.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-96x96.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-16x16.png" />
-    <link rel="manifest" href="<?php echo BASE_URL; ?>assets/img/favicons/manifest.json" />
+    <?php include_once "../css.php" ?>
+
+
+    <link rel="manifest" href="assets/img/favicons/manifest.json" />
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta
         name="msapplication-TileImage"
-        content="<?php echo BASE_URL; ?>assets/img/favicons/ms-icon-144x144.png" />
+        content="assets/img/favicons/ms-icon-144x144.png" />
     <meta name="theme-color" content="#ffffff" />
 
     <!--==============================
@@ -109,13 +48,14 @@
 
 <body>
 
+    <?php include '../components/header.php'; ?>
     <!--==============================
     Breadcumb
 ============================== -->
     <div class="breadcumb-wrapper services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/banners/chair-cleaning.webp">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Institutional Chair Cleaning Service</h1>
+                <h1 class="breadcumb-title sec-title1">Institutional Chair Cleaning Service</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="home-laundry-services.html">Home</a></li>
                     <li>Institutional Chair Cleaning Service</li>
@@ -145,9 +85,8 @@ About Area
                                 Our institutional chair cleaning service is designed for offices, educational
                                 institutions, auditoriums, healthcare facilities, and commercial spaces. We
                                 thoroughly clean and sanitize chairs to remove dust, stains, bacteria, and
-                                everyday wear-related buildup. Using professional-grade equipment and safe
-                                cleaning solutions, we help maintain hygiene, appearance, and durability
-                                across large seating arrangements. Regular chair cleaning enhances workplace
+                                everyday buildup. Using professional-grade equipment and safe
+                                cleaning solutions, we help maintain cleanliness, appearance, and durability across large seating areas. Regular chair cleaning enhances workplace
                                 cleanliness and creates a better environment for employees, students, and
                                 visitors. Trust our team to deliver efficient, reliable, and high-quality
                                 institutional furniture care.
@@ -160,7 +99,7 @@ About Area
                 <div class="col-xl-6 wow fadeInLeft">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/institutional-chair-cleaning.webp" width="100%" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/institutional-chair-cleaning.webp" alt="About" />
                         </div>
 
                     </div>
@@ -178,7 +117,7 @@ About Area
     <!--==============================
 Faq Area
 ==============================-->
-    <div class="  space overflow-hidden" id="faq-sec">
+    <div class=" process space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-xl-12 text-center text-xl-start align-self-center">
@@ -199,7 +138,7 @@ Faq Area
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
                                         <p class="faq-text">
-                                            Institutional chair cleaning is a professional upholstery cleaning service for office chairs, conference room chairs, classroom chairs, hospital waiting room chairs, and other chairs used in commercial or institutional settings. It removes dirt, bacteria, and stains that accumulate with daily high-frequency use.
+                                            Institutional chair cleaning is a professional upholstery cleaning service for office chairs, conference room chairs, classroom chairs, hospital waiting room chairs, and and other seating used in commercial and institutional environments. It removes dirt, bacteria, and stains that accumulate with daily high-frequency use.
                                         </p>
                                     </div>
                                 </div>

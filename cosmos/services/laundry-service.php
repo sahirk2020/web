@@ -6,7 +6,7 @@
 // ini_set('display_errors', 1);
 ?>
 
-<?php include '../components/header.php'; ?>
+
 
 <head>
     <meta charset="utf-8" />
@@ -29,63 +29,8 @@
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link
-        rel="apple-touch-icon"
-        sizes="57x57"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-57x57.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="60x60"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-60x60.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="72x72"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-72x72.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="76x76"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-76x76.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="114x114"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-114x114.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="120x120"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-120x120.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="144x144"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-144x144.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="152x152"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-152x152.png" />
-    <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/apple-icon-180x180.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="192x192"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/android-icon-192x192.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-32x32.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="96x96"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-96x96.png" />
-    <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="<?php echo BASE_URL; ?>assets/img/favicons/favicon-16x16.png" />
+    <?php include_once "../css.php" ?>
+
     <link rel="manifest" href="<?php echo BASE_URL; ?>assets/img/favicons/manifest.json" />
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta
@@ -109,7 +54,7 @@
 </head>
 
 <body>
-
+    <?php include '../components/header.php'; ?>
     <!--==============================
     Breadcumb
 ============================== -->
@@ -143,7 +88,7 @@ About Area
                             Laundry Service
                         </h2>
                         <p class="about-desc">
-                            At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your daily wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
+                            At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your everyday wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping your clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
                         </p>
                     </div>
 
@@ -185,7 +130,7 @@ Faq Area
                                 </div>
                                 <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        <p class="faq-text">Our laundry process follows 9 systematic steps: Inspection (checking each garment for damage or special needs), Tagging (labelling for tracking), Sorting (separating by type and care requirement), Colour Segregation (preventing colour bleeding), Spotting (pre-treating stains), Cleaning (washing with appropriate method), Finishing (ironing and folding), Quality Check (final inspection), and Packaging (neat, hygienic wrapping before delivery).</p>
+                                        <p class="faq-text">Our laundry process follows 9 systematic steps: Inspection (Checking each garment for damage or special care requirements), Tagging (Labelling for tracking), Sorting (Separating by type and care requirement), Colour Segregation (Preventing colour bleeding), Spotting (Pre-treating stains), Cleaning (Washing with appropriate method), Finishing (Ironing and Folding), Quality Check (Final Inspection), and Packaging (Neat, Hygienic Wrapping Before Delivery).</p>
                                     </div>
                                 </div>
                             </div>
