@@ -16,7 +16,7 @@
     content="Laun - Laundry Service & Dry Cleaning HTML Template" />
   <meta name="robots" content="INDEX,FOLLOW" />
 
-  <?php include_once "css.php" ?>
+  <?php include_once "css.php"; ?>
 
   <!-- Mobile Specific Metas -->
   <meta
@@ -341,7 +341,5 @@ Contact Area
       </div>
     </div>
   </div>
-
-
 
   <?php include 'components/footer.php'; ?>

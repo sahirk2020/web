@@ -112,7 +112,7 @@ Service Area
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/laundry-service.php">Laundry Service</a></h3>
-                            <p class="service-item_text">Daily wear cleaning with careful washing, stain removal, fresh folding, and doorstep convenience for everyday comfort.</p>
+                            <p class="service-item_text">Daily wear cleaning with careful washing, effective stain removal, neat folding, and convenient doorstep pickup and delivery.</p>
                             <a href="<?php echo BASE_URL; ?>services/laundry-service.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
@@ -237,7 +237,7 @@ Service Area
                             </div>
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/traveling-bag-cleaning.php">Traveling Bag Cleaning</a></h3>
+                            <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/traveling-bag-cleaning.php">Travel Bag Cleaning</a></h3>
                             <p class="service-item_text">Complete cleaning and sanitization for travel bags, removing stains, dust, and odours after every journey.</p>
                             <a href="<?php echo BASE_URL; ?>services/traveling-bag-cleaning.php" class="th-btn border">Know More</a>
                         </div>
@@ -310,7 +310,7 @@ Service Area
                         </div>
                         <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
                             <h3 class="box-title"><a href="<?php echo BASE_URL; ?>services/blanket-&-bed-linen-cleaning.php">Blanket & Bed Linen Cleaning</a></h3>
-                            <p class="service-item_text">Thorough cleaning and sanitization for blankets, bedsheets, and linen to ensure freshness and hygienic everyday use.</p>
+                            <p class="service-item_text">Thorough cleaning and sanitization for blankets, bed sheets, and linen to ensure freshness and hygienic everyday use.</p>
                             <a href="<?php echo BASE_URL; ?>services/blanket-&-bed-linen-cleaning.php" class="th-btn border">Know More</a>
                         </div>
                     </div>
