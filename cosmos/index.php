@@ -1264,6 +1264,92 @@ Blog Area
 
 
 
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Enquire Now</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form method="POST" class="">
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    name="name"
+                                    id="name"
+                                    placeholder="Your Name" />
+                                <i class="fal fa-user"></i>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input
+                                    type="email"
+                                    class="form-control"
+                                    name="email"
+                                    id="email"
+                                    placeholder="Email Address" />
+                                <i class="fal fa-envelope"></i>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input
+                                    type="tel"
+                                    class="form-control"
+                                    name="number"
+                                    id="number"
+                                    placeholder="Phone Number" />
+                                <i class="fal fa-phone"></i>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <select
+                                    name="subject"
+                                    id="subject"
+                                    class="form-select nice-select">
+                                    <option value="" disabled selected hidden>
+                                        Select Service
+                                    </option>
+                                    <option value="Dry Cleaning">Dry Cleaning</option>
+                                    <option value="Wash & Fold">Wash & Fold</option>
+                                    <option value="Ironing/Pressing">Ironing/Pressing</option>
+                                    <option value="Garments Transformed">
+                                        Garments Transformed
+                                    </option>
+                                    <option value="Household Textile Care">
+                                        Household Textile Care
+                                    </option>
+                                    <option value="Household Textile Care">
+                                        Household Textile Care
+                                    </option>
+                                </select>
+                            </div>
+                            <div class="form-group col-12">
+                                <textarea
+                                    name="message"
+                                    id="message"
+                                    cols="30"
+                                    rows="3"
+                                    class="form-control"
+                                    placeholder="Your Message"></textarea>
+                                <i class="fal fa-pencil"></i>
+                            </div>
+                            <div class="form-btn col-12 justify-content-end gap-4 d-flex">
+                                <button type="button" class="th-btn style3 th-radius" data-bs-dismiss="modal">Close</button>
+                                <button class="th-btn th-radius">Submit</button>
+                            </div>
+                        </div>
+                        <p class="form-messages mb-0 mt-3"></p>
+                    </form>
+                </div>
+                <!-- <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div> -->
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>
