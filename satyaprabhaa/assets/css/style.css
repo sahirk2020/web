@@ -17870,6 +17870,7 @@ padding-left: 120px !important;
   font-weight: 600;
   line-height: 70px;
   text-transform: capitalize;
+  text-shadow: 3px -1px 9px #000000;
   margin-top: 10px;
 }
 @media only screen and (max-width: 575px) {
@@ -18609,7 +18610,7 @@ padding-left: 120px !important;
   flex-basis: 27%;
   display: flex;
   /* align-items: center; */
-  gap: 20px;
+  gap: 15px;
 }
 .service-list-one-wrapper .signle-service-list .left-one span {
   color: #30373E;
@@ -18630,8 +18631,8 @@ padding-left: 120px !important;
 }
 @media only screen and (max-width: 1199px) {
   .service-list-one-wrapper .signle-service-list .left-one .title {
-    font-size: 22px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 20px;
   }
 }
 .service-list-one-wrapper .signle-service-list .center-area {
@@ -22444,7 +22445,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
   margin-top: 25px;
 }
 .team-style-three .bottom-content .name {
-  padding: 6px 14px;
+  padding: 6px 2px;
   text-align: center;
   background: #F6F6F6;
   font-size: 14px;
@@ -22459,7 +22460,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 }
 .team-style-three .bottom-content .title {
   background: #30373E;
-  padding: 10px 14px;
+  padding: 10px 8px;
   text-align: left;
   max-width: fit-content;
   color: #fff;

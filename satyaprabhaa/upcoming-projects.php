@@ -42,7 +42,7 @@
                         <h2 class="title">Meet Our Talented Team</h2>
                         <p class="disc">
                             we are proud to have a dedicated and skilled team of professionals <br>
-who are passionate about interior renovation and design.
+                            who are passionate about interior renovation and design.
                         </p>
                     </div>
                 </div>
