@@ -200,10 +200,10 @@ Cta Area
                         <div class="title-area mb-0 text-center text-lg-start">
                             <!-- <span class="sub-title style1">Get Free Contact For Services</span> -->
                             <h2 class="sec-title text-white">
-                                You Get Premium Laundry Service From Us!
+                                Advanced Fabric Care Technology
                             </h2>
-                            <p>We value your feedback! Let us know about your experience and if there's anything else we can do to make your laundry service even better.
-
+                            <p>
+                                Experience Hydrocarbon Dry Cleaning Technology, an internationally trusted process that delivers safer, gentler, and superior garment care.
                             </p>
                         </div>
                     </div>
@@ -654,7 +654,7 @@ Contact Area
                 <div class="col-xl-6">
                     <div class="accordion style3">
                         <h4 class="box-title">
-                            Terms & Conditions -
+                            Terms & Conditions for Express Service
                         </h4>
                         <ul class="mt-20">
                             <li class=" mb-20">Garments must be submitted before 12:00 PM to qualify for same-day delivery. </li>
