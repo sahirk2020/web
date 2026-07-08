@@ -5,31 +5,26 @@
     <div class="container z-index-common">
         <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/cta.webp">
             <div class="row align-items-center">
-                <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
+                <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
-                        <span class="sub-title style1">Home Pickup and Door Delivery</span>
-                        <!-- <h2 class="sec-title1 text-white">Ready For Effortless Laundry?</h2> -->
-                        <!-- <h2 class="sec-title1 text-white">Experience Premium Laundry Services with Cosmos Laundry!</h2> -->
-                        <a href="<?php echo BASE_URL; ?>home-pickup-and-door-delivery.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                        <span class="sub-title style1">Premium Doorstep Laundry Service</span>
+                        <p class="text-white">Experience hassle-free doorstep pickup and delivery with expert garment care, timely service, and unmatched convenience every time.</p>
+
+
                         <div class="header-button">
-                            <!-- <button type="button" class="icon-btn2 searchBoxToggler"><i class="far fa-search"></i></button> -->
-                            <a href="<?php echo BASE_URL; ?>contact.php" class="th-btn th-radius">Schedule A Pickup</a>
-                            <!-- <a href="#" class="icon-btn2 sideMenuToggler d-none d-lg-block"><i class="far fa-bars"></i></a> -->
+                            <a href="<?php echo BASE_URL; ?>home-pickup-and-door-delivery.php" class="th-btn th-radius">Read More</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-5 col-lg-6">
-                    <!-- <form class="cta-form">
-                        <div class="form-group">
-                            <input class="form-control" type="email" placeholder="Email Address" required="">
-                            <button type="submit" class="th-btn style4">Book Your Service</button>
-                        </div>
-                    </form> -->
 
-
+                <div class="col-xl-7 col-lg-6 text-center">
+                    <div class="van-box" id="vanScrollBox">
+                        <img src="<?php echo BASE_URL; ?>assets/img/services/van.png" alt="Cosmos Laundry" class="img-fluid van-scroll">
+                    </div>
                 </div>
             </div>
-            <div class="cta-shape"><img src="<?php echo BASE_URL; ?>assets/img/shape/line.png" alt=""></div>
+            <!-- <div class="cta-shape"><img src="<?php //echo BASE_URL; 
+                                                    ?>assets/img/shape/line.png" alt=""></div> -->
         </div>
     </div>
 </div>
@@ -89,12 +84,9 @@
                     </div>
                 </div>
 
-
-
                 <div class="col-md-6 col-xl-auto">
                     <div class="widget footer-widget">
                         <h3 class="widget_title">Contact Us</h3>
-
 
                         <div class="footer-info-wrapper white-color">
                             <div class="footer-info">
