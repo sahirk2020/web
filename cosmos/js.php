@@ -134,3 +134,23 @@
     });
 </script>
 
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const vanBox = document.getElementById("vanScrollBox");
+
+        if (!vanBox) return;
+
+        const observer = new IntersectionObserver(function(entries, observer) {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    vanBox.classList.add("active");
+                    observer.unobserve(vanBox); // run only once
+                }
+            });
+        }, {
+            threshold: 0.35
+        });
+
+        observer.observe(vanBox);
+    });
+</script>
