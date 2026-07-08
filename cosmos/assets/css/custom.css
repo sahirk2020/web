@@ -337,3 +337,97 @@
 .sec-title-new {
   color: var(--black-color2);
 }
+
+/* Privacy Policy */
+
+.sub-title-2 {
+  position: relative;
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: var(--title-font);
+  letter-spacing: 0.08em;
+  color: var(--theme-color);
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  line-height: 28px;
+  margin-top: -0.34em;
+}
+
+/* van css start */
+.van-box {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+
+/* Soft shadow */
+.van-box::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 8px;
+  transform: translateX(-50%);
+  width: 68%;
+  height: 16px;
+  background: rgba(0, 0, 0, 0.18);
+  filter: blur(10px);
+  border-radius: 50%;
+  opacity: 0;
+  transition: opacity 0.8s ease;
+}
+
+/* Van initial state */
+.van-scroll {
+  max-width: 100%;
+  opacity: 0;
+  transform: translateX(320px);
+  will-change: transform, opacity;
+}
+
+/* When section becomes visible */
+.van-box.active .van-scroll {
+  animation: vanEnter 5s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  /* vanFloat 3s ease-in-out 3s infinite; */
+}
+
+.van-box.active::after {
+  opacity: 1;
+  /* animation: shadowFloat 3s ease-in-out 3s infinite; */
+}
+
+/* Slow entry from right */
+@keyframes vanEnter {
+  0% {
+    opacity: 0;
+    transform: translateX(320px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Very small floating effect */
+@keyframes vanFloat {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+/* Shadow moves slightly with float */
+@keyframes shadowFloat {
+  0%,
+  100% {
+    transform: translateX(-50%) scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: translateX(-50%) scale(0.95);
+    opacity: 0.85;
+  }
+}
