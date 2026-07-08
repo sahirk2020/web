@@ -7,18 +7,26 @@
             <div class="row align-items-center">
                 <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
-                        <span class="sub-title style1">Ready For Effortless Laundry?</span>
+                        <span class="sub-title style1">Home Pickup and Door Delivery</span>
                         <!-- <h2 class="sec-title1 text-white">Ready For Effortless Laundry?</h2> -->
-                        <h2 class="sec-title1 text-white">Experience Premium Laundry Services with Cosmos Laundry!</h2>
+                        <!-- <h2 class="sec-title1 text-white">Experience Premium Laundry Services with Cosmos Laundry!</h2> -->
+                        <a href="<?php echo BASE_URL; ?>home-pickup-and-door-delivery.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                        <div class="header-button">
+                            <!-- <button type="button" class="icon-btn2 searchBoxToggler"><i class="far fa-search"></i></button> -->
+                            <a href="<?php echo BASE_URL; ?>contact.php" class="th-btn th-radius">Schedule A Pickup</a>
+                            <!-- <a href="#" class="icon-btn2 sideMenuToggler d-none d-lg-block"><i class="far fa-bars"></i></a> -->
+                        </div>
                     </div>
                 </div>
                 <div class="col-xl-5 col-lg-6">
-                    <form class="cta-form">
+                    <!-- <form class="cta-form">
                         <div class="form-group">
                             <input class="form-control" type="email" placeholder="Email Address" required="">
                             <button type="submit" class="th-btn style4">Book Your Service</button>
                         </div>
-                    </form>
+                    </form> -->
+
+
                 </div>
             </div>
             <div class="cta-shape"><img src="<?php echo BASE_URL; ?>assets/img/shape/line.png" alt=""></div>
@@ -75,6 +83,7 @@
                                 <li><a href="<?php echo BASE_URL; ?>contact.php"><span class="text-inherit">Contact Us</span></a></li>
                                 <li><a href="<?php echo BASE_URL; ?>terms-and-conditions.php"><span class="text-inherit">Terms and Conditions</span></a></li>
                                 <li><a href="<?php echo BASE_URL; ?>privacy-policy.php"><span class="text-inherit">Privacy Policy</span></a></li>
+                                <li><a href="<?php echo BASE_URL; ?>home-pickup-and-door-delivery.php"><span class="text-inherit">Home Pickup and Door Delivery</span></a></li>
                             </ul>
                         </div>
                     </div>
