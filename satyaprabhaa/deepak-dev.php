@@ -107,7 +107,7 @@
                     
                     <!-- why chooseus section end -->
                     <div class="row g-5 d-flex">
-                        <div class="col-lg-3 rts-slide-up h-100">
+                        <div class="col-lg-3 rts-slide-up">
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
@@ -123,7 +123,7 @@
                             </div>
                             <!-- single choose us area end -->
                         </div>
-                        <div class="col-lg-3 rts-slide-up h-100">
+                        <div class="col-lg-3 rts-slide-up">
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
@@ -138,7 +138,7 @@
                             </div>
                             <!-- single choose us area end -->
                         </div>
-                        <div class="col-lg-3 rts-slide-up h-100">
+                        <div class="col-lg-3 rts-slide-up">
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
@@ -153,7 +153,7 @@
                             </div>
                             <!-- single choose us area end -->
                         </div>
-                        <div class="col-lg-3 rts-slide-up h-100">
+                        <div class="col-lg-3 rts-slide-up">
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
@@ -171,16 +171,55 @@
             </div>
         </div>
     </div>
-    <!-- why choose us section end -->
-     <!--==============================Map Area  ==============================-->
-        <div class="mt-5" id="location">
-            <div class="contact-map">
-                <iframe height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15129.44910991326!2d73.80733854999998!3d18.557698999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf483a6041cd%3A0xd968e07ed9df3a2d!2sAundh%2C%20Pune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1782803034025!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
-                <div class="contact-icon">
-                    <img src="assets/img/icon/location-dot.svg" alt="">
+    <!-- rts service area end -->
+    <div class="space-bottom overflow-hidden bg-white" id="faq-sec">
+      <div class="container">
+        <div class="row gx-0">
+          <div class="col-xl-6">
+            <div class="faqs-page-wrapper-area rts-section-gap">
+              <div class="container">
+                <div class="row">
+                  <div class="">
+                    <div class="faq-style-two">
+                      <div class="left-accordion-faq rts-slide-up">
+                        <div class="title-faq-area-2">
+                          <div class="title-area-style-six-left">
+                            <span class="pre"> Connectivity </span>
+                            <h2 class="title">Nearby Locations</h2>
+                          </div>
+                        </div>
+                        <ul>
+                          <li>Aundh ITI Road - 1.2 Km</li>
+                          <li>University Chowk - 3.8 Km</li>
+                          <li>Baner - 3 Km</li>
+                          <li>Pashan - 4.3 Km</li>
+                          <li>Shivaji Nagar - 6.4 Km</li>
+                          <li>Nashik Phata - 7.2 Km</li>
+                          <li>Pimple Saudagar - 6.7 Km</li>
+                          <li>Deccan Gymkhana - 7.9 Km</li>
+                          <li>Wakad - 8.2 Km</li>
+                          <li>PCMC Industrial Area - 11 Km</li>
+                          <li>Hinjewadi - 9.7 Km</li>
+                          <li>Chandani Chowk - 11 Km</li>
+                          <li>Pune–Mumbai Expressway - 5.5 Km</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
                 </div>
+              </div>
             </div>
+          </div>
+          <div class="col-xl-6 pt-5">
+            <iframe height="650" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15129.44910991326!2d73.80733854999998!3d18.557698999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf483a6041cd%3A0xd968e07ed9df3a2d!2sAundh%2C%20Pune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1782453819706!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+          </div>
         </div>
+      </div>
+      <div class="shape-mockup d-none d-xxl-block" data-bottom="0%" data-right="0%">
+        <img src="assets/img/shape/bg-element.png" alt="">
+      </div>
+    </div>
+    <!-- rts footer area start -->
 
     <!-- rts footer area start -->
     <?php include 'footer.php'; ?>

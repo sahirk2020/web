@@ -53,10 +53,10 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                         <div class="title-style-left">
                             <div class="pre-title-area">
                                 <!-- <img src="assets/images/about/02.png" alt="about"> -->
-                                <span class="pre-title">Managing Partner</span>
+                                <span class="pre-title">Managing Director</span>
                             </div>
                             <h2 class="title mt--0 mb--25 quote">Mr. Satya Prabha Giri<br>
-                            <span class="pre-title fs-2 fw-light">Lotus Landmarks</span></h2>
+                            <!-- <span class="pre-title fs-2 fw-light">Lotus Landmarks</span></h2> -->
                         </div>
                         <p class="disc mb--15 rts-slide-up">
                             With over 27 years of experience in construction and real estate, he oversees operations, strategic direction, policy implementation, and the day-to-day management of the company.
@@ -75,17 +75,30 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     <div class="rts-team-area rts-section-gap pt-0">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <!-- <div class="col-lg-12 text-center">
                     <div class="title-style-center">
                         <h2 class="title">Experience That Leads. Expertise That Delivers.</h2>
                         <p class="disc">Behind every Satyaprabhaa development is a team of experienced professionals with deep expertise in construction, finance, land acquisition, and project execution. Their collective knowledge, strategic thinking, and unwavering commitment ensure every development is planned with care, executed with precision, and built to inspire lasting confidence.</p>
                     </div>
+                </div> -->
+                <div class="col-lg-12">
+                    <div class="title-area-product-one row gap-0">
+                        <div class="title-style-left col-lg-4 col-md-5">
+                            <div class="pre-title-area">
+                                <img src="assets/images/about/02.png" alt="about">
+                                <span class="pre-title">Our Team</span>
+                            </div>
+                            <h2 class="title quote">Experience That Leads.  <br>Expertise That Delivers.</h2>
+                        </div>
+                        <p class="col-lg-8 col-md-7">Behind every Satyaprabhaa development is a team of experienced professionals with deep expertise in construction, finance, land acquisition, and project execution. Their collective knowledge, strategic thinking, and unwavering commitment ensure every development is planned with care, executed with precision, and built to inspire lasting confidence.</p>
+                    
+                    </div>
                 </div>
             </div>
             <div class="row g-5 mt--50 justify-content-center">
-                <div class="col-lg-10">
-                    <div class="row g-5  justify-content-center">
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="col-lg-12">
+                    <div class="row g-5">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-lg-5">
                     <!-- team style three -->
                     <div class="team-style-three">
                         <a href="#" class="thumbnail">
@@ -108,11 +121,11 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                     </div>
                     <!-- team style three end -->
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-lg-5">
                     <!-- team style three -->
                     <div class="team-style-three">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/team/smita-giri.webp" alt="team">
+                            <img src="assets/images/team/smitagiri.webp" alt="team">
                         </a>
                         <div class="bottom-content">
                             <span class="name">Joint Managing Director</span>
@@ -131,11 +144,11 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                     </div>
                     <!-- team style three end -->
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-lg-5">
                     <!-- team style three -->
                     <div class="team-style-three">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/team/indrayini-giri.webp" alt="team">
+                            <img src="assets/images/team/indrayinigiri-img.webp" alt="team">
                         </a>
                         <div class="bottom-content">
                             <span class="name">Joint Managing Director</span>
@@ -154,7 +167,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                     </div>
                     <!-- team style three end -->
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-lg-5">
                     <!-- team style three -->
                     <div class="team-style-three">
                         <a href="#" class="thumbnail">
@@ -177,7 +190,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                     </div>
                     <!-- team style three end -->
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-lg-5">
                     <!-- team style three -->
                     <div class="team-style-three">
                         <a href="#" class="thumbnail">
@@ -200,7 +213,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                     </div>
                     <!-- team style three end -->
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-lg-5">
                     <!-- team style three -->
                     <div class="team-style-three">
                         <a href="#" class="thumbnail">
@@ -223,7 +236,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                     </div>
                     <!-- team style three end -->
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6 px-lg-5">
                     <!-- team style three -->
                     <div class="team-style-three">
                         <a href="#" class="thumbnail">
@@ -318,11 +331,11 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     </div>
     <!-- Vision Mission section end -->
 
-    <div class="rts-service-area rts-section-gap">
+    <div class="rts-service-area">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="text-center">
+                    <div class="">
                         <!-- title-left -->
                         <div class="title-area-style-six-left">
                             <!-- <span class="pre">
@@ -342,7 +355,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                     </div>
                 </div>
             </div>
-            <div class="row mt--50 align-items-center">
+            <div class="row mt--30 align-items-center">
                 <div class="col-lg-5">
                     <div class="thumbnail-serice-6-left">
                         <div class="image-hover-bg">
@@ -471,12 +484,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     <div class="rts-section-gap why-chooseus-section">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-5 mt_sm--50 order-2 order-md-1">
-                    <div class="thumbnail-about-one rts-reveal-one">
-                        <img class="rts-reveal-image-one" src="assets/images/why-choose-us.jpg" alt="about">
-                    </div>
-                </div>
-                <div class="col-lg-7 pt-5 pl-md-120 pr_sm--0 order-1 order-md-2">
+                <div class="col-lg-7 pt-5 pr-md-120 pr_sm--0">
                     <!-- why chooseus section start -->
                     <div class="why-choose-us-left-two">
                         <div class="title-left-style-two">
@@ -484,7 +492,7 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                                 <span class="pre-title">Why Choose Us</span>
                                 <!-- <img src="assets/images/service/07.png" alt="service"> -->
                             </div>
-                            <h2 class="title quote mt-0">
+                            <h2 class="title quote my-0">
                                Built On Trust 
                             </h2>
                         </div>
@@ -556,6 +564,11 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-5 mt_sm--50">
+                    <div class="thumbnail-about-one rts-reveal-one">
+                        <img class="rts-reveal-image-one" src="assets/images/why-choose-us.jpg" alt="about">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -565,16 +578,27 @@ $page_description = "Satyaprabhaa Developers builds premium residential, commerc
     <div class="rts-pricing-area rts-section-gap">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <!-- <div class="col-lg-12">
                     <div class="title-style-center">
                         <div class="pre-title-area">
-                            <!-- <img src="assets/images/about/02.png" alt="about"> -->
-                            <!-- <span class="pre-title"></span> -->
                         </div>
                         <h2 class="title mt--10">Sustainability & ESG MEASURES</h2>
                         <p class="disc">
                             Sustainability is at the heart of every Satyaprabhaa development. Through green building practices, responsible construction, workforce welfare, and transparent governance, we create spaces designed for a better future.
                         </p>
+                    </div>
+                </div> -->
+                <div class="col-lg-12">
+                    <div class="title-area-product-one row gap-0">
+                        <div class="title-style-left col-lg-4 col-md-5">
+                            <!-- <div class="pre-title-area">
+                                <img src="assets/images/about/02.png" alt="about">
+                                <span class="pre-title">Our Team</span>
+                            </div> -->
+                            <h2 class="title quote">Sustainability & <br>ESG MEASURES</h2>
+                        </div>
+                        <p class="col-lg-8 col-md-7">Sustainability is at the heart of every Satyaprabhaa development. Through green building practices, responsible construction, workforce welfare, and transparent governance, we create spaces designed for a better future.</p>
+                    
                     </div>
                 </div>
             </div>

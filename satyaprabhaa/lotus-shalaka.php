@@ -9,7 +9,7 @@
     <!-- header three area start --> <?php include 'header.php'; ?>
     <!-- header three area end -->
     <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, black, #00000070), url(assets/images/projects/lotus-shalaka/banner-1000x554.webp) no-repeat center center / cover;">
+    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, #0000001f, #0000001f), url(assets/images/projects/lotus-shalaka/banner-1000x554.webp) no-repeat center center / cover;">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -317,8 +317,9 @@ Ultratech, Birla, ACC
         </div>
       </div>
     </div>
-    <!-- rts testimonials area end -->
-     <!-- our latest projects area start -->
+    <!-- specification area end -->
+
+    <!-- our latest projects area start -->
     <div class="our-latest-project-area pb--50 pt--50" id="gallery">
       <div class="container">
         <div class="row">
@@ -433,12 +434,280 @@ Ultratech, Birla, ACC
       </div>
     </div>
     <!-- our latest projects area end -->
-    <!-- banner three start -->
-    <div class="banner-three pt--80">
+
+     <!-- video start -->
+    <div class="cta-area-two bg_image" style="background: linear-gradient(45deg, #0000003d, #0000003d), url(assets/images/projects/lotus-shalaka/banner-1000x554.webp) no-repeat center center / cover; background-attachment: fixed;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="vedio-icone">
+                        <a class="play-video popup-youtube video-play-button" href="https://www.youtube.com/watch?v=JoDlS-wIP3o">
+                            <span></span>
+                        </a>
+                        <div class="video-overlay">
+                            <a class="video-overlay-close">×</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- video  end -->
+    <!-- Floorplan area start -->
+<div class="rts-blog-area pt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="title-style-center">
+          <h2 class="title quote">Floor Plans</h2>
+        </div>
+      </div>
+    </div>
+    <!-- Floorplan area start -->
+    <div class="rts-blog-area rts-section-gap pt-0">
+      <div class="container">
+        <div class="testimonials-main-wrapper">
+          <div class="swiper mySwiper-three-floorplan">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/uglFloorplan.webp" alt="service">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>UGL Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/1stFloorplan.webp" alt="service">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>1st Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/2ndFloorplan.webp" alt="service">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>2nd Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+                <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/3rdFloorplan.webp" alt="service">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>3rd Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+                <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/4thFloorplan.webp" alt="service">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>4th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/5thFloorplan.webp" alt="service">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>5th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/6thFloorplan.webp" alt="service">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>6th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/schematic-section.webp" alt="service">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>Schematic Section</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              </div>
+            </div>
+            <!-- <div class="swiper-button-next"></div><div class="swiper-button-prev"></div> -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!-- new section start -->
+    <div class="banner-three pt--50 pb--30">
         <div class="container-full">
             <div class="row">
                 <div class="col-lg-12">
-                    <!-- banner three swiper active -->
+                    <!-- new section swiper active -->
                     <div class="banner-wrapper-main-three">
                         <div class="swiper mySwiper-banner-three">
                             <div class="swiper-wrapper">
@@ -462,7 +731,7 @@ Ultratech, Birla, ACC
                                             </div>
                                             <div class="col-lg-6">
                                                 <div class="thumbnail">
-                                                    <img src="assets/images/projects/lotus-shalaka/healthcare.webp" alt="banner">
+                                                    <img src="assets/images/projects/lotus-shalaka/healthcare862x900.webp" alt="banner">
                                                 </div>
                                             </div>
                                         </div>
@@ -489,7 +758,7 @@ Ultratech, Birla, ACC
                                             </div>
                                             <div class="col-lg-6">
                                                 <div class="thumbnail">
-                                                    <img src="assets/images/projects/lotus-shalaka/workspace.webp" alt="banner">
+                                                    <img src="assets/images/projects/lotus-shalaka/workplace862x900.webp" alt="banner">
                                                 </div>
                                             </div>
                                         </div>
@@ -516,7 +785,7 @@ Ultratech, Birla, ACC
                                             </div>
                                             <div class="col-lg-6">
                                                 <div class="thumbnail">
-                                                    <img src="assets/images/projects/lotus-shalaka/showroom.webp" alt="showroom">
+                                                    <img src="assets/images/projects/lotus-shalaka/showroom862x900.webp" alt="showroom">
                                                 </div>
                                             </div>
                                         </div>

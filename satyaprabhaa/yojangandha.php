@@ -702,32 +702,6 @@
             </div>
             <div class="row g-5 mb--50 rts-slide-up d-flex justify-content-center mt--10">
 
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12"> -->
-                    <!-- ingle srevice area start -->
-                    <!-- <div class="singe-serice-style-two">
-                        <a  data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                            <img src="assets/images/floorplan/2bhk.webp" alt="service">
-                        </a>
-                        <div class="body">
-                            <div class="wrapper">
-                                <div class="icon-area">
-                                    <span>2BHK</span>
-                                </div>
-                                <div class="inner">
-                                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="rts-read-more-circle-btn under-line">
-                            <i class="fa-solid fa-arrow-up-right"></i>
-                            <p>Enquire Now</p>
-                        </a> -->
-                                    <!-- <a  data-bs-toggle="modal" data-bs-target="#popModel" class="arrow-btn-read-more">Read More <i
-                                            class="fa-thin fa-chevron-right"></i></a> -->
-
-                                <!-- </div>
-                            </div>
-                        </div> -->
-                    <!-- </div> -->
-                    <!-- ingle srevice area end -->
-                <!-- </div> -->
-
                 <div class="col-lg-4 col-md-6 col-sm-12 pt-4 pt-md-0">
                     <!-- ingle srevice area start -->
                     <div class="singe-serice-style-two">
@@ -741,13 +715,13 @@
                                     <span>2BHK</span>
                                 </div>
                                 <!-- Enquire Now Center -->
-                                <div class="inner d-flex justify-content-center">
+                                <!-- <div class="inner d-flex justify-content-center">
                                     <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow"
                                     class="rts-read-more-circle-btn under-line text-center">
                                         <i class="fa-solid fa-arrow-up-right"></i>
                                         <p class="mb-0">Enquire Now</p>
                                     </a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

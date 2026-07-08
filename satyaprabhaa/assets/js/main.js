@@ -329,6 +329,39 @@
                     loop: true,
                 });
             });
+             $(document).ready(function () {
+                var swiper = new Swiper(".mySwiper-three-floorplan", {
+                    slidesPerView: 1,
+                    spaceBetween: 40,
+                    centeredSlides: true,
+                    autoplay: true,
+                    breakpoints: {
+                        1700: {
+                            slidesPerView: 3,
+                        },
+                        1500: {
+                            slidesPerView: 3,
+                        },
+                        1024: {
+                            slidesPerView: 3,
+                        },
+                        768: {
+                            slidesPerView: 2,
+                        },
+                        640: {
+                            slidesPerView: 1,
+                        },
+                        320: {
+                            slidesPerView: 1,
+                        }
+                    },
+                    navigation: {
+                        nextEl: ".swiper-button-next",
+                        prevEl: ".swiper-button-prev",
+                    },
+                    loop: true,
+                });
+            });
             $(document).ready(function () {
                 var swiper = new Swiper(".mySwiper-project-5", {
                     slidesPerView: 4,
