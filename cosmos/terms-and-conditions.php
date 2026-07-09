@@ -165,13 +165,7 @@
                 Cosmos Laundry shall not be responsible for valuables or personal belongings left inside garments.
             </p>
 
-            <div class="checklist mb-40 ">
-                <ul class="list-style1">
-                    <li>Check all garment pockets before handing over items.</li>
-                    <li>Remove cash, jewellery, keys, documents, pens, electronic devices, and other valuables.</li>
-                    <li>Inform Cosmos Laundry about delicate fabrics, embellishments, previous damage, or special care instructions.</li>
-                </ul>
-            </div>
+
 
             <h5 class="sec-title mb-10">
                 7. Claims & Complaints
@@ -255,7 +249,6 @@
             </p>
 
             <p class="about-desc mb-40">
-
                 Additional logistics charges may apply if pickup or delivery attempts fail due to customer unavailability, incorrect information, or restricted access.
             </p>
 
@@ -277,48 +270,49 @@
                     <li>Repeated payment defaults</li>
                     <li>Operational or safety constraints</li>
                 </ul>
-
-                <h5 class="sec-title mb-10">
-                    13. Force Majeure
-                </h5>
-
-                <p class="about-desc mb-40">
-                    Cosmos Laundry shall not be liable for delays or failure to perform services due to circumstances beyond its reasonable control, including natural disasters, floods, fires, strikes, transport disruptions, government restrictions, power failures, or other unforeseen events.
-                </p>
-
-                <h5 class="sec-title mb-10">
-                    14. Governing Law & Jurisdiction
-                </h5>
-
-                <p class="about-desc mb-40">
-                    These Terms & Conditions shall be governed by the laws of India.
-                </p>
-
-                <p class="about-desc mb-40">
-                    Any disputes arising from these services shall be subject exclusively to the jurisdiction of the competent courts in Nashik, Maharashtra.
-                </p>
-
-                <h5 class="sec-title mb-10">
-                    15. Changes to Terms
-                </h5>
-
-                <p class="about-desc mb-40">
-                    Cosmos Laundry reserves the right to update or modify these Terms & Conditions at any time. Continued use of our services after such updates constitutes acceptance of the revised Terms.
-                </p>
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
+
+            <h5 class="sec-title mb-10">
+                13. Force Majeure
+            </h5>
+
+            <p class="about-desc mb-40">
+                Cosmos Laundry shall not be liable for delays or failure to perform services due to circumstances beyond its reasonable control, including natural disasters, floods, fires, strikes, transport disruptions, government restrictions, power failures, or other unforeseen events.
+            </p>
+
+            <h5 class="sec-title mb-10">
+                14. Governing Law & Jurisdiction
+            </h5>
+
+            <p class="about-desc mb-40">
+                These Terms & Conditions shall be governed by the laws of India.
+            </p>
+
+            <p class="about-desc mb-40">
+                Any disputes arising from these services shall be subject exclusively to the jurisdiction of the competent courts in Nashik, Maharashtra.
+            </p>
+
+            <h5 class="sec-title mb-10">
+                15. Changes to Terms
+            </h5>
+
+            <p class="about-desc mb-40">
+                Cosmos Laundry reserves the right to update or modify these Terms & Conditions at any time. Continued use of our services after such updates constitutes acceptance of the revised Terms.
+            </p>
+
+
+
+
+
+
+
+
+
+
+
+
         </div>
+    </div>
 
 
-        <?php include 'components/footer.php'; ?>
+    <?php include 'components/footer.php'; ?>
