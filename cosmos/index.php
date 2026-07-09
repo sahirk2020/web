@@ -242,11 +242,11 @@ Service Area
                                     <img src="assets/img/home/laundry-service.webp" alt="laundry service">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Laundry Services</a></h3>
+                                    <h3 class="box-title"><a href="services/laundry-service.php">Laundry Services</a></h3>
                                     <p class="service-grid_text">
                                         Daily wear cleaning with careful washing, effective stain removal, neat folding, and convenient doorstep pickup and delivery.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/laundry-service.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -256,11 +256,11 @@ Service Area
                                     <img src="assets/img/home/sevices-dry-cleaning.webp" alt="dry cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Dry Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/dry-cleaning.php">Dry Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Professional fabric-safe dry cleaning designed to protect delicate garments, maintain texture, and preserve garment quality.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/dry-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -270,11 +270,11 @@ Service Area
                                     <img src="assets/img/home/sevices-premium-wash.webp" alt="premium wash">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Premium Wash</a></h3>
+                                    <h3 class="box-title"><a href="services/premium-wash.php">Premium Wash</a></h3>
                                     <p class="service-grid_text">
                                         Advanced garment care using premium detergents, gentle processing, and detailed finishing for a cleaner, fresher feel.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/premium-wash.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -284,11 +284,11 @@ Service Area
                                     <img src="assets/img/home/sevices-steam-ironing.webp" alt="steam ironing">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Steam Ironing</a></h3>
+                                    <h3 class="box-title"><a href="services/steam-ironing.php">Steam Ironing</a></h3>
                                     <p class="service-grid_text">
                                         Experience the convenience of professional steam ironing delivered to your doorstep. Our experts will ensure your garments are wrinkle-free and ready to wear.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/steam-ironing.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -298,11 +298,11 @@ Service Area
                                     <img src="assets/img/home/shoe-cleaning.webp" alt="shoe cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Shoe Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/shoe-cleaning.php">Shoe Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Deep cleaning and restoration for shoes, removing dirt, stains, and odour while maintaining their original finish.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/shoe-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -312,11 +312,11 @@ Service Area
                                     <img src="assets/img/home/leather-bag-cleaning.webp" alt="leather bag">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Leather Bag Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/leather-&-bag-cleaning.php">Leather Bag Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Careful cleaning and conditioning for leather items and luxury bags to maintain appearance, texture, and durability
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/leather-&-bag-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -327,11 +327,11 @@ Service Area
                                     <img src="assets/img/home/leather-jacket-cleaning.webp" alt="leather jacket">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Leather Jacket Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/leather-jacket-cleaning.php">Leather Jacket Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Specialized leather jacket treatment that removes dirt, restores softness, and protects the original material finish.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/leather-jacket-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -342,11 +342,11 @@ Service Area
                                     <img src="assets/img/home/bag-cleaning.webp" alt="bag cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Travel Bag Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/traveling-bag-cleaning.php">Travel Bag Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Complete cleaning and sanitization for travel bags, removing stains, dust, and odours after every journey.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/traveling-bag-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -357,11 +357,11 @@ Service Area
                                     <img src="assets/img/home/carpet-cleaning.webp" alt="carpet cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Carpet Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/carpet-cleaning.php">Carpet Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Deep carpet cleaning that removes embedded dust, allergens, stains, and odours for a fresher living environment.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/carpet-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -372,11 +372,11 @@ Service Area
                                     <img src="assets/img/home/sofa-cleaning.webp" alt="sofa cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Sofa Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/sofa-cleaning.php">Sofa Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Professional sofa cleaning for fabric and upholstery, removing dirt, stains, and everyday bacteria buildup effectively.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/sofa-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -387,11 +387,11 @@ Service Area
                                     <img src="assets/img/home/curtain-cleaning.webp" alt="curtain cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Curtain Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/curtain-cleaning.php">Curtain Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Gentle curtain cleaning that removes dust and odours while maintaining fabric softness, colour, and fall quality.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/curtain-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -402,11 +402,11 @@ Service Area
                                     <img src="assets/img/home/bed-and-blanket-cleaning.webp" alt="bed and blanket cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Blanket & Bed Linen Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/blanket-&-bed-linen-cleaning.php">Blanket & Bed Linen Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Thorough cleaning and sanitization for blankets, bed sheets, and linen to ensure freshness and hygienic everyday use.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/blanket-&-bed-linen-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -417,11 +417,11 @@ Service Area
                                     <img src="assets/img/home/bed-matress-cleaning.webp" alt="bed matress cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Bed Mattress Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/bed-mattress-cleaning.php">Bed Mattress Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Deep mattress cleaning and sanitization that helps remove dust mites, stains, allergens, and unwanted odours effectively.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/bed-mattress-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -432,11 +432,11 @@ Service Area
                                     <img src="assets/img/home/institutional-chair-cleaning.webp" alt="institutional chair cleaning">
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
-                                    <h3 class="box-title"><a href="services.php">Institutional Chair Cleaning</a></h3>
+                                    <h3 class="box-title"><a href="services/institutional-chair-cleaning.php">Institutional Chair Cleaning</a></h3>
                                     <p class="service-grid_text">
                                         Professional chair cleaning services for offices, institutions, and commercial spaces to maintain hygiene and cleanliness standards.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/institutional-chair-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -448,14 +448,14 @@ Service Area
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
-                                        <a href="services.php">
+                                        <a href="services/bridal-wear-cleaning.php">
                                             Bridal Wear Cleaning
                                         </a>
                                     </h3>
                                     <p class="service-grid_text">
                                         Expert cleaning and preservation of bridal garments, ensuring beauty, freshness, and lasting elegance.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/bridal-wear-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -467,14 +467,14 @@ Service Area
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
-                                        <a href="services.php">
+                                        <a href="services/saree-dry-cleaning.php">
                                             Saree Dry Cleaning
                                         </a>
                                     </h3>
                                     <p class="service-grid_text">
                                         Specialized saree care that protects delicate fabrics, embroidery, colors, and intricate detailing.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/saree-dry-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -486,14 +486,14 @@ Service Area
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
-                                        <a href="services.php">
+                                        <a href="services/designer-wear-cleaning.php">
                                             Designer Wear Cleaning
                                         </a>
                                     </h3>
                                     <p class="service-grid_text">
                                         Professional cleaning solutions designed to preserve the quality and craftsmanship of designer apparel.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/designer-wear-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -505,14 +505,14 @@ Service Area
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
-                                        <a href="services.php">
+                                        <a href="services/blazer-&-suit-care.php">
                                             Blazer & Suit Care
                                         </a>
                                     </h3>
                                     <p class="service-grid_text">
                                         Precision cleaning and finishing for blazers and suits to maintain a sharp appearance.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/blazer-&-suit-care.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -524,14 +524,14 @@ Service Area
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
-                                        <a href="services.php">
+                                        <a href="services/silk-&-wool-care.php">
                                             Silk & Wool Care
                                         </a>
                                     </h3>
                                     <p class="service-grid_text">
                                         Gentle treatment for delicate silk and wool fabrics, preserving texture, softness, and durability.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/silk-&-wool-care.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -543,14 +543,14 @@ Service Area
                                 </div>
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title">
-                                        <a href="services.php">
+                                        <a href="services/toy-cleaning.php">
                                             Toy Cleaning
                                         </a>
                                     </h3>
                                     <p class="service-grid_text">
                                         Safe and hygienic cleaning process that removes dirt, dust, and allergens from soft toys.
                                     </p>
-                                    <a href="services.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                                    <a href="services/toy-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
