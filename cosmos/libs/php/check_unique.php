@@ -1,6 +1,6 @@
 <?php
 
-require("db.php");
+require("../../components/db.php");
 
 //  database credentials
 
