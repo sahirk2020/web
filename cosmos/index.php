@@ -1022,7 +1022,7 @@ Choose Area
     <!--==============================
 Faq Area
 ==============================-->
-    <div class="  space overflow-hidden process" id="faq-sec">
+    <div class="  space overflow-hidden" id="faq-sec">
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-xl-12 text-center text-xl-start align-self-center">
