@@ -7,7 +7,7 @@
         <a href="index.php" class="logo gap-2 d-flex align-items-center">
             <!-- <img src="<?php //echo $baseUrl; ?>/assets/images/logo/Satyaprabhaa-logo.svg"  width="200" alt="Satyaprabhaa-logo.svg"> -->
             
-            <img class="pr--5" width="40"src="assets/images/logo/swastiklogo.svg; ?>" alt="logo" style="border-right: 1px solid;">
+            <img class="pr--5" width="40"src="assets/images/logo/swastiklogo.svg;" alt="logo" style="border-right: 1px solid;">
             <img src="assets/images/logo/Satyaprabhaa-logo.svg"  width="200" alt="Satyaprabhaa-logo.svg">
             
         </a>
