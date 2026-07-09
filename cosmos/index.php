@@ -1018,6 +1018,136 @@ Choose Area
         </div>
     </section>
 
+
+    <!--==============================
+Faq Area
+==============================-->
+    <div class="  space overflow-hidden process" id="faq-sec">
+        <div class="container">
+            <div class="row align-items-end">
+                <div class="col-xl-12 text-center text-xl-start align-self-center">
+                    <div class="">
+                        <div class="title-area text-center text-xl-start">
+                            <span class="sub-title style1">FAQ</span>
+                            <h2 class="sec-title">Frequently Asked Questions</h2>
+                        </div>
+                        <div class="accordion" id="faqAccordion">
+
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-1">
+                                    <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                                        What is Cosmos Laundry and where is it located?
+                                    </button>
+                                </div>
+                                <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">
+                                            Cosmos Laundry is a premium laundry and dry cleaning service based in Jalgaon, Maharashtra. We are located at Gat No. 99/2, Buldhana Urban Warehouse, Chincholi Shivar, Jalgaon 425003. We offer expert garment care, dry cleaning, premium wash, steam ironing, and household cleaning services with doorstep pickup and delivery.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-2">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                                        What services does Cosmos Laundry offer?
+                                    </button>
+                                </div>
+                                <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">
+                                            Cosmos Laundry offers a comprehensive range of cleaning services including laundry, dry cleaning, premium wash, steam ironing, shoe cleaning, leather bag and jacket cleaning, travelling bag cleaning, carpet cleaning, sofa cleaning, curtain cleaning, blanket and bed linen cleaning, bed mattress cleaning, and institutional chair cleaning.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-3">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                                        Does Cosmos Laundry offer home pickup and delivery?
+                                    </button>
+                                </div>
+                                <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">
+                                            Yes, Cosmos Laundry provides convenient doorstep pickup and delivery for all laundry and dry cleaning orders. You can schedule a pickup by calling +91 9284630260 or by reaching out via WhatsApp. We ensure your clothes are returned fresh and on schedule.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-4">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                                        What are Cosmos Laundry's working hours?
+                                    </button>
+                                </div>
+                                <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">
+                                            Cosmos Laundry operates Monday to Saturday from 9:00 AM to 8:00 PM, and on Sundays from 9:00 AM to 1:00 PM. You can contact us during these hours on +91 9284630260 or email us at info@cosmos.com.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-5">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
+                                        How many years of experience does Cosmos Laundry have?
+                                    </button>
+                                </div>
+                                <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">
+                                            Cosmos Laundry has over 10 years of experience in professional garment care and fabric cleaning. Our team combines this experience with modern cleaning technology to deliver consistent, high-quality results for every customer.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-6">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                                        Does Cosmos Laundry clean delicate and premium fabrics?
+                                    </button>
+                                </div>
+                                <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">
+                                            Yes. Cosmos Laundry specializes in the care of delicate and premium fabrics, including silk, wool, linen, and synthetic blends. Our dry cleaning and premium wash processes use fabric-safe methods that preserve the texture, colour, and quality of every garment.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion-card">
+                                <div class="accordion-header" id="collapse-item-7">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-7" aria-expanded="false" aria-controls="collapse-7">
+                                        Does Cosmos Laundry offer membership plans?
+                                    </button>
+                                </div>
+                                <div id="collapse-7" class="accordion-collapse collapse " aria-labelledby="collapse-item-7" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        <p class="faq-text">
+                                            Yes, Cosmos Laundry offers flexible membership plans — Bronze, Silver, and Gold — designed to give regular customers better value, extra credits, high-value garment insurance, and a money-back guarantee. Visit our Membership Plans section to choose the plan that suits your lifestyle.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
     <!--==============================
 Testimonial Area  
 ==============================-->
