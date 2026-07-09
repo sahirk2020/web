@@ -98,8 +98,6 @@
 
             <h4 class=" sec-title mb-10">Why Choose Our Pickup & Delivery Service?</h4>
 
-            <span class="sub-title style1 mt-1"> The information we collect is used to:</span>
-
             <div class="checklist mb-40">
                 <ul>
                     <li> Convenient home and office pickup</li>
