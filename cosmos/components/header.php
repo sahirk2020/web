@@ -1,6 +1,7 @@
 <?php
 include_once __DIR__ . '/db.php';
 ?>
+<?php include('libs/php/tracking.php'); ?>
 
 <!--==============================
     Mobile Menu
@@ -181,14 +182,15 @@ include_once __DIR__ . '/db.php';
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <form method="POST" class="">
+                <form class="lead-form">
+                    <?php echo $URLinfo; ?>
                     <div class="row">
                         <div class="form-group col-md-6">
                             <input
                                 type="text"
-                                class="form-control"
+                                class="form-control fname"
                                 name="name"
-                                id="name"
+                                maxlength="50"
                                 placeholder="Your Name" />
                             <i class="fal fa-user"></i>
                         </div>
@@ -197,23 +199,23 @@ include_once __DIR__ . '/db.php';
                                 type="email"
                                 class="form-control"
                                 name="email"
-                                id="email"
+
                                 placeholder="Email Address" />
                             <i class="fal fa-envelope"></i>
                         </div>
                         <div class="form-group col-md-6">
                             <input
                                 type="tel"
-                                class="form-control"
-                                name="number"
-                                id="number"
+                                class="form-control telli"
+                                name="mobile"
+                                maxlength="10"
                                 placeholder="Phone Number" />
                             <i class="fal fa-phone"></i>
                         </div>
                         <div class="form-group col-md-6">
                             <select
-                                name="subject"
-                                id="subject"
+                                name="service"
+
                                 class="form-select nice-select">
                                 <option value="" disabled selected hidden>
                                     Select Service
@@ -235,7 +237,7 @@ include_once __DIR__ . '/db.php';
                         <div class="form-group col-12">
                             <textarea
                                 name="message"
-                                id="message"
+
                                 cols="30"
                                 rows="3"
                                 class="form-control"
@@ -244,7 +246,7 @@ include_once __DIR__ . '/db.php';
                         </div>
                         <div class="form-btn col-12 justify-content-end gap-4 d-flex">
                             <button type="button" class="th-btn style3 th-radius" data-bs-dismiss="modal">Close</button>
-                            <button class="th-btn th-radius">Submit</button>
+                            <button type="button" class="submit-btn  th-btn th-radius">Submit</button>
                         </div>
                     </div>
                     <p class="form-messages mb-0 mt-3"></p>
