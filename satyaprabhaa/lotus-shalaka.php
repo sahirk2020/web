@@ -4,7 +4,8 @@
     $page_title = "Lotus Shalaka | Premium Commercial Spaces for sale in Pune";
     $page_description = "Discover Lotus Shalaka by Lotus Landmarks - a premium commercial address near top healthcare facilities, designed for businesses seeking prime visibility and growth;";
     
-    include 'css.php';?> </head>
+    include 'css.php';?> 
+  </head>
   <body>
     <!-- header three area start --> <?php include 'header.php'; ?>
     <!-- header three area end -->
@@ -14,9 +15,9 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="bread-crumb-area-inner">
-              <div class="breadcrumb-top">
+              <!-- <div class="breadcrumb-top">
                 <a href="#">Home</a> / <a class="active" href="#">Lotus shalaka</a>
-              </div>
+              </div> -->
               <div class="bottom-title">
                 <h1 class="title">Lotus shalaka</h1>
               </div>
@@ -472,11 +473,12 @@ Ultratech, Birla, ACC
               <div class="swiper-slide">
                 <div class="row mt--30 align-items-center">
                   <!-- single blog area start -->
+                   
                   <!-- ingle srevice area start -->
                   <div class="signle-blog-style-one">
-                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                      <img src="assets/images/projects/lotus-shalaka/floorplan/uglFloorplan.webp" alt="service">
-                    </a>
+                     <a href="assets/images/projects/lotus-shalaka/floorplan/uglFloorplan.webp" data-title="UGL Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/uglFloorplan.webp" alt="UGL Floor Plan">
+                     </a>
                     <div class="body text-center">
                       <div class="wrapper text-center">
                         <!-- 3BHK Center -->
@@ -502,8 +504,8 @@ Ultratech, Birla, ACC
                   <!-- single blog area start -->
                   <!-- ingle srevice area start -->
                   <div class="signle-blog-style-one">
-                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                      <img src="assets/images/projects/lotus-shalaka/floorplan/1stFloorplan.webp" alt="service">
+                    <a href="assets/images/projects/lotus-shalaka/floorplan/1stFloorplan.webp" data-title="1st Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/1stFloorplan.webp" alt="1st Floor Plan">
                     </a>
                     <div class="body text-center">
                       <div class="wrapper text-center">
@@ -530,8 +532,8 @@ Ultratech, Birla, ACC
                   <!-- single blog area start -->
                   <!-- ingle srevice area start -->
                   <div class="signle-blog-style-one">
-                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                      <img src="assets/images/projects/lotus-shalaka/floorplan/2ndFloorplan.webp" alt="service">
+                    <a href="assets/images/projects/lotus-shalaka/floorplan/2ndFloorplan.webp" data-title="2nd Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/2ndFloorplan.webp" alt="2nd Floor Plan">
                     </a>
                     <div class="body text-center">
                       <div class="wrapper text-center">
@@ -558,8 +560,8 @@ Ultratech, Birla, ACC
                   <!-- single blog area start -->
                   <!-- ingle srevice area start -->
                   <div class="signle-blog-style-one">
-                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                      <img src="assets/images/projects/lotus-shalaka/floorplan/3rdFloorplan.webp" alt="service">
+                    <a href="assets/images/projects/lotus-shalaka/floorplan/3rdFloorplan.webp" data-title="3rd Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/3rdFloorplan.webp" alt="3rd Floor Plan">
                     </a>
                     <div class="body text-center">
                       <div class="wrapper text-center">
@@ -586,8 +588,8 @@ Ultratech, Birla, ACC
                   <!-- single blog area start -->
                   <!-- ingle srevice area start -->
                   <div class="signle-blog-style-one">
-                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                      <img src="assets/images/projects/lotus-shalaka/floorplan/4thFloorplan.webp" alt="service">
+                    <a href="assets/images/projects/lotus-shalaka/floorplan/4thFloorplan.webp" data-title="4th Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/4thFloorplan.webp" alt="4th Floor Plan">
                     </a>
                     <div class="body text-center">
                       <div class="wrapper text-center">
@@ -614,8 +616,8 @@ Ultratech, Birla, ACC
                   <!-- single blog area start -->
                   <!-- ingle srevice area start -->
                   <div class="signle-blog-style-one">
-                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                      <img src="assets/images/projects/lotus-shalaka/floorplan/5thFloorplan.webp" alt="service">
+                    <a href="assets/images/projects/lotus-shalaka/floorplan/5thFloorplan.webp" data-title="5th Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/5thFloorplan.webp" alt="5th Floor Plan">
                     </a>
                     <div class="body text-center">
                       <div class="wrapper text-center">
@@ -642,8 +644,8 @@ Ultratech, Birla, ACC
                   <!-- single blog area start -->
                   <!-- ingle srevice area start -->
                   <div class="signle-blog-style-one">
-                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                      <img src="assets/images/projects/lotus-shalaka/floorplan/6thFloorplan.webp" alt="service">
+                    <a href="assets/images/projects/lotus-shalaka/floorplan/6thFloorplan.webp" data-title="6th Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/6thFloorplan.webp" alt="6th Floor Plan">
                     </a>
                     <div class="body text-center">
                       <div class="wrapper text-center">
@@ -670,8 +672,8 @@ Ultratech, Birla, ACC
                   <!-- single blog area start -->
                   <!-- ingle srevice area start -->
                   <div class="signle-blog-style-one">
-                    <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                      <img src="assets/images/projects/lotus-shalaka/floorplan/schematic-section.webp" alt="service">
+                    <a href="assets/images/projects/lotus-shalaka/floorplan/schematic-section.webp" data-title="Schematic Section" data-lightbox="gallery">
+                      <img src="assets/images/projects/lotus-shalaka/floorplan/schematic-section.webp" alt="Schematic Section">
                     </a>
                     <div class="body text-center">
                       <div class="wrapper text-center">
@@ -864,6 +866,8 @@ Ultratech, Birla, ACC
     <!-- start loader -->
     <!-- <div class="loader-wrapper"><div class="loader"></div><div class="loader-section section-left"></div><div class="loader-section section-right"></div></div> -->
     <!-- End loader -->
-    <div id="anywhere-home"></div> <?php include 'js.php'; ?>
+    <div id="anywhere-home">
+    </div> <?php include 'js.php'; ?>
+    
   </body>
 </html>

@@ -7,8 +7,8 @@
         <a href="index.php" class="logo gap-2 d-flex align-items-center">
             <!-- <img src="<?php //echo $baseUrl; ?>/assets/images/logo/Satyaprabhaa-logo.svg"  width="200" alt="Satyaprabhaa-logo.svg"> -->
             
-            <img class="pr--5" width="40"src="assets/images/logo/swastiklogo.svg; ?>" alt="logo" style="border-right: 1px solid;">
-            <img src="assets/images/logo/Satyaprabhaa-logo.svg"  width="200" alt="Satyaprabhaa-logo.svg">
+            <img class="pr--5" width="40"src="<?php echo $baseUrl; ?>/assets/images/logo/swastiklogo.svg; ?>" alt="logo" style="border-right: 1px solid;">
+            <img src="<?php echo $baseUrl; ?>/assets/images/logo/Satyaprabhaa-logo.svg"  width="200" alt="Satyaprabhaa-logo.svg">
             
         </a>
         <!-- logo area end -->
@@ -16,26 +16,26 @@
             <nav class="navigation">
                 <ul class="parent-ul">
                     <li class="">
-                        <a class="nav-link" href="index.php">Home</a>
+                        <a class="nav-link" href="<?php echo $baseUrl; ?>">Home</a>
                     </li>
                     <li class="has-dropdown with-megamenu">
-                        <a class="nav-link" href="">Projects</a>
+                        <a class="nav-link" >Projects</a>
                         <ul class="submenu">
                             <li class="mega-menu-item">
                                 <ul class="pages">
-                                    <li><a class="sdm-main" href="ongoing-projects.php">Ongoing Projects</a></li>
-                                    <li><a class="sdm-main" href="yojangandha.php">Yojangandha</a></li>
-                                    <li><a class="sdm-main" href="lotus-shalaka.php">Lotus Shalaka</a></li>
-                                    <li><a class="sdm-main" href="treya.php">Treya</a></li>
-                                    <li><a class="sdm-main" href="deepak-dev.php">Deepak Dev</a></li>
+                                    <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/ongoing-projects.php">Ongoing Projects</a></li>
+                                    <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/yojangandha.php">Yojangandha</a></li>
+                                    <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/lotus-shalaka.php">Lotus Shalaka</a></li>
+                                    <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/treya.php">Treya</a></li>
+                                    <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/deepak-dev.php">Deepak Dev</a></li>
                                 </ul>
                             </li>
                             <li class="mega-menu-item">
                                 <ul class="pages">
-                                    <li><a class="sdm-main" href="upcoming-projects.php">Upcoming Projects</a></li>
+                                    <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/upcoming-projects.php">Upcoming Projects</a></li>
                                     <li><a class="sdm-main" href="">Shrirang</a></li>
                                     <li><a class="sdm-main" href="">Seva</a></li>
-                                    <!-- <li><a class="sdm-main" href="">Deepak Dev</a></li> -->
+                                    <!-- <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/deepak-dev.php">Deepak Dev</a></li> -->
                                 </ul>
                             </li>
                             <!-- <li class="mega-menu-item">
@@ -47,10 +47,10 @@
                         </ul>
                     </li>
                     <li class="">
-                        <a class="nav-link" href="about-us.php">About Us</a>
+                        <a class="nav-link" href="<?php echo $baseUrl; ?>/about-us.php">About Us</a>
                     </li>
                     <li class="has-dropdown">
-                        <a class="nav-link" href="contact-us.php">Contact Us</a>
+                        <a class="nav-link" href="<?php echo $baseUrl; ?>/contact-us.php">Contact Us</a>
                     </li>
                 </ul>
             </nav>
@@ -66,7 +66,7 @@
             </div>
         </div>
         <div class="im-fluid d-flex">
-            <img class="pr--20 d-md-block d-none" width="100" src="assets/images/27Years-legacy.svg" alt="27-Years">
+            <img class="pr--20 d-md-block d-none" width="100" src="<?php echo $baseUrl; ?>/assets/images/27Years-legacy.svg" alt="27-Years">
         </div>
     </div>
 </div>
@@ -80,7 +80,7 @@
         <!-- inner menu area desktop start -->
         <div class="inner-main-wrapper-desk">
             <div class="thumbnail">
-                <img src="assets/images/logo/Satyaprabhaa-logo.svg" width="250" alt="logo">
+                <img src="<?php echo $baseUrl; ?>/assets/images/logo/Satyaprabhaa-logo.svg" width="250" alt="logo">
             </div>
             <div class="inner-content">
                 <p class="disc">
@@ -143,22 +143,22 @@
                             <li class="has-droupdown third-lvl">
                                 <a class="main" href="#">Ongoing Projects</a>
                                 <ul class="submenu-third-lvl mm-collapse">
-                                    <li><a class="sdm-main" href="yojangandha.php"></a>Yojangandha</li>
-                                    <li><a class="sdm-main" href="lotus-shalaka.php"></a>Lotus Shalaka</li>
-                                    <li><a class="sdm-main" href="treya.php"></a>Treya</li>
-                                    <li><a class="sdm-main" href="deepak-dev.php"></a>Deepak Dev</li>
+                                    <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/yojangandha.php">Yojangandha</a></li>
+                                    <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/lotus-shalaka.php">Lotus Shalaka</a></li>
+                                    <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/treya.php">Treya</a></li>
+                                    <li><a class="sdm-main" href="<?php echo $baseUrl; ?>/deepak-dev.php">Deepak Dev</a></li>
                                 </ul>
                             </li>
                             <li class="third-lvl">
-                                <a class="main" href="upcoming-projects.php">Upcoming Projects</a>
+                                <a class="main" href="<?php echo $baseUrl; ?>/upcoming-projects.php">Upcoming Projects</a>
                             </li>
                         </ul>
                     </li>
                     <li class="">
-                        <a href="about-us.php" class="main">About Us</a>
+                        <a href="<?php echo $baseUrl; ?>/about-us.php" class="main">About Us</a>
                     </li>
                     <li>
-                        <a href="contact-us.php" class="main">Contact Us</a>
+                        <a href="<?php echo $baseUrl; ?>/contact-us.php" class="main">Contact Us</a>
                     </li>
                 </ul>
             </nav>

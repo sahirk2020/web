@@ -20,10 +20,10 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="bread-crumb-area-inner">
-                        <div class="breadcrumb-top">
+                        <!-- <div class="breadcrumb-top">
                             <a href="#">Home</a> /
                             <a class="active" href="#">Treya</a>
-                        </div>
+                        </div> -->
                         <div class="bottom-title">
                             <h1 class="title">Treya</h1>
                         </div>
@@ -262,9 +262,9 @@
                     <div class="top-title-full-w-wrapper">
                         <!-- title-left -->
                         <div class="title-area-style-six-left">
-                            <span class="pre">
-                                <!-- Amenities -->
-                            </span>
+                            <!-- <span class="pre">
+                                Amenities
+                            </span> -->
                             <h2 class="title">Amenities</h2>
                         </div>
                         <!-- title mid text -->

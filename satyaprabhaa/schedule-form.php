@@ -11,6 +11,14 @@
                             <option value="Kothrud">Kothrud</option> 
                             <option value="Aundh">Aundh</option>
                         </select>
+                        <select class="form-control" name="project" id="project" aria-required="true" aria-invalid="false" data-ml-field="Flat Type">
+
+                            <option value="">Select Your Project</option>
+                            <option value="Deepak Dev">Deepak Dev</option> 
+                            <option value="Yojangandha">Yojangandha</option>
+                            <option value="treya">treya</option>
+                            <option value="Lotus Shalaka">Lotus Shalaka</option>
+                        </select>
                         <select class="form-control" name="requirement" id="requirement" aria-required="true" aria-invalid="false" data-ml-field="Flat Type">
 
                             <option value="">Select Your Requirement</option>

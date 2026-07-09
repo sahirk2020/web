@@ -3,8 +3,8 @@
 
 <head>
     <?php
-    $page_title = "";
-    $page_description = "";
+    $page_title = "Deepak Dev | Flats in Aundh Pune | Satyaprabhaa";
+    $page_description = "Deepak Dev by Satyaprabhaa — upcoming residential project in Aundh, Pune. Quality homes in a well-connected neighbourhood. Register your interest.";
     ?>
     <?php include 'css.php'; ?>
 </head>
@@ -19,10 +19,10 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="bread-crumb-area-inner">
-                        <div class="breadcrumb-top">
+                        <!-- <div class="breadcrumb-top">
                             <a href="#">Home</a> /
                             <a class="active" href="#">Deepak Dev</a>
-                        </div>
+                        </div> -->
                         <div class="bottom-title">
                             <h1 class="title">Deepak Dev</h1>
                         </div>
