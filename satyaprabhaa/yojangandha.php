@@ -922,7 +922,11 @@
     </div>
 
     <?php include 'js.php'; ?>
-
+    <script>
+    $(document).ready(function () {
+    $('input[name="project"]').val('Yojangandha');
+    });
+    </script>
 </body>
 
 </html>

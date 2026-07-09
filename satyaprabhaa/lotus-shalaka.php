@@ -865,5 +865,10 @@ Ultratech, Birla, ACC
     <!-- <div class="loader-wrapper"><div class="loader"></div><div class="loader-section section-left"></div><div class="loader-section section-right"></div></div> -->
     <!-- End loader -->
     <div id="anywhere-home"></div> <?php include 'js.php'; ?>
+    <script>
+    $(document).ready(function () {
+    $('input[name="project"]').val('Lotus Shalaka');
+    });
+    </script>
   </body>
 </html>

@@ -253,7 +253,11 @@
     </div>
 
     <?php include 'js.php'; ?>
-
+<script>
+    $(document).ready(function () {
+    $('input[name="project"]').val('Deepak Dev');
+    });
+    </script>
 </body>
 
 </html>
