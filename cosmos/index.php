@@ -200,7 +200,7 @@ Cta Area
                         <div class="title-area mb-0 text-center text-lg-start">
                             <!-- <span class="sub-title style1">Get Free Contact For Services</span> -->
                             <h2 class="sec-title text-white">
-                                Advanced Fabric Care Technology
+                                Advanced Hydrocarbon Dry Cleaning
                             </h2>
                             <p>
                                 Experience Hydrocarbon Dry Cleaning Technology, an internationally trusted process that delivers safer, gentler, and superior garment care.
@@ -623,7 +623,7 @@ Contact Area
                         <div class="title-area mb-25"><span class="sub-title style1">Express Service</span>
                             <h2 class="sec-title text-white">Need Your Clothes Today?</h2>
                             <p>
-                                Drop off your garments before 12 PM and get them delivered by 7 PM with our Express Service.
+                                Drop off your garments before 12:00 PM and get them delivered by 7:00 PM with our Express Service.
                             </p>
                         </div>
                         <h4 class="box-title">
