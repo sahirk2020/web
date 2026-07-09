@@ -89,7 +89,8 @@
             <div class="checklist mb-40 ">
                 <ul class="list-style1">
                     <li>Taxes will be charged as applicable under prevailing laws.</li>
-                    <li>A minimum laundry order of INR 1,000 is required to avail free home collection and delivery. Orders below this value may attract pickup and delivery charges based on the service location.
+                    <li>A minimum laundry order of INR 1,000 is required to avail of free home collection and delivery. Orders below this value may attract pickup and delivery charges based on the
+                        service location.
                     </li>
                     <li>Hangers, if requested or required, will be charged at INR 25 per hanger.
                     </li>
@@ -141,7 +142,7 @@
                     <li>Cosmos Laundry follows industry-standard garment care practices and uses professional cleaning processes.</li>
                     <li>While every effort is made to remove stains safely, stain removal cannot be guaranteed.</li>
                     <li>Cosmos Laundry shall not be responsible for discoloration, shrinkage, colour bleeding, texture changes, fabric deterioration, embellishment damage, or similar issues resulting from excessive wear and tear, fabric age, poor dye quality, manufacturer defects, or other inherent garment characteristics.</li>
-                    <li>Liability shall arise only in cases of proven negligence or gross negligence by Cosmos Laundry.</li>
+                    <li>Liability shall arise only in cases of proven negligence on the part of Cosmos Laundry.</li>
                 </ul>
             </div>
 
