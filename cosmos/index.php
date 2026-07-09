@@ -4,10 +4,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Cosmos - Laundry Service</title>
-    <meta name="author" content="Laun">
-    <meta name="description" content="Cosmos - Laundry Service & Dry Cleaning HTML Template">
-    <meta name="keywords" content="Cosmos - Laundry Service & Dry Cleaning HTML Template">
+    <title>Cosmos Laundry | Premium Laundry & Dry Cleaning Services</title>
+    <meta name="author" content="Cosmos Laundry">
+    <meta name="description" content="Cosmos Laundry offers doorstep pickup, dry cleaning & laundry services with expert fabric care. Book your pickup today!">
+    <meta name="keywords" content="Cosmos Laundry, Laundry Service, Dry Cleaning, Premium Laundry">
     <!-- <meta name="robots" content="INDEX,FOLLOW"> -->
 
     <!-- Mobile Specific Metas -->
