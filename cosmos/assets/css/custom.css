@@ -453,3 +453,10 @@
     opacity: 0.85;
   }
 }
+
+.pr-0 {
+  padding-right: 0 !important;
+}
+.pl-0 {
+  padding-left: 0 !important;
+}
