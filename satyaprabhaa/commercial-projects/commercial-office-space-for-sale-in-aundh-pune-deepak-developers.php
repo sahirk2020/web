@@ -6,12 +6,12 @@
     $page_title = "Deepak Dev | Flats in Aundh Pune | Satyaprabhaa";
     $page_description = "Deepak Dev by Satyaprabhaa — upcoming residential project in Aundh, Pune. Quality homes in a well-connected neighbourhood. Register your interest.";
     ?>
-    <?php include 'css.php'; ?>
+    <?php include '../css-new.php'; ?>
 </head>
 
 <body>
     <!-- header three area start -->
-    <?php include 'header.php'; ?>
+    <?php include '../header-new.php'; ?>
     <!-- header three area end -->
      <!-- bread croumba rea start -->
     <div class="breadcrumb-area-bg bg_image_Deepak-dev">
@@ -111,7 +111,7 @@
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
-                                    <img src="assets/images/why-choose/01.png" alt="choose_icon">
+                                    <img src="../assets/images/why-choose/01.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
                                     <h6 class="title">Prime Aundh Location</h6>
@@ -127,7 +127,7 @@
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
-                                    <img src="assets/images/why-choose/02.png" alt="choose_icon">
+                                    <img src="../assets/images/why-choose/02.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
                                     <h6 class="title">Modern Office Spaces</h6>
@@ -142,7 +142,7 @@
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
-                                    <img src="assets/images/why-choose/03.png" alt="choose_icon">
+                                    <img src="../assets/images/why-choose/03.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
                                     <h6 class="title">Corporate-Ready Infrastructure</h6>
@@ -157,7 +157,7 @@
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
-                                    <img src="assets/images/why-choose/04.png" alt="choose_icon">
+                                    <img src="../assets/images/why-choose/04.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
                                     <h6 class="title">Seamless City Connectivity</h6>
@@ -216,13 +216,13 @@
         </div>
       </div>
       <div class="shape-mockup d-none d-xxl-block" data-bottom="0%" data-right="0%">
-        <img src="assets/img/shape/bg-element.png" alt="">
+        <img src="../assets/img/shape/bg-element.png" alt="">
       </div>
     </div>
     <!-- rts footer area start -->
 
     <!-- rts footer area start -->
-    <?php include 'footer.php'; ?>
+    <?php include '../../footer.php'; ?>
     <!-- rts footer area end -->
 
 

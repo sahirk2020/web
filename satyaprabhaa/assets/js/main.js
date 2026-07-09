@@ -1640,3 +1640,39 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
 });
+
+// lightbox js
+
+  $(document).ready(function() {
+
+    $('.myslider').slick({
+
+
+
+      slidesToScroll: 1,
+
+      arrows: false,
+
+      dots: false,
+
+      vertical: true,
+
+      verticalSwiping: true,
+
+      infinite: false
+
+    });
+
+
+
+    lightbox.option({
+
+      'resizeDuration': 400,
+
+      'wrapAround': true,
+
+      'showCloseButton': true
+
+    });
+
+  });
