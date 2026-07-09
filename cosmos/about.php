@@ -5,79 +5,24 @@
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <title>
-    Laun - Laundry Service & Dry Cleaning HTML Template - About Us
+    About Us | Cosmos Laundry - Trusted Fabric Care Experts
   </title>
-  <meta name="author" content="Laun" />
-  <meta
-    name="description"
-    content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-  <meta
-    name="keywords"
-    content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-  <meta name="robots" content="INDEX,FOLLOW" />
+  <meta name="author" content="Cosmos Laundry">
+  <meta name="description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
+  <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <link rel="canonical" href="" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="About Us | Cosmos Laundry - Trusted Fabric Care Experts" />
+  <meta property="og:description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="Cosmos Laundry" />
+  <meta property="og:image" content="">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
+  <meta name="twitter:title" content="About Us | Cosmos Laundry - Trusted Fabric Care Experts" />
+  <meta name="twitter:site" content="@home" />
 
-  <!-- Mobile Specific Metas -->
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
-  <!-- Favicons - Place favicon.ico in the root directory -->
-  <link
-    rel="apple-touch-icon"
-    sizes="57x57"
-    href="assets/img/favicons/apple-icon-57x57.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="60x60"
-    href="assets/img/favicons/apple-icon-60x60.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="72x72"
-    href="assets/img/favicons/apple-icon-72x72.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="76x76"
-    href="assets/img/favicons/apple-icon-76x76.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="114x114"
-    href="assets/img/favicons/apple-icon-114x114.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="120x120"
-    href="assets/img/favicons/apple-icon-120x120.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="144x144"
-    href="assets/img/favicons/apple-icon-144x144.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="152x152"
-    href="assets/img/favicons/apple-icon-152x152.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="assets/img/favicons/apple-icon-180x180.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="192x192"
-    href="assets/img/favicons/android-icon-192x192.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="32x32"
-    href="assets/img/favicons/favicon-32x32.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="96x96"
-    href="assets/img/favicons/favicon-96x96.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="16x16"
-    href="assets/img/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/img/favicons/manifest.json" />
   <meta name="msapplication-TileColor" content="#ffffff" />
   <meta

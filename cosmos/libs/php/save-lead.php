@@ -5,7 +5,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 require 'vendor/autoload.php';
-require("db.php");
+require("../../components/db.php");
 require("user-ip.php");
 // require("mdoc-crm.php");
 
@@ -168,5 +168,3 @@ if (
 
     echo 5004;
 }
-
-
