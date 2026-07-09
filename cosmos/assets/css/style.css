@@ -577,7 +577,7 @@ input {
   border: 1px solid transparent;
   color: var(--body-color);
   background-color: var(--smoke-color);
-  border-radius: 30px;
+  border-radius: 14px;
   font-size: 16px;
   width: 100%;
   font-family: var(--body-font);
@@ -5831,7 +5831,8 @@ ol.wp-block-rss {
   left: 0;
   background-color: var(--white-color);
   visibility: hidden;
-  min-width: 230px;
+  min-width: 530px;
+  /* 230 to 530 */
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
@@ -5857,7 +5858,7 @@ ol.wp-block-rss {
 }
 
 .main-menu ul.sub-menu {
-  padding: 18px 20px 18px 18px;
+  padding: 18px 0px 18px 18px;
   left: -27px;
 }
 

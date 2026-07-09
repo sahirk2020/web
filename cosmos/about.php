@@ -128,9 +128,9 @@ About Area
   <div class="overflow-hidden overflow-hidden space" id="about-sec">
     <div class="container">
       <div class="row">
-        <div class="col-xl-5 mb-40 mb-xl-0">
+        <div class="col-xl-5 col-lg-5 col-md-5 mb-40 mb-xl-0">
           <div class="img-box2">
-            <div class="img1">
+            <div class="img1 d-lg-block d-md-none">
               <img src="assets/img/about/about-us-back.webp" alt="About" />
             </div>
             <div class="img2">
@@ -138,12 +138,9 @@ About Area
             </div>
             <div class="about-shape-1"></div>
             <div class="about-shape-2"></div>
-            <!-- <div class="about-big">
-              <h3 class="about-big_text">DRY CLENING</h3>
-            </div> -->
           </div>
         </div>
-        <div class="col-xl-7">
+        <div class="col-xl-7 col-lg-7 col-md-7">
           <div class="ps-xl-5 wow fadeInRight">
             <div class="title-area mb-25">
               <span class="sub-title style1">About Us</span>
@@ -170,7 +167,102 @@ About Area
   <!--==============================
 Choose Area  
 ==============================-->
-  <section class="overflow-hidden space-bottom space">
+
+  <div class="overflow-hidden space space-bottom" id="feature-area" data-bg-src="assets/img/bg/service-bg-1.jpg">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 offset-lg-3">
+          <div class="title-area text-center pe-xl-4 ps-xl-4">
+            <span class="sub-title">Why Cosmos</span>
+            <h2 class="sec-title">Premium Fabric Care, Every Time</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row gy-4 justify-content-center">
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInUp">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/service_1_1.svg" alt="Advanced Hydrocarbon Technology" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Advanced Hydrocarbon Technology</h3>
+              <p class="feature-item_text">
+                Advanced cleaning technology that delivers superior results while protecting delicate fabrics and colors.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInDown">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/luxury-care.svg" width="60" alt="Premium & Luxury Care" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Premium & Luxury Care</h3>
+              <p class="feature-item_text">
+                Specialized care designed to maintain the elegance, quality, and longevity of premium garments.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInUp">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/service_1_3.svg" alt="Fabric-Friendly Process" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Fabric-Friendly Process</h3>
+              <p class="feature-item_text">
+                Gentle cleaning methods that preserve fabric texture, softness, color, and overall garment quality.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInUp">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/garment-treatment.svg" width="60" alt="Specialized Garment Care" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Specialized Garment Care</h3>
+              <p class="feature-item_text">
+                Tailored cleaning solutions for delicate, designer, luxury, and occasion-specific garments.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInDown">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/experienced-team.svg" width="60" alt="Experienced Team" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Experienced Team</h3>
+              <p class="feature-item_text">
+                Skilled professionals with extensive expertise in handling diverse fabrics and garment types.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInUp">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/quality.svg" width="60" alt="Quality Assurance" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Quality Assurance</h3>
+              <p class="feature-item_text">
+                Every garment undergoes thorough inspection to ensure exceptional cleaning and finishing standards.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <section class="overflow-hidden d-none space-bottom space">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 offset-lg-3">

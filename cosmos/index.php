@@ -104,7 +104,7 @@ Hero Area
                 </div>
             </div>
         </div>
-        <div class="shape-mockup d-none d-xl-block rotate-180" data-bottom="0%" data-right="0%"><img src="assets/img/shape/hero_shape.svg" alt="shape">
+        <div class="shape-mockup d-none rotate-180" data-bottom="0%" data-right="0%"><img src="assets/img/shape/hero_shape.svg" alt="shape">
         </div>
         <div class="icon-box">
             <button data-slider-prev="#heroSlider3" class="slider-arrow default"><i class="far fa-arrow-right"></i></button>
@@ -815,10 +815,107 @@ Product Area
         </div>
     </section>
 
+
+    <!--==============================
+feature Area  
+==============================-->
+    <div class="overflow-hidden space space-bottom" id="feature-area" data-bg-src="assets/img/bg/service-bg-1.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <div class="title-area text-center pe-xl-4 ps-xl-4">
+                        <span class="sub-title">Why Cosmos</span>
+                        <h2 class="sec-title">Premium Fabric Care, Every Time</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row gy-4 justify-content-center">
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInUp">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/service_1_1.svg" alt="Advanced Hydrocarbon Technology" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Advanced Hydrocarbon Technology</h3>
+                            <p class="feature-item_text">
+                                Advanced cleaning technology that delivers superior results while protecting delicate fabrics and colors.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInDown">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/luxury-care.svg" width="60" alt="Premium & Luxury Care" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Premium & Luxury Care</h3>
+                            <p class="feature-item_text">
+                                Specialized care designed to maintain the elegance, quality, and longevity of premium garments.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInUp">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/service_1_3.svg" alt="Fabric-Friendly Process" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Fabric-Friendly Process</h3>
+                            <p class="feature-item_text">
+                                Gentle cleaning methods that preserve fabric texture, softness, color, and overall garment quality.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInUp">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/garment-treatment.svg" width="60" alt="Specialized Garment Care" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Specialized Garment Care</h3>
+                            <p class="feature-item_text">
+                                Tailored cleaning solutions for delicate, designer, luxury, and occasion-specific garments.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInDown">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/experienced-team.svg" width="60" alt="Experienced Team" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Experienced Team</h3>
+                            <p class="feature-item_text">
+                                Skilled professionals with extensive expertise in handling diverse fabrics and garment types.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInUp">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/quality.svg" width="60" alt="Quality Assurance" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Quality Assurance</h3>
+                            <p class="feature-item_text">
+                                Every garment undergoes thorough inspection to ensure exceptional cleaning and finishing standards.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!--==============================
 Choose Area  
 ==============================-->
-    <section class=" overflow-hidden space-bottom">
+    <section class="d-none overflow-hidden space-bottom">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
@@ -1265,91 +1362,7 @@ Blog Area
 
 
 
-    <!-- Modal -->
-    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Enquire Now</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <form method="POST" class="">
-                        <div class="row">
-                            <div class="form-group col-md-6">
-                                <input
-                                    type="text"
-                                    class="form-control"
-                                    name="name"
-                                    id="name"
-                                    placeholder="Your Name" />
-                                <i class="fal fa-user"></i>
-                            </div>
-                            <div class="form-group col-md-6">
-                                <input
-                                    type="email"
-                                    class="form-control"
-                                    name="email"
-                                    id="email"
-                                    placeholder="Email Address" />
-                                <i class="fal fa-envelope"></i>
-                            </div>
-                            <div class="form-group col-md-6">
-                                <input
-                                    type="tel"
-                                    class="form-control"
-                                    name="number"
-                                    id="number"
-                                    placeholder="Phone Number" />
-                                <i class="fal fa-phone"></i>
-                            </div>
-                            <div class="form-group col-md-6">
-                                <select
-                                    name="subject"
-                                    id="subject"
-                                    class="form-select nice-select">
-                                    <option value="" disabled selected hidden>
-                                        Select Service
-                                    </option>
-                                    <option value="Dry Cleaning">Dry Cleaning</option>
-                                    <option value="Wash & Fold">Wash & Fold</option>
-                                    <option value="Ironing/Pressing">Ironing/Pressing</option>
-                                    <option value="Garments Transformed">
-                                        Garments Transformed
-                                    </option>
-                                    <option value="Household Textile Care">
-                                        Household Textile Care
-                                    </option>
-                                    <option value="Household Textile Care">
-                                        Household Textile Care
-                                    </option>
-                                </select>
-                            </div>
-                            <div class="form-group col-12">
-                                <textarea
-                                    name="message"
-                                    id="message"
-                                    cols="30"
-                                    rows="3"
-                                    class="form-control"
-                                    placeholder="Your Message"></textarea>
-                                <i class="fal fa-pencil"></i>
-                            </div>
-                            <div class="form-btn col-12 justify-content-end gap-4 d-flex">
-                                <button type="button" class="th-btn style3 th-radius" data-bs-dismiss="modal">Close</button>
-                                <button class="th-btn th-radius">Submit</button>
-                            </div>
-                        </div>
-                        <p class="form-messages mb-0 mt-3"></p>
-                    </form>
-                </div>
-                <!-- <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                </div> -->
-            </div>
-        </div>
-    </div>
+
 </body>
 
 </html>
