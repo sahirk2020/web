@@ -1,8 +1,40 @@
 <?php
+// include_once __DIR__ . '/../libs/php/tracking.php';
 include_once __DIR__ . '/db.php';
-?>
-<?php include('libs/php/tracking.php'); ?>
 
+$user_id = '';
+$source         = $_GET['utm_source'] ?? 'Organic Lead';
+$capaignname    = $_GET['utm_campaign_name'] ?? 'Search';
+$capaignid      = $_GET['utm_campaign_id'] ?? 'Website';
+
+$capaigncity    = $_GET['utm_campaign_city'] ?? 'Pune';
+$capaignstate   = $_GET['utm_campaign_state'] ?? 'Maharashtra';
+
+$utm_medium     = $_GET['utm_medium'] ?? '';
+$utm_term       = $_GET['utm_term'] ?? '';
+$utm_adid       = $_GET['utm_adid'] ?? '';
+$utm_device     = $_GET['utm_device'] ?? '';
+$utm_matchtype  = $_GET['utm_matchtype'] ?? '';
+$utm_location   = $_GET['utm_location'] ?? '';
+$gclid          = $_GET['gclid'] ?? '';
+
+$URLinfo = "
+<input type='hidden' id='user_id' name='user_id' value='$user_id' />
+<input type='hidden' id='utm_source' name='utm_source' value='$source' />
+<input type='hidden' id='utm_medium' name='utm_medium' value='$utm_medium' />
+<input type='hidden' id='utm_campaign_name' name='utm_campaign_name' value='$capaignname' />
+<input type='hidden' id='utm_campaign_id' name='utm_campaign_id' value='$capaignid' />
+<input type='hidden' id='utm_campaign_city' name='utm_campaign_city' value='$capaigncity' />
+<input type='hidden' id='utm_campaign_state' name='utm_campaign_state' value='$capaignstate' />
+<input type='hidden' id='utm_term' name='utm_term' value='$utm_term' />
+<input type='hidden' id='utm_adid' name='utm_adid' value='$utm_adid' />
+<input type='hidden' id='utm_device' name='utm_device' value='$utm_device' />
+<input type='hidden' id='utm_matchtype' name='utm_matchtype' value='$utm_matchtype' />
+<input type='hidden' id='utm_location' name='utm_location' value='$utm_location' />
+<input type='hidden' id='gclid' name='gclid' value='$gclid' />
+";
+
+?>
 <!--==============================
     Mobile Menu
   ============================== -->
@@ -16,7 +48,6 @@ include_once __DIR__ . '/db.php';
             <ul>
                 <li>
                     <a href="<?php echo BASE_URL; ?>index.php">Home</a>
-
                 </li>
                 <li><a href="<?php echo BASE_URL; ?>about.php">About Us</a></li>
 
