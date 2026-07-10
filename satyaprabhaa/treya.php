@@ -15,7 +15,7 @@
     <?php include 'header.php'; ?>
     <!-- header three area end -->
      <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, black, #00000070), url(assets/images/projects/treya/banner-1000x554.webp) no-repeat center center / cover;">
+    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, #0000001f, #0000001f), url(assets/images/projects/treya/banner-1000x554.webp) no-repeat center center / cover;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

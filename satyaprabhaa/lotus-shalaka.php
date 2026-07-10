@@ -844,7 +844,7 @@ Ultratech, Birla, ACC
             </div>
           </div>
           <div class="col-xl-6 pt-5">
-            <iframe height="650" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15129.44910991326!2d73.80733854999998!3d18.557698999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf483a6041cd%3A0xd968e07ed9df3a2d!2sAundh%2C%20Pune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1782453819706!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+            <iframe height="650" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.287629539206!2d73.80194907423837!3d18.561066967937894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf285e5a2c1f%3A0x5087b2a4a2e0c0a0!2sLotus%20Shalaka!5e0!3m2!1sen!2sin!4v1783593953223!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
           </div>
         </div>
       </div>

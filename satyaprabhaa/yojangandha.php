@@ -385,7 +385,7 @@
                                     <!-- single testimonials area -->
                                     <div class="single-testimonials-area-six">
                                         <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/walking-track-and-sundeck.svg" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/sun-deck.svg" alt="sun-deck">
                                             <div class="information-area">
                                                 <h6 class="title">Sun Deck</h6>
                                                 <!-- <span>New Client</span> -->
@@ -437,9 +437,22 @@
                                     <!-- single testimonials area -->
                                     <div class="single-testimonials-area-six">
                                         <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/senior-citizen-area.svg" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/reading-zone.svg" alt="reading-zone">
                                             <div class="information-area">
                                                 <h6 class="title">Reading Zone</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/kitchen-set.svg" alt="kitchen-set">
+                                            <div class="information-area">
+                                                <h6 class="title">Open Kitchen</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
@@ -476,7 +489,7 @@
                                     <!-- single testimonials area -->
                                     <div class="single-testimonials-area-six">
                                         <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/power-bkp-lifts.svg" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/lift.svg" alt="lift">
                                             <div class="information-area">
                                                 <h6 class="title">Lift</h6>
                                                 <!-- <span>New Client</span> -->
