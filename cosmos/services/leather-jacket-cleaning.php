@@ -14,7 +14,7 @@
     <title>
         Leather Jacket Cleaning | Expert Care - Cosmos Laundry
     </title>
-     <!-- <meta name="robots" content="index, follow"> -->
+    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Trust our experts to clean & condition your leather jackets, keeping them soft, supple and stain-free." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -71,6 +71,7 @@
                 <h1 class="breadcumb-title sec-title1">Leather Jacket Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>services.php">Services</a></li>
                     <li>Leather Jacket Cleaning</li>
                 </ul>
             </div>

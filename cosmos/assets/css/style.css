@@ -1704,6 +1704,7 @@ textarea.is-invalid {
 .th-btn {
   position: relative;
   z-index: 2;
+  cursor: pointer;
   overflow: hidden;
   vertical-align: middle;
   display: inline-block;
@@ -10318,6 +10319,7 @@ table.woocommerce-product-attributes {
   transition: all ease 0.4s;
   border: 4px solid var(--smoke-color);
   padding: 25px;
+  height: 100%;
 }
 
 .th-product .product-title {
@@ -18690,7 +18692,7 @@ span.select2-selection.select2-selection--single:focus {
     text-align: center;
   }
   .cta-group a:first-child {
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
   }
 }
 

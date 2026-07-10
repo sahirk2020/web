@@ -70,7 +70,7 @@ Hero Area
                                     Delivering deeper cleaning, superior hygiene, and long-lasting freshness for every garment.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn style2">Discover More</a>
+                                    <a href="about.html" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -89,7 +89,7 @@ Hero Area
                                     Specialized dry cleaning for suits, dresses, and delicate fabrics with meticulous attention to detail.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn style2">Discover More</a>
+                                    <a href="about.html" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -108,7 +108,7 @@ Hero Area
                                     Professional steam ironing that delivers a crisp finish and a refined appearance for every garment.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn style2">Discover More</a>
+                                    <a href="about.html" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>

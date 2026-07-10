@@ -64,6 +64,7 @@
                 <h1 class="breadcumb-title sec-title1">Curtain Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>services.php">Services</a></li>
                     <li>Curtain Cleaning</li>
                 </ul>
             </div>

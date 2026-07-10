@@ -66,6 +66,7 @@
                 <h1 class="breadcumb-title sec-title1">Dry Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>services.php">Services</a></li>
                     <li>Dry Cleaning</li>
                 </ul>
             </div>
@@ -108,7 +109,7 @@ Feature Area
 ==============================-->
     <div class="features-area services-banner position-relative process overflow-hidden" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/DRY-CLEANING-Bg-image.webp">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-xl-9">
                     <div class="choose-feature-area">
                         <div class="title-area mb-25">
@@ -149,7 +150,7 @@ Faq Area
 ==============================-->
     <div class="  space overflow-hidden process" id="faq-sec">
         <div class="container">
-            <div class="row align-items-end">
+            <div class="row">
                 <div class="col-xl-6 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
