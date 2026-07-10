@@ -215,7 +215,6 @@ include_once __DIR__ . '/db.php';
                         <div class="form-group col-md-6">
                             <select
                                 name="service"
-
                                 class="form-select nice-select">
                                 <option value="" disabled selected hidden>
                                     Select Service

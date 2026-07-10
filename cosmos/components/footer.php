@@ -208,6 +208,8 @@
         var service = form.find('[name="service"]').val();
         var message = form.find('[name="message"]').val();
 
+        console.log("service", service);
+
         var source = form.find('[name="utm_source"]').val();
         var campaignname = form.find('[name="utm_campaign_name"]').val();
         var campaignid = form.find('[name="utm_campaign_id"]').val();
@@ -244,7 +246,7 @@
             return;
         }
 
-        if (service == "") {
+        if (service === "" || service === null) {
             alert("Select service");
             form.find('[name="service"]').focus().css("border", "1px solid #ff0000");
             return;
