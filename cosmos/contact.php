@@ -274,7 +274,8 @@ Contact Area
         <div class="col-lg-6">
 
           <form class="lead-form contact-form input-smoke ajax-contact card-shadow">
-            <?php //echo $URLinfo; 
+            <?php
+            echo $URLinfo;
             ?>
             <h2 class="sec-title1 mb-30">Get In Touch</h2>
             <div class="row">
@@ -352,5 +353,3 @@ Contact Area
   </div>
 
   <?php include 'components/footer.php'; ?>
-
-
