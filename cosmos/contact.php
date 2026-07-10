@@ -5,16 +5,24 @@
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <title>
-    Contact Us
+    Contact Us | Cosmos Laundry - Book a Pickup Today
   </title>
-  <meta name="author" content="Laun" />
-  <meta
-    name="description"
-    content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-  <meta
-    name="keywords"
-    content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-  <meta name="robots" content="INDEX,FOLLOW" />
+  <!-- <meta name="robots" content="index, follow"> -->
+  <meta name="author" content="Cosmos Laundry">
+  <meta name="description" content="Get in touch with Cosmos Laundry for bookings, queries or feedback. Call, WhatsApp or fill our contact form now." />
+  <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <link rel="canonical" href="" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Contact Us | Cosmos Laundry - Book a Pickup Today" />
+  <meta property="og:description" content="Get in touch with Cosmos Laundry for bookings, queries or feedback. Call, WhatsApp or fill our contact form now." />
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="Cosmos Laundry" />
+  <meta property="og:image" content="">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="Get in touch with Cosmos Laundry for bookings, queries or feedback. Call, WhatsApp or fill our contact form now." />
+  <meta name="twitter:title" content="Contact Us | Cosmos Laundry - Book a Pickup Today" />
+  <meta name="twitter:site" content="@home" />
 
   <?php include_once "css.php"; ?>
 
@@ -266,7 +274,8 @@ Contact Area
         <div class="col-lg-6">
 
           <form class="lead-form contact-form input-smoke ajax-contact card-shadow">
-            <?php echo $URLinfo; ?>
+            <?php //echo $URLinfo; 
+            ?>
             <h2 class="sec-title1 mb-30">Get In Touch</h2>
             <div class="row">
               <div class="form-group col-md-6">

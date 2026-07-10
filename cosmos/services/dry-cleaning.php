@@ -5,17 +5,24 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
-        Laun - Laundry Service & Dry Cleaning HTML Template - Home Laundry
-        Services
+        Dry Cleaning Services | Hydrocarbon Technology - Cosmos
     </title>
-    <meta name="author" content="Laun" />
-    <meta
-        name="description"
-        content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-    <meta
-        name="keywords"
-        content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-    <meta name="robots" content="INDEX,FOLLOW" />
+    <!-- <meta name="robots" content="index, follow"> -->
+    <meta name="author" content="Cosmos Laundry">
+    <meta name="description" content="Advanced hydrocarbon dry cleaning that's gentle on fabrics. Ideal for suits, sarees, silk & premium garments." />
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="canonical" href="" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Dry Cleaning Services | Hydrocarbon Technology - Cosmos" />
+    <meta property="og:description" content="Advanced hydrocarbon dry cleaning that's gentle on fabrics. Ideal for suits, sarees, silk & premium garments." />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="Cosmos Laundry" />
+    <meta property="og:image" content="">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Advanced hydrocarbon dry cleaning that's gentle on fabrics. Ideal for suits, sarees, silk & premium garments." />
+    <meta name="twitter:title" content="Dry Cleaning Services | Hydrocarbon Technology - Cosmos" />
+    <meta name="twitter:site" content="@home" />
 
     <!-- Mobile Specific Metas -->
     <meta
@@ -147,7 +154,7 @@ Faq Area
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
-                            <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
+                            <h2 class="sec-title">Frequently Asked Questions</h2>
                         </div>
                         <div class="accordion" id="faqAccordion">
 

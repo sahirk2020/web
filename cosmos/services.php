@@ -4,12 +4,23 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title></title>
-    <meta name="author" content="Laun">
-    <meta name="description" content="Laun - Laundry Service & Dry Cleaning HTML Template">
-    <meta name="keywords" content="Laun - Laundry Service & Dry Cleaning HTML Template">
-    <meta name="robots" content="INDEX,FOLLOW">
-
+    <title>Our Services | Cosmos Laundry - Laundry & Dry Cleaning</title>
+    <!-- <meta name="robots" content="index, follow"> -->
+    <meta name="author" content="Cosmos Laundry">
+    <meta name="description" content="Explore Cosmos Laundry's full range of services - laundry, dry cleaning, ironing, carpet & upholstery care and more." />
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="canonical" href="" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Our Services | Cosmos Laundry - Laundry & Dry Cleaning" />
+    <meta property="og:description" content="Explore Cosmos Laundry's full range of services - laundry, dry cleaning, ironing, carpet & upholstery care and more." />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="Cosmos Laundry" />
+    <meta property="og:image" content="">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Explore Cosmos Laundry's full range of services - laundry, dry cleaning, ironing, carpet & upholstery care and more." />
+    <meta name="twitter:title" content="Our Services | Cosmos Laundry - Laundry & Dry Cleaning" />
+    <meta name="twitter:site" content="@home" />
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 

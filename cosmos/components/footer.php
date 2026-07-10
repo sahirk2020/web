@@ -7,7 +7,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
-                        <span class="sub-title style1">Premium Doorstep Laundry Service</span>
+                        <span class="sub-title style1 font-size-22">Premium Doorstep Laundry Service</span>
                         <p class="text-white">Experience hassle-free doorstep pickup and delivery with expert garment care, timely service, and unmatched convenience every time.</p>
 
 
@@ -19,7 +19,7 @@
 
                 <div class="col-xl-7 col-lg-6 text-center">
                     <div class="van-box" id="vanScrollBox">
-                        <img src="<?php echo BASE_URL; ?>assets/img/services/van.png" alt="Cosmos Laundry" class="img-fluid van-scroll">
+                        <img src="<?php echo BASE_URL; ?>assets/img/services/van.png" alt="Cosmos Laundry" class="img-fluid van-scroll w-75">
                     </div>
                 </div>
             </div>

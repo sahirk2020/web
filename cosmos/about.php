@@ -5,79 +5,25 @@
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <title>
-    Laun - Laundry Service & Dry Cleaning HTML Template - About Us
+    About Us | Cosmos Laundry - Trusted Fabric Care Experts
   </title>
-  <meta name="author" content="Laun" />
-  <meta
-    name="description"
-    content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-  <meta
-    name="keywords"
-    content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-  <meta name="robots" content="INDEX,FOLLOW" />
+  <!-- <meta name="robots" content="index, follow"> -->
+  <meta name="author" content="Cosmos Laundry">
+  <meta name="description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
+  <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <link rel="canonical" href="" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="About Us | Cosmos Laundry - Trusted Fabric Care Experts" />
+  <meta property="og:description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="Cosmos Laundry" />
+  <meta property="og:image" content="">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
+  <meta name="twitter:title" content="About Us | Cosmos Laundry - Trusted Fabric Care Experts" />
+  <meta name="twitter:site" content="@home" />
 
-  <!-- Mobile Specific Metas -->
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
-  <!-- Favicons - Place favicon.ico in the root directory -->
-  <link
-    rel="apple-touch-icon"
-    sizes="57x57"
-    href="assets/img/favicons/apple-icon-57x57.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="60x60"
-    href="assets/img/favicons/apple-icon-60x60.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="72x72"
-    href="assets/img/favicons/apple-icon-72x72.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="76x76"
-    href="assets/img/favicons/apple-icon-76x76.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="114x114"
-    href="assets/img/favicons/apple-icon-114x114.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="120x120"
-    href="assets/img/favicons/apple-icon-120x120.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="144x144"
-    href="assets/img/favicons/apple-icon-144x144.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="152x152"
-    href="assets/img/favicons/apple-icon-152x152.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="assets/img/favicons/apple-icon-180x180.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="192x192"
-    href="assets/img/favicons/android-icon-192x192.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="32x32"
-    href="assets/img/favicons/favicon-32x32.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="96x96"
-    href="assets/img/favicons/favicon-96x96.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="16x16"
-    href="assets/img/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/img/favicons/manifest.json" />
   <meta name="msapplication-TileColor" content="#ffffff" />
   <meta
@@ -361,6 +307,8 @@ Choose Area
       </div>
     </div>
   </section>
+
+
   <!--==============================
 Counter Area  
 ==============================-->
@@ -527,6 +475,117 @@ Team Area
       </div>
     </div>
   </section>
+
+  <!--==============================
+Faq Area
+==============================-->
+  <div class="  space overflow-hidden process" id="faq-sec">
+    <div class="container">
+      <div class="row align-items-end">
+        <div class="col-xl-12 text-center text-xl-start align-self-center">
+          <div class="">
+            <div class="title-area text-center text-xl-start">
+              <span class="sub-title style1">FAQ</span>
+              <h2 class="sec-title">Frequently Asked Questions</h2>
+            </div>
+            <div class="accordion" id="faqAccordion">
+
+
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-1">
+                  <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                    Who founded Cosmos Laundry and who runs it?
+                  </button>
+                </div>
+                <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Cosmos Laundry was founded by Purab Bang, who serves as CEO. The leadership team includes Naresh Manchanda as Operations Head, Vibha Bang heading Marketing and Customer Relations, and Anoop Madaiya managing Finance and Strategy. Together, the team brings over a decade of expertise in professional laundry and fabric care.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-2">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                    What makes Cosmos Laundry different from regular laundry services?
+                  </button>
+                </div>
+                <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Cosmos Laundry stands apart through its use of modern cleaning technology, expert fabric knowledge, and a meticulous 9-step cleaning process — covering inspection, tagging, sorting, colour segregation, spotting, cleaning, finishing, quality check, and packaging. Every garment is individually assessed and treated for the best possible result.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-3">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                    Is Cosmos Laundry safe for expensive and branded clothing?
+                  </button>
+                </div>
+                <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Yes. Cosmos Laundry uses specialized, fabric-safe processes for expensive, branded, and delicate garments. We offer garment insurance under our membership plans, giving customers added protection and peace of mind for high-value items.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-4">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                    What cleaning technology does Cosmos Laundry use?</button>
+                </div>
+                <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Cosmos Laundry uses advanced modern cleaning technology that removes tough stains while maintaining fabric quality and softness. Our processes are designed to protect colours, preserve texture, and extend the life of your garments.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-5">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Does Cosmos Laundry guarantee quality?</button>
+                </div>
+                <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Yes. Every garment at Cosmos Laundry undergoes a thorough quality check before packaging and delivery. Our quality assurance process ensures consistent cleaning and finishing standards across every order, every time.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-6">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                    How does Cosmos Laundry ensure timely delivery?
+                  </button>
+                </div>
+                <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Cosmos Laundry operates a reliable pickup and doorstep delivery system designed to fit around customers' daily routines. Orders are tracked through each stage of the cleaning process to ensure on-time return without compromising quality.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <!--==============================
 	Footer Area
 ==============================-->
