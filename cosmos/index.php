@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Cosmos Laundry | Premium Laundry & Dry Cleaning Services</title>
+    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Cosmos Laundry offers doorstep pickup, dry cleaning & laundry services with expert fabric care. Book your pickup today!" />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />

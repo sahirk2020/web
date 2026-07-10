@@ -7,6 +7,7 @@
   <title>
     Contact Us | Cosmos Laundry - Book a Pickup Today
   </title>
+  <!-- <meta name="robots" content="index, follow"> -->
   <meta name="author" content="Cosmos Laundry">
   <meta name="description" content="Get in touch with Cosmos Laundry for bookings, queries or feedback. Call, WhatsApp or fill our contact form now." />
   <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />

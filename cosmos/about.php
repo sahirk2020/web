@@ -7,6 +7,7 @@
   <title>
     About Us | Cosmos Laundry - Trusted Fabric Care Experts
   </title>
+  <!-- <meta name="robots" content="index, follow"> -->
   <meta name="author" content="Cosmos Laundry">
   <meta name="description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
   <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />

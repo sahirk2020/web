@@ -12,17 +12,24 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
-        Laun - Laundry Service & Dry Cleaning HTML Template - Home Laundry
-        Services
+        Steam Ironing Service | Crisp, Wrinkle-Free Clothes
     </title>
-    <meta name="author" content="Laun" />
-    <meta
-        name="description"
-        content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-    <meta
-        name="keywords"
-        content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-    <meta name="robots" content="INDEX,FOLLOW" />
+    <!-- <meta name="robots" content="index, follow"> -->
+    <meta name="author" content="Cosmos Laundry">
+    <meta name="description" content="Get perfectly pressed, wrinkle-free clothes with professional steam ironing from Cosmos Laundry. Book now!" />
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="canonical" href="" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Steam Ironing Service | Crisp, Wrinkle-Free Clothes" />
+    <meta property="og:description" content="Get perfectly pressed, wrinkle-free clothes with professional steam ironing from Cosmos Laundry. Book now!" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="Cosmos Laundry" />
+    <meta property="og:image" content="">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Get perfectly pressed, wrinkle-free clothes with professional steam ironing from Cosmos Laundry. Book now!" />
+    <meta name="twitter:title" content="Steam Ironing Service | Crisp, Wrinkle-Free Clothes" />
+    <meta name="twitter:site" content="@home" />
 
     <!-- Mobile Specific Metas -->
     <meta

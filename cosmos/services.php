@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Our Services | Cosmos Laundry - Laundry & Dry Cleaning</title>
+    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Explore Cosmos Laundry's full range of services - laundry, dry cleaning, ironing, carpet & upholstery care and more." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />

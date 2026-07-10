@@ -5,16 +5,24 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
-        Bridal Wear Cleaning
+        Bridal Wear Cleaning & Preservation | Cosmos Laundry
     </title>
-    <meta name="author" content="Laun" />
-    <meta
-        name="description"
-        content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-    <meta
-        name="keywords"
-        content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-    <meta name="robots" content="INDEX,FOLLOW" />
+    <!-- <meta name="robots" content="index, follow"> -->
+    <meta name="author" content="Cosmos Laundry">
+    <meta name="description" content="Gentle, specialized cleaning & preservation for bridal wear that protects embellishments & delicate fabric." />
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="canonical" href="" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Bridal Wear Cleaning & Preservation | Cosmos Laundry" />
+    <meta property="og:description" content="Gentle, specialized cleaning & preservation for bridal wear that protects embellishments & delicate fabric." />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="Cosmos Laundry" />
+    <meta property="og:image" content="">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Gentle, specialized cleaning & preservation for bridal wear that protects embellishments & delicate fabric." />
+    <meta name="twitter:title" content="Bridal Wear Cleaning & Preservation | Cosmos Laundry" />
+    <meta name="twitter:site" content="@home" />
 
     <!-- Mobile Specific Metas -->
     <meta

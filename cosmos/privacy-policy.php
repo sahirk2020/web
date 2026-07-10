@@ -7,6 +7,7 @@
     <title>
         Privacy Policy | Cosmos Laundry
     </title>
+    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Understand how Cosmos Laundry collects, uses and protects your personal information across our services." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
