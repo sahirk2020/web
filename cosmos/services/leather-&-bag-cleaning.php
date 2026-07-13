@@ -126,8 +126,8 @@ Faq Area
 ==============================-->
     <div class="  space overflow-hidden process" id="faq-sec">
         <div class="container">
-            <div class="row align-items-end">
-                <div class="col-xl-12 text-center text-xl-start align-self-center">
+            <div class="row align-items-end justify-content-center">
+                <div class="col-xl-10 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
