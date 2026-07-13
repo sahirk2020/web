@@ -14,7 +14,39 @@
     <?php include 'header.php'; ?>
     <!-- header three area end -->
 
-    <section
+    <!-- bread crumb start -->
+    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, #0000001f, #0000001f), url(assets/images/banner/bg/Disclaimer.webp) no-repeat center center / cover;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="bread-crumb-area-inner">
+                        <!-- <div class="breadcrumb-top">
+                            <a href="#">Home</a> /
+                            <a class="active" href="#">Disclaimer</a>
+                        </div> -->
+                        <div class="bottom-title">
+                            <h1 class="title">Disclaimer</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- bread crumb area end -->
+
+    <section class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="disclaimer-content">
+                        <h2 class="title">Disclaimer</h2>
+                        <p class="disc"></p>
+                        <p class="disc"></p>
+                        <p class="disc"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     <!-- rts footer area start -->
     <?php include 'footer.php'; ?>

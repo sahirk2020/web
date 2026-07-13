@@ -7,19 +7,14 @@
     $page_description = "Satyaprabhaa is committed to protecting your privacy. Read our policy to understand how we collect, use, and safeguard your personal information.";
     include 'css.php';
     ?>
-    <style>
-        .bg_image {
-            background:linear-gradient(45deg, black, transparent), url(assets/images/banner/bg/Privacy-Policy.jpg);
-        }
-        </style>
 </head>
 
 <body>
-    <!-- header three area start -->
+    <!-- header start -->
     <?php include 'header.php'; ?>
-    <!-- header three area end -->
-     <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image">
+    <!-- header end -->
+     <!-- bread crumb start -->
+    <div class="breadcrumb-area-bg" style="background:linear-gradient(45deg, #0000001f, #0000001f), url(assets/images/banner/bg/Privacy-Policy.jpg) no-repeat center center / cover; height: 100vh;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -36,9 +31,9 @@
             </div>
         </div>
     </div>
-    <!-- bread croumba rea end -->
+    <!-- bread crumb area end -->
 
-    <!-- terms and condition area main -->
+    <!-- Privacy Policy area main -->
     <div class="terms-and-condition-wrapper rts-section-gap">
         <div class="container">
             <div class="row">
@@ -89,7 +84,7 @@
             </div>
         </div>
     </div>
-    <!-- terms and condition area main -->
+    <!-- Privacy Policy area main -->
 
     <!-- rts footer area start -->
     <?php include 'footer.php'; ?>
