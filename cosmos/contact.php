@@ -1,8 +1,3 @@
-<?php
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-?>
-
 <!doctype html>
 <html class="no-js" lang="zxx">
 
@@ -21,74 +16,12 @@ ini_set('display_errors', 1);
     content="Laun - Laundry Service & Dry Cleaning HTML Template" />
   <meta name="robots" content="INDEX,FOLLOW" />
 
+  <?php include_once "css.php"; ?>
+
   <!-- Mobile Specific Metas -->
   <meta
     name="viewport"
     content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
-  <!-- Favicons - Place favicon.ico in the root directory -->
-  <link
-    rel="apple-touch-icon"
-    sizes="57x57"
-    href="assets/img/favicons/apple-icon-57x57.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="60x60"
-    href="assets/img/favicons/apple-icon-60x60.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="72x72"
-    href="assets/img/favicons/apple-icon-72x72.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="76x76"
-    href="assets/img/favicons/apple-icon-76x76.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="114x114"
-    href="assets/img/favicons/apple-icon-114x114.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="120x120"
-    href="assets/img/favicons/apple-icon-120x120.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="144x144"
-    href="assets/img/favicons/apple-icon-144x144.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="152x152"
-    href="assets/img/favicons/apple-icon-152x152.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="assets/img/favicons/apple-icon-180x180.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="192x192"
-    href="assets/img/favicons/android-icon-192x192.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="32x32"
-    href="assets/img/favicons/favicon-32x32.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="96x96"
-    href="assets/img/favicons/favicon-96x96.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="16x16"
-    href="assets/img/favicons/favicon-16x16.png" />
-  <link rel="manifest" href="assets/img/favicons/manifest.json" />
-  <meta name="msapplication-TileColor" content="#ffffff" />
-  <meta
-    name="msapplication-TileImage"
-    content="assets/img/favicons/ms-icon-144x144.png" />
-  <meta name="theme-color" content="#ffffff" />
 
   <!--==============================
 	  Google Fonts
@@ -106,12 +39,12 @@ ini_set('display_errors', 1);
   <!--==============================
     Breadcumb
 ============================== -->
-  <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/contact-bg.jpg">
+  <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/Contact-Us-Page.webp">
     <div class="container">
       <div class="breadcumb-content">
-        <h1 class="breadcumb-title">Contact Us</h1>
+        <h1 class="breadcumb-title sec-title1">Contact Us</h1>
         <ul class="breadcumb-menu">
-          <li><a href="home-laundry-services.html">Home</a></li>
+          <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
           <li>Contact Us</li>
         </ul>
       </div>
@@ -136,17 +69,108 @@ ini_set('display_errors', 1);
   </div> -->
 
   <!--==============================
+Price Area  
+==============================-->
+  <section class="space-city space">
+    <div class="container">
+      <div class="title-area text-center">
+        <h2 class="sec-title">Serving Cities With Care</h2>
+      </div>
+      <div class="row gy-4 justify-content-center">
+
+        <div class="col-xl-4 col-md-6">
+          <div class="price-box  text-center loc-text">
+            <div class="price-box_icon">
+              <img src="assets/img/icon/contact-us/location.svg" width="60" height="60" alt="Icon">
+            </div>
+            <h3 class="box-title sec-title1">Jalgaon</h3>
+            <p class="loc-dec">
+              Municipal Corporation Limited
+            </p>
+            <p class="address-text">
+
+              Cosmos Laundry, Shop No. 6,
+              Arihant Heights, Chhatrapati Colony,
+              Ramdas Colony, Jalgaon, Maharashtra 425001
+
+              <!-- Cosmos Laundry, Gat no 99/2,
+              buldhana urban ware House,
+              Chincholi shivar Jalgaon 425003
+
+              Shop No. 6, Arihant Heights, Chatrapati Colony, Ramdas Colony, Jalgaon, Maharashtra 425001 -->
+            </p>
+            <span><a href="tel:+91 9284630260">+91 9284630260</a></span>
+
+            <div class="mapouter">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7449.736586313819!2d75.556114!3d20.997916!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90f99c35e51c3%3A0xdb207799be67c5ca!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1779877037548!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-xl-4 col-md-6">
+          <div class="price-box  text-center loc-text">
+            <div class="price-box_icon ">
+              <img src="assets/img/icon/contact-us/location.svg" width="60" height="60" alt="Icon">
+            </div>
+            <h3 class="box-title sec-title1">Nashik</h3>
+            <p class="loc-dec">
+              Municipal Corporation Limited
+              <!-- Helping Nashik residents maintain fresh, well-cared-for garments through professional cleaning and reliable service. -->
+            </p>
+
+            <p class="address-text">
+              Cosmos Laundry, Behind Express Inn Hotel, Pathardi Phata, off the Mumbai–Agra Highway, Nashik, Maharashtra 422009</p>
+
+            <span><a href="tel:+91 9067055586">+91 9067055586</a></span>
+
+            <div class="mapouter">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.377919693635!2d73.74896527474176!3d19.950602823935395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdd957001684af7%3A0xe5a12dc011a3fbc2!2sCosmos%20Laundry%20Nashik!5e0!3m2!1sen!2sin!4v1782895907130!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="col-xl-4 col-md-6 ">
+          <div class="price-box  text-center loc-text">
+            <div class="price-box_icon">
+              <img src="assets/img/icon/contact-us/location.svg" width="60" height="60" alt="Icon">
+            </div>
+            <h3 class="box-title sec-title1">Amravati</h3>
+
+            <p class="loc-dec">
+              Municipal Corporation Limited
+            </p>
+
+            <p class="address-text">Cosmos Laundry, Opposite Ekta Abhushan, Near Rajesh Gas Service, Jaistambh Chowk, Amravati 444601</p>
+            <span><a href="tel:+91 9697895895">+91 9697895895</a></span>
+
+
+            <div class="mapouter">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3726.5595688983194!2d77.75013767476662!3d20.930032091163145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd6a5b26da1004d%3A0x8b85b066507f4350!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1782898294488!5m2!1sen!2sin" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!--==============================
 Contact Area   
 ==============================-->
-  <div class="space">
+  <!-- <div class="space services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/footer-bg.webp"> -->
+  <div class="space services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/Contact-page.webp">
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
           <div class="title-area pe-xl-4 mb-10">
-            <h2 class="sec-title">
-              Laundry Care, Just A Call Away
+            <h2 class="sec-title contact-title">
+              Laundry Care, Just a Call Away
             </h2>
-            <p class="">
+            <p class="contact-title2">
               Get in touch for expert garment care, doorstep convenience, and responsive support that makes laundry effortless.
             </p>
           </div>
@@ -192,8 +216,8 @@ Contact Area
                 </div>
                 <div class="media-body ">
                   <h6 class="contact-info_title">Store Time</h6>
-                  <span class="contact-info_text"> <a>Mon to Sat: 9AM - 8PM
-                      <br> Sunday: 9AM - 1PM</a>
+                  <span class="contact-info_text"> <a>Mon–Sat: 9:00 AM – 8:00 PM
+                      <br> Sun: 9:00 AM – 1:00 PM</a>
                   </span>
                 </div>
               </div>
@@ -222,21 +246,12 @@ Contact Area
                     <!-- <i class="fa-solid fa-share-from-square"></i> -->
                   </div>
 
-
-
-
-
-
-
                   <h6 class="contact-info_title">Social Media:</h6>
 
                   <div class="th-social">
                     <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
                   </div>
-
-
-
                 </div>
               </div>
             </div>
@@ -322,88 +337,8 @@ Contact Area
             <p class="form-messages mb-0 mt-3"></p>
           </form>
 
-
-
-
         </div>
       </div>
-    </div>
-  </div>
-
-  <!--==============================
-Price Area  
-==============================-->
-  <section class="space-city">
-    <div class="container">
-      <div class="title-area text-center">
-        <h2 class="sec-title">Serving Cities With Care</h2>
-      </div>
-      <div class="row gy-4 justify-content-center">
-
-        <div class="col-xl-4 col-md-6">
-          <div class="price-box  text-center loc-text">
-            <div class="price-box_icon">
-              <img src="assets/img/icon/contact-us/location.svg" width="60" height="60" alt="Icon">
-            </div>
-            <h3 class="box-title sec-title1">Jalgaon</h3>
-            <p class="loc-dec">
-              Municipal Corporation Limited
-
-              <!-- A trusted name for laundry and dry cleaning services, serving Jalgaon with care, consistency, and convenience.</p> -->
-            <h6 class="address-text">
-
-              Cosmo Enterprises Gat no 99/2,
-              buldhana urban ware House,
-              Chincholi shivar Jalgaon 425003
-            </h6>
-            <span>+91 9284630260</span>
-          </div>
-        </div>
-
-        <div class="col-xl-4 col-md-6">
-          <div class="price-box  text-center loc-text">
-            <div class="price-box_icon ">
-              <img src="assets/img/icon/contact-us/location.svg" width="60" height="60" alt="Icon">
-            </div>
-            <h3 class="box-title sec-title1">Nashik</h3>
-            <p class="loc-dec">
-              Municipal Corporation Limited
-              <!-- Helping Nashik residents maintain fresh, well-cared-for garments through professional cleaning and reliable service.</p> -->
-
-            <h6 class="address-text">Nashik address
-              Cosmos Laundry
-              Nearest landmark: Behind Express Inn hotel, Pathardi
-              Phata, of mambai Agra highway
-              Nashik 422009</h6>
-            <span>+91 90670 55586</span>
-          </div>
-        </div>
-
-        <div class="col-xl-4 col-md-6 ">
-          <div class="price-box  text-center loc-text">
-            <div class="price-box_icon">
-              <img src="assets/img/icon/contact-us/location.svg" width="60" height="60" alt="Icon">
-            </div>
-            <h3 class="box-title sec-title1">Amravati</h3>
-
-            <p class="loc-dec">Municipal Corporation Limited
-              <!-- Delivering exceptional fabric care and hassle-free laundry solutions tailored to the everyday needs of Amravati.</p> -->
-
-            <h6 class="address-text">Cosmos Laundry, Opposite Ekta Abhushan, Near Rajesh Gas service, Jaistambh Chowk, Amravati-444601</h6>
-            <span>+919697895895</span>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!--==============================
-Map Area  
-==============================-->
-  <div class="">
-    <div class="contact-map style2">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7449.736586313819!2d75.556114!3d20.997916!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd90f99c35e51c3%3A0xdb207799be67c5ca!2sCosmos%20Laundry!5e0!3m2!1sen!2sin!4v1779877037548!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </div>
 

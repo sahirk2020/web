@@ -1,0 +1,266 @@
+table {
+  margin: 0 0 0em !important;
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: none !important;
+}
+
+/* Tabs */
+
+.laundry-tabs {
+  border: none;
+  gap: 15px;
+  margin-bottom: 35px;
+  /* background: #fff; */
+  padding: 10px;
+}
+
+.laundry-tabs .nav-link {
+  border: none !important;
+  /* background: #f4f8fb !important; */
+  background-color: #ffffffd6;
+  color: #1b1b1b;
+  padding: 10px 24px;
+  border-radius: 14px;
+  font-weight: 600;
+  transition: all 0.35s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.laundry-tabs .nav-link i {
+  margin-right: 8px;
+  transition: 0.3s;
+}
+
+.laundry-tabs .nav-link:hover {
+  background: #2c9fda !important;
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+.laundry-tabs .nav-link:hover i {
+  color: #fff;
+}
+
+.laundry-tabs .nav-link.active {
+  background: linear-gradient(135deg, #82bb31, #9dbf6d) !important;
+  color: #fff !important;
+  box-shadow: 0 8px 20px rgba(44, 159, 218, 0.3);
+}
+
+.laundry-tabs .nav-link.active i {
+  color: #fff;
+}
+
+.price-table-wrap {
+  background: #ffffffd6;
+  border-radius: 14px;
+  overflow-x: hidden;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
+}
+
+/* Table */
+
+.laundry-price-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: transparent;
+}
+
+/* Header */
+
+.laundry-price-table thead {
+  background: linear-gradient(135deg, #2c9fda, #4fc3f7);
+}
+
+.laundry-price-table thead th {
+  color: #fff;
+  padding: 22px 15px;
+  text-align: center;
+  font-weight: 700;
+  /* font-size: 20px; */
+  border: none;
+}
+
+/* Row */
+
+.laundry-price-table tbody tr {
+  border-bottom: 1px solid #e9eef3;
+  transition: 0.3s ease;
+  position: relative;
+}
+
+.laundry-price-table tr::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+  background: transparent;
+  transition: 0.3s ease;
+}
+
+.laundry-price-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+/* Hover Effect */
+
+.laundry-price-table tbody tr:hover {
+  background: #f7fcff;
+  transform: translateX(6px);
+}
+
+.laundry-price-table tbody tr:hover::before {
+  background: #2c9fda;
+}
+
+/* Cell */
+
+.laundry-price-table tbody td {
+  padding: 14px 15px;
+  text-align: center;
+  border: none;
+  /* font-size: 18px; */
+  color: #222;
+  vertical-align: middle;
+}
+
+/* Item Name */
+
+.laundry-price-table tbody td:first-child {
+  font-weight: 500;
+}
+
+/* Price Design */
+
+.laundry-price-table tbody td:not(:first-child) {
+  color: #79bf43;
+  font-weight: 700;
+}
+
+/* Price Background */
+
+.laundry-price-table tbody td:not(:first-child) span {
+  background: #edf3e4;
+  display: inline-block;
+  min-width: 170px;
+  padding: 8px 16px;
+  border-radius: 50px;
+  text-align: center;
+}
+
+/* Responsive */
+
+/* @media (max-width: 425px) {
+  .price-table-wrap {
+    overflow-x: auto;
+  }
+} */
+
+.price-table-wrap {
+  overflow: hidden;
+}
+
+@media (max-width: 767px) {
+  .price-table-wrap {
+    overflow-x: auto;
+  }
+
+  .laundry-price-table {
+    min-width: 600px;
+  }
+}
+
+/* Horizontal scrolling appears only when the table is wider than the screen. Therefore add: */
+
+@media (max-width: 767px) {
+  .laundry-price-table {
+    min-width: 600px;
+  }
+}
+
+/* @media (max-width: 767px) {
+  .laundry-price-table thead {
+    display: none;
+  }
+
+  .laundry-price-table,
+  .laundry-price-table tbody,
+  .laundry-price-table tr,
+  .laundry-price-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .laundry-price-table tr {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #e9eef3;
+    background: #fff;
+  }
+
+  .laundry-price-table td {
+    text-align: right;
+    padding: 15px;
+    padding-left: 45%;
+    position: relative;
+  }
+
+  .laundry-price-table td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    width: 40%;
+    text-align: left;
+    font-weight: 600;
+    color: #222;
+  }
+
+  .laundry-price-table tbody td:not(:first-child) span {
+    min-width: 120px;
+    padding: 10px 15px;
+    border-radius: 50px;
+  }
+} */
+
+/* Pagination CSS for price table */
+
+/* Pagination */
+
+.custom-pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 25px;
+  flex-wrap: wrap;
+}
+
+.custom-pagination button {
+  border: none;
+  background: #f4f8fb;
+  color: #222;
+  min-width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.custom-pagination button:hover {
+  background: #2c9fda;
+  color: #fff;
+}
+
+.custom-pagination button.active {
+  background: linear-gradient(135deg, #82bb31, #9dbf6d);
+  color: #fff;
+}
+
+.custom-pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

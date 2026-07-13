@@ -1,3 +1,7 @@
+<?php
+include_once __DIR__ . '/config.php';
+?>
+
 <!--==============================
 	    All CSS File
 	============================== -->
@@ -12,10 +16,11 @@
 <!-- Theme Custom CSS -->
 <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/style.css" />
 <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/custom.css" />
+<!-- <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/price-table.css" /> -->
 
-<!-- Bootstrap -->
-<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/price-table-new.css" />
 
-Bootstrap Icons
-<link rel="stylesheet"
-	href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"> -->
+<!-- Favicons - Place favicon.ico in the root directory -->
+<link rel="apple-touch-icon" sizes="57x57" href="<?php echo BASE_URL; ?>assets/img/favicons/cosmos-favicon.png">
+
+<link rel="icon" type="image/png" sizes="32x32" href="<?php echo BASE_URL; ?>assets/img/favicons/cosmos-favicon.png">

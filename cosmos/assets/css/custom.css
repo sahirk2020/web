@@ -53,8 +53,7 @@
 /* new */
 
 .address-text {
-  font-size: 16px;
-  line-height: 1.9;
+  font-size: 15px;
   color: #3e3e3e;
   /* font-weight: 500; */
   margin-top: 18px;
@@ -82,21 +81,25 @@
 /* Hover */
 
 .loc-text:hover .address-text {
-  color: #2c9fda;
+  /* color: #2c9fda; */
 }
 /* address end */
 .breadcumb-title-contact-us {
   color: black;
 }
-.th-social a {
+/* .th-social a {
   background: #5db1db;
-}
+} */
 
 .loc-dec {
-  font-size: 14px !important;
+  font-size: 12px !important;
 }
-.contact-map.style2 iframe {
+/* .contact-map.style2 iframe {
   height: 500px;
+} */
+
+.price-box a {
+  color: #3e3e3e;
 }
 
 .card-shadow {
@@ -159,14 +162,10 @@
   }
 }
 
-.space-city,
+/* .space-city,
 .space-bottom {
   padding-bottom: var(--section-space);
-}
-
-.contact-info_text:hover a {
-  color: var(--theme-color);
-}
+} */
 
 /* Attractive Section Title Animation */
 .sec-title1 {
@@ -179,12 +178,14 @@
     #00b4db,
     #8dc149,
     #00b4db,
-    var(--theme-color)
+    var(--theme-color),
+    var(--theme-color2),
+    var(--theme-color2)
   );
   background-size: 200% auto;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: gradientMove 4s linear infinite;
+  animation: gradientMove 6s linear infinite;
 }
 
 @keyframes gradientMove {
@@ -197,12 +198,12 @@
 /* Services Page Start */
 
 .breadcumb-wrapper {
-  padding: 170px 0;
+  padding: 130px 0;
 }
 
 .services-banner {
   position: relative;
-  background-image: url("assets/img/banners/services-bg.jpg");
+  /* background-image: url("assets/img/banners/services-bg.jpg"); */
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -214,7 +215,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.6); /* black overlay */
+  background: rgba(0, 0, 0, 0.5); /* black overlay */
   z-index: -1;
 }
 
@@ -230,7 +231,10 @@
   transform: rotate(180deg);
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
+  .breadcumb-wrapper {
+    padding: 70px;
+  }
   .process-step {
     width: 50%;
   }
@@ -247,6 +251,10 @@
   .section-title {
     font-size: 32px;
   }
+
+  .sec-title1 {
+    font-size: 30px;
+  }
 }
 */
 /* Pramila */
@@ -256,9 +264,9 @@
 
 /* footer */
 
-.footer-widget .widget_title {
+/* .footer-widget .widget_title {
   color: #2c9fda;
-}
+} */
 
 .white-color {
   color: white !important;
@@ -290,223 +298,65 @@
   background: rgba(0, 0, 0, 0.6); /* black overlay */
   z-index: -1;
 }
+.padding-right-30 {
+  padding-right: 30px;
+}
 
-/* service page - Price Table pooja */
+/* Dry Cleaning Page */
 
-/* =====================================
-        Laundry Price Tabs
-====================================== */
-
-.laundry-price-area {
-  background: #f4f8fb;
+.sub-title2 {
+  color: var(--theme-color2);
   position: relative;
-}
-
-/* Tabs */
-
-.laundry-tabs {
-  border: none;
-  gap: 15px;
-  margin-bottom: 35px;
-  background: #fff;
-  padding: 10px;
-  border-radius: 18px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
-}
-
-.laundry-tabs .nav-link {
-  border: none !important;
-  background: #f4f8fb !important;
-  color: #1b1b1b;
-  padding: 14px 24px;
-  border-radius: 12px;
+  display: block;
+  font-size: 18px;
   font-weight: 600;
-  transition: all 0.35s ease;
-  position: relative;
-  overflow: hidden;
+  font-family: var(--title-font);
+  letter-spacing: 0.08em;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  line-height: 28px;
+  margin-top: -0.34em;
 }
 
-.laundry-tabs .nav-link i {
-  margin-right: 8px;
-  transition: 0.3s;
+.process {
+  background-color: var(--smoke-color2) !important;
 }
 
-.laundry-tabs .nav-link:hover {
-  background: #2c9fda !important;
-  color: #fff;
-  transform: translateY(-2px);
+.mapouter {
+  margin-top: 20px;
 }
 
-.laundry-tabs .nav-link:hover i {
-  color: #fff;
+.contact-title {
+  color: var(--theme-color);
 }
 
-.laundry-tabs .nav-link.active {
-  background: linear-gradient(135deg, #2c9fda, #4fc3f7) !important;
-  color: #fff !important;
-  box-shadow: 0 8px 20px rgba(44, 159, 218, 0.3);
+.contact-title2 {
+  color: var(--smoke-color2);
 }
 
-.laundry-tabs .nav-link.active i {
-  color: #fff;
+.sec-title-new {
+  color: var(--black-color2);
 }
 
-/* Price Table */
+/* Modal CSS */
 
-.price-table-wrap {
-  background: #fff;
-  border-radius: 22px;
-  overflow: hidden;
-  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
-  border: 1px solid #edf2f7;
-}
-
-/* Heading */
-
-.price-heading {
-  background: linear-gradient(135deg, #2c9fda, #4fc3f7);
-  color: #fff;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 22px 30px;
-  /* font-size: 20px; */
-  font-weight: 700;
-  letter-spacing: 0.5px;
-}
-
-/* Rows */
-
-.price-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 22px 30px;
-  border-bottom: 1px solid #eef2f5;
-  transition: all 0.3s ease;
-  position: relative;
-}
-
-.price-item:last-child {
-  border-bottom: none;
-}
-
-.price-item::before {
-  content: "";
-  position: absolute;
-  left: 0;
+.modal {
+  position: fixed;
   top: 0;
-  width: 4px;
+  left: 0;
+  z-index: 999;
+  display: none;
+  width: 100%;
   height: 100%;
-  background: transparent;
-  transition: 0.3s;
+  overflow: hidden;
+  outline: 0;
 }
-
-.price-item:hover {
-  background: #f7fcff;
-  transform: translateX(6px);
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  width: 100vw;
+  height: 100vh;
+  background-color: #000;
 }
-
-.price-item:hover::before {
-  background: #2c9fda;
-}
-
-.price-item span:first-child {
-  /* font-size: 17px; */
-  font-weight: 500;
-  color: #222;
-}
-
-.price-item span:last-child {
-  color: #79bf43;
-  /* font-size: 20px; */
-  font-weight: 700;
-  background: rgba(121, 191, 67, 0.12);
-  padding: 8px 16px;
-  border-radius: 50px;
-  min-width: 95px;
-  text-align: center;
-}
-
-/* Animation */
-
-.tab-pane.fade.show.active .price-item {
-  animation: fadeUp 0.5s ease;
-}
-
-@keyframes fadeUp {
-  from {
-    opacity: 0;
-    transform: translateY(12px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-/* Responsive */
-
-@media (max-width: 991px) {
-  .laundry-tabs {
-    justify-content: center;
-  }
-
-  .laundry-tabs .nav-link {
-    padding: 12px 18px;
-    /* font-size: 15px; */
-  }
-
-  .price-heading {
-    padding: 18px 20px;
-    /* font-size: 18px; */
-  }
-
-  .price-item {
-    padding: 18px 20px;
-  }
-
-  .price-item span:first-child {
-    /* font-size: 15px; */
-  }
-
-  .price-item span:last-child {
-    /* font-size: 16px; */
-    min-width: 80px;
-  }
-}
-
-@media (max-width: 767px) {
-  .laundry-tabs {
-    gap: 10px;
-    padding: 12px;
-  }
-
-  .laundry-tabs .nav-link {
-    width: 100%;
-    justify-content: center;
-    text-align: center;
-  }
-
-  .price-heading {
-    /* font-size: 16px; */
-    padding: 15px;
-  }
-
-  .price-item {
-    padding: 15px;
-  }
-
-  .price-item span:first-child {
-    /* font-size: 14px; */
-    max-width: 70%;
-  }
-
-  .price-item span:last-child {
-    /* font-size: 14px; */
-    padding: 6px 12px;
-  }
-}
-
-/* Service Page - price table Styles end */

@@ -730,7 +730,11 @@
     </div>
 
     <?php include 'js.php'; ?>
-
+<script>
+    $(document).ready(function () {
+    $('input[name="project"]').val('Treya');
+    });
+    </script>
 </body>
 
 </html>
