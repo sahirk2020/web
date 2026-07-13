@@ -1676,3 +1676,19 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
   });
+//   read more
+ document.querySelectorAll('.morelessbutton').forEach(btn => {
+  btn.addEventListener('click', function () {
+    const container = this.parentElement; // 👈 pbmit-service-description
+    const moreText = container.querySelector('.moretext');
+    const span = this.querySelector('span');
+
+    if (moreText.style.display === 'block') {
+      moreText.style.display = 'none';
+      span.innerText = 'Read more';
+    } else {
+      moreText.style.display = 'block';
+      span.innerText = 'Read less';
+    }
+  });
+});

@@ -10,7 +10,7 @@
     <!-- header three area start --> <?php include 'header.php'; ?>
     <!-- header three area end -->
     <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, #0000001f, #0000001f), url(assets/images/projects/lotus-shalaka/banner-1000x554.webp) no-repeat center center / cover;">
+    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, #0000001f, #0000001f), url(assets/images/projects/lotus-shalaka/banner1000x300.webp) no-repeat center center / cover;">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -167,7 +167,6 @@
     </div>
     <!-- why choose us section end -->
     
-    
     <!-- rts testimonials area start -->
     <div class="rts-testimonials-area-start rts-section-gap bg-testimonials-1 bg_image">
       <div class="container">
@@ -295,9 +294,8 @@
                       </ul>
                       <!-- <div class="author-area">
                         <div class="thumbnail">
-                          <img src="assets/images/testimonials/02.png" alt="tstimonials">
-Ultratech, Birla, ACC
-                      </ul>
+                          <img src="assets/images/testimonials/02.png" alt="tstimonials">Ultratech, Birla, ACC
+                      </ul> -->
                       <!-- <div class="author-area">
                         <div class="thumbnail">
                           <img src="assets/images/testimonials/02.png" alt="tstimonials">
