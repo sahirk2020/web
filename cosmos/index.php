@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Cosmos Laundry | Premium Laundry & Dry Cleaning Services</title>
+    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Cosmos Laundry offers doorstep pickup, dry cleaning & laundry services with expert fabric care. Book your pickup today!" />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -69,7 +70,7 @@ Hero Area
                                     Delivering deeper cleaning, superior hygiene, and long-lasting freshness for every garment.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn style2">Discover More</a>
+                                    <a href="about.html" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -88,7 +89,7 @@ Hero Area
                                     Specialized dry cleaning for suits, dresses, and delicate fabrics with meticulous attention to detail.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn style2">Discover More</a>
+                                    <a href="about.html" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +108,7 @@ Hero Area
                                     Professional steam ironing that delivers a crisp finish and a refined appearance for every garment.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn style2">Discover More</a>
+                                    <a href="about.html" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -1035,8 +1036,8 @@ Faq Area
 ==============================-->
     <div class="  space overflow-hidden" id="faq-sec">
         <div class="container">
-            <div class="row align-items-end">
-                <div class="col-xl-12 text-center text-xl-start align-self-center">
+            <div class="row align-items-end justify-content-center">
+                <div class="col-xl-10 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>

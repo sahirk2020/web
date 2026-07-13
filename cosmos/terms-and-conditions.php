@@ -7,6 +7,7 @@
     <title>
         Terms & Conditions | Cosmos Laundry
     </title>
+    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Read the terms & conditions governing the use of Cosmos Laundry's services, website and booking policies." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />

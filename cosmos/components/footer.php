@@ -3,7 +3,8 @@
 ==============================-->
 <div class="">
     <div class="container z-index-common">
-        <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/cta.webp">
+        <!-- <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/cta.webp"> -->
+        <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="">
             <div class="row align-items-center">
                 <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
@@ -11,7 +12,7 @@
                         <p class="text-white">Experience hassle-free doorstep pickup and delivery with expert garment care, timely service, and unmatched convenience every time.</p>
 
 
-                        <div class="header-button">
+                        <div class="header-button footer-cta-btn">
                             <a href="<?php echo BASE_URL; ?>home-pickup-and-door-delivery.php" class="th-btn th-radius">Read More</a>
                         </div>
                     </div>
@@ -29,7 +30,7 @@
     </div>
 </div>
 
-<footer class="footer-wrapper footer-layout2" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/footer-bg.webp">
+<footer class="footer-wrapper footer-layout2 service-about" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/footer-bg.webp">
     <div class="widget-area">
         <div class="container">
             <div class="row justify-content-between">
@@ -208,6 +209,8 @@
         var service = form.find('[name="service"]').val();
         var message = form.find('[name="message"]').val();
 
+        console.log("service", service);
+
         var source = form.find('[name="utm_source"]').val();
         var campaignname = form.find('[name="utm_campaign_name"]').val();
         var campaignid = form.find('[name="utm_campaign_id"]').val();
@@ -244,7 +247,7 @@
             return;
         }
 
-        if (service == "") {
+        if (service === "" || service === null) {
             alert("Select service");
             form.find('[name="service"]').focus().css("border", "1px solid #ff0000");
             return;

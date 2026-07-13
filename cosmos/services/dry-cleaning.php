@@ -5,17 +5,24 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
-        Laun - Laundry Service & Dry Cleaning HTML Template - Home Laundry
-        Services
+        Dry Cleaning Services | Hydrocarbon Technology - Cosmos
     </title>
-    <meta name="author" content="Laun" />
-    <meta
-        name="description"
-        content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-    <meta
-        name="keywords"
-        content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-    <meta name="robots" content="INDEX,FOLLOW" />
+    <!-- <meta name="robots" content="index, follow"> -->
+    <meta name="author" content="Cosmos Laundry">
+    <meta name="description" content="Advanced hydrocarbon dry cleaning that's gentle on fabrics. Ideal for suits, sarees, silk & premium garments." />
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="canonical" href="" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Dry Cleaning Services | Hydrocarbon Technology - Cosmos" />
+    <meta property="og:description" content="Advanced hydrocarbon dry cleaning that's gentle on fabrics. Ideal for suits, sarees, silk & premium garments." />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="Cosmos Laundry" />
+    <meta property="og:image" content="">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Advanced hydrocarbon dry cleaning that's gentle on fabrics. Ideal for suits, sarees, silk & premium garments." />
+    <meta name="twitter:title" content="Dry Cleaning Services | Hydrocarbon Technology - Cosmos" />
+    <meta name="twitter:site" content="@home" />
 
     <!-- Mobile Specific Metas -->
     <meta
@@ -59,6 +66,7 @@
                 <h1 class="breadcumb-title sec-title1">Dry Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>services.php">Services</a></li>
                     <li>Dry Cleaning</li>
                 </ul>
             </div>
@@ -101,7 +109,7 @@ Feature Area
 ==============================-->
     <div class="features-area services-banner position-relative process overflow-hidden" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/DRY-CLEANING-Bg-image.webp">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-xl-9">
                     <div class="choose-feature-area">
                         <div class="title-area mb-25">
@@ -142,7 +150,7 @@ Faq Area
 ==============================-->
     <div class="  space overflow-hidden process" id="faq-sec">
         <div class="container">
-            <div class="row align-items-end">
+            <div class="row">
                 <div class="col-xl-6 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">

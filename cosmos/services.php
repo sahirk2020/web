@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Our Services | Cosmos Laundry - Laundry & Dry Cleaning</title>
+    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Explore Cosmos Laundry's full range of services - laundry, dry cleaning, ironing, carpet & upholstery care and more." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -697,8 +698,26 @@ Service Area
             </div>
 
 
+            <div class="checklist mb-40 price-checklist">
+                <span class="sub-title style1 mt-1 ">Terms and Conditions</span>
+                <!-- <div class="row">
+                    <div class="col-lg-4"></div>
+                    <div class="col-lg-8"> -->
 
-        </div>
+                <ul class="checklist-list">
+                    <li>18% GST will be charged</li>
+                    <li>Garments on hanger @ ₹25 extra</li>
+                    <li>Delivery time 4 to 6 working days</li>
+                    <li>Prices for treatment of branded and designer wear will be decided on a case-to-case basis</li>
+                    <li>For detailed Terms and Conditions list, refer to https://www.cosmoslaundry.in/terms-conditions</li>
+                    <li>Pickup and delivery charges will be applicable</li>
+                    <li>Premium brand and luxury garments dry cleaning charges will vary</li>
+                </ul>
+                <!-- </div>
+                </div> -->
+
+
+            </div>
 
 
     </section>
@@ -939,7 +958,8 @@ Faq Area
             </div> -->
 
             <div class="row">
-                <div class="col-12">
+                <div class="col-1"></div>
+                <div class="col-10">
 
                     <div class="accordion" id="faqAccordion">
 
@@ -1052,3 +1072,114 @@ Faq Area
 ==============================-->
 
     <?php require('components/footer.php'); ?>
+
+
+    <!-- Bootstrap JS for work process -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    <script>
+        const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+
+        [...tooltipTriggerList].map(tooltipTriggerEl =>
+            new bootstrap.Tooltip(tooltipTriggerEl)
+        );
+    </script>
+
+    <!-- Service page price table JS -->
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+
+            const rowsPerPage = 10;
+
+            // Each tab separately
+            document.querySelectorAll(".tab-pane").forEach(tabPane => {
+
+                const tableRows = tabPane.querySelectorAll("tbody tr");
+
+                if (tableRows.length === 0) return;
+
+                // Create Pagination Container
+                const pagination = document.createElement("div");
+                pagination.classList.add("custom-pagination");
+
+                tabPane.appendChild(pagination);
+
+                let currentPage = 1;
+                const totalPages = Math.ceil(tableRows.length / rowsPerPage);
+
+                function showPage(page) {
+
+                    currentPage = page;
+
+                    // Hide all rows
+                    tableRows.forEach((row, index) => {
+
+                        row.style.display =
+                            (index >= (page - 1) * rowsPerPage &&
+                                index < page * rowsPerPage) ?
+                            "" :
+                            "none";
+                    });
+
+                    renderPagination();
+                }
+
+                function renderPagination() {
+
+                    pagination.innerHTML = "";
+
+                    // Prev Button
+                    const prevBtn = document.createElement("button");
+                    prevBtn.innerHTML = "&laquo;";
+                    prevBtn.disabled = currentPage === 1;
+
+                    prevBtn.addEventListener("click", () => {
+                        if (currentPage > 1) {
+                            showPage(currentPage - 1);
+                        }
+                    });
+
+                    pagination.appendChild(prevBtn);
+
+                    // Page Numbers
+                    for (let i = 1; i <= totalPages; i++) {
+
+                        const btn = document.createElement("button");
+
+                        btn.innerText = i;
+
+                        if (i === currentPage) {
+                            btn.classList.add("active");
+                        }
+
+                        btn.addEventListener("click", () => {
+                            showPage(i);
+                        });
+
+                        pagination.appendChild(btn);
+                    }
+
+                    // Next Button
+                    const nextBtn = document.createElement("button");
+                    nextBtn.innerHTML = "&raquo;";
+                    nextBtn.disabled = currentPage === totalPages;
+
+                    nextBtn.addEventListener("click", () => {
+                        if (currentPage < totalPages) {
+                            showPage(currentPage + 1);
+                        }
+                    });
+
+                    pagination.appendChild(nextBtn);
+                }
+
+                // Initial Load
+                showPage(1);
+
+            });
+
+        });
+    </script>
