@@ -77,7 +77,7 @@
                 <div class="single-details-short">
                   <div class="left">
                     <span>Location:</span>
-                    <p class="name">Aundh</p>
+                    <p class="name">Kothrud, Pune</p>
                   </div>
                   <div class="right">
                     <span>MahaRERA No.</span>
@@ -140,9 +140,6 @@
                   </div>
                   <div class="right-content">
                     <h5 class="title">Modern Lifestyle Amenities</h5>
-                    <!-- <p class="disc">
-                                        Hiring an interior designer can save you time and money.
-                                    </p> -->
                   </div>
                 </div>
                 <!-- single choose us area end -->
