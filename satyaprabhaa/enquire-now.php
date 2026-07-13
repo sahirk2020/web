@@ -8,7 +8,7 @@
                             <input type="email" name="email" placeholder="Your Email">
                         </div>
                         <div class="col-lg-6">
-                            <input type="tel" class="telli" name="mobile" max-length="10"  placeholder="Your Number">
+                            <input type="tel" class="telli" name="mobile" maxlength="10"  placeholder="Your Number">
                         </div>
                         <!-- <input type="text" class="popup-form-control" id="s_schedule" aria-describedby="scheduleHelp" placeholder="Schedule Date*" readonly="" aria-label="Use the arrow keys to pick a date"> -->
                         <div class="col-lg-6">

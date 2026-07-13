@@ -123,12 +123,16 @@ $page_description = "Contact us for best upcoming & residential projects in pune
                             <!-- <span class="pre">Feature Services</span> -->
                             <h2 class="title">Have Any Questions</h2>
                         </div>
-                        <form action="#">
-                            <input type="text" placeholder="Name">
-                            <input type="email" placeholder="Email">
-                            <input type="text" placeholder="Contact Number">
-                            <textarea placeholder="Write a Message"></textarea>
-                            <button class="rts-btn btn-primary">Submit</button>
+                        <form class="contact-form" method="post">
+                            <?= $URLinfo; ?>
+                            <input type="hidden" name="requirement" value="Contact Us">
+                            <input type="hidden" name="project" value="">
+
+                            <input type="text" name="name" placeholder="Name" value="">
+                            <input type="email" name="email" placeholder="Email" value="">
+                            <input type="tel" name="mobile" maxlength="10" placeholder="Contact Number" value="">
+                            <textarea name="message" placeholder="Write a Message"></textarea>
+                            <button class="rts-btn btn-primary contact_form_btn">Submit</button>
                         </form>
                     </div>
                 </div>

@@ -3,7 +3,7 @@
                         <!-- <p class="top-contact mb--20">Contac Form</p> -->
                         <input type="text" name="name"  placeholder="Your Name" required>
                         <input type="email" name="email"  placeholder="Your Email" required>
-                        <input type="tel" name="mobile" placeholder="Your Number" required>
+                        <input type="tel" name="mobile" maxlength="10" placeholder="Your Number" required>
                         <input type="date" class="popup-form-control" name="s_schedule" aria-describedby="scheduleHelp" placeholder="Schedule Date" aria-label="Use the arrow keys to pick a date">
                         
                         <select class="form-control" name="location"  aria-required="true" aria-invalid="false" data-ml-field="Flat Type">

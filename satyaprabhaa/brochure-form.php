@@ -11,7 +11,7 @@
                             <input class="px-2" type="email" name="email"  placeholder="Your Email" required>
                         </div>
                         <div class="col-md-6">
-                            <input class="px-2" type="tel" max-length="10" name="mobile"  placeholder="Your Number" required>
+                            <input class="px-2" type="tel" maxlength="10" name="mobile"  placeholder="Your Number" required>
                         </div>
                         <!-- <input type="text" class="popup-form-control" id="s_schedule" aria-describedby="scheduleHelp" placeholder="Schedule Date*" readonly="" aria-label="Use the arrow keys to pick a date"> -->
                         <div class="col-md-12">
