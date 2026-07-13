@@ -131,18 +131,18 @@ $page_description = "Join the Satyaprabhaa team in Pune. We are looking for dedi
 
             <div class="modal-body">
 
-                <form>
-
+                <form class="careers-form" method="post" enctype="multipart/form-data">
+               <?= $URLinfo; ?>
                     <input type="text"
-                        class="form-control mb-3"
+                        class="form-control mb-3" name="name"
                         placeholder="Full Name">
 
                     <input type="email"
-                        class="form-control mb-3"
+                        class="form-control mb-3" name="email"
                         placeholder="Email Address">
 
                     <input type="tel"
-                        class="form-control mb-3"
+                        class="form-control mb-3" name="mobile"
                         placeholder="Mobile Number">
 
                     <input
@@ -153,9 +153,9 @@ $page_description = "Join the Satyaprabhaa team in Pune. We are looking for dedi
     readonly>
 
                     <input type="file"
-                        class="form-control mb-3">
+                        class="form-control mb-3" name="resume" accept=".pdf,.doc,.docx">
 
-                    <button class="btn btn-dark w-100">
+                    <button class="btn btn-dark w-100 career_apply_btn" type="submit" name="submit_application">
                         Submit Application
                     </button>
 
