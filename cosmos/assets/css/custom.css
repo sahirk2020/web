@@ -203,7 +203,6 @@
 
 .services-banner {
   position: relative;
-  /* background-image: url("assets/img/banners/services-bg.jpg"); */
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -282,7 +281,7 @@
 /* overlay */
 .footer-wrapper {
   position: relative;
-  background-image: url("assets/img/banners/iron.webp");
+  /* background-image: url("assets/img/banners/iron.webp"); */
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -462,4 +461,49 @@
 }
 .font-size-22 {
   font-size: 22px !important;
+}
+
+/* CTA Section */
+
+@media (max-width: 768px) {
+  .footer-cta-btn {
+    justify-content: center;
+  }
+
+  /* .service-about {
+    padding-right: 20px;
+    padding-left: 20px;
+  } */
+
+  .title-area {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .img-box1 {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .widget-area {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+
+@media (max-width: 844px) {
+  .footer-cta-btn {
+    justify-content: center;
+  }
+}
+
+.price-checklist {
+  padding-left: 80px;
+  /* text-align: center; */
+}
+
+.checklist-list {
+  padding-left: 30px !important;
+  color: var(--black-color2) !important;
+  /* text-align: center; */
 }

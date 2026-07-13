@@ -170,10 +170,10 @@ Price Area
 Contact Area   
 ==============================-->
   <!-- <div class="space services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/footer-bg.webp"> -->
-  <div class="space services-banner" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/Contact-page.webp">
+  <div class="space services-banner mb-60" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/Contact-page.webp">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6">
+        <div class="col-xl-6">
           <div class="title-area pe-xl-4 mb-10">
             <h2 class="sec-title contact-title">
               Laundry Care, Just a Call Away
@@ -260,6 +260,7 @@ Contact Area
                     <a href=" https://www.facebook.com/profile.php?id=100077069439683#"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
                   </div>
+
                 </div>
               </div>
             </div>
@@ -271,7 +272,7 @@ Contact Area
             <a href="https://www.instagram.com/laundrycosmos/"><i class="fab fa-instagram"></i></a>
           </div> -->
         </div>
-        <div class="col-lg-6">
+        <div class="col-xl-6">
 
           <form class="lead-form contact-form input-smoke ajax-contact card-shadow">
             <?php
