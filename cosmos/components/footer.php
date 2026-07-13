@@ -5,31 +5,26 @@
     <div class="container z-index-common">
         <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/cta.webp">
             <div class="row align-items-center">
-                <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
+                <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
-                        <span class="sub-title style1">Home Pickup and Door Delivery</span>
-                        <!-- <h2 class="sec-title1 text-white">Ready For Effortless Laundry?</h2> -->
-                        <!-- <h2 class="sec-title1 text-white">Experience Premium Laundry Services with Cosmos Laundry!</h2> -->
-                        <a href="<?php echo BASE_URL; ?>home-pickup-and-door-delivery.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
+                        <span class="sub-title style1 font-size-22">Premium Doorstep Laundry Service</span>
+                        <p class="text-white">Experience hassle-free doorstep pickup and delivery with expert garment care, timely service, and unmatched convenience every time.</p>
+
+
                         <div class="header-button">
-                            <!-- <button type="button" class="icon-btn2 searchBoxToggler"><i class="far fa-search"></i></button> -->
-                            <a href="<?php echo BASE_URL; ?>contact.php" class="th-btn th-radius">Schedule A Pickup</a>
-                            <!-- <a href="#" class="icon-btn2 sideMenuToggler d-none d-lg-block"><i class="far fa-bars"></i></a> -->
+                            <a href="<?php echo BASE_URL; ?>home-pickup-and-door-delivery.php" class="th-btn th-radius">Read More</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-5 col-lg-6">
-                    <!-- <form class="cta-form">
-                        <div class="form-group">
-                            <input class="form-control" type="email" placeholder="Email Address" required="">
-                            <button type="submit" class="th-btn style4">Book Your Service</button>
-                        </div>
-                    </form> -->
 
-
+                <div class="col-xl-7 col-lg-6 text-center">
+                    <div class="van-box" id="vanScrollBox">
+                        <img src="<?php echo BASE_URL; ?>assets/img/services/van.png" alt="Cosmos Laundry" class="img-fluid van-scroll w-75">
+                    </div>
                 </div>
             </div>
-            <div class="cta-shape"><img src="<?php echo BASE_URL; ?>assets/img/shape/line.png" alt=""></div>
+            <!-- <div class="cta-shape"><img src="<?php //echo BASE_URL; 
+                                                    ?>assets/img/shape/line.png" alt=""></div> -->
         </div>
     </div>
 </div>
@@ -89,12 +84,9 @@
                     </div>
                 </div>
 
-
-
                 <div class="col-md-6 col-xl-auto">
                     <div class="widget footer-widget">
                         <h3 class="widget_title">Contact Us</h3>
-
 
                         <div class="footer-info-wrapper white-color">
                             <div class="footer-info">
@@ -181,6 +173,205 @@
 </div>
 
 <?php include_once __DIR__ . '/../js.php'; ?>
+
+<script>
+    $(".fname").on("input", function() {
+        let value = $(this).val();
+        let cleaned = value.replace(/[^A-Za-z ]/g, '');
+
+        if (value !== cleaned) {
+            alert("Only letters and spaces are allowed");
+            // $("#nameError").text("Only letters and spaces are allowed");
+            $(this).val(cleaned);
+        }
+    });
+
+    $(".telli").on("input", function() {
+        var value = $(this).val();
+        var cleaned = value.replace(/[^0-9]/g, '');
+
+        if (value !== cleaned) {
+            alert("Only numbers are allowed");
+            $(this).val(cleaned);
+        }
+    });
+
+    // Enquire Now Form JS start
+
+    $(document).on('click', '.submit-btn', function() {
+
+        var form = $(this).closest('.lead-form');
+
+        var name = form.find('[name="name"]').val();
+        var email = form.find('[name="email"]').val();
+        var mobile = form.find('[name="mobile"]').val();
+        var service = form.find('[name="service"]').val();
+        var message = form.find('[name="message"]').val();
+
+        var source = form.find('[name="utm_source"]').val();
+        var campaignname = form.find('[name="utm_campaign_name"]').val();
+        var campaignid = form.find('[name="utm_campaign_id"]').val();
+        var campaigncity = form.find('[name="utm_campaign_city"]').val();
+        var utm_medium = form.find('[name="utm_medium"]').val();
+        var utm_term = form.find('[name="utm_term"]').val();
+        var utm_adid = form.find('[name="utm_adid"]').val();
+        var utm_device = form.find('[name="utm_device"]').val();
+        var utm_matchtype = form.find('[name="utm_matchtype"]').val();
+        var utm_location = form.find('[name="utm_location"]').val();
+        var gclid = form.find('[name="gclid"]').val();
+        var user_id = form.find('[name="user_id"]').val();
+
+        var patternn = /^[a-zA-Z ]*$/;
+        var pattern2 = /^\d{10}$/;
+        var epart1 = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+        if (name == "" || !patternn.test(name)) {
+            alert("Enter valid name");
+            form.find('[name="name"]').focus().css("border", "1px solid #ff0000");
+            return;
+        }
+
+        if (email == "" || !epart1.test(email)) {
+            alert("Enter valid email");
+            form.find('[name="email"]').focus().css("border", "1px solid #ff0000");
+            return;
+        }
+
+        if (mobile == "" || !pattern2.test(mobile)) {
+            alert("Enter valid mobile number");
+            form.find('[name="mobile"]').focus().css("border", "1px solid #ff0000");
+
+            return;
+        }
+
+        if (service == "") {
+            alert("Select service");
+            form.find('[name="service"]').focus().css("border", "1px solid #ff0000");
+            return;
+        }
+
+        // if (!form.find('.term-check').is(':checked')) {
+        //   alert("Please accept terms");
+        //   return;
+        // }
+
+        // check unique
+        $.ajax({
+            url: 'libs/php/check_unique.php',
+            type: 'POST',
+            data: {
+                email: email,
+                mobile: mobile
+            },
+            dataType: 'json',
+            success: function(response) {
+
+                if (!response.isEmailUnique) {
+                    alert("Email already exists");
+                    return;
+                }
+
+                if (!response.isMobileUnique) {
+                    alert("Mobile already exists");
+                    return;
+                }
+
+                var btn = form.find('.submit-btn');
+                btn.html('Loading...');
+
+                var d = new Date();
+                var strDate = d.getFullYear() + "/" + (d.getMonth() + 1) + "/" + d.getDate();
+
+                var dataString = form.serialize() + '&strDate=' + strDate;
+
+                $.ajax({
+                    url: 'libs/php/save-lead.php',
+                    type: 'POST',
+                    data: dataString,
+                    success: function(res) {
+
+                        var response = jQuery.parseJSON(res);
+
+                        btn.html('Send');
+
+                        if (response.status == 200) {
+
+                            // alert(response);
+
+                            window.dataLayer = window.dataLayer || [];
+
+                            dataLayer.push({
+
+                                event: "generate_lead",
+
+                                leadData: {
+
+                                    lead: {
+
+                                        id: response.lead_id,
+
+                                        name: name,
+
+                                        email: email,
+
+                                        mobile: mobile,
+
+                                        service: service,
+
+                                        message: message,
+
+                                        form_name: "main_form",
+
+                                        project_name: "Cosmos Laundry",
+
+                                        timestamp: new Date().toISOString()
+
+                                    },
+
+                                    attribution: {
+
+                                        user_id: user_id,
+
+                                        utm_source: source,
+
+                                        utm_medium: utm_medium,
+
+                                        utm_campaign: campaignid,
+
+                                        utm_campaign_name: campaignname,
+
+                                        utm_term: utm_term,
+
+                                        gclid: gclid,
+
+                                        utm_adid: utm_adid,
+
+                                        utm_device: utm_device,
+
+                                        utm_matchtype: utm_matchtype,
+
+                                        utm_location: utm_location
+
+                                    }
+
+
+                                }
+
+                            });
+
+                            window.location.replace("thank-you.php");
+
+                        } else {
+                            alert("Something went wrong");
+                        }
+                    }
+                });
+
+            }
+        });
+
+    });
+</script>
 
 </body>
 

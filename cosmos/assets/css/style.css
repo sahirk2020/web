@@ -252,7 +252,7 @@ p {
   font-family: var(--body-font);
   margin: 0 0 18px 0;
   color: var(--body-color);
-  line-height: 1.75;
+  line-height: 1.5;
 }
 
 h1 a,
@@ -577,7 +577,7 @@ input {
   border: 1px solid transparent;
   color: var(--body-color);
   background-color: var(--smoke-color);
-  border-radius: 30px;
+  border-radius: 14px;
   font-size: 16px;
   width: 100%;
   font-family: var(--body-font);
@@ -5831,7 +5831,8 @@ ol.wp-block-rss {
   left: 0;
   background-color: var(--white-color);
   visibility: hidden;
-  min-width: 230px;
+  min-width: 530px;
+  /* 230 to 530 */
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
@@ -5857,7 +5858,7 @@ ol.wp-block-rss {
 }
 
 .main-menu ul.sub-menu {
-  padding: 18px 20px 18px 18px;
+  padding: 18px 0px 18px 18px;
   left: -27px;
 }
 
@@ -5999,7 +6000,7 @@ ol.wp-block-rss {
 
 @media (max-width: 1299px) {
   .header-button .th-btn {
-    display: none;
+    display: block;
   }
 }
 
@@ -16040,6 +16041,7 @@ span.select2-selection.select2-selection--single:focus {
   box-shadow: 0px 6px 40px 0px rgba(0, 0, 0, 0);
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
+  height: 100%;
   /* Medium Large devices */
   /* Large devices */
 }
@@ -18694,7 +18696,7 @@ span.select2-selection.select2-selection--single:focus {
 
 .cta-wrap {
   position: relative;
-  padding: 60px;
+  padding: 30px 60px;
   z-index: 9;
   /* Medium Large devices */
   /* Extra small devices */

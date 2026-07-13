@@ -5,79 +5,24 @@
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <title>
-    Laun - Laundry Service & Dry Cleaning HTML Template - About Us
+    About Us | Cosmos Laundry - Trusted Fabric Care Experts
   </title>
-  <meta name="author" content="Laun" />
-  <meta
-    name="description"
-    content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-  <meta
-    name="keywords"
-    content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-  <meta name="robots" content="INDEX,FOLLOW" />
+  <meta name="author" content="Cosmos Laundry">
+  <meta name="description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
+  <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <link rel="canonical" href="" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="About Us | Cosmos Laundry - Trusted Fabric Care Experts" />
+  <meta property="og:description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="Cosmos Laundry" />
+  <meta property="og:image" content="">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
+  <meta name="twitter:title" content="About Us | Cosmos Laundry - Trusted Fabric Care Experts" />
+  <meta name="twitter:site" content="@home" />
 
-  <!-- Mobile Specific Metas -->
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
-  <!-- Favicons - Place favicon.ico in the root directory -->
-  <link
-    rel="apple-touch-icon"
-    sizes="57x57"
-    href="assets/img/favicons/apple-icon-57x57.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="60x60"
-    href="assets/img/favicons/apple-icon-60x60.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="72x72"
-    href="assets/img/favicons/apple-icon-72x72.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="76x76"
-    href="assets/img/favicons/apple-icon-76x76.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="114x114"
-    href="assets/img/favicons/apple-icon-114x114.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="120x120"
-    href="assets/img/favicons/apple-icon-120x120.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="144x144"
-    href="assets/img/favicons/apple-icon-144x144.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="152x152"
-    href="assets/img/favicons/apple-icon-152x152.png" />
-  <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="assets/img/favicons/apple-icon-180x180.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="192x192"
-    href="assets/img/favicons/android-icon-192x192.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="32x32"
-    href="assets/img/favicons/favicon-32x32.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="96x96"
-    href="assets/img/favicons/favicon-96x96.png" />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="16x16"
-    href="assets/img/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/img/favicons/manifest.json" />
   <meta name="msapplication-TileColor" content="#ffffff" />
   <meta
@@ -128,9 +73,9 @@ About Area
   <div class="overflow-hidden overflow-hidden space" id="about-sec">
     <div class="container">
       <div class="row">
-        <div class="col-xl-5 mb-40 mb-xl-0">
+        <div class="col-xl-5 col-lg-5 col-md-5 mb-40 mb-xl-0">
           <div class="img-box2">
-            <div class="img1">
+            <div class="img1 d-lg-block d-md-none">
               <img src="assets/img/about/about-us-back.webp" alt="About" />
             </div>
             <div class="img2">
@@ -138,12 +83,9 @@ About Area
             </div>
             <div class="about-shape-1"></div>
             <div class="about-shape-2"></div>
-            <!-- <div class="about-big">
-              <h3 class="about-big_text">DRY CLENING</h3>
-            </div> -->
           </div>
         </div>
-        <div class="col-xl-7">
+        <div class="col-xl-7 col-lg-7 col-md-7">
           <div class="ps-xl-5 wow fadeInRight">
             <div class="title-area mb-25">
               <span class="sub-title style1">About Us</span>
@@ -170,7 +112,102 @@ About Area
   <!--==============================
 Choose Area  
 ==============================-->
-  <section class="overflow-hidden space-bottom space">
+
+  <div class="overflow-hidden space space-bottom" id="feature-area" data-bg-src="assets/img/bg/service-bg-1.jpg">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 offset-lg-3">
+          <div class="title-area text-center pe-xl-4 ps-xl-4">
+            <span class="sub-title">Why Cosmos</span>
+            <h2 class="sec-title">Premium Fabric Care, Every Time</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row gy-4 justify-content-center">
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInUp">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/service_1_1.svg" alt="Advanced Hydrocarbon Technology" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Advanced Hydrocarbon Technology</h3>
+              <p class="feature-item_text">
+                Advanced cleaning technology that delivers superior results while protecting delicate fabrics and colors.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInDown">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/luxury-care.svg" width="60" alt="Premium & Luxury Care" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Premium & Luxury Care</h3>
+              <p class="feature-item_text">
+                Specialized care designed to maintain the elegance, quality, and longevity of premium garments.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInUp">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/service_1_3.svg" alt="Fabric-Friendly Process" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Fabric-Friendly Process</h3>
+              <p class="feature-item_text">
+                Gentle cleaning methods that preserve fabric texture, softness, color, and overall garment quality.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInUp">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/garment-treatment.svg" width="60" alt="Specialized Garment Care" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Specialized Garment Care</h3>
+              <p class="feature-item_text">
+                Tailored cleaning solutions for delicate, designer, luxury, and occasion-specific garments.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInDown">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/experienced-team.svg" width="60" alt="Experienced Team" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Experienced Team</h3>
+              <p class="feature-item_text">
+                Skilled professionals with extensive expertise in handling diverse fabrics and garment types.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="feature-item wow fadeInUp">
+            <div class="feature-item_icon">
+              <img src="assets/img/icon/why-us/quality.svg" width="60" alt="Quality Assurance" />
+            </div>
+            <div class="media-body">
+              <h3 class="box-title">Quality Assurance</h3>
+              <p class="feature-item_text">
+                Every garment undergoes thorough inspection to ensure exceptional cleaning and finishing standards.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <section class="overflow-hidden d-none space-bottom space">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
@@ -269,6 +306,8 @@ Choose Area
       </div>
     </div>
   </section>
+
+
   <!--==============================
 Counter Area  
 ==============================-->
@@ -435,6 +474,117 @@ Team Area
       </div>
     </div>
   </section>
+
+  <!--==============================
+Faq Area
+==============================-->
+  <div class="  space overflow-hidden process" id="faq-sec">
+    <div class="container">
+      <div class="row align-items-end">
+        <div class="col-xl-12 text-center text-xl-start align-self-center">
+          <div class="">
+            <div class="title-area text-center text-xl-start">
+              <span class="sub-title style1">FAQ</span>
+              <h2 class="sec-title">Frequently Asked Questions</h2>
+            </div>
+            <div class="accordion" id="faqAccordion">
+
+
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-1">
+                  <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">
+                    Who founded Cosmos Laundry and who runs it?
+                  </button>
+                </div>
+                <div id="collapse-1" class="accordion-collapse collapse show" aria-labelledby="collapse-item-1" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Cosmos Laundry was founded by Purab Bang, who serves as CEO. The leadership team includes Naresh Manchanda as Operations Head, Vibha Bang heading Marketing and Customer Relations, and Anoop Madaiya managing Finance and Strategy. Together, the team brings over a decade of expertise in professional laundry and fabric care.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-2">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
+                    What makes Cosmos Laundry different from regular laundry services?
+                  </button>
+                </div>
+                <div id="collapse-2" class="accordion-collapse collapse " aria-labelledby="collapse-item-2" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Cosmos Laundry stands apart through its use of modern cleaning technology, expert fabric knowledge, and a meticulous 9-step cleaning process — covering inspection, tagging, sorting, colour segregation, spotting, cleaning, finishing, quality check, and packaging. Every garment is individually assessed and treated for the best possible result.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-3">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                    Is Cosmos Laundry safe for expensive and branded clothing?
+                  </button>
+                </div>
+                <div id="collapse-3" class="accordion-collapse collapse " aria-labelledby="collapse-item-3" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Yes. Cosmos Laundry uses specialized, fabric-safe processes for expensive, branded, and delicate garments. We offer garment insurance under our membership plans, giving customers added protection and peace of mind for high-value items.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-4">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                    What cleaning technology does Cosmos Laundry use?</button>
+                </div>
+                <div id="collapse-4" class="accordion-collapse collapse " aria-labelledby="collapse-item-4" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Cosmos Laundry uses advanced modern cleaning technology that removes tough stains while maintaining fabric quality and softness. Our processes are designed to protect colours, preserve texture, and extend the life of your garments.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-5">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">Does Cosmos Laundry guarantee quality?</button>
+                </div>
+                <div id="collapse-5" class="accordion-collapse collapse " aria-labelledby="collapse-item-5" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Yes. Every garment at Cosmos Laundry undergoes a thorough quality check before packaging and delivery. Our quality assurance process ensures consistent cleaning and finishing standards across every order, every time.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-card">
+                <div class="accordion-header" id="collapse-item-6">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-6" aria-expanded="false" aria-controls="collapse-6">
+                    How does Cosmos Laundry ensure timely delivery?
+                  </button>
+                </div>
+                <div id="collapse-6" class="accordion-collapse collapse " aria-labelledby="collapse-item-6" data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    <p class="faq-text">
+                      Cosmos Laundry operates a reliable pickup and doorstep delivery system designed to fit around customers' daily routines. Orders are tracked through each stage of the cleaning process to ensure on-time return without compromising quality.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <!--==============================
 	Footer Area
 ==============================-->

@@ -117,7 +117,7 @@ Faq Area
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
-                            <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
+                            <h2 class="sec-title">Frequently Asked Questions</h2>
                         </div>
                         <div class="accordion" id="faqAccordion">
 
