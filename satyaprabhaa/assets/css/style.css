@@ -25936,7 +25936,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   url(../images/banner/bg/about-us.webp) no-repeat center center / cover !important;
 }
 .bg_image_Deepak-dev {
-  background: linear-gradient(45deg, #0000009c, #0000003d), 
+  background: linear-gradient(45deg, #0000001f, #0000001f), 
   url(../images/projects/deepak-dev/banner-1000x554.webp) no-repeat center center / cover !important;
 }
 .bg_image_residential_projects,  .bg_image_2bhk{
@@ -26051,4 +26051,30 @@ font-size: 15px;
 .mahesh-img img{
   right:-110px;
   position: absolute;
+}
+.moretext {
+        display: none;
+      }
+
+      /* thank you page */
+      .thank-you-page{
+        background: #ffffff94;
+    backdrop-filter: blur(6px);
+    padding: 15px;
+    border: 1px solid #fff;
+    border-radius: 20px;
+
+    & p{
+      color: #000;
+    text-shadow: 1px 0px 1px #fff;
+    }
+    
+      }
+      @media only screen and (max-width: 575px) {
+    .breadcrumb-area-bg .bread-crumb-area-inner .thank-you-page .title {
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 35px;
+    }
 }
