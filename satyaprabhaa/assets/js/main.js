@@ -1640,3 +1640,55 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
 });
+
+// lightbox js
+
+  $(document).ready(function() {
+
+    $('.myslider').slick({
+
+
+
+      slidesToScroll: 1,
+
+      arrows: false,
+
+      dots: false,
+
+      vertical: true,
+
+      verticalSwiping: true,
+
+      infinite: false
+
+    });
+
+
+
+    lightbox.option({
+
+      'resizeDuration': 400,
+
+      'wrapAround': true,
+
+      'showCloseButton': true
+
+    });
+
+  });
+//   read more
+ document.querySelectorAll('.morelessbutton').forEach(btn => {
+  btn.addEventListener('click', function () {
+    const container = this.parentElement; // 👈 pbmit-service-description
+    const moreText = container.querySelector('.moretext');
+    const span = this.querySelector('span');
+
+    if (moreText.style.display === 'block') {
+      moreText.style.display = 'none';
+      span.innerText = 'Read more';
+    } else {
+      moreText.style.display = 'block';
+      span.innerText = 'Read less';
+    }
+  });
+});

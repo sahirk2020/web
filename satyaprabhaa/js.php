@@ -22,6 +22,7 @@
     <script src="assets/js/plugins/bootstrap.min.js"></script>
     <!-- dymanic Contact Form -->
     <script src="assets/js/plugins/contact.form.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
     <!-- main Js -->
     <script src="assets/js/main.js"></script>

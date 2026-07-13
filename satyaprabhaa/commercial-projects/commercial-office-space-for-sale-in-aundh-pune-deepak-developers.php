@@ -6,12 +6,12 @@
     $page_title = "Deepak Dev | Flats in Aundh Pune | Satyaprabhaa";
     $page_description = "Deepak Dev by Satyaprabhaa — upcoming residential project in Aundh, Pune. Quality homes in a well-connected neighbourhood. Register your interest.";
     ?>
-    <?php include 'css.php'; ?>
+    <?php include '../css-new.php'; ?>
 </head>
 
 <body>
     <!-- header three area start -->
-    <?php include 'header.php'; ?>
+    <?php include '../header-new.php'; ?>
     <!-- header three area end -->
      <!-- bread croumba rea start -->
     <div class="breadcrumb-area-bg bg_image_Deepak-dev">
@@ -111,7 +111,7 @@
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
-                                    <img src="assets/images/why-choose/01.png" alt="choose_icon">
+                                    <img src="../assets/images/why-choose/01.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
                                     <h6 class="title">Prime Aundh Location</h6>
@@ -127,7 +127,7 @@
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
-                                    <img src="assets/images/why-choose/02.png" alt="choose_icon">
+                                    <img src="../assets/images/why-choose/02.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
                                     <h6 class="title">Modern Office Spaces</h6>
@@ -142,7 +142,7 @@
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
-                                    <img src="assets/images/why-choose/03.png" alt="choose_icon">
+                                    <img src="../assets/images/why-choose/03.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
                                     <h6 class="title">Corporate-Ready Infrastructure</h6>
@@ -157,7 +157,7 @@
                             <!-- single choose us area -->
                             <div class="single-choose-style-two">
                                 <div class="icon">
-                                    <img src="assets/images/why-choose/04.png" alt="choose_icon">
+                                    <img src="../assets/images/why-choose/04.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
                                     <h6 class="title">Seamless City Connectivity</h6>
@@ -172,178 +172,6 @@
         </div>
     </div>
     <!-- rts service area end -->
-     <!-- rts testimonials area start -->
-    <div class="rts-testimonials-area-start rts-section-gap bg-testimonials-1 bg_image">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="title-style-center">
-              <div class="pre-title-area">
-                <img src="assets/images/about/02.png" alt="about">
-                <!-- <span class="pre-title">Specifications</span> -->
-              </div>
-              <h2 class="title">Specifications</h2>
-            </div>
-          </div>
-        </div>
-        <div class="row mt--50">
-          <div class="col-lg-12">
-            <div class="testimonials-one-wrapper">
-              <!-- Swiper -->
-              <div class="swiper swiper-testimonails-one">
-                <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                    <!-- single testimonials aarea start -->
-                    <div class="sigle-testimonials-one">
-                      <div class="top-quote">
-                        <img src="assets/images/projects/lotus-shalaka/specifications/green-specifications.svg" alt="tstimonials">
-                      </div>
-                      <h5 class="title">Safety Specification</h5>
-                      <ul>
-                        <li>CCTV cameras in lobbies and common areas.</li>
-                        <li>Intercom connection all flats/offices/units and security cabins.</li>
-                        <li>Auto high-speed Lift.</li>
-                        <li>Generator back up to all the common areas, lift, water pumpsand common lobby.</li>
-                      </ul>
-                      <!-- <div class="author-area">
-                        <div class="thumbnail">
-                          <img src="assets/images/projects/lotus-shalaka/specifications/green-specifications.svg" alt="tstimonials">
-                        </div>
-                        <div class="info">
-                          <h5 class="title">John William</h5>
-                          <span>New Client</span>
-                        </div>
-                      </div> -->
-                    </div>
-                    <!-- single testimonials aarea end -->
-                  </div>
-                  <div class="swiper-slide">
-                    <!-- single testimonials aarea start -->
-                    <div class="sigle-testimonials-one">
-                      <div class="top-quote">
-                        <img src="assets/images/projects/lotus-shalaka/specifications/common-areas.svg" alt="common-areas">
-                      </div>
-                      <h5 class="title">Green Specification</h5>
-                      <ul>
-                        <li>Rainwater harvesting will be provided.</li>
-                        <li>Solar water heating system will be provided hot water of solar connection will be given in one toilet (only to residential flat).</li>
-                        <li>Vermiculture compost pits.</li>
-                        <li>LED light in all common areas.</li>
-                        <li>Light colours of Asian Paints, which reduce the heat of the building.</li>
-                      </ul>
-                      <!-- <div class="author-area">
-                        <div class="thumbnail">
-                          <img src="assets/images/testimonials/02.png" alt="tstimonials">
-                        </div>
-                        <div class="info">
-                          <h5 class="title">John William</h5>
-                          <span>New Client</span>
-                        </div>
-                      </div> -->
-                    </div>
-                    <!-- single testimonials aarea end -->
-                  </div>
-                  <div class="swiper-slide">
-                    <!-- single testimonials aarea start -->
-                    <div class="sigle-testimonials-one">
-                      <div class="top-quote">
-                        <img src="assets/images/projects/lotus-shalaka/specifications/building-specifications.svg" alt="building-specifications">
-                      </div>
-                      <h5 class="title">Convenience Specification</h5>
-                      <ul>
-                        <li>Provision for the common antenna for all flats on terrace if required.</li>
-                        <li>Rent amount will increase by 10% after every 12 months.</li>
-                        <li>Members can select their own residential flat temporary alternate accommodation on rent during the period of construction.</li>
-                        
-                        <div class="moretext">
-                          <li>Relocation to rental flat in Pune city and back to redeveloped flat will be at developer's cost.</li>
-                          <li>Separate overhead and underground tank for drinking and utility. No additional charges to unit holders for MSEDCL/Electricity and water connection.</li>
-                          <li>Club house/Bamboo house: open-to-sky club house /bamboo house will be provided by the developer at the top level without disturbing the solar panel.</li>
-                          <li>Compound wall to protect land: Newly constructed building will be compounded by wall compounds from three sides</li>
-                          <li>Lift and Generator Backup: Lift will be provided to the building with generator backup of Schilder/OTIS/Kone or similar brand</li>
-                        </div>
-                        <a class="morelessbutton">
-                          <span>Read more</span>
-                          <i class="text-black fa fa-arrow-down"></i>
-                        </a>
-                        </ul>
-                      <!-- <div class="author-area">
-                        <div class="thumbnail">
-                          <img src="assets/images/testimonials/04.png" alt="tstimonials">
-                        </div>
-                        <div class="info">
-                          <h5 class="title">John William</h5>
-                          <span>New Client</span>
-                        </div>
-                      </div> -->
-                      <!-- <div class="author-area">
-                        <div class="thumbnail">
-                          <img src="assets/images/testimonials/04.png" alt="tstimonials">
-                        </div>
-                        <div class="info">
-                          <h5 class="title">John William</h5>
-                          <span>New Client</span>
-                        </div>
-                      </div> -->
-                    </div>
-                    <!-- single testimonials aarea end -->
-                  </div>
-                  <div class="swiper-slide">
-                    <!-- single testimonials aarea start -->
-                    <div class="sigle-testimonials-one">
-                      <div class="top-quote">
-                        <img src="assets/images/projects/lotus-shalaka/specifications/brand-specifications.svg" alt="brand-specifications">
-                      </div>
-                      <h5 class="title">Brand Specifications</h5>
-                      <ul>
-                        <li><b>Paint:</b>  Asian/ Berger/ Nerolac</li>
-                        <li><b>Lift:</b> Otis/ Kone/ Schindler or similar brand</li>
-                        <li><b>Water Pumps:</b> Kirloskar, Texmo, Mahendra, Ladalaxmi.</li>
-                        <li><b>Generator:</b> Kirloskar, Mahendra, TATA, Greaves</li>
-                        <li><b>Sanitary:</b> Jaquar, Simpolo, Hindware.</li>
-                        <li><b>Locks:</b> Godrej, Yale, Europa.</li>
-                        <div class="moretext">
-                          <li><b>Switches:</b> Anchor Roma, Legrand</li>
-                          <li><b>CP Fitting:</b> Jaquar (Continental Services)</li>
-                          <li><b>Wire:</b> Polycab, Havells, Finolex cables.</li>
-                          <li><b>Plumbing:</b> Prince, Finolex, Astral</li>
-                          <li><b>Cement:</b> Ultratech, Birla, AAC, Ambuja, JK</li>
-                          <li><b>Steel:</b> Kailka, Uma, Trishul Metarolla, Rajuri</li>
-                          <li><b>Waterproof chemical:</b> Pidilite, Dr Fixit, Fosroc, Roff, Ultratech</li>
-                          
-                        </div>
-                        <a class="morelessbutton">
-                          <span>Read more</span>
-                          <i class="text-black fa fa-arrow-down"></i>
-                        </a>
-                        
-                      </ul>
-                      <!-- <div class="author-area">
-                        <div class="thumbnail">
-                          <img src="assets/images/testimonials/02.png" alt="tstimonials">Ultratech, Birla, ACC
-                      </ul> -->
-                      <!-- <div class="author-area">
-                        <div class="thumbnail">
-                          <img src="assets/images/testimonials/02.png" alt="tstimonials">
-                        </div>
-                        <div class="info">
-                          <h5 class="title">John William</h5>
-                          <span>New Client</span>
-                        </div>
-                      </div> -->
-                    </div>
-                    <!-- single testimonials aarea end -->
-                  </div>
-                </div>
-                <div class="swiper-pagination"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- specification area end -->
-
     <div class="space-bottom overflow-hidden bg-white" id="faq-sec">
       <div class="container">
         <div class="row gx-0">
@@ -388,13 +216,13 @@
         </div>
       </div>
       <div class="shape-mockup d-none d-xxl-block" data-bottom="0%" data-right="0%">
-        <img src="assets/img/shape/bg-element.png" alt="">
+        <img src="../assets/img/shape/bg-element.png" alt="">
       </div>
     </div>
     <!-- rts footer area start -->
 
     <!-- rts footer area start -->
-    <?php include 'footer.php'; ?>
+    <?php include '../../footer.php'; ?>
     <!-- rts footer area end -->
 
 
@@ -425,11 +253,7 @@
     </div>
 
     <?php include 'js.php'; ?>
-<script>
-    $(document).ready(function () {
-    $('input[name="project"]').val('Deepak Dev');
-    });
-    </script>
+
 </body>
 
 </html>

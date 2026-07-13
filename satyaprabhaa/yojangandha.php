@@ -14,16 +14,17 @@
     <!-- header three area start -->
     <?php include 'header.php'; ?>
     <!-- header three area end -->
+     
      <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, black, #00000070), url(assets/images/projects/yojangandha/yojangandha-1000x554.webp) no-repeat center center / cover;">
+    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, #0000003f, #0000003f), url(assets/images/projects/yojangandha/yojangandha-1000x300.webp) no-repeat center center / cover;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="bread-crumb-area-inner">
-                        <div class="breadcrumb-top">
+                        <!-- <div class="breadcrumb-top">
                             <a href="#">Home</a> /
                             <a class="active" href="#">Yojangandha</a>
-                        </div>
+                        </div> -->
                         <div class="bottom-title">
                             <h1 class="title">Yojangandha</h1>
                         </div>
@@ -220,6 +221,48 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
+                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/rooftop.webp" width="464" alt="rooftop">
+                                        <a href="assets/images/projects/yojangandha/gallery/rooftop.webp" class="gallery-image">
+                                            <div class="item-overlay">
+                                                <span>
+                                                    <i class="fa-solid fa-plus"></i>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- sigle projects area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- sigle projects area start -->
+                                    <div class="gallery-wrapper-one">
+                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/elevation-img.webp" width="464" alt="elevation-img">
+                                        <a href="assets/images/projects/yojangandha/gallery/elevation-img.webp" class="gallery-image">
+                                            <div class="item-overlay">
+                                                <span>
+                                                    <i class="fa-solid fa-plus"></i>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- sigle projects area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- sigle projects area start -->
+                                    <div class="gallery-wrapper-one">
+                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/corner-elevation-img.webp" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/yojangandha/gallery/corner-elevation-img.webp" class="gallery-image">
+                                            <div class="item-overlay">
+                                                <span>
+                                                    <i class="fa-solid fa-plus"></i>
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <!-- sigle projects area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- sigle projects area start -->
+                                    <div class="gallery-wrapper-one">
                                         <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/balcony.webp" width="464" alt="gallery-image">
                                         <a href="assets/images/projects/yojangandha/gallery/balcony.webp" class="gallery-image">
                                             <div class="item-overlay">
@@ -325,7 +368,136 @@
                         <div class="swiper mySwiper-testimonials-6">
                             <!-- desktop view -->
                             <div class="swiper-wrapper">
-
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/landscape-terrace-garden.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Landscape Terrace Garden</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/sun-deck.svg" alt="sun-deck">
+                                            <div class="information-area">
+                                                <h6 class="title">Sun Deck</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/table-tennis.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Table Tennis</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/panic-button.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Panic Button</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/acupressure-walkway.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Walking Track</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/reading-zone.svg" alt="reading-zone">
+                                            <div class="information-area">
+                                                <h6 class="title">Reading Zone</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/kitchen-set.svg" alt="kitchen-set">
+                                            <div class="information-area">
+                                                <h6 class="title">Open Kitchen</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/relaxation-space.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Botanical Park</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/senior-citizen-area.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Senior Citizen</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/lift.svg" alt="lift">
+                                            <div class="information-area">
+                                                <h6 class="title">Lift</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
                                 <div class="swiper-slide">
                                     <!-- single testimonials area -->
                                     <div class="single-testimonials-area-six">
@@ -413,18 +585,10 @@
                                 <div class="swiper-slide">
                                     <!-- single testimonials area -->
                                     <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/landscape-terrace-garden.svg" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/outdoor-gym-calisthenics.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Landscape Terrace Garden</h6>
+                                                <h6 class="title">Outdoor Gym</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
@@ -705,9 +869,9 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 pt-4 pt-md-0">
                     <!-- ingle srevice area start -->
                     <div class="singe-serice-style-two">
-                        <a  data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                            <img src="assets/images/projects/yojangandha/floorplan/2bhk-513x512.webp" alt="service">
-                        </a>
+                        <a href="assets/images/projects/yojangandha/floorplan/2bhk-513x512.webp" data-title="2BHK Floor Plan" data-lightbox="gallery">
+                            <img src="assets/images/projects/yojangandha/floorplan/2bhk-513x512.webp" alt="2BHK Floor Plan">
+                         </a>
                         <div class="body text-center">
                             <div class="wrapper text-center">
                                 <!-- 3BHK Center -->
@@ -730,8 +894,8 @@
 
                 <div class="col-lg-4 col-md-6 col-sm-12 pt-4 pt-md-0">
                     <div class="singe-serice-style-two">
-                        <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                            <img src="assets/images/projects/yojangandha/floorplan/3bhk-513x512.webp" alt="service">
+                        <a href="assets/images/projects/yojangandha/floorplan/3bhk-513x512.webp" data-title="3BHK Floor Plan" data-lightbox="gallery">
+                            <img src="assets/images/projects/yojangandha/floorplan/3bhk-513x512.webp" alt="3BHK Floor Plan">
                         </a>
                         <div class="body text-center">
                             <div class="wrapper text-center">
@@ -740,13 +904,13 @@
                                     <span>3BHK</span>
                                 </div>
                                 <!-- Enquire Now Center -->
-                                <div class="inner d-flex justify-content-center">
+                                <!-- <div class="inner d-flex justify-content-center">
                                     <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow"
                                     class="rts-read-more-circle-btn under-line text-center">
                                         <i class="fa-solid fa-arrow-up-right"></i>
                                         <p class="mb-0">Enquire Now</p>
                                     </a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -754,8 +918,8 @@
 
                 <div class="col-lg-4 col-md-6 col-sm-12 pt-4 pt-md-0">
                     <div class="singe-serice-style-two">
-                        <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                            <img src="assets/images/projects/yojangandha/floorplan/4bhk-513x512.webp" alt="service">
+                        <a href="assets/images/projects/yojangandha/floorplan/4bhk-513x512.webp" data-title="4BHK Floor Plan" data-lightbox="gallery">
+                            <img src="assets/images/projects/yojangandha/floorplan/4bhk-513x512.webp" alt="4BHK Floor Plan">
                         </a>
                         <div class="body text-center">
                             <div class="wrapper text-center">
@@ -764,13 +928,13 @@
                                     <span>4BHK</span>
                                 </div>
                                 <!-- Enquire Now Center -->
-                                <div class="inner d-flex justify-content-center">
+                                <!-- <div class="inner d-flex justify-content-center">
                                     <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow"
                                     class="rts-read-more-circle-btn under-line text-center">
                                         <i class="fa-solid fa-arrow-up-right"></i>
                                         <p class="mb-0">Enquire Now</p>
                                     </a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

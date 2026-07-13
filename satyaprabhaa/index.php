@@ -183,14 +183,14 @@ Hero Area
                                     <div class="single-product-one">
                                         <span class="number">01</span>
                                         <a href="" class="thumbnail">
-                                            <img src="assets/images/projects/seva-project.webp" alt="seva-project.webp">
+                                            <img src="assets/images/projects/yojangandha/yojangandha-768x900.webp" alt="seva-project.webp">
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Seva - <span class="category">KOTHRUD, PUNE | Residential</span></h3>
+                                                <h3 class="title">Yojangandha - <span class="category">KOTHRUD, PUNE</span></h3>
                                             </a>
                                             <!-- <span class="category">BIBVEWADI, PUNE | Residential</span> -->
-                                            <!-- <p>A place where everyday convenience, familiar surroundings, and comfortable living come together for growing families.</p> -->
+                                            <p>Residential | Ongoing Projects</p>
                                         </div>
                                     </div>
                                     <!-- single swiper-item end -->
@@ -200,12 +200,49 @@ Hero Area
                                     <div class="single-product-one">
                                         <span class="number">02</span>
                                         <a href="" class="thumbnail">
+                                            <img src="assets/images/projects/seva-project.webp" alt="seva-project.webp">
+                                        </a>
+                                        <div class="inenr-content-absolute">
+                                            <a href="">
+                                                <h3 class="title">Seva - <span class="category">KOTHRUD, PUNE</span></h3>
+                                            </a>
+                                            <p>Residential | Upcoming Projects</p>
+                                            <!-- <span class="category">BIBVEWADI, PUNE | Residential</span> -->
+                                            <!-- <p>A place where everyday convenience, familiar surroundings, and comfortable living come together for growing families.</p> -->
+                                        </div>
+                                    </div>
+                                    <!-- single swiper-item end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single swiper-item -->
+                                    <div class="single-product-one">
+                                        <span class="number">03</span>
+                                        <a href="" class="thumbnail">
+                                            <img src="assets/images/projects/shalaka-768x900.webp" alt="shalaka-768x900.webp">
+                                        </a>
+                                        <div class="inenr-content-absolute">
+                                            <a href="">
+                                                <h3 class="title">Lotus Shalaka - <span class="category">AUNDH, PUNE</span></h3>
+                                            </a>
+                                            <p>Commercial | Ongoing Projects</p>
+                                            <!-- <span class="category">BIBVEWADI, PUNE | Residential</span> -->
+                                            <!-- <p>A place where everyday convenience, familiar surroundings, and comfortable living come together for growing families.</p> -->
+                                        </div>
+                                    </div>
+                                    <!-- single swiper-item end -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- single swiper-item -->
+                                    <div class="single-product-one">
+                                        <span class="number">04</span>
+                                        <a href="" class="thumbnail">
                                             <img src="assets/images/projects/deepak-dev-768x900.webp" alt="deepak-dev-768x900.webp">
                                         </a>
                                         <div class="inenr-content-absolute">
                                             <a href="">
-                                                <h3 class="title">Deepak Dev - <span class="category">AUNDH, PUNE | Commercial</span></h3>
+                                                <h3 class="title">Deepak Dev - <span class="category">AUNDH, PUNE</span></h3>
                                             </a>
+                                            <p>Commercial | Ongoing Projects</p>
                                             <!-- <span class="category">AUNDH, PUNE</span> -->
                                         </div>
                                     </div>
@@ -214,7 +251,7 @@ Hero Area
                                 <div class="swiper-slide">
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
-                                        <span class="number">03</span>
+                                        <span class="number">05</span>
                                         <a href="" class="thumbnail">
                                             <img src="assets/images/projects/shrirang-768x900.webp" alt="shrirang-768x900.webp">
                                         </a>
@@ -222,6 +259,7 @@ Hero Area
                                             <a href="">
                                                 <h3 class="title">Shrirang - <span class="category">BIBVEWADI, PUNE | Residential</span></h3>
                                             </a>
+                                            <p>Residential | Upcoming Projects</p>
                                             <!-- <span class="category">KOTHRUD, PUNE</span> -->
                                         </div>
                                     </div>
@@ -230,14 +268,15 @@ Hero Area
                                 <div class="swiper-slide">
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
-                                        <span class="number">03</span>
+                                        <span class="number">06</span>
                                         <a href="" class="thumbnail">
                                             <img src="assets/images/projects/treya-768x900.webp" alt="treya-768x900.webp">
                                         </a>
                                         <div class="inenr-content-absolute">
-                                            <a href="">
-                                                <h3 class="title">Treya - <span class="category">KOTHRUD, PUNE | Commercial</span></h3>
+                                            <a href="treya.php">
+                                                <h3 class="title">Treya - <span class="category">KOTHRUD, PUNE | Residential</span></h3>
                                             </a>
+                                            <p>Residential | Ongoing Projects</p>
                                             <!-- <span class="category">KOTHRUD, PUNE</span> -->
                                         </div>
                                     </div>
