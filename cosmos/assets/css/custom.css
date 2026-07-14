@@ -507,3 +507,19 @@
   color: var(--black-color2) !important;
   /* text-align: center; */
 }
+
+/* T&C , Privacy Policy */
+
+.sub-title-1 {
+  position: relative;
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: var(--title-font);
+  letter-spacing: 0.08em;
+  color: var(--theme-color);
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  line-height: 28px;
+  margin-top: -0.34em;
+}
