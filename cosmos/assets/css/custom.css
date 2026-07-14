@@ -465,6 +465,12 @@
 
 /* CTA Section */
 
+@media (max-width: 992px) {
+  .footer-cta-btn {
+    justify-content: center;
+  }
+}
+
 @media (max-width: 768px) {
   .footer-cta-btn {
     justify-content: center;
@@ -488,12 +494,6 @@
   .widget-area {
     padding-right: 20px;
     padding-left: 20px;
-  }
-}
-
-@media (max-width: 844px) {
-  .footer-cta-btn {
-    justify-content: center;
   }
 }
 
