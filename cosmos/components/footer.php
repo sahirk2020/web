@@ -85,7 +85,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-xl-auto">
+                <div class="col-md-6 col-xl-auto pr-0">
                     <div class="widget footer-widget">
                         <h3 class="widget_title">Contact Us</h3>
 
