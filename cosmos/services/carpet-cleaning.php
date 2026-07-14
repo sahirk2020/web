@@ -64,6 +64,7 @@
                 <h1 class="breadcumb-title sec-title1">Carpet Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>services.php">Services</a></li>
                     <li>Carpet Cleaning</li>
                 </ul>
             </div>
@@ -115,8 +116,8 @@ Faq Area
 ==============================-->
     <div class="  space overflow-hidden process" id="faq-sec">
         <div class="container">
-            <div class="row align-items-end">
-                <div class="col-xl-12 text-center text-xl-start align-self-center">
+            <div class="row align-items-end justify-content-center">
+                <div class="col-xl-10 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
