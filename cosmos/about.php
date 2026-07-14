@@ -64,7 +64,7 @@
   <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/about-banner.webp">
     <div class="container">
       <div class="breadcumb-content">
-        <h1 class="breadcumb-title">About Us</h1>
+        <h1 class="breadcumb-title sec-title1">About Us</h1>
         <ul class="breadcumb-menu">
           <li><a href="index.php">Home</a></li>
           <li>About Us</li>

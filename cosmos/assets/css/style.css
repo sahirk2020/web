@@ -6579,6 +6579,12 @@ ol.wp-block-rss {
   margin-top: -30px;
 }
 
+@media (min-width: 1399px) {
+  .header-layout3 .header-logo {
+    margin-top: 0px;
+  }
+}
+
 .header-layout3 .header-button {
   gap: 30px;
 }
@@ -9383,6 +9389,12 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
 @media (max-width: 1399px) {
   .hero-3 .icon-box {
     display: flex;
+  }
+}
+
+@media (max-width: 575px) {
+  .hero-3 .icon-box {
+    display: none;
   }
 }
 
