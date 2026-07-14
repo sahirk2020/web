@@ -952,37 +952,15 @@ Faq Area
 ==============================-->
     <div class="space overflow-hidden process" id="faq-sec">
         <div class="container">
+            <div class="row align-items-end justify-content-center">
+                <div class="col-xl-10 text-center text-xl-start align-self-center">
 
-            <div class="title-area text-center">
-                <span class="sub-title">Faq</span>
-                <h2 class="sec-title">Frequently Asked Questions</h2>
-            </div>
-
-            <!-- <div class="row">
-                <div class="col-xl-6">
-                    <div class="title-area mb-35 pe-xl-5 text-center text-xl-start">
-                        <span class="sub-title style1">Faq</span>
-                    <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
-                        <p>The frequency of dry cleaning depends on factors like how often you wear garment, the type of
-                            fabric, and whether there are visible stains. A general guideline is every few wears or as
-                            needed.
-
-                        </p>
+                    <div class="title-area text-center">
+                        <span class="sub-title">Faq</span>
+                        <h2 class="sec-title">Frequently Asked Questions</h2>
                     </div>
 
 
-                </div>
-                <div class="col-xl-6">
-                    <div class="faq-img2">
-                        <img src="assets/img/services/faq.webp" alt="faq" height="500px">
-                    </div>
-
-                </div>
-            </div> -->
-
-            <div class="row">
-                <div class="col-1"></div>
-                <div class="col-10">
 
                     <div class="accordion" id="faqAccordion">
 
@@ -1080,6 +1058,9 @@ Faq Area
 
 
                     </div>
+
+
+
                 </div>
             </div>
 
