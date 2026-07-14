@@ -17123,7 +17123,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .service-grid_content {
-  padding: 30px;
+  padding: 30px 20px;
   border: 1px solid var(--th-border-color);
 }
 
