@@ -70,6 +70,17 @@
         .tooltip.bs-tooltip-end .tooltip-arrow::before {
             border-right-color: var(--theme-color2) !important;
         }
+
+        .terms-card {
+            max-width: 700px;
+            width: 100%;
+            text-align: left;
+            padding: 25px;
+            border: 1px solid #e5e5e5;
+            border-radius: 10px;
+            background: transparent;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+        }
     </style>
 
 </head>
@@ -698,11 +709,8 @@ Service Area
             </div>
 
 
-            <div class="checklist mb-40 price-checklist">
+            <!-- <div class="checklist mb-40 price-checklist">
                 <span class="sub-title style1 mt-1 ">Terms and Conditions</span>
-                <!-- <div class="row">
-                    <div class="col-lg-4"></div>
-                    <div class="col-lg-8"> -->
 
                 <ul class="checklist-list">
                     <li>18% GST will be charged</li>
@@ -713,10 +721,25 @@ Service Area
                     <li>Pickup and delivery charges will be applicable</li>
                     <li>Premium brand and luxury garments dry cleaning charges will vary</li>
                 </ul>
-                <!-- </div>
-                </div> -->
+                
+            </div> -->
 
+            <!-- New Code -->
 
+            <div class="d-flex justify-content-center">
+                <div class="terms-card checklist">
+                    <span class="sub-title style1 mt-1 d-block mb-3">Terms and Conditions</span>
+
+                    <ul class="checklist-list mb-0 ps-3">
+                        <li>18% GST will be charged</li>
+                        <li>Garments on hanger @ ₹25 extra</li>
+                        <li>Delivery time 4 to 6 working days</li>
+                        <li>Prices for treatment of branded and designer wear will be decided on a case-to-case basis</li>
+                        <li>For detailed Terms and Conditions list, refer to https://www.cosmoslaundry.in/terms-conditions</li>
+                        <li>Pickup and delivery charges will be applicable</li>
+                        <li>Premium brand and luxury garments dry cleaning charges will vary</li>
+                    </ul>
+                </div>
             </div>
 
 
@@ -929,37 +952,15 @@ Faq Area
 ==============================-->
     <div class="space overflow-hidden process" id="faq-sec">
         <div class="container">
+            <div class="row align-items-end justify-content-center">
+                <div class="col-xl-10 text-center text-xl-start align-self-center">
 
-            <div class="title-area text-center">
-                <span class="sub-title">Faq</span>
-                <h2 class="sec-title">Frequently Asked Questions</h2>
-            </div>
-
-            <!-- <div class="row">
-                <div class="col-xl-6">
-                    <div class="title-area mb-35 pe-xl-5 text-center text-xl-start">
-                        <span class="sub-title style1">Faq</span>
-                    <h2 class="sec-title">Frequently Asked Have Any Questions</h2>
-                        <p>The frequency of dry cleaning depends on factors like how often you wear garment, the type of
-                            fabric, and whether there are visible stains. A general guideline is every few wears or as
-                            needed.
-
-                        </p>
+                    <div class="title-area text-center">
+                        <span class="sub-title">Faq</span>
+                        <h2 class="sec-title">Frequently Asked Questions</h2>
                     </div>
 
 
-                </div>
-                <div class="col-xl-6">
-                    <div class="faq-img2">
-                        <img src="assets/img/services/faq.webp" alt="faq" height="500px">
-                    </div>
-
-                </div>
-            </div> -->
-
-            <div class="row">
-                <div class="col-1"></div>
-                <div class="col-10">
 
                     <div class="accordion" id="faqAccordion">
 
@@ -1057,6 +1058,9 @@ Faq Area
 
 
                     </div>
+
+
+
                 </div>
             </div>
 
