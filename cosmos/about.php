@@ -24,6 +24,11 @@
   <meta name="twitter:title" content="About Us | Cosmos Laundry - Trusted Fabric Care Experts" />
   <meta name="twitter:site" content="@home" />
 
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+
   <link rel="manifest" href="assets/img/favicons/manifest.json" />
   <meta name="msapplication-TileColor" content="#ffffff" />
   <meta
@@ -74,19 +79,19 @@ About Area
   <div class="overflow-hidden overflow-hidden space" id="about-sec">
     <div class="container">
       <div class="row">
-        <div class="col-xl-5 col-lg-5 mb-40 mb-xl-0">
+        <div class="col-xl-5 col-lg-5 col-md-5 mb-40 mb-xl-0">
           <div class="img-box2">
-            <div class="img1 d-lg-block">
+            <div class="img1 ">
               <img src="assets/img/about/about-new-back-1.webp" alt="About" />
             </div>
-            <div class="img2">
+            <div class="img2 d-xl-block">
               <img src="assets/img/about/about-new-front-1.webp" alt="Image" />
             </div>
             <div class="about-shape-1"></div>
             <div class="about-shape-2"></div>
           </div>
         </div>
-        <div class="col-xl-7 col-lg-7 ">
+        <div class="col-xl-7 col-lg-7 col-md-7">
           <div class="ps-xl-5 wow fadeInRight">
             <div class="title-area mb-25">
               <span class="sub-title style1">About Us</span>

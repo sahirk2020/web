@@ -12974,7 +12974,11 @@ span.select2-selection.select2-selection--single:focus {
   right: 0;
   /* Extra small devices */
 }
-
+@media (max-width: 1299px) and (min-width: 768px) {
+  .img-box2 .img2 {
+    display: none;
+  }
+}
 @media (max-width: 575px) {
   .img-box2 .img2 {
     display: none;
@@ -12998,7 +13002,7 @@ span.select2-selection.select2-selection--single:focus {
 
 @media (max-width: 1299px) {
   .img-box2 .about-shape-1 {
-    /* display: none; */
+    display: none;
   }
 }
 
@@ -13014,7 +13018,7 @@ span.select2-selection.select2-selection--single:focus {
 
 @media (max-width: 1299px) {
   .img-box2 .about-shape-2 {
-    /* display: none; */
+    display: none;
   }
 }
 
