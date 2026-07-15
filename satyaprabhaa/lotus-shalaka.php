@@ -728,7 +728,7 @@
                                             </div>
                                             <div class="col-lg-6">
                                                 <div class="thumbnail">
-                                                    <img src="assets/images/projects/lotus-shalaka/healthcare862x900.webp" alt="banner">
+                                                    <img src="assets/images/projects/lotus-shalaka/healthcare-862x900.webp" alt="banner">
                                                 </div>
                                             </div>
                                         </div>

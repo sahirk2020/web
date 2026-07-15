@@ -372,17 +372,26 @@ Hero Area
                                         <div class="top-quote">
                                             <img src="assets/images/testimonials/03.png" alt="tstimonials">
                                         </div>
-                                        <p>Working with your team was an absolute pleasure. From the initial concept to
-                                            the final installation, every step was executed with professionalism and
-                                            attention to detail. The end result exceeded our expectations, and couldn't
-                                            be happier with our beautifully transformed space.</p>
-                                        <div class="author-area">
-                                            <div class="thumbnail">
-                                                <img src="assets/images/testimonials/02.png" alt="tstimonials">
+                                        <p>My name is <b>Arun Deshpande</b>. I am a Company Secretary by profession.</p>
+                                        <p>I have booked a flat in the Lotus Yojangandha project, and my experience has been truly excellent. The location is outstanding, and the entire neighborhood is well-developed and pleasant.</p>
+                                            <div class="moretext">
+                                                <p>One feature that impressed me the most is the regular car parking. Unlike many other projects, there is no puzzle parking, which is a significant advantage and adds great convenience.</p>
+                                                <p>The excellent customer service, superior construction quality, and commitment to excellence are the true strengths of Lotus Landmarks / Satyaprabhaa Studio Pvt. Ltd.</p>
+                                                <p>Considering all these factors, I decided to book my flat immediately and become a proud member of the Lotus family.</p>
+                                                <p>I highly recommend that anyone looking for a quality home should definitely consider this project. It is an excellent development, and I truly appreciate the team's dedication and efforts.</p>
+                                                <p>Thank you.</p>
                                             </div>
-                                            <div class="info">
-                                                <h6 class="title">John William</h6>
-                                                <span>New Client</span>
+                                        <a class="morelessbutton">
+                                        <span>Read more</span>
+                                        <i class="text-black fa fa-arrow-down"></i>
+                                        </a>
+                                        <div class="author-area">
+                                            <!-- <div class="thumbnail">
+                                                <img src="assets/images/testimonials/02.png" alt="tstimonials">
+                                            </div> -->
+                                            <div class="info border p-4">
+                                                <h6 class="title">Arun Deshpande</h6>
+                                                <span>Company Secretary</span>
                                             </div>
                                         </div>
                                     </div>
@@ -394,39 +403,25 @@ Hero Area
                                         <div class="top-quote">
                                             <img src="assets/images/testimonials/03.png" alt="tstimonials">
                                         </div>
-                                        <p>Working with your team was an absolute pleasure. From the initial concept to
-                                            the final installation, every step was executed with professionalism and
-                                            attention to detail. The end result exceeded our expectations, and couldn't
-                                            be happier with our beautifully transformed space.</p>
-                                        <div class="author-area">
-                                            <div class="thumbnail">
-                                                <img src="assets/images/testimonials/04.png" alt="tstimonials">
+                                        <p>My name is <b>Chaitanya</b>.</p>
+                                        <p>I was out for a walk with my parents when we met a few representatives from Satyaprabhaa Studio Pvt. Ltd. who were conducting a survey. They took the time to explain the concept and vision behind their project in detail.</p>
+                                                <div class="moretext">
+                                                <p>I was genuinely impressed because this is the first time I have come across a Senior Citizen-Centric residential project. The project has been thoughtfully designed to address the essential day-to-day needs of senior citizens while also offering all the modern amenities expected in a premium residential development.</p>
+                                                <p>I believe this concept is the need of the hour. Creating a home that prioritizes the comfort, safety, convenience, and well-being of senior citizens is both meaningful and forward-thinking.</p>
+                                                <p>I truly appreciate Satyaprabhaa Studio Pvt. Ltd. for introducing such an innovative and socially responsible concept. It deserves recognition and appreciation.</p>
+                                                <p>Thank you.</p>
                                             </div>
-                                            <div class="info">
-                                                <h6 class="title">John William</h6>
-                                                <span>New Client</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials aarea end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials aarea start -->
-                                    <div class="sigle-testimonials-one">
-                                        <div class="top-quote">
-                                            <img src="assets/images/testimonials/03.png" alt="tstimonials">
-                                        </div>
-                                        <p>Working with your team was an absolute pleasure. From the initial concept to
-                                            the final installation, every step was executed with professionalism and
-                                            attention to detail. The end result exceeded our expectations, and couldn't
-                                            be happier with our beautifully transformed space.</p>
+                                        <a class="morelessbutton">
+                                        <span>Read more</span>
+                                        <i class="text-black fa fa-arrow-down"></i>
+                                        </a>
                                         <div class="author-area">
-                                            <div class="thumbnail">
+                                            <!-- <div class="thumbnail">
                                                 <img src="assets/images/testimonials/02.png" alt="tstimonials">
-                                            </div>
-                                            <div class="info">
-                                                <h6 class="title">John William</h6>
-                                                <span>New Client</span>
+                                            </div> -->
+                                            <div class="info border p-4">
+                                                <h6 class="title">Chaitanya</h6>
+                                                <span>Client</span>
                                             </div>
                                         </div>
                                     </div>

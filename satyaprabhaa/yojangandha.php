@@ -34,7 +34,7 @@
         </div>
     </div>
     <!-- bread croumba rea end -->
-     <!-- Vision Mission section start -->
+     <!-- about section start -->
     <div class="rts-section-gap why-chooseus-section">
         <div class="container">
             <div class="row align-items-center">
@@ -109,7 +109,7 @@
             </div>
         </div>
     </div>
-    <!-- Vision Mission section end -->
+    <!-- about section end -->
 
     <!-- banner bg -->
     <!-- <div class=" d-none d-md-block">
@@ -195,7 +195,7 @@
     </div>
     <!-- why choose us section end -->
 
-    <!-- our latest projects area start -->
+    <!-- our gallery area start -->
     <div class="our-latest-project-area rts-section-gapBottom bg-light pt--50" id="gallery">
         <div class="container">
             <div class="row">
@@ -338,9 +338,9 @@
             </div>
         </div>
     </div>
-    <!-- our latest projects area end -->
+    <!-- our gallery area end -->
 
-    <!-- rts testimonials area -->
+    <!-- specification area -->
     <div class="rts-testimonials-area">
         <div class="container border-top-in-container rts-section-gap">
             <div class="row">
@@ -817,9 +817,9 @@
             </div>
         </div>
     </div>
-    <!-- rts testimonials area end -->
+    <!-- specification area end -->
 
-    <!-- cta-main wrapper start -->
+    <!-- youtube video start -->
     <div class="cta-area-two bg_image">
         <div class="container">
             <div class="row">
@@ -836,9 +836,9 @@
             </div>
         </div>
     </div>
-    <!-- cta-main wrapper end -->
+    <!-- youtube video end -->
 
-    <!-- rts service area start -->
+    <!-- Floor Plan start -->
     <div class="rts-service-area rts-section-gap bg-light-1" id="floorplan">
         <div class="container">
             <div class="row justify-content-center">
@@ -967,85 +967,86 @@
             </div>
         </div>
     </div>
-    <!-- rts service area end -->
+    <!-- Floor Plan end -->
+     <!-- location -->
      <div class="space-bottom overflow-hidden bg-white pt-5" id="faq-sec">
         <div class="container">
             <div class="row gx-0">
                 <div class="col-xl-6">
                     <div class="faqs-page-wrapper-area rts-section-gap">
-        <div class="container">
-            <div class="row">
-                <div class="">
-                    <div class="faq-style-two">
-                        <div class="left-accordion-faq rts-slide-up">
-                            <div class="title-faq-area-2">
-                                <div class="title-area-style-six-left">
-                                    <span class="pre">
-                                        Connectivity
-                                    </span>
-                                    <h2 class="title">Nearby Locations</h2>
-                                </div>
-                            </div>
-                            <div class="accordion" id="accordionExample">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            Education
-                                        </button>
-                                    </h2>
-                                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <ul>
-                                                <li>More Vidyalaya</li>
-                                                <li>Paranjape High School</li>
-                                                <li>Mahesh Vidyalaya</li>
-                                                <li>MIT</li>
-                                                <li>New India School</li>
-                                                <li>Abhinav Vidyalaya</li>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingTwo">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            Connectivity
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            <ul>
-                                                <li>Vanaz Metro Station</li>
-                                                <li>PMPML Bus Stop Nearby</li>
-                                                <li>Rickshaw Stand Nearby</li>
-                                                <li>Wide roads & local access</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingThree">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            Healthcare
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                           <ul>
-                                            <li>Krishna Hospital</li>
-                                            <li>Sahyadri Hospital</li>
-                                            <li>Sushrut Hospital</li>
-                                            <li>Reputed Clinics nearby</li>
-                                            <li>24/7 Medical stores</li>
+                        <div class="container">
+                            <div class="row">
+                                <div class="">
+                                    <div class="faq-style-two">
+                                        <div class="left-accordion-faq rts-slide-up">
+                                            <div class="title-faq-area-2">
+                                                <div class="title-area-style-six-left">
+                                                    <span class="pre">
+                                                        Connectivity
+                                                    </span>
+                                                    <h2 class="title">Nearby Locations</h2>
+                                                </div>
+                                            </div>
+                                            <div class="accordion" id="accordionExample">
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne">
+                                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                            Education
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <ul>
+                                                                <li>More Vidyalaya</li>
+                                                                <li>Paranjape High School</li>
+                                                                <li>Mahesh Vidyalaya</li>
+                                                                <li>MIT</li>
+                                                                <li>New India School</li>
+                                                                <li>Abhinav Vidyalaya</li>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingTwo">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                                            Connectivity
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <ul>
+                                                                <li>Vanaz Metro Station</li>
+                                                                <li>PMPML Bus Stop Nearby</li>
+                                                                <li>Rickshaw Stand Nearby</li>
+                                                                <li>Wide roads & local access</li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingThree">
+                                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                            Healthcare
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                        <ul>
+                                                            <li>Krishna Hospital</li>
+                                                            <li>Sahyadri Hospital</li>
+                                                            <li>Sushrut Hospital</li>
+                                                            <li>Reputed Clinics nearby</li>
+                                                            <li>24/7 Medical stores</li>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
                 </div>
                 <div class="col-xl-6 pt-5"><iframe height="650" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4023692973665!2d73.809192!3d18.510710599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfba52281ae1%3A0xde5a7d3f1a3d7483!2sYojangandha%20Society!5e0!3m2!1sen!2sin!4v1780651730009!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
                   

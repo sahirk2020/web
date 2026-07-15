@@ -15,15 +15,15 @@
     <!-- header three area end -->
 
     <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image_upcoming_projects">
+    <div class="breadcrumb-area-bg bg_image_residential_projects">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="bread-crumb-area-inner">
-                        <div class="breadcrumb-top">
+                        <!-- <div class="breadcrumb-top">
                             <a href="#">Home</a> /
                             <a class="active" href="#">Residential Projects</a>
-                        </div>
+                        </div> -->
                         <div class="bottom-title">
                             <h1 class="title">Residential Projects</h1>
                         </div>

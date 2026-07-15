@@ -15,15 +15,15 @@
     <!-- header three area end -->
 
     <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image_upcoming_projects">
+    <div class="breadcrumb-area-bg bg_image_commercial_projects">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="bread-crumb-area-inner">
-                        <div class="breadcrumb-top">
+                        <!-- <div class="breadcrumb-top">
                             <a href="#">Home</a> /
                             <a class="active" href="#">Commercial Projects</a>
-                        </div>
+                        </div> -->
                         <div class="bottom-title">
                             <h1 class="title">Commercial Projects</h1>
                         </div>
@@ -39,9 +39,9 @@
                 <div class="col-lg-12">
                     <div class="">
                         <h2 class="title">Why Invest in Commercial Projects in Pune?</h2>
-                        <p class="">A good business deserves the right address. If you're looking for commercial projects in Pune, you'll find a city that continues to attract businesses, entrepreneurs, startups, retailers, and global companies. With expanding IT corridors, improving infrastructure, and a growing workforce, Pune has become one of India's strongest destinations for commercial real estate and long-term business investment.</p>
-                        <p>Whether you're planning to buy commercial property in Pune, invest in an office space for sale, or own a shop for sale in Pune, the city offers excellent opportunities across established and emerging business locations. From retail spaces and commercial complexes to premium office spaces, investing today can help you build long-term value while supporting your business growth.</p>
-                        <p>At Satyaprabhaa, we develop commercial spaces that are practical, well-connected, and built for businesses of every size. Whether you're an entrepreneur, professional, retailer, or investor, our commercial developments offer the right environment to work, grow, and succeed.</p>
+                        <p class="mb-4">A good business deserves the right address. If you're looking for commercial projects in Pune, you'll find a city that continues to attract businesses, entrepreneurs, startups, retailers, and global companies. With expanding IT corridors, improving infrastructure, and a growing workforce, Pune has become one of India's strongest destinations for commercial real estate and long-term business investment.</p>
+                        <p class="mb-4">Whether you're planning to buy commercial property in Pune, invest in an office space for sale, or own a shop for sale in Pune, the city offers excellent opportunities across established and emerging business locations. From retail spaces and commercial complexes to premium office spaces, investing today can help you build long-term value while supporting your business growth.</p>
+                        <p class="mb-4">At Satyaprabhaa, we develop commercial spaces that are practical, well-connected, and built for businesses of every size. Whether you're an entrepreneur, professional, retailer, or investor, our commercial developments offer the right environment to work, grow, and succeed.</p>
                         
                     </div>
                 </div>
@@ -50,7 +50,7 @@
     </div>
 
     <!-- Commercial Projects -->
-    <div class="rts-portfolio-grid-col-2 rts-section-gap rts_portfolio_animation-wrapper">
+    <div class="rts-portfolio-grid-col-2 rts-section-gap rts_portfolio_animation-wrapper pt-0">
         <div class="container">
             <div class="row g-80">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
