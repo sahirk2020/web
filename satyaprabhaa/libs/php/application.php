@@ -20,6 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] !== "POST") {
 $name = $_POST['name'] ?? ' ';
 $mobile = $_POST['mobile'] ?? ' ';
 $email = $_POST['email'] ?? ' ';
+$position = $_POST['position'] ?? ' ';
 // UTM Params
 $source = $_POST['utm_source'] ?? ' ';
 $campaignname = $_POST['utm_campaign_name'] ?? ' ';
@@ -114,12 +115,20 @@ if (
 
     // exit();
 
+    $response = array( 
+
+    'status' => 0, 
+
+    'message' => 'Form submission failed, please try again.' 
+
+); 
+
 
             // Upload file 
 
              // File upload folder 
 
-              $uploadDir = 'uploads/'; 
+              $uploadDir = '../../uploads/'; 
 
               // Allowed file types 
                $allowTypes = array('pdf', 'doc', 'docx'); 
@@ -130,6 +139,8 @@ if (
                 
 
                if(!empty($_FILES["resume"]["name"])){ 
+
+               //echo "File is not empty";
 
                 // File path config 
 
@@ -150,6 +161,7 @@ if (
                     if(move_uploaded_file($_FILES["resume"]["tmp_name"], $targetFilePath)){ 
 
                         $uploadedFile = $fileName; 
+                        $resumefile_path = '../../uploads/'.$uploadedFile;
 
                     }else{ 
 
@@ -200,9 +212,12 @@ if (
     			<p>Name : ' . $name . '</p>
     			<p>Email : ' . $email . '</p>
     			<p>Contact No. : ' . $mobile . '</p>
+                <p>Position. : ' . $position . '</p>
     		    <p>Source : ' . $source . '</p>
     			<p>Sub Source : ' . $campaignname . '</p>
     			<p>Client IP : ' . $user_ip . '</p>';
+
+    $mail->AddAttachment($resumefile_path); 
 
 
 
@@ -211,7 +226,8 @@ if (
     if ($mail->send()) {
 
         echo json_encode([
-            "status" => 200
+            "status" => 200,
+            "message" => "Thank You, Our team will contact you soon"        
         ]);
 
         // echo 200;

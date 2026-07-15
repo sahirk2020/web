@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 require 'vendor/autoload.php';
 require("db.php");
 require("user-ip.php");
-// require("mdoc-crm.php");
+require("mdoc-crm.php");
 
 if ($_SERVER["REQUEST_METHOD"] !== "POST") {
     echo json_encode(["status" => 400, "msg" => "Invalid request"]);
@@ -24,7 +24,8 @@ $requirement = $_POST['requirement'] ?? ' ';
 $project = $_POST['project'] ?? ' ';
 $location = $_POST['location'] ?? ' ';
 $message = $_POST['message'] ?? ' ';
-$s_schedule = $_POST['s_schedule'] ?? ' ';  
+$s_schedule = $_POST['s_schedule'] ?? ' '; 
+$form_name = $_POST['form_name'] ?? ' '; 
 
 // UTM Params
 $source = $_POST['utm_source'] ?? ' ';
@@ -114,9 +115,19 @@ if (
 
     // MDOC CRM Calling Function
 
-   // $response = addLeadToCRM($name, $mobile, $email, $source_details);
+    if($form_name=="enquiry_form" || $form_name=="scheduleform" ){
 
-    // print_r($response);
+        if($project=="Yojangandha"){
+         $apikey = "2e5324c0-73aa-49b7-a8d7-da2987fdc2df";
+        $response = sendDataToCRM($name, $mobile, $email,$requirement, $source_details, $apikey);
+        }elseif($project=="Shrirang"){
+         $apikey = "c416b079-2a08-4a1a-b3b0-9f64cc698c6e";
+        $response = sendDataToCRM($name, $mobile, $email, $source_details, $apikey);
+
+        }
+
+       //print_r($response);
+    } 
 
     // exit();
 

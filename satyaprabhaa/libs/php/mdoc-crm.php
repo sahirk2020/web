@@ -1,16 +1,16 @@
 <?php
 
-function sendDataToCRM($name, $mobile, $email, $requirement)
+function sendDataToCRM($name, $mobile, $email, $requirement, $source_details, $apikey)
 {
 
     // MDOC API URL
-    $endpointUrl = "https://nexus1.maksoftbox.com/MDocBoxAPI/MdocAddEnquiryORTeleCalling/";
+    $endpointUrl = "https://satyaprabhaa.mymdoc.io/MDocBoxAPI/MdocAddEnquiryORTeleCalling/";
 
 
     // API Data
     $data = [
         "DataFrom" => "T",
-        "ApiKey" => "c6e2cb34-0510-4d5a-9d34-a1101235dd10",
+        "ApiKey" => $apikey,
         "EnquiryDate" => date("Y-m-d"),
 
         "Salutation" => "",
@@ -69,9 +69,9 @@ function sendDataToCRM($name, $mobile, $email, $requirement)
     // Close cURL session
     curl_close($ch);
 
-    //print_r($responseData);
+      //print_r($responseData);
 
-    // return $responseData;
+      return $responseData;
 }
 
 

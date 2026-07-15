@@ -134,7 +134,7 @@ $page_description = "Join the Satyaprabhaa team in Pune. We are looking for dedi
                 <form class="careers-form" method="post" enctype="multipart/form-data">
                <?= $URLinfo; ?>
                     <input type="text"
-                        class="form-control mb-3" name="name"
+                        class="form-control mb-3 fname" name="name"
                         placeholder="Full Name">
 
                     <input type="email"
@@ -142,7 +142,7 @@ $page_description = "Join the Satyaprabhaa team in Pune. We are looking for dedi
                         placeholder="Email Address">
 
                     <input type="tel"
-                        class="form-control mb-3" name="mobile"
+                        class="form-control mb-3 telli" name="mobile" maxlength="10" pattern="[0-9]{10}" required
                         placeholder="Mobile Number">
 
                     <input

@@ -69,6 +69,7 @@
         var mobile = form.find('[name="mobile"]').val();
         var location = form.find('[name="location"]').val();
         var requirement = form.find('[name="requirement"]').val();
+        var project= form.find('[name="project"]').val();
         var message = form.find('[name="message"]').val();
 
         var source = form.find('[name="utm_source"]').val();
@@ -115,6 +116,12 @@
         if (requirement == "") {
             alert("Select requirement");
             form.find('[name="requirement"]').focus().css("border", "1px solid #ff0000");
+            return;
+        }
+
+         if (project == "") {
+            alert("Select project");
+            form.find('[name="project"]').focus().css("border", "1px solid #ff0000");
             return;
         }
 
@@ -866,6 +873,28 @@ $(document).on('change', 'select[name="requirement"]', function () {
 <script>
     
     //carrear form js
+     $("#resume").change(function() {
+
+    var file = this.files[0];
+
+    var fileType = file.type;
+
+    var match = ['application/pdf', 'application/msword', 'application/vnd.ms-office'];
+
+    if(!((fileType == match[0]) || (fileType == match[1]) || (fileType == match[2]) || (fileType == match[3]) )){
+
+        alert('Sorry, only PDF, DOC files are allowed to upload.');
+
+        $("#file").val('');
+
+        return false;
+
+      }
+
+    });
+
+
+
     $(document).on('click', '.career_apply_btn', function(event) {
          event.preventDefault();
 
@@ -958,81 +987,27 @@ $(document).on('change', 'select[name="requirement"]', function () {
                 var dataString = form.serialize() + '&strDate=' + strDate + '&form_name=' + form_name;
 
 
+               var formData = new FormData(form[0]);
+
+                formData.append('strDate', strDate);
+                formData.append('form_name', form_name);
+
                 $.ajax({
                     url: 'libs/php/application.php',
                     type: 'POST',
-                    data: dataString,
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    cache: false,
                     success: function(res) {
 
-                        var response = jQuery.parseJSON(res);
+                        var response = $.parseJSON(res);
 
                         btn.html('Send');
 
                         if (response.status == 200) {
-
-                            // alert(response);
-
-                            // window.dataLayer = window.dataLayer || [];
-
-                            // dataLayer.push({
-
-                            //     event: "generate_lead",
-
-                            //     leadData: {
-
-                            //         lead: {
-
-                            //             id: response.lead_id,
-
-                            //             name: name,
-
-                            //             email: email,
-
-                            //             mobile: mobile,
-
-                            //             requirement: requirement,
-
-                            //             form_name: "careers_form",
-
-                            //             project_name: "Nexus Genesis",
-
-                            //             timestamp: new Date().toISOString()
-
-                            //         },
-
-                            //         attribution: {
-
-                            //             user_id: user_id,
-
-                            //             utm_source: source,
-
-                            //             utm_medium: utm_medium,
-
-                            //             utm_campaign: campaignid,
-
-                            //             utm_campaign_name: campaignname,
-
-                            //             utm_term: utm_term,
-
-                            //             gclid: gclid,
-
-                            //             utm_adid: utm_adid,
-
-                            //             utm_device: utm_device,
-
-                            //             utm_matchtype: utm_matchtype,
-
-                            //             utm_location: utm_location
-
-                            //         }
-
-
-                            //     }
-
-                            // });
-
+                            //alert(response.message);
                             window.location.replace("thank-you.php");
-
                         } else {
                             alert("Something went wrong");
                         }
