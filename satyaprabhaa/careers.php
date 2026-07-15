@@ -102,7 +102,7 @@ $page_description = "Join the Satyaprabhaa team in Pune. We are looking for dedi
                         <h4 class="mb-0">Team Leader – Commercial Sales </h4>
                             <div class="info-item mt-2">
                                 <!-- <h6 class="mb-0"></h6> -->
-                                <small>Exp: 6 to 5 years</small>
+                                <small>Exp: 5 to 6 years</small>
                             </div>
                         </div>
                         <div class="">

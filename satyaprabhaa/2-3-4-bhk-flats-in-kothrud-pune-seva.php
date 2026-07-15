@@ -3,30 +3,28 @@
 
 <head>
     <?php
-    $page_title = "Yojangandha | Satyaprabhaa Developers Yojangandha by Satyaprabhaa | 2, 3 & 4 BHK Flats in Kothrud Pune";
-    $page_description = "Yojangandha by Satyaprabhaa - 2, 3 & 4 BHK homes in Kothrud, Pune. Metro-connected, 15+ amenities, rooftop garden &amp; pets park.";
-    include 'css.php';
+    $page_title = "Seva Kothrud, Pune | Upcoming Residential Project ";
+    $page_description = "Discover Seva, Satyaprabhaa's upcoming residential project in Kothrud, Pune. Modern homes are planned around comfort, quality, and everyday convenience.";
     ?>
-    
+    <?php include 'css.php'; ?>
 </head>
 
 <body>
     <!-- header three area start -->
     <?php include 'header.php'; ?>
     <!-- header three area end -->
-     
      <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image" style="background:linear-gradient(45deg, #0000003f, #0000003f), url(assets/images/projects/yojangandha/yojangandha-1000x300.webp) no-repeat center center / cover;">
+    <div class="breadcrumb-area-bg bg_image_awards">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="bread-crumb-area-inner">
                         <!-- <div class="breadcrumb-top">
                             <a href="#">Home</a> /
-                            <a class="active" href="#">Yojangandha</a>
+                            <a class="active" href="#">Seva</a>
                         </div> -->
                         <div class="bottom-title">
-                            <h1 class="title">Yojangandha</h1>
+                            <h1 class="title">Seva</h1>
                         </div>
                     </div>
                 </div>
@@ -34,7 +32,8 @@
         </div>
     </div>
     <!-- bread croumba rea end -->
-     <!-- about section start -->
+
+    <!-- about section start -->
     <div class="rts-section-gap why-chooseus-section">
         <div class="container">
             <div class="row align-items-center">
@@ -1055,6 +1054,7 @@
         </div>
         <div class="shape-mockup d-none d-xxl-block" data-bottom="0%" data-right="0%"><img src="assets/img/shape/bg-element.png" alt=""></div>
     </div>
+    
     <!-- rts footer area start -->
     <?php include 'footer.php'; ?>
     <!-- rts footer area end -->
@@ -1087,11 +1087,7 @@
     </div>
 
     <?php include 'js.php'; ?>
-    <script>
-    $(document).ready(function () {
-    $('input[name="project"]').val('Yojangandha');
-    });
-    </script>
+
 </body>
 
 </html>

@@ -34,8 +34,8 @@
                             <li class="mega-menu-item">
                                 <ul class="pages">
                                     <li><a class="sdm-main" href="upcoming-projects.php">Upcoming Projects</a></li>
-                                    <li><a class="sdm-main" href="">Shrirang</a></li>
-                                    <li><a class="sdm-main" href="">Seva</a></li>
+                                    <li><a class="sdm-main" href="2-3-4-bhk-flats-in-bibwewadi-pune-shrirang.php">Shrirang</a></li>
+                                    <li><a class="sdm-main" href="2-3-4-bhk-flats-in-kothrud-pune-seva.php">Seva</a></li>
                                     <!-- <li><a class="sdm-main" href="">Deepak Dev</a></li> -->
                                 </ul>
                             </li>

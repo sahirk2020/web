@@ -20272,6 +20272,9 @@ bottom: 0;
   height: 0;
   pointer-events: none;
 }
+.portfolio-style-custom-4.news::after {
+    height: 100%;
+}
 .portfolio-style-custom-4 a.thumbnail {
   overflow: hidden;
   display: block;
@@ -20282,6 +20285,14 @@ bottom: 0;
 }
 .portfolio-style-custom-4 a.thumbnail:hover img {
   transform: scale(1.1);
+}
+.portfolio-style-custom-4.news .inner-content{
+position: absolute;
+    display: block !important;
+    left: 30px;
+    bottom: 30px;
+    z-index: 1;
+    transition: 0.3s;
 }
 .portfolio-style-custom-4 .inner-content {
   position: absolute;
@@ -20296,9 +20307,22 @@ bottom: 0;
 .portfolio-style-custom-4:hover .inner-content {
   bottom: 30px;
 }
+.portfolio-style-custom-4.news .inner-content .title {
+    color: #fff;
+    margin-bottom: 10px;
+}
 .portfolio-style-custom-4:hover .inner-content .title {
   color: #fff;
   margin-bottom: 10px;
+}
+.portfolio-style-custom-4.news .inner-content span {
+  color: #e3e3e3;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px !important;
+  text-transform: uppercase;
 }
 .portfolio-style-custom-4:hover .inner-content span {
   color: #e3e3e3;
@@ -25939,9 +25963,21 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   background: linear-gradient(45deg, #0000001f, #0000001f), 
   url(../images/projects/deepak-dev/banner-1000x554.webp) no-repeat center center / cover !important;
 }
-.bg_image_residential_projects,  .bg_image_2bhk{
+.bg_image_2bhk{
   background: linear-gradient(45deg, #0000009c, #0000003d), 
   url(../images/banner/bg/Completed-Projects.jpg) no-repeat center center / cover !important;
+}
+.bg_image_residential_projects{
+  background: linear-gradient(45deg, #0000009c, #0000003d), 
+  url(../images/banner/bg/Residential-Projects.webp) no-repeat center center / cover !important;
+}
+.bg_image_commercial_projects{
+  background: linear-gradient(45deg, #0000003d, #0000003d), 
+  url(../images/banner/bg/Commercial-Projects.webp) no-repeat center center / cover !important;
+}
+.bg_image_shrirang{
+  background: linear-gradient(45deg, #0000003d, #0000003d), 
+  url(../images/projects/shrirang/banner-img-1000x554.webp) no-repeat center center / cover !important;
 }
 .years-of-experience-patch{
   width: fit-content;

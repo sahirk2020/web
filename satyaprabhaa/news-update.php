@@ -19,10 +19,10 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="bread-crumb-area-inner">
-                        <div class="breadcrumb-top">
+                        <!-- <div class="breadcrumb-top">
                             <a href="#">Home</a> /
                             <a class="active" href="#">News & Updates</a>
-                        </div>
+                        </div> -->
                         <div class="bottom-title">
                             <h1 class="title">News & Updates</h1>
                         </div>
@@ -36,7 +36,7 @@
     <!-- portfolio column 4 area start -->
     <div class="rts-portfolio-area-col-4 rts-section-gap rts_portfolio_animation-wrapper">
         <div class="container">
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-12">
                     <div class="title-style-center">
                         <div class="pre-title-area">
@@ -46,23 +46,23 @@
                         <h2 class="title">Latest Events</h2>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="row g-5">
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="portfolio-style-custom-4 rts-portfolio__item">
-                        <a href="product-details-1.html" class="thumbnail">
-                            <img src="assets/images/product/25.jpg" alt="prodcut">
+                <div class="col-md-6 col-sm-12 col-12">
+                    <div class="portfolio-style-custom-4 news rts-portfolio__item">
+                        <a target="_blank" href="https://www.dainikprabhat.com/a-blood-donation-and-free-health-camp-was-successfully-organized-with-great-enthusiasm-by-the-lotus-landmarks-art-gallery-foundation" class="thumbnail">
+                            <img src="assets/images/news/digital-prabhat.webp" alt="digital-prabhat">
                         </a>
                         <div class="inner-content">
-                            <a href="product-details-1.html">
-                                <h4 class="title">living room interior </h4>
+                            <a target="_blank" href="https://www.dainikprabhat.com/a-blood-donation-and-free-health-camp-was-successfully-organized-with-great-enthusiasm-by-the-lotus-landmarks-art-gallery-foundation">
+                                <h4 class="title">Digital Prabhat</h4>
                             </a>
-                            <span>Interior Design</span>
+                            <span><a target="_blank" href="https://www.dainikprabhat.com/a-blood-donation-and-free-health-camp-was-successfully-organized-with-great-enthusiasm-by-the-lotus-landmarks-art-gallery-foundation">Pune News : Lotus Landmarks कलादालन फाउंडेशनच्या वतीने रक्तदान व मोफत आरोग्य शिबिर उत्साहात संपन्न</a></span>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="portfolio-style-custom-4 rts-portfolio__item">
+                <!-- <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                    <div class="portfolio-style-custom-4 news rts-portfolio__item">
                         <a href="product-details-1.html" class="thumbnail">
                             <img src="assets/images/product/26.jpg" alt="prodcut">
                         </a>
@@ -75,7 +75,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="portfolio-style-custom-4 rts-portfolio__item">
+                    <div class="portfolio-style-custom-4 news rts-portfolio__item">
                         <a href="product-details-1.html" class="thumbnail">
                             <img src="assets/images/product/27.jpg" alt="prodcut">
                         </a>
@@ -86,14 +86,14 @@
                             <span>Interior Design</span>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
     <!-- portfolio column 4 area end -->
 
     <!-- portfolio column 4 area start -->
-    <div class="rts-portfolio-area-col-4 rts-section-gap rts_portfolio_animation-wrapper">
+    <!-- <div class="rts-portfolio-area-col-4 rts-section-gap rts_portfolio_animation-wrapper">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -108,7 +108,7 @@
             </div>
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="portfolio-style-custom-4 rts-portfolio__item">
+                    <div class="portfolio-style-custom-4 news rts-portfolio__item">
                         <a href="product-details-1.html" class="thumbnail">
                             <img src="assets/images/product/25.jpg" alt="prodcut">
                         </a>
@@ -121,7 +121,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="portfolio-style-custom-4 rts-portfolio__item">
+                    <div class="portfolio-style-custom-4 news rts-portfolio__item">
                         <a href="product-details-1.html" class="thumbnail">
                             <img src="assets/images/product/26.jpg" alt="prodcut">
                         </a>
@@ -134,7 +134,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="portfolio-style-custom-4 rts-portfolio__item">
+                    <div class="portfolio-style-custom-4 news rts-portfolio__item">
                         <a href="product-details-1.html" class="thumbnail">
                             <img src="assets/images/product/27.jpg" alt="prodcut">
                         </a>
@@ -147,7 +147,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="portfolio-style-custom-4 rts-portfolio__item">
+                    <div class="portfolio-style-custom-4 news rts-portfolio__item">
                         <a href="product-details-1.html" class="thumbnail">
                             <img src="assets/images/product/28.jpg" alt="prodcut">
                         </a>
@@ -160,7 +160,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="portfolio-style-custom-4 rts-portfolio__item">
+                    <div class="portfolio-style-custom-4 news rts-portfolio__item">
                         <a href="product-details-1.html" class="thumbnail">
                             <img src="assets/images/product/29.jpg" alt="prodcut">
                         </a>
@@ -173,7 +173,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="portfolio-style-custom-4 rts-portfolio__item">
+                    <div class="portfolio-style-custom-4 news rts-portfolio__item">
                         <a href="product-details-1.html" class="thumbnail">
                             <img src="assets/images/product/30.jpg" alt="prodcut">
                         </a>
@@ -187,7 +187,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- portfolio column 4 area end -->
     <!-- rts footer area start -->
     <?php include 'footer.php'; ?>
