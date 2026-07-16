@@ -246,7 +246,7 @@ Service Area
                 </div>
             </div>
             <div class="slider-area">
-                <div class="swiper th-slider has-shadow" id="serviceSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"4"}}}'>
+                <div class="swiper th-slider has-shadow" id="serviceSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="service-grid">
@@ -270,7 +270,7 @@ Service Area
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services/dry-cleaning.php">Dry Cleaning</a></h3>
                                     <p class="service-grid_text">
-                                        Professional fabric-safe dry cleaning designed to protect delicate garments, maintain texture, and preserve garment quality.
+                                        Professional fabric-safe dry cleaning designed to protect delicate garments, maintain texture, & preserve garment quality.
                                     </p>
                                     <a href="services/dry-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -298,7 +298,7 @@ Service Area
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services/steam-ironing.php">Steam Ironing</a></h3>
                                     <p class="service-grid_text">
-                                        Experience the convenience of professional steam ironing delivered to your doorstep. Our experts will ensure your garments are wrinkle-free and ready to wear.
+                                        Professional steam ironing delivered to your doorstep. Our experts ensure your garments are wrinkle-free & ready to wear.
                                     </p>
                                     <a href="services/steam-ironing.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -446,7 +446,7 @@ Service Area
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services/institutional-chair-cleaning.php">Institutional Chair Cleaning</a></h3>
                                     <p class="service-grid_text">
-                                        Professional chair cleaning services for offices, institutions, and commercial spaces to maintain hygiene and cleanliness standards.
+                                        Professional chair cleaning services for offices, institutions, & commercial spaces to maintain hygiene & cleanliness standards.
                                     </p>
                                     <a href="services/institutional-chair-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -522,7 +522,7 @@ Service Area
                                         </a>
                                     </h3>
                                     <p class="service-grid_text">
-                                        Precision cleaning and finishing for blazers and suits to maintain a sharp appearance.
+                                        Precision cleaning and finishing for blazers and suits to maintain a sharp, polished, and professional appearance
                                     </p>
                                     <a href="services/blazer-&-suit-care.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>

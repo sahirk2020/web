@@ -97,7 +97,7 @@ $URLinfo = "
 ==============================-->
 <header class="th-header header-layout3">
     <div class="header-top">
-        <div class="container ">
+        <div class="container th-container">
             <div class="row justify-content-end justify-content-lg-between align-items-center gy-2">
                 <div class="col-auto d-none d-md-block">
                     <div class="header-links">
