@@ -1,3 +1,4 @@
+<?php include 'libs/php/tracking.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 

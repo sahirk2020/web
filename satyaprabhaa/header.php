@@ -1,5 +1,4 @@
 <?php include 'gtm-body.php'; ?>
-<?php include 'libs/php/tracking.php'; ?>
 <!-- header style one -->
     <div class="rts-header-style-one header--sticky">
         <div class="container">

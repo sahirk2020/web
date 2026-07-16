@@ -1,3 +1,4 @@
+<?php include 'libs/php/tracking.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,6 +14,83 @@
             background: #ffffff57 !important;
             border: 1px solid #ffffff4d;
         }
+        </style>
+        <style>
+    .signle-blog-style-one .thumbnail {
+    display: block;
+    overflow: hidden;
+}
+
+.signle-blog-style-one .thumbnail img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.signle-blog-style-one .thumbnail {
+    display: block;
+    aspect-ratio: 16 / 10;
+    overflow: hidden;
+}
+
+.signle-blog-style-one .thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.signle-blog-style-one .inner-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.signle-blog-style-one .inner-content .title {
+    min-height: 143px;
+    margin-bottom: 20px;
+}
+
+.signle-blog-style-one .btn-blog-readmore {
+    margin-top: auto;
+}
+
+.signle-blog-style-one .thumbnail .tag {
+    padding: 35px 12px;
+    width: 220px;
+}
+
+@media (min-width: 768px) {
+
+    .signle-blog-style-one {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .signle-blog-style-one .thumbnail {
+        display: block;
+    }
+
+    .signle-blog-style-one .thumbnail img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .signle-blog-style-one .inner-content {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+    }
+
+    .signle-blog-style-one .inner-content .title {
+        min-height: 143px;
+    }
+
+    .signle-blog-style-one .btn-blog-readmore {
+        margin-top: auto;
+    }
+
+}
         </style>
 </head>
 
@@ -444,161 +522,58 @@ Hero Area
     <!-- rts testimonials area end -->
 
     
-    <!-- rts blog area start -->
-    <div class="rts-blog-area rts-section-gap">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-style-center">
-                        <div class="pre-title-area">
-                            <img src="assets/images/about/02.png" alt="about">
-                            <span class="pre-title">Our Blog</span>
-                        </div>
-                        <h2 class="title quote">Latest News and Updates <br>
-                            in Interior Design</h2>
-                    </div>
-                </div>
-            </div>
-            <!-- desktop view -->
-            <div class="row d-none d-md-flex g-24 rts-slide-up mt--30">
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- single blog area start -->
-                    <div class="signle-blog-style-one">
-                        <a href="blog-details.html" class="thumbnail">
-                            <img src="assets/images/blog/01.jpg" alt="blog">
-                            <span class="tag">Architecture</span>
-                        </a>
-                        <div class="inner-content">
-                            <a href="blog-details.html">
-                                <h5 class="title">
-                                    The Retro Outdoor Furniture Set
-                                    That’s Like Grandma’s—But Better
-                                </h5>
-                            </a>
-                            <a class="btn-blog-readmore" href="blog-details.html"> Read More +</a>
-                        </div>
-                    </div>
-                    <!-- single blog area end -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- single blog area start -->
-                    <div class="signle-blog-style-one">
-                        <a href="blog-details.html" class="thumbnail">
-                            <img src="assets/images/blog/02.jpg" alt="blog">
-                            <span class="tag">Office Desk</span>
-                        </a>
-                        <div class="inner-content">
-                            <a href="blog-details.html">
-                                <h5 class="title">
-                                    The Art of Mindful Parenting: Finding Balance and Joy
-                                </h5>
-                            </a>
-                            <a class="btn-blog-readmore" href="blog-details.html"> Read More +</a>
-                        </div>
-                    </div>
-                    <!-- single blog area end -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- single blog area start -->
-                    <div class="signle-blog-style-one">
-                        <a href="blog-details.html" class="thumbnail">
-                            <img src="assets/images/blog/03.jpg" alt="blog">
-                            <span class="tag">Interior</span>
-                        </a>
-                        <div class="inner-content">
-                            <a href="blog-details.html">
-                                <h5 class="title">
-                                    Unlocking Creativity: 10 Exercises to Inspire Your Imagination
-                                </h5>
-                            </a>
-                            <a class="btn-blog-readmore" href="blog-details.html"> Read More +</a>
-                        </div>
-                    </div>
-                    <!-- single blog area end -->
-                </div>
-            </div>
-            <!-- desktop view end -->
+    <!-- RTS Blog Area Start -->
 
-            <!-- mobile view -->
-             <!-- rts blog area start -->
+<div class="rts-blog-area rts-section-gap">
+  <div class="container">
+
+    <!-- Section Title -->
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="title-style-center">
+                <div class="pre-title-area">
+                    <img src="assets/images/about/02.png" alt="about">
+                    <span class="pre-title">Our Blog</span>
+                </div>
+
+                <h2 class="title quote">
+                    Latest News and Updates <br>
+                    in Interior Design
+                </h2>
+            </div>
+        </div>
+    </div>
+
+    <!-- Desktop View -->
+    <div id="desktop-blog-list"
+         class="row d-none d-md-flex g-24 rts-slide-up mt--30">
+        <!-- Blogs will load here -->
+    </div>
+
+    <!-- Mobile View -->
     <div class="d-md-none d-block rts-blog-area rts-section-gap pt-0">
         <div class="container">
             <div class="testimonials-main-wrapper">
                 <div class="swiper mySwiper-three-testimonials">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="row mt--70 align-items-center">
-                                <!-- single blog area start -->
-                                <div class="signle-blog-style-one">
-                                    <a href="" class="thumbnail">
-                                        <img src="assets/images/blog/03.jpg" alt="blog">
-                                        <span class="tag">Interior</span>
-                                    </a>
-                                    <div class="inner-content">
-                                        <a href="">
-                                            <h5 class="title">
-                                                Unlocking Creativity: 10 Exercises to Inspire Your Imagination
-                                            </h5>
-                                        </a>
-                                        <a class="btn-blog-readmore" href=""> Read More +</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- single blog area end -->
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="row mt--70 align-items-center">
-                                <!-- single blog area start -->
-                                <div class="signle-blog-style-one">
-                                    <a href="" class="thumbnail">
-                                        <img src="assets/images/blog/03.jpg" alt="blog">
-                                        <span class="tag">Interior</span>
-                                    </a>
-                                    <div class="inner-content">
-                                        <a href="">
-                                            <h5 class="title">
-                                                Unlocking Creativity: 10 Exercises to Inspire Your Imagination
-                                            </h5>
-                                        </a>
-                                        <a class="btn-blog-readmore" href=""> Read More +</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- single blog area end -->
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="row mt--70 align-items-center">
-                                <!-- single blog area start -->
-                                <div class="signle-blog-style-one">
-                                    <a href="" class="thumbnail">
-                                        <img src="assets/images/blog/03.jpg" alt="blog">
-                                        <span class="tag">Interior</span>
-                                    </a>
-                                    <div class="inner-content">
-                                        <a href="">
-                                            <h5 class="title">
-                                                Unlocking Creativity: 10 Exercises to Inspire Your Imagination
-                                            </h5>
-                                        </a>
-                                        <a class="btn-blog-readmore" href=""> Read More +</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- single blog area end -->
-                        </div>
+
+                    <div id="mobile-blog-list" class="swiper-wrapper">
+                        <!-- Blogs will load here -->
                     </div>
+
                 </div>
-                    <!-- <div class="swiper-button-next"></div>
-                    <div class="swiper-button-prev"></div> -->
             </div>
         </div>
     </div>
 
-    <!-- rts blog area end -->
-     <!-- mobile view end -->
-        </div>
-    </div>
-    <!-- rts blog area end -->
+  </div>
+
+</div>
+<!-- RTS Blog Area End -->
+
+
+
+
+
 
     <!-- footer area start -->
     <?php include 'footer.php'; ?>
@@ -688,6 +663,186 @@ document.addEventListener("DOMContentLoaded", function () {
 
     document.addEventListener("click", enableAudio);
     document.addEventListener("touchstart", enableAudio);
+
+});
+</script>
+
+
+
+
+<script>
+jQuery(document).ready(function ($) {
+
+    var apiUrl = "https://web.digitaltokri.co.in/satyaprabhaa/blog/wp-json/wp/v2/posts?per_page=3&_embed";
+
+    $.ajax({
+        url: apiUrl,
+        type: "GET",
+        dataType: "json",
+
+        success: function (posts) {
+
+            var desktopHTML = '';
+            var mobileHTML = '';
+
+            $.each(posts, function (index, post) {
+
+                var title = post.title.rendered;
+                var blogUrl = post.link;
+
+                // Default image
+                var imageUrl = "assets/images/blog/01.jpg";
+
+                if (
+                    post._embedded &&
+                    post._embedded['wp:featuredmedia'] &&
+                    post._embedded['wp:featuredmedia'][0]
+                ) {
+                    imageUrl = post._embedded['wp:featuredmedia'][0].source_url;
+                }
+
+                // Default category
+                var category = 'Blog';
+
+                if (
+                    post._embedded &&
+                    post._embedded['wp:term'] &&
+                    post._embedded['wp:term'][0] &&
+                    post._embedded['wp:term'][0][0]
+                ) {
+                    category = post._embedded['wp:term'][0][0].name;
+                }
+
+
+                /*
+                |--------------------------------------------------------------------------
+                | DESKTOP BLOG
+                |--------------------------------------------------------------------------
+                */
+
+                desktopHTML += `
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+
+                        <div class="signle-blog-style-one">
+
+                            <a href="${blogUrl}" class="thumbnail">
+
+                                <img src="${imageUrl}"
+                                     alt="${title}">
+
+                                <span class="tag">
+                                    ${category}
+                                </span>
+
+                            </a>
+
+                            <div class="inner-content">
+
+                                <a href="${blogUrl}">
+                                    <h5 class="title">
+                                        ${title}
+                                    </h5>
+                                </a>
+
+                                <a class="btn-blog-readmore"
+                                   href="${blogUrl}">
+                                    Read More +
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                `;
+
+
+                /*
+                |--------------------------------------------------------------------------
+                | MOBILE BLOG
+                |--------------------------------------------------------------------------
+                */
+
+                mobileHTML += `
+                    <div class="swiper-slide">
+
+                        <div class="row mt--70 align-items-center">
+
+                            <div class="signle-blog-style-one">
+
+                                <a href="${blogUrl}"
+                                   class="thumbnail">
+
+                                    <img src="${imageUrl}"
+                                         alt="${title}">
+
+                                    <span class="tag">
+                                        ${category}
+                                    </span>
+
+                                </a>
+
+                                <div class="inner-content">
+
+                                    <a href="${blogUrl}">
+                                        <h5 class="title">
+                                            ${title}
+                                        </h5>
+                                    </a>
+
+                                    <a class="btn-blog-readmore"
+                                       href="${blogUrl}">
+                                        Read More +
+                                    </a>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                `;
+
+            });
+
+
+            // Add desktop blogs
+            $('#desktop-blog-list').html(desktopHTML);
+
+            // Add mobile blogs
+            $('#mobile-blog-list').html(mobileHTML);
+
+
+            /*
+            |--------------------------------------------------------------------------
+            | INITIALIZE SWIPER
+            |--------------------------------------------------------------------------
+            */
+
+            new Swiper(".mySwiper-three-testimonials", {
+
+                slidesPerView: 1,
+                spaceBetween: 20,
+
+                loop: true,
+
+                autoplay: {
+                    delay: 4000,
+                    disableOnInteraction: false
+                }
+
+            });
+
+        },
+
+        error: function (xhr, status, error) {
+
+            console.log("Blog loading error:", error);
+
+        }
+
+    });
 
 });
 </script>
