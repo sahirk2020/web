@@ -20,7 +20,7 @@
                         <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="has-dropdown with-megamenu">
-                        <a class="nav-link" href="">Projects</a>
+                        <a class="nav-link" href="projects.php">Projects</a>
                         <ul class="submenu">
                             <li class="mega-menu-item">
                                 <ul class="pages">

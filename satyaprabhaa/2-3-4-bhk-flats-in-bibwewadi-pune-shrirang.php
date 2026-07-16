@@ -473,12 +473,13 @@
     <!-- specification area end -->
 
     <!-- youtube video start -->
-    <div class="cta-area-two bg_image">
+    <div class="cta-area-two bg_image" style="background: linear-gradient(45deg, #0000003d, #0000003d), url(assets/images/projects/shrirang/banner-img-1000x554.webp) no-repeat center center / cover;
+    background-attachment: fixed;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="vedio-icone">
-                        <a class="play-video popup-youtube video-play-button" href="https://www.youtube.com/watch?v=7XRusv97ZRs">
+                        <a class="play-video popup-youtube video-play-button" href="https://www.youtube.com/watch?v=t5WWlsFJCug">
                             <span></span>
                         </a>
                         <div class="video-overlay">
