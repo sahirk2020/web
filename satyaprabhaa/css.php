@@ -27,7 +27,7 @@
 
 <!-- seo links -->
  <?php $baseUrl = 'https://' . $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>
-<link rel="canonical" href="<?php echo $baseUrl . $_SERVER['REQUEST_URI']; ?>" />
+<link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>" />
 
 <!-- Facebook Meta Tags -->
     <meta property="og:title" content="<?php echo $page_title; ?>">

@@ -14,7 +14,7 @@
     <?php include 'header.php'; ?>
     <!-- header three area end -->
      <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image_awards">
+    <div class="breadcrumb-area-bg bg_image_seva">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -86,7 +86,7 @@
                                 </div>
                                 <div class="right">
                                     <span>Starting Price:</span>
-                                    <p class="name">₹1.40 Cr onwards</p>
+                                    <p class="name">Price on Request</p>
                                 </div>
                             </div>
                             <!-- single detrails short end -->
@@ -98,7 +98,7 @@
                                 </div>
                                 <div class="right">
                                     <span>MahaRERA No.</span>
-                                    <p class="name">P52100053370</p>
+                                    <p class="name">NA</p>
                                 </div>
                             </div>
                             <!-- single detrails short end -->
@@ -220,8 +220,8 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/rooftop.webp" width="464" alt="rooftop">
-                                        <a href="assets/images/projects/yojangandha/gallery/rooftop.webp" class="gallery-image">
+                                        <img class="image-zoom-hover" src="assets/images/projects/seva/gallery/elevation-img-768x512.webp" width="464" alt="rooftop">
+                                        <a href="assets/images/projects/seva/gallery/elevation-img-768x512.webp" class="gallery-image">
                                             <div class="item-overlay">
                                                 <span>
                                                     <i class="fa-solid fa-plus"></i>
@@ -234,8 +234,8 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/elevation-img.webp" width="464" alt="elevation-img">
-                                        <a href="assets/images/projects/yojangandha/gallery/elevation-img.webp" class="gallery-image">
+                                        <img class="image-zoom-hover" src="assets/images/projects/seva/gallery/elevation-img1-768x512.webp" width="464" alt="elevation-img">
+                                        <a href="assets/images/projects/seva/gallery/elevation-img1-768x512.webp" class="gallery-image">
                                             <div class="item-overlay">
                                                 <span>
                                                     <i class="fa-solid fa-plus"></i>
@@ -248,8 +248,8 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/corner-elevation-img.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/corner-elevation-img.webp" class="gallery-image">
+                                        <img class="image-zoom-hover" src="assets/images/projects/seva/gallery/livingroom-img-768x512.webp" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/seva/gallery/livingroom-img-768x512.webp" class="gallery-image">
                                             <div class="item-overlay">
                                                 <span>
                                                     <i class="fa-solid fa-plus"></i>
@@ -262,8 +262,8 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/balcony.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/balcony.webp" class="gallery-image">
+                                        <img class="image-zoom-hover" src="assets/images/projects/seva/gallery/livingroom-img1-768x512.webp" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/seva/gallery/livingroom-img1-768x512.webp" class="gallery-image">
                                             <div class="item-overlay">
                                                 <span>
                                                     <i class="fa-solid fa-plus"></i>
@@ -276,8 +276,8 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/entrance.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/entrance.webp" class="gallery-image">
+                                        <img class="image-zoom-hover" src="assets/images/projects/seva/gallery/balconyimg-768x512.webp" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/seva/gallery/balconyimg-768x512.webp" class="gallery-image">
                                             <div class="item-overlay">
                                                 <span>
                                                     <i class="fa-solid fa-plus"></i>
@@ -290,8 +290,8 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/guest-toilet.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/guest-toilet.webp" class="gallery-image">
+                                        <img class="image-zoom-hover" src="assets/images/projects/seva/gallery/rooftop-768x512.webp" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/seva/gallery/rooftop-768x512.webp" class="gallery-image">
                                             <div class="item-overlay">
                                                 <span>
                                                     <i class="fa-solid fa-plus"></i>
@@ -304,8 +304,8 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/common-washroom.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/common-washroom.webp" class="gallery-image">
+                                        <img class="image-zoom-hover" src="assets/images/projects/seva/gallery/balcony-area-768x512.webp" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/seva/gallery/balcony-area-768x512.webp" class="gallery-image">
                                             <div class="item-overlay">
                                                 <span>
                                                     <i class="fa-solid fa-plus"></i>
@@ -318,8 +318,8 @@
                                 <div class="swiper-slide">
                                     <!-- sigle projects area start -->
                                     <div class="gallery-wrapper-one">
-                                        <img class="image-zoom-hover" src="assets/images/projects/yojangandha/gallery/master-bedroom.webp" width="464" alt="gallery-image">
-                                        <a href="assets/images/projects/yojangandha/gallery/master-bedroom.webp" class="gallery-image">
+                                        <img class="image-zoom-hover" src="assets/images/projects/seva/gallery/walkway-768x512.webp" width="464" alt="gallery-image">
+                                        <a href="assets/images/projects/seva/gallery/walkway-768x512.webp" class="gallery-image">
                                             <div class="item-overlay">
                                                 <span>
                                                     <i class="fa-solid fa-plus"></i>
@@ -819,7 +819,7 @@
     <!-- specification area end -->
 
     <!-- youtube video start -->
-    <div class="cta-area-two bg_image">
+    <!-- <div class="cta-area-two bg_image">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -834,138 +834,427 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- youtube video end -->
 
-    <!-- Floor Plan start -->
-    <div class="rts-service-area rts-section-gap bg-light-1" id="floorplan">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <!-- title area multiple elements -->
-                    <div class="title-area-multiple-elements justify-content-center">
-                        <div class="title-left-style-two text-md-center">
-                            <div class="pre-title-area">
-                                <img src="assets/images/about/02.png" alt="about">
-                                <span class="pre-title">Perfectly planned living spaces</span>
-                            </div>
-                            <h2 class="title">
-                                Floor Plans
-                            </h2>
-                        </div>
-                        <!-- <p class="disc">
-                            Welcome to our interior design services, where we specialize in transforming spaces into
-                            stunning, functional of services.
-                        </p>
-                        <a href="#" class="view-servce-btn">View All Services <i
-                                class="fa-thin fa-chevron-right"></i></a> -->
-                    </div>
-                    <!-- title area multiple elements end -->
-                </div>
-            </div>
-            <div class="row g-5 mb--50 rts-slide-up d-flex justify-content-center mt--10">
-
-                <div class="col-lg-4 col-md-6 col-sm-12 pt-4 pt-md-0">
-                    <!-- ingle srevice area start -->
-                    <div class="singe-serice-style-two">
-                        <a href="assets/images/projects/yojangandha/floorplan/2bhk-513x512.webp" data-title="2BHK Floor Plan" data-lightbox="gallery">
-                            <img src="assets/images/projects/yojangandha/floorplan/2bhk-513x512.webp" alt="2BHK Floor Plan">
-                         </a>
-                        <div class="body text-center">
-                            <div class="wrapper text-center">
-                                <!-- 3BHK Center -->
-                                <div class="icon-area d-flex justify-content-center">
-                                    <span>2BHK</span>
-                                </div>
-                                <!-- Enquire Now Center -->
-                                <!-- <div class="inner d-flex justify-content-center">
-                                    <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow"
-                                    class="rts-read-more-circle-btn under-line text-center">
-                                        <i class="fa-solid fa-arrow-up-right"></i>
-                                        <p class="mb-0">Enquire Now</p>
-                                    </a>
-                                </div> -->
-                            </div>
-                        </div>
-                    </div>
-                    <!-- ingle srevice area end -->
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12 pt-4 pt-md-0">
-                    <div class="singe-serice-style-two">
-                        <a href="assets/images/projects/yojangandha/floorplan/3bhk-513x512.webp" data-title="3BHK Floor Plan" data-lightbox="gallery">
-                            <img src="assets/images/projects/yojangandha/floorplan/3bhk-513x512.webp" alt="3BHK Floor Plan">
-                        </a>
-                        <div class="body text-center">
-                            <div class="wrapper text-center">
-                                <!-- 3BHK Center -->
-                                <div class="icon-area d-flex justify-content-center">
-                                    <span>3BHK</span>
-                                </div>
-                                <!-- Enquire Now Center -->
-                                <!-- <div class="inner d-flex justify-content-center">
-                                    <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow"
-                                    class="rts-read-more-circle-btn under-line text-center">
-                                        <i class="fa-solid fa-arrow-up-right"></i>
-                                        <p class="mb-0">Enquire Now</p>
-                                    </a>
-                                </div> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12 pt-4 pt-md-0">
-                    <div class="singe-serice-style-two">
-                        <a href="assets/images/projects/yojangandha/floorplan/4bhk-513x512.webp" data-title="4BHK Floor Plan" data-lightbox="gallery">
-                            <img src="assets/images/projects/yojangandha/floorplan/4bhk-513x512.webp" alt="4BHK Floor Plan">
-                        </a>
-                        <div class="body text-center">
-                            <div class="wrapper text-center">
-                                <!-- 4BHK Center -->
-                                <div class="icon-area d-flex justify-content-center">
-                                    <span>4BHK</span>
-                                </div>
-                                <!-- Enquire Now Center -->
-                                <!-- <div class="inner d-flex justify-content-center">
-                                    <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow"
-                                    class="rts-read-more-circle-btn under-line text-center">
-                                        <i class="fa-solid fa-arrow-up-right"></i>
-                                        <p class="mb-0">Enquire Now</p>
-                                    </a>
-                                </div> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- <div class="col-lg-4 col-md-6 col-sm-12 pt-4 pt-md-0">
-                    <div class="singe-serice-style-two">
-                        <a data-bs-toggle="modal" data-bs-target="#popModel" class="thumbnail">
-                            <img src="assets/images/projects/yojangandha/floorplan/floor-plans-4bhk.webp" alt="service">
-                        </a>
-                        <div class="body text-center">
-                            <div class="wrapper text-center">
-                                <div class="icon-area d-flex justify-content-center">
-                                    <span>4BHK</span>
-                                </div>
-                                <div class="inner d-flex justify-content-center">
-                                    <a data-bs-toggle="modal" data-bs-target="#popModel"
-                                    class="rts-read-more-circle-btn under-line text-center">
-                                        <i class="fa-solid fa-arrow-up-right"></i>
-                                        <p class="mb-0">Enquire Now</p>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-
-
-
-            </div>
+    <!-- Floorplan area start -->
+<div class="rts-blog-area pt-5 bg-light-1">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="title-style-center">
+          <h2 class="title quote">Floor Plans</h2>
         </div>
+      </div>
     </div>
+    <!-- Floorplan area start -->
+    <div class="rts-blog-area rts-section-gap pt-0">
+      <div class="container">
+        <div class="testimonials-main-wrapper">
+          <div class="swiper mySwiper-three-floorplan">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                   
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                     <a href="assets/images/projects/seva/floorplan/groundfloor.webp" data-title="Ground Floor" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/groundfloor.webp" alt="Ground Floor">
+                     </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>Ground Floor</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/basement1-2.webp" data-title="Basement 1 & 2" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/basement1-2.webp" alt="Basement 1 & 2">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>Basement 1 & 2</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/1stfloor.webp" data-title="1st Floor" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/1stfloor.webp" alt="1st Floor">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>1st Floor</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+                <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/2ndfloor.webp" data-title="2nd Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/2ndfloor.webp" alt="2nd Floor Plan">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>2nd Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+                <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/3rdfloor.webp" data-title="3rd Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/3rdfloor.webp" alt="3rd Floor Plan">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>3rd Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/4thfloor.webp" data-title="4th Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/4thfloor.webp" alt="4th Floor Plan">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>4th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/5thfloor.webp" data-title="5th Floor Plan" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/5thfloor.webp" alt="5th Floor Plan">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>5th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/6thfloor.webp" data-title="6th Floor" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/6thfloor.webp" alt="6th Floor">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>6th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/6thfloor.webp" data-title="6th Floor" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/6thfloor.webp" alt="6th Floor">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>6th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/7thfloor.webp" data-title="7th Floor" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/7thfloor.webp" alt="7th Floor">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>7th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/8thfloor.webp" data-title="8th Floor" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/8thfloor.webp" alt="8th Floor">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>8th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/9thfloor.webp" data-title="9th Floor" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/9thfloor.webp" alt="9th Floor">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>9th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/10thfloor.webp" data-title="10th Floor" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/10thfloor.webp" alt="10th Floor">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>10th Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row mt--30 align-items-center">
+                  <!-- single blog area start -->
+                  <!-- ingle srevice area start -->
+                  <div class="signle-blog-style-one">
+                    <a href="assets/images/projects/seva/floorplan/terracefloor.webp" data-title="Terrace Floor" data-lightbox="gallery">
+                      <img src="assets/images/projects/seva/floorplan/terracefloor.webp" alt="Terrace Floor">
+                    </a>
+                    <div class="body text-center">
+                      <div class="wrapper text-center">
+                        <!-- 3BHK Center -->
+                        <div class="icon-area d-flex justify-content-center">
+                          <span>Terrace Floor Plan</span>
+                        </div>
+                        <!-- Enquire Now Center -->
+                        <!-- <div class="inner d-flex justify-content-center">
+                          <a data-bs-toggle="modal" data-bs-target="#popModel" data-popup="enquireNow" class="rts-read-more-circle-btn under-line text-center">
+                            <i class="fa-solid fa-arrow-up-right"></i>
+                            <p class="mb-0">Enquire Now</p>
+                          </a>
+                        </div> -->
+                      </div>
+                    </div>
+                  </div>
+                  <!-- ingle srevice area end -->
+                  <!-- single blog area end -->
+                </div>
+              </div>
+              </div>
+            </div>
+            <!-- <div class="swiper-button-next"></div><div class="swiper-button-prev"></div> -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
     <!-- Floor Plan end -->
      <!-- location -->
      <div class="space-bottom overflow-hidden bg-white pt-5" id="faq-sec">
@@ -1046,15 +1335,15 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-xl-6 pt-5"><iframe height="650" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4023692973665!2d73.809192!3d18.510710599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bfba52281ae1%3A0xde5a7d3f1a3d7483!2sYojangandha%20Society!5e0!3m2!1sen!2sin!4v1780651730009!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+                </div><div class="col-xl-6 pt-5">
+                    <iframe height="650" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3157.7551287813085!2d73.809364!3d18.511062000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDMwJzM5LjgiTiA3M8KwNDgnMzMuNyJF!5e1!3m2!1sen!2sin!4v1784177710386!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
                   
                 </div>
             </div>
         </div>
         <div class="shape-mockup d-none d-xxl-block" data-bottom="0%" data-right="0%"><img src="assets/img/shape/bg-element.png" alt=""></div>
     </div>
-    
+
     <!-- rts footer area start -->
     <?php include 'footer.php'; ?>
     <!-- rts footer area end -->

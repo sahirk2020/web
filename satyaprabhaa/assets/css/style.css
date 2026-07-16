@@ -25979,6 +25979,10 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   background: linear-gradient(45deg, #0000003d, #0000003d), 
   url(../images/projects/shrirang/banner-img-1000x554.webp) no-repeat center center / cover !important;
 }
+.bg_image_seva{
+  background: linear-gradient(45deg, #0000003d, #0000003d), 
+  url(../images/projects/seva/banner-1000x554.webp) no-repeat center center / cover !important;
+}
 .years-of-experience-patch{
   width: fit-content;
   position:relative;
