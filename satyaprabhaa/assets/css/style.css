@@ -21589,7 +21589,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 @media only screen and (max-width: 767px) {
   .top-title-full-w-wrapper .swiper-buttons .swiper-button-next,
 .top-title-full-w-wrapper .swiper-buttons .swiper-button-prev {
-    display: none;
+    /* display: none; */
   }
 }
 .top-title-full-w-wrapper .swiper-buttons .swiper-button-next::after,

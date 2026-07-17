@@ -103,7 +103,7 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- team area start -->
                     <div class="team-area-start-one">
-                        <a href="treya.php" class="thumbnail">
+                        <a href="2-3-4-bhk-flats-in-kothrud-pune-treya.php" class="thumbnail">
                             <img src="assets/images/projects/upcoming-projects/treya-project-768x815.webp" alt="Lotus Treya">
                         </a>
                         <div class="team-content">
