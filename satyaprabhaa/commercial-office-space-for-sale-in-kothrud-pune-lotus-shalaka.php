@@ -77,7 +77,7 @@
                 <div class="single-details-short">
                   <div class="left">
                     <span>Location:</span>
-                    <p class="name">Kothrud, Pune</p>
+                    <p class="name">Aundh, Pune</p>
                   </div>
                   <div class="right">
                     <span>MahaRERA No.</span>

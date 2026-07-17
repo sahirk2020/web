@@ -62,11 +62,10 @@
                                 <!-- <img src="assets/images/about/02.png" alt="about"> -->
                                 <span class="pre-title">Project Overview</span>
                             </div>
-                            <h2 class="title mt--0 mb--25 quote">Rooted In Kothrud’s Legacy</h2>
+                            <h2 class="title mt--0 mb--25 quote">Live Close to Everything</h2>
                         </div>
                         <p class="disc mb--15 rts-slide-up">
-                            Set amidst the cultural richness of Kothrud and surrounded by nature’s quiet beauty, Yojangandha offers a lifestyle that feels both connected and serene. Thoughtfully designed for modern families, it brings together everyday convenience, wellness-focused amenities, and a trusted legacy of craftsmanship. A home that celebrates the character of its location while embracing contemporary living.</p>
-                        
+                            Shrirang brings spacious homes to the heart of Bibwewadi, one of Pune's well-connected neighbourhoods. With modern amenities, practical layouts, and easy access to schools, hospitals, shopping centres, and major roads, it offers a comfortable lifestyle for families looking for convenience and long-term value.
                         <a  href="" data-bs-toggle="modal"
                         data-bs-target="#popModel"
                         data-popup="downloadBrochure" class="mt-3 rts-btn btn-border">Request Brochure</a> 
@@ -135,7 +134,7 @@
                                     <img src="assets/images/why-choose/01.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Amidst Kothrud’s Heritage Charm</h6>
+                                    <h6 class="title">Prime location in Bibwewadi</h6>
                                     <!-- <p class="disc">
                                         Interior designers possess the
                                         skills create well-designed.
@@ -151,7 +150,7 @@
                                     <img src="assets/images/why-choose/02.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Seamless Metro Connectivity</h6>
+                                    <h6 class="title">Spacious 2, 3 & 4 BHK homes</h6>
                                     <!-- <p class="disc">
                                         Interior designers are trained to think creatively and come.
                                     </p> -->
@@ -166,7 +165,7 @@
                                     <img src="assets/images/why-choose/03.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Signature Rooftop Experiences</h6>
+                                    <h6 class="title">Rooftop lifestyle amenities</h6>
                                     <!-- <p class="disc">
                                         Hiring an interior designer can save you time and money.
                                     </p> -->
@@ -181,7 +180,7 @@
                                     <img src="assets/images/why-choose/04.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">A Prestigious Kothrud Address</h6>
+                                    <h6 class="title">Excellent city connectivity</h6>
                                     <!-- s -->
                                 </div>
                             </div>
@@ -662,7 +661,7 @@
                     </div>
                 </div>
                 <div class="col-xl-6 pt-5">
-                    <iframe height="650" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15137.12402316803!2d73.85667868559948!3d18.47092642423702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2ea974085768d%3A0x167d3f7d6fa4e276!2sBibwewadi%2C%20Pune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1784031182415!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+                    <iframe height="650" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15136.996387957453!2d73.8632428714784!3d18.47237268415356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eabd566d1525%3A0x1f74aa2df060dbd4!2sShree%20Yash%20Medical%20Store!5e0!3m2!1sen!2sin!4v1784278526005!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
                   
                 </div>
             </div>

@@ -13,16 +13,37 @@
     <!-- header three area start -->
     <?php include 'header.php'; ?>
     <!-- header three area end -->
+     <!--==============================
+Hero Area
+==============================-->
+    <div class="hero-7 position-relative" id="home">
+        
+        <div class="hero hero-video">
+            <div class="hero-bg-video">
+                <video class="d-md-none d-block hero-video-player" muted autoplay loop playsinline>
+                    <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
+                    <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/project-page/satyaprabha-project-page-desk-video.mp4">
+                </video>
+                <video class="d-none d-md-block hero-video-player" muted autoplay loop playsinline>
+                    <!-- <source src="assets/img/video/6Boulevard-Video-1090X1080.mp4" type="video/mp4"> -->
+                    <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/project-page/satyaprabha-project-page-desk-video.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+        <div class="hero-inner">
+            <div class="container">
+                <div class="row align-items-end">
+                </div>
+            </div>
+        </div>
+        <!--======== / Hero Section ========-->
+    </div>
      <!-- bread croumba rea start -->
-    <div class="breadcrumb-area-bg bg_image_residential_projects">
+    <!-- <div class="breadcrumb-area-bg bg_image_residential_projects">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="bread-crumb-area-inner">
-                        <!-- <div class="breadcrumb-top">
-                            <a href="#">Home</a> /
-                            <a class="active" href="#">Projects</a>
-                        </div> -->
                         <div class="bottom-title">
                             <h1 class="title">Projects</h1>
                         </div>
@@ -30,7 +51,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- bread croumba rea end -->
 
     <!-- rts portfoliooa area inner page -->

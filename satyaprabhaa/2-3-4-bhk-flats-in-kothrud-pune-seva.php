@@ -62,11 +62,10 @@
                                 <!-- <img src="assets/images/about/02.png" alt="about"> -->
                                 <span class="pre-title">Project Overview</span>
                             </div>
-                            <h2 class="title mt--0 mb--25 quote">Rooted In Kothrud’s Legacy</h2>
+                            <h2 class="title mt--0 mb--25 quote">A Home That Fits Life</h2>
                         </div>
                         <p class="disc mb--15 rts-slide-up">
-                            Set amidst the cultural richness of Kothrud and surrounded by nature’s quiet beauty, Yojangandha offers a lifestyle that feels both connected and serene. Thoughtfully designed for modern families, it brings together everyday convenience, wellness-focused amenities, and a trusted legacy of craftsmanship. A home that celebrates the character of its location while embracing contemporary living.</p>
-                        
+                           Seva is designed around everyday living. From senior-friendly homes and rooftop amenities to quality construction and practical layouts, every detail makes daily life more comfortable. Located in Shivtirth Nagar, Kothrud, it offers the convenience of city living with the comfort families look for.
                         <a  href="" data-bs-toggle="modal"
                         data-bs-target="#popModel"
                         data-popup="downloadBrochure" class="mt-3 rts-btn btn-border">Request Brochure</a> 
@@ -135,7 +134,7 @@
                                     <img src="assets/images/why-choose/01.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Amidst Kothrud’s Heritage Charm</h6>
+                                    <h6 class="title">Prime location in Shivtirth Nagar, Kothrud</h6>
                                     <!-- <p class="disc">
                                         Interior designers possess the
                                         skills create well-designed.
@@ -151,7 +150,7 @@
                                     <img src="assets/images/why-choose/02.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Seamless Metro Connectivity</h6>
+                                    <h6 class="title">Senior-friendly homes with rooftop amenities</h6>
                                     <!-- <p class="disc">
                                         Interior designers are trained to think creatively and come.
                                     </p> -->
@@ -166,7 +165,7 @@
                                     <img src="assets/images/why-choose/03.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Signature Rooftop Experiences</h6>
+                                    <h6 class="title">Just 6 homes on every floor</h6>
                                     <!-- <p class="disc">
                                         Hiring an interior designer can save you time and money.
                                     </p> -->
@@ -181,7 +180,7 @@
                                     <img src="assets/images/why-choose/04.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">A Prestigious Kothrud Address</h6>
+                                    <h6 class="title">Walking distance to Vanaz Metro Station</h6>
                                     <!-- s -->
                                 </div>
                             </div>
@@ -1047,7 +1046,7 @@
                         </div>
                     </div>
                 </div><div class="col-xl-6 pt-5">
-                    <iframe height="450" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3157.7551287813085!2d73.809364!3d18.511062000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDMwJzM5LjgiTiA3M8KwNDgnMzMuNyJF!5e1!3m2!1sen!2sin!4v1784177710386!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+                    <iframe height="450" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3157.7551287813085!2d73.809364!3d18.511062000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDMwJzM5LjgiTiA3M8KwNDgnMzMuNyJF!5e1!3m2!1sen!2sin!4v1784278399804!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
                   
                 </div>
             </div>
