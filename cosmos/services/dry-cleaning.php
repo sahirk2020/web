@@ -81,14 +81,12 @@ About Area
             <div class="row">
 
                 <div class="col-xl-6">
-                    <!-- <div class="ps-xl-3 "> -->
+
                     <div class="title-area mb-30">
                         <span class="sub-title style1">About Service</span>
                         <h2 class="sec-title">Advanced Hydrocarbon Dry Cleaning</h2>
                     </div>
                     <p class="mt-n2 mb-15 about-quote">Experience a new standard of garment care with our Hydrocarbon Dry Cleaning Technology, an advanced international cleaning process widely used across Europe and America. Unlike conventional dry cleaning methods, hydrocarbon technology is gentler on fabrics and helps preserve color, texture, softness, and garment structure for longer. It effectively removes stains, dirt, and odors while providing superior fabric protection. Ideal for designer wear, formal clothing, delicate fabrics, and premium garments, this advanced process delivers deep cleaning without harsh treatment. Combined with expert handling and specialized care, it helps your clothes stay fresher, softer, and looking newer for longer.</p>
-
-                    <!-- </div> -->
                 </div>
 
                 <div class="col-xl-6">
@@ -251,9 +249,5 @@ Faq Area
             </div>
         </div>
     </div>
-
-
-
-
 
     <?php include '../components/footer.php'; ?>

@@ -2,20 +2,6 @@
 
 require("../../components/db.php");
 
-//  database credentials
-
-// $servername = "localhost";
-
-// $username = "u932802978_rgsforteaspire";
-
-// $password = '9ofCxxlvYd|M';
-
-// $dbname = "u932802978_rgsforteaspire";
-
-
-
-
-
 // Function to check if the email address is unique in the database
 
 function checkEmailUnique($email, $conn)

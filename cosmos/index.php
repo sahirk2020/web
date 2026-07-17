@@ -194,19 +194,12 @@ About Area
     <!--==============================
 Cta Area  
 ==============================-->
-    <section
-        class="cta-sec"
-        data-pos-for=".team-area">
+    <section class="cta-sec" data-pos-for=".team-area">
         <div class="container th-container">
-            <div
-                class="cta-area"
-                data-overlay="title"
-                data-opacity="9"
-                data-bg-src="assets/img/bg/new-cta-bg.webp">
+            <div class="cta-area" data-overlay="title" data-opacity="9" data-bg-src="assets/img/bg/new-cta-bg.webp">
                 <div class="row align-items-center">
                     <div class="col-xl-7 col-lg-6 mb-5 mb-lg-0">
                         <div class="title-area mb-0 text-center text-lg-start">
-                            <!-- <span class="sub-title style1">Get Free Contact For Services</span> -->
                             <h2 class="sec-title text-white">
                                 Advanced Hydrocarbon Dry Cleaning
                             </h2>
@@ -617,7 +610,7 @@ Contact Area
                             <li>Delivery timelines may vary in exceptional circumstances beyond operational control. </li>
                         </ul>
                     </div>
-                    <!-- <div class=""><img src="assets/img/home/overlay-express-service.webp" alt="shape"></div> -->
+
                 </div>
             </div>
         </div>
@@ -920,111 +913,7 @@ feature Area
         </div>
     </div>
 
-    <!--==============================
-Choose Area  
-==============================-->
-    <section class="d-none overflow-hidden space-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 offset-lg-3">
-                    <div class="title-area text-center pe-xl-4 ps-xl-4">
-                        <span class="sub-title">Why Cosmos</span>
-                        <h2 class="sec-title">Premium Fabric Care, Every Time</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row gy-4 justify-content-between align-items-center">
-                <div class="col-md-6 col-xl-auto">
 
-                    <div class="service-block style1 wow fadeInLeft">
-                        <div class="service-block_img">
-                            <img src="assets/img/icon/why-us/service_1_1.svg" alt="Service">
-                        </div>
-                        <div class="service-block_wrapper">
-                            <h3 class="box-title">
-                                Advanced Hydrocarbon Technology
-                            </h3>
-                            <p class="mb-0">
-                                Advanced cleaning technology that delivers superior results while protecting delicate fabrics and colors.
-                            </p>
-                        </div>
-                    </div>
-
-
-                    <div class="service-block style1 wow fadeInLeft">
-                        <div class="service-block_img">
-                            <img src="assets/img/icon/why-us/luxury-care.svg" alt="Service">
-                        </div>
-                        <div class="service-block_wrapper">
-                            <h3 class="box-title">
-                                Premium & Luxury Care
-                            </h3>
-                            <p class="mb-0">
-                                Specialized care designed to maintain the elegance, quality, and longevity of premium garments.
-                            </p>
-                        </div>
-                    </div>
-
-
-                    <div class="service-block style1 wow fadeInLeft">
-                        <div class="service-block_img">
-                            <img src="assets/img/icon/why-us/service_1_3.svg" alt="Service">
-                        </div>
-                        <div class="service-block_wrapper">
-                            <h3 class="box-title">Fabric-Friendly Process</h3>
-                            <p class="mb-0">Gentle cleaning methods that preserve fabric texture, softness, color, and overall garment quality.</p>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col col-xl-auto text-center d-none d-xl-block">
-                    <div class="service-image wow fadeInUp">
-                        <img src="assets/img/about/why-cosmos-new.webp" alt="cosmos laundry">
-                    </div>
-                </div>
-                <div class="col-md-6 col-xl-auto">
-
-                    <div class="service-block wow fadeInLeft">
-                        <div class="service-block_img">
-                            <img src="assets/img/icon/why-us/garment-treatment.svg" width="60" alt="Service">
-                        </div>
-                        <div class="service-block_wrapper">
-                            <h3 class="box-title">Specialized Garment Care</h3>
-                            <p class="mb-0">
-                                Tailored cleaning solutions for delicate, designer, luxury, and occasion-specific garments.
-                            </p>
-                        </div>
-                    </div>
-
-
-                    <div class="service-block wow fadeInLeft">
-                        <div class="service-block_img">
-                            <img src="assets/img/icon/why-us/experienced-team.svg" width="60" alt="Service">
-                        </div>
-                        <div class="service-block_wrapper">
-                            <h3 class="box-title">Experienced Team</h3>
-                            <p class="mb-0">Skilled professionals with extensive expertise in handling diverse fabrics and garment types.</p>
-                        </div>
-                    </div>
-
-
-                    <div class="service-block wow fadeInLeft">
-                        <div class="service-block_img">
-                            <img src="assets/img/icon/why-us/quality.svg" alt="Service">
-                        </div>
-                        <div class="service-block_wrapper">
-                            <h3 class="box-title">Quality Assurance</h3>
-                            <p class="mb-0">
-                                Every garment undergoes thorough inspection to ensure exceptional cleaning and finishing standards.
-                            </p>
-                        </div>
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-    </section>
 
 
     <!--==============================
@@ -1270,6 +1159,32 @@ Blog Area
         </div>
     </section>
 
+
+    <!--Offer Modal -->
+    <div class="modal fade" id="offerModal" tabindex="-1" aria-labelledby="offerModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <!--<div class="modal-header">
+                     <h5 class="modal-title" id="offerModalLabel">Enquire Now</h5> 
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>-->
+                <div class="modal-body">
+                    <form class="lead-form">
+                        <div class="row">
+                            <div class="col-12">
+                                <img src="assets/img/banners/20-offer-creative-home-popup.webp" alt="cosmos laundry offer" class="img-fluid">
+                            </div>
+                            <div class="form-btn col-12 mt-3 justify-content-end gap-4 d-flex">
+                                <button type="button" class="th-btn style3 th-radius" data-bs-dismiss="modal">Close</button>
+                                <!-- <button type="button" class="submit-btn  th-btn th-radius">Submit</button> -->
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!--==============================
 	Footer Area

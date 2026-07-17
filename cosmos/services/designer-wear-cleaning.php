@@ -1,13 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
-?>
-
-
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -83,7 +76,6 @@
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">

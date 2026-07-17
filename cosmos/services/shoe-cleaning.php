@@ -77,18 +77,14 @@
         </div>
     </div>
 
-
-
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
 
                 <div class="col-xl-6">
-                    <!-- <div class="ps-xl-3 wow fadeInRight"> -->
                     <div class="title-area mb-25">
                         <span class="sub-title style1">About Service</span>
                         <h2 class="sec-title mb-20">
@@ -98,8 +94,6 @@ About Area
                             Restore the appearance of your footwear with our professional shoe cleaning service. We clean, sanitize, and refresh shoes using specialized products and techniques suitable for various materials including leather, suede, canvas, and sports footwear. Our process removes dirt, stains, odors, and accumulated grime while preserving the original finish and structure of the shoes. Every pair receives detailed attention to ensure a cleaner, fresher, and more polished look. Give your footwear the care it deserves and extend its life with expert cleaning.
                         </p>
                     </div>
-
-                    <!-- </div> -->
                 </div>
 
                 <div class="col-xl-6">
@@ -114,11 +108,6 @@ About Area
             </div>
         </div>
     </div>
-
-
-
-
-
 
     <!--==============================
 Faq Area
@@ -209,6 +198,5 @@ Faq Area
             </div>
         </div>
     </div>
-
 
     <?php include '../components/footer.php'; ?>

@@ -5,7 +5,6 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Our Services | Cosmos Laundry - Laundry & Dry Cleaning</title>
-    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Explore Cosmos Laundry's full range of services - laundry, dry cleaning, ironing, carpet & upholstery care and more." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -37,9 +36,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800;900&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800;9..40,900&display=swap" rel="stylesheet">
-
-
-
 
     <style>
         /* Tooltip Background Color */
@@ -484,29 +480,6 @@ Service Area
                     </div>
                 </div>
 
-                <!-- <div class="col-md-6 col-xl-4">
-                    <div class="service-item">
-                        <div class="service-item_wrapper">
-                            <div class="service-item_img">
-                                <img src="assets/img/home/sevices-Express-Service.webp" alt="img">
-                            </div>
-                            <div class="service-item_icon">
-                                <img src="assets/img/icon/services/toy-cleaning.svg" alt="Icon" width="50" height="50">
-                            </div>
-                        </div>
-                        <div class="service-item_content" data-bg-src="assets/img/shape/service_shape_2.png">
-                            <h3 class="box-title"><a href="service-details.html">Express Service</a></h3>
-                            <p class="service-item_text">Safe and hygienic cleaning process that removes dirt, dust, and allergens from soft toys.</p>
-                            <a href="service-details.html" class="th-btn border">Know More</a>
-                        </div>
-                    </div>
-                </div> -->
-
-
-
-
-
-
             </div>
         </div>
     </section>
@@ -560,7 +533,6 @@ Service Area
                         data-bs-target="#mens"
                         type="button">
 
-                        <!-- <i class="fa fa-user"></i> -->
                         <img src="<?php echo BASE_URL; ?>assets/img/icon/price-table/mens.svg" width="30" height="30" alt="Mens Icon" class="tab-icon" />
                         Men
                     </button>
@@ -573,7 +545,6 @@ Service Area
                         data-bs-target="#womens"
                         type="button">
 
-                        <!-- <i class="fa fa-female"></i> -->
                         <img src="<?php echo BASE_URL; ?>assets/img/icon/price-table/woman.svg" width="30" height="30" alt="Womens Icon" class="tab-icon" />
                         Women
                     </button>
@@ -586,7 +557,6 @@ Service Area
                         data-bs-target="#kids"
                         type="button">
 
-                        <!-- <i class="fa fa-child"></i> -->
                         <img src="<?php echo BASE_URL; ?>assets/img/icon/price-table/kids.svg" width="30" height="30" alt="Kids Icon" class="tab-icon" />
                         Kids
                     </button>
@@ -600,24 +570,10 @@ Service Area
                         data-bs-target="#household"
                         type="button">
 
-                        <!-- <i class="fa fa-bed"></i> -->
                         <img src="<?php echo BASE_URL; ?>assets/img/icon/price-table/household.svg" width="30" height="30" alt="Household Icon" class="tab-icon" />
                         Household
                     </button>
                 </li>
-
-
-                <!-- <li class="nav-item" role="presentation">
-                            <button class="nav-link"
-                                id="luxury-tab"
-                                data-bs-toggle="tab"
-                                data-bs-target="#luxury"
-                                type="button">
-
-                                <i class="fa fa-diamond"></i> Luxury
-                            </button>
-                        </li> -->
-
             </ul>
 
             <div class="tab-content laundry-tab-content">
@@ -638,7 +594,6 @@ Service Area
                     <div class="tab-pane fade <?php echo ($tabId == 'mens') ? 'show active' : ''; ?>"
                         id="<?php echo $tabId; ?>">
 
-                        <!-- <div class="price-table-wrap table-responsive"> -->
                         <div class="price-table-wrap">
 
                             <table class="laundry-price-table">
@@ -707,25 +662,7 @@ Service Area
                 <?php } ?>
 
             </div>
-
-
-            <!-- <div class="checklist mb-40 price-checklist">
-                <span class="sub-title style1 mt-1 ">Terms and Conditions</span>
-
-                <ul class="checklist-list">
-                    <li>18% GST will be charged</li>
-                    <li>Garments on hanger @ ₹25 extra</li>
-                    <li>Delivery time 4 to 6 working days</li>
-                    <li>Prices for treatment of branded and designer wear will be decided on a case-to-case basis</li>
-                    <li>For detailed Terms and Conditions list, refer to https://www.cosmoslaundry.in/terms-conditions</li>
-                    <li>Pickup and delivery charges will be applicable</li>
-                    <li>Premium brand and luxury garments dry cleaning charges will vary</li>
-                </ul>
-                
-            </div> -->
-
-            <!-- New Code -->
-
+           
             <div class="d-flex justify-content-center">
                 <div class="terms-card checklist">
                     <span class="sub-title style1 mt-1 d-block mb-3">Terms and Conditions</span>
@@ -766,7 +703,7 @@ Process Area
                         </div>
                         <p class="box-number">01</p>
                         <h3 class="box-title">Inspection</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                        
                     </div>
                 </div>
 
@@ -780,7 +717,7 @@ Process Area
                         </div>
                         <p class="box-number">02</p>
                         <h3 class="box-title">Tagging</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                        
                     </div>
                 </div>
 
@@ -794,7 +731,7 @@ Process Area
                         </div>
                         <p class="box-number">03</p>
                         <h3 class="box-title">Sorting</h3>
-                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
+                        
                     </div>
                 </div>
                 <div class="col-xl-2 col-6 process-box-wrap">
@@ -807,7 +744,7 @@ Process Area
                         </div>
                         <p class="box-number">04</p>
                         <h3 class="box-title">Segregation</h3>
-                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
+                        
                     </div>
                 </div>
 
@@ -821,7 +758,7 @@ Process Area
                         </div>
                         <p class="box-number">05</p>
                         <h3 class="box-title">Spotting</h3>
-                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
+                        
                     </div>
                 </div>
 
@@ -835,7 +772,7 @@ Process Area
                         </div>
                         <p class="box-number">06</p>
                         <h3 class="box-title">Cleaning</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                        
                     </div>
                 </div>
                 <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
@@ -848,7 +785,7 @@ Process Area
                         </div>
                         <p class="box-number">07</p>
                         <h3 class="box-title">Finishing</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                        
                     </div>
                 </div>
 
@@ -862,7 +799,7 @@ Process Area
                         </div>
                         <p class="box-number">08</p>
                         <h3 class="box-title">Quality Check</h3>
-                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
+                        
                     </div>
                 </div>
                 <div class="col-xl-2 col-6 d-xl-none d-block process-box-wrap">
@@ -875,7 +812,7 @@ Process Area
                         </div>
                         <p class="box-number">09</p>
                         <h3 class="box-title">Packaging</h3>
-                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
+                       
                     </div>
                 </div>
 
@@ -893,7 +830,7 @@ Process Area
                         </div>
                         <p class="box-number">06</p>
                         <h3 class="box-title">Cleaning</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                        
                     </div>
                 </div>
                 <div class="col-xl-2 col-6 process-box-wrap">
@@ -906,7 +843,7 @@ Process Area
                         </div>
                         <p class="box-number">07</p>
                         <h3 class="box-title">Finishing</h3>
-                        <!-- <p class="box-text">The frequency of dry cleaning depends on factors such as the type of garment</p> -->
+                        
                     </div>
                 </div>
 
@@ -920,7 +857,7 @@ Process Area
                         </div>
                         <p class="box-number">08</p>
                         <h3 class="box-title">Quality Check</h3>
-                        <!-- <p class="box-text">Dry cleaning is effective at removing oil-based stains like grease, lipstick</p> -->
+                        
                     </div>
                 </div>
                 <div class="col-xl-2 col-6 process-box-wrap">
@@ -933,7 +870,7 @@ Process Area
                         </div>
                         <p class="box-number">09</p>
                         <h3 class="box-title">Packaging</h3>
-                        <!-- <p class="box-text">Many dry cleaners now use environmentally-friendly solvents and processes. Look</p> -->
+                        
                     </div>
                 </div>
 
@@ -959,8 +896,6 @@ Faq Area
                         <span class="sub-title">Faq</span>
                         <h2 class="sec-title">Frequently Asked Questions</h2>
                     </div>
-
-
 
                     <div class="accordion" id="faqAccordion">
 
@@ -998,8 +933,6 @@ Faq Area
                             </div>
                         </div>
 
-
-
                         <div class="accordion-card">
                             <div class="accordion-header" id="collapse-item-4">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-4" aria-expanded="false" aria-controls="collapse-4">Does Cosmos Laundry clean carpets and sofas at home?</button>
@@ -1010,7 +943,6 @@ Faq Area
                                 </div>
                             </div>
                         </div>
-
 
                         <div class="accordion-card">
                             <div class="accordion-header" id="collapse-item-5">
@@ -1055,20 +987,10 @@ Faq Area
                                 </div>
                             </div>
                         </div>
-
-
                     </div>
-
-
-
                 </div>
             </div>
-
-
-
         </div>
-
-
     </div>
 
     <!--==============================

@@ -1,20 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
-?>
-
-
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
         Silk & Wool Fabric Care | Cosmos Laundry
     </title>
-    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Gentle, specialized care for silk & wool garments that preserves softness, texture & fabric structure." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -82,7 +74,6 @@
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
@@ -122,10 +113,6 @@ About Area
         </div>
     </div>
 
-
-
-
-
     <!--==============================
 Faq Area
 ==============================-->
@@ -139,7 +126,6 @@ Faq Area
                             <h2 class="sec-title">Frequently Asked Questions</h2>
                         </div>
                         <div class="accordion" id="faqAccordion">
-
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
