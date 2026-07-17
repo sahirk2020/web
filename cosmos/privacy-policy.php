@@ -7,7 +7,7 @@
     <title>
         Privacy Policy | Cosmos Laundry
     </title>
-    <!-- <meta name="robots" content="index, follow"> -->
+   
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Understand how Cosmos Laundry collects, uses and protects your personal information across our services." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -72,9 +72,7 @@
 
     <div class="overflow-hidden space-top process" id="about-sec">
         <div class="container">
-            <!-- <h4 class="sec-title mb-10">
-                Privacy Policy
-            </h4> -->
+           
             <p class="about-desc mb-40">
                 At Cosmos Laundry, we value your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, store, and safeguard your information when you use our website or laundry services.
             </p>
@@ -94,7 +92,6 @@
 
                 </ul>
             </div>
-
 
             <h5 class=" sec-title-2 mb-10">How We Use Your Information</h5>
 
@@ -145,7 +142,6 @@
             <p class="about-desc mb-40">
                 If you have any questions regarding this Privacy Policy or the handling of your personal information, please contact us through the Contact Us page or via our official customer support channels.
             </p>
-
 
         </div>
     </div>

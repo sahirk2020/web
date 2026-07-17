@@ -1,20 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
-?>
-
-
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
         Steam Ironing Service | Crisp, Wrinkle-Free Clothes
     </title>
-    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Get perfectly pressed, wrinkle-free clothes with professional steam ironing from Cosmos Laundry. Book now!" />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -77,18 +69,14 @@
         </div>
     </div>
 
-
-
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
 
                 <div class="col-xl-6">
-                    <!-- <div class="ps-xl-3 wow fadeInRight"> -->
                     <div class="title-area mb-25">
                         <span class="sub-title style1">About Service</span>
                         <h2 class="sec-title mb-20">
@@ -113,10 +101,6 @@ About Area
             </div>
         </div>
     </div>
-
-
-
-
 
     <!--==============================
 Faq Area
@@ -206,6 +190,5 @@ Faq Area
             </div>
         </div>
     </div>
-
 
     <?php include '../components/footer.php'; ?>

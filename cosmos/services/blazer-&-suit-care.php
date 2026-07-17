@@ -77,7 +77,7 @@
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
+  
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">

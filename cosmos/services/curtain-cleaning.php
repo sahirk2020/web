@@ -76,13 +76,13 @@
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
+
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
 
                 <div class="col-xl-6">
-                    <!-- <div class="ps-xl-3 wow fadeInRight"> -->
+
                     <div class="title-area mb-25">
                         <span class="sub-title style1">About Service</span>
                         <h2 class="sec-title mb-20">
@@ -92,8 +92,6 @@ About Area
                             Curtains naturally collect dust, allergens, odors, and pollutants over time. Our curtain cleaning service provides thorough cleaning while preserving fabric quality, color, and texture. Using fabric-specific cleaning techniques, we carefully remove accumulated dirt and stains without causing shrinkage or damage. Whether for homes, offices, hotels, or commercial spaces, our service helps improve indoor hygiene and refresh your interiors. Clean curtains not only enhance the appearance of your space but also contribute to a healthier and more comfortable environment.
                         </p>
                     </div>
-
-                    <!-- </div> -->
                 </div>
 
                 <div class="col-xl-6">

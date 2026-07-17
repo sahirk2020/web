@@ -1,20 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
-?>
-
-
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
         Leather & Bag Cleaning Service | Cosmos Laundry
     </title>
-    <!-- <meta name="robots" content="index, follow"> -->
+
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Specialized cleaning & care for leather goods & bags that preserves texture, color & finish. Book online today." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -78,12 +71,9 @@
         </div>
     </div>
 
-
-
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
@@ -115,11 +105,6 @@ About Area
             </div>
         </div>
     </div>
-
-
-
-
-
 
     <!--==============================
 Faq Area
@@ -207,16 +192,9 @@ Faq Area
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-xl-6">
-                    <div class="faq-img1 ps-xl-4">
-                        <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/normal/faq_1_1.png" alt="faq">
-                        </div>
-                    </div>
-                </div> -->
+
             </div>
         </div>
     </div>
-
 
     <?php include '../components/footer.php'; ?>

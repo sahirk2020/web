@@ -1,13 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
-?>
-
-
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -81,7 +74,6 @@
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
@@ -97,10 +89,6 @@ About Area
                             Our premium wash service provides deep yet gentle cleaning for your everyday clothing. We use high-quality detergents, fabric-friendly processes, and advanced washing equipment to remove dirt, sweat, and odors while protecting fabric softness and color. Each garment is handled with care and processed according to its fabric requirements. Ideal for daily wear, office attire, and casual clothing, this service ensures your garments are returned fresh, hygienic, neatly finished, and ready to wear, offering convenience without compromising on quality.
                         </p>
                     </div>
-
-                    <!-- <div class="btn-group justify-content-start">
-                        <a href="about.html" class="th-btn">More About Us</a>
-                    </div> -->
 
                 </div>
 
@@ -207,6 +195,5 @@ Faq Area
             </div>
         </div>
     </div>
-
 
     <?php include '../components/footer.php'; ?>

@@ -7,7 +7,6 @@
     <title>
         Terms & Conditions | Cosmos Laundry
     </title>
-    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Read the terms & conditions governing the use of Cosmos Laundry's services, website and booking policies." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -81,18 +80,6 @@
                 1. Pricing, Taxes & Additional Charges
 
             </h5>
-            <!-- <p class="about-desc mb-40">
-                By booking a service with Cosmos Laundry, you confirm that the information provided is accurate and that you are authorized to place the order.
-            </p>
-
-            <h5 class="sec-title mb-10">
-                Garment Care
-            </h5>
-
-            <span class="sub-title style1 mt-1">
-                We take every reasonable precaution to handle garments with professional care. However, Cosmos Laundry is not responsible for:
-
-            </span> -->
 
             <div class="checklist mb-40 ">
                 <ul class="list-style1">
@@ -221,24 +208,9 @@
                 </ul>
             </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
             <h5 class="sec-title mb-10">
                 10. Storage of Unclaimed Garments
             </h5>
-
-
 
             <div class="checklist mb-40 ">
                 <ul class="list-style1">
@@ -309,19 +281,7 @@
                 Cosmos Laundry reserves the right to update or modify these Terms & Conditions at any time. Continued use of our services after such updates constitutes acceptance of the revised Terms.
             </p>
 
-
-
-
-
-
-
-
-
-
-
-
         </div>
     </div>
-
 
     <?php include 'components/footer.php'; ?>
