@@ -96,9 +96,13 @@
                                     <i class="fas fa-location-dot"></i>
                                 </div>
                                 <p class="text-inherit mb-0">
-                                    Cosmo Enterprises, Gat No. 99/2,
+                                    Cosmos Laundry, Shop No. 6,
+                                    <br>Arihant Heights, Chhatrapati Colony,
+                                    <br>Ramdas Colony, Jalgaon, Maharashtra 425001
+
+                                    <!-- Cosmo Enterprises, Gat No. 99/2,
                                     <br>Buldhana Urban Warehouse,
-                                    <br>Chincholi Shivar, Jalgaon – 425003
+                                    <br>Chincholi Shivar, Jalgaon – 425003 -->
                                 </p>
                             </div>
                             <div class="footer-info">

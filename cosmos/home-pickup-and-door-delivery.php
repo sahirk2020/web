@@ -92,7 +92,7 @@
                 <div class="col-xl-6">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="<?php echo BASE_URL; ?>assets/img/services/laundry-service.webp" alt="About" />
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/home-pickup-and-door-delivery.webp" alt="About" />
                         </div>
 
                     </div>
@@ -280,7 +280,7 @@ feature Area
         </div>
     </div>
 
-    <div class="overflow-hidden space space-bottom" id="feature-area" data-bg-src="assets/img/bg/service-bg-1.jpg">
+    <!-- <div class="overflow-hidden space space-bottom" id="feature-area" data-bg-src="assets/img/bg/service-bg.jpg">
         <div class="container">
 
             <h4 class="sec-title mb-10">Experience Laundry the Easy Way</h4>
@@ -288,6 +288,6 @@ feature Area
                 Let Cosmos Laundry take the effort out of laundry day. Schedule a pickup, relax while we care for your garments, and receive them fresh, clean, and ready to wear, all from the comfort of your doorstep. </p>
 
         </div>
-    </div>
+    </div> -->
 
     <?php include 'components/footer.php'; ?>
