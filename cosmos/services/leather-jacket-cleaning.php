@@ -12,17 +12,24 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
-        Laun - Laundry Service & Dry Cleaning HTML Template - Home Laundry
-        Services
+        Leather Jacket Cleaning | Expert Care - Cosmos Laundry
     </title>
-    <meta name="author" content="Laun" />
-    <meta
-        name="description"
-        content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-    <meta
-        name="keywords"
-        content="Laun - Laundry Service & Dry Cleaning HTML Template" />
-    <meta name="robots" content="INDEX,FOLLOW" />
+    <!-- <meta name="robots" content="index, follow"> -->
+    <meta name="author" content="Cosmos Laundry">
+    <meta name="description" content="Trust our experts to clean & condition your leather jackets, keeping them soft, supple and stain-free." />
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="canonical" href="" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Leather Jacket Cleaning | Expert Care - Cosmos Laundry" />
+    <meta property="og:description" content="Trust our experts to clean & condition your leather jackets, keeping them soft, supple and stain-free." />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="Cosmos Laundry" />
+    <meta property="og:image" content="">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="Trust our experts to clean & condition your leather jackets, keeping them soft, supple and stain-free." />
+    <meta name="twitter:title" content="Leather Jacket Cleaning | Expert Care - Cosmos Laundry" />
+    <meta name="twitter:site" content="@home" />
 
     <!-- Mobile Specific Metas -->
     <meta
@@ -64,6 +71,7 @@
                 <h1 class="breadcumb-title sec-title1">Leather Jacket Cleaning</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="<?php echo BASE_URL; ?>index.php">Home</a></li>
+                    <li><a href="<?php echo BASE_URL; ?>services.php">Services</a></li>
                     <li>Leather Jacket Cleaning</li>
                 </ul>
             </div>
@@ -114,8 +122,8 @@ Faq Area
 ==============================-->
     <div class="  space overflow-hidden process" id="faq-sec">
         <div class="container">
-            <div class="row align-items-end">
-                <div class="col-xl-12 text-center text-xl-start align-self-center">
+            <div class="row align-items-end justify-content-center">
+                <div class="col-xl-10 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>

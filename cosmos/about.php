@@ -7,6 +7,7 @@
   <title>
     About Us | Cosmos Laundry - Trusted Fabric Care Experts
   </title>
+  <!-- <meta name="robots" content="index, follow"> -->
   <meta name="author" content="Cosmos Laundry">
   <meta name="description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
   <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -22,6 +23,11 @@
   <meta name="twitter:description" content="Learn about Cosmos Laundry's mission, advanced cleaning technology & commitment to quality garment care since day one." />
   <meta name="twitter:title" content="About Us | Cosmos Laundry - Trusted Fabric Care Experts" />
   <meta name="twitter:site" content="@home" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
 
   <link rel="manifest" href="assets/img/favicons/manifest.json" />
   <meta name="msapplication-TileColor" content="#ffffff" />
@@ -58,7 +64,7 @@
   <div class="breadcumb-wrapper services-banner" data-bg-src="assets/img/banners/about-banner.webp">
     <div class="container">
       <div class="breadcumb-content">
-        <h1 class="breadcumb-title">About Us</h1>
+        <h1 class="breadcumb-title sec-title1">About Us</h1>
         <ul class="breadcumb-menu">
           <li><a href="index.php">Home</a></li>
           <li>About Us</li>
@@ -75,11 +81,11 @@ About Area
       <div class="row">
         <div class="col-xl-5 col-lg-5 col-md-5 mb-40 mb-xl-0">
           <div class="img-box2">
-            <div class="img1 d-lg-block d-md-none">
-              <img src="assets/img/about/about-us-back.webp" alt="About" />
+            <div class="img1 ">
+              <img src="assets/img/about/about-new-back-1.webp" alt="About" />
             </div>
-            <div class="img2">
-              <img src="assets/img/about/about-us-front.webp" alt="Image" />
+            <div class="img2 d-xl-block">
+              <img src="assets/img/about/about-new-front-1.webp" alt="Image" />
             </div>
             <div class="about-shape-1"></div>
             <div class="about-shape-2"></div>
@@ -102,6 +108,11 @@ About Area
                   we ensure exceptional care at every step.
                 </p>
               </blockquote>
+            </div>
+
+            <div class="about-text d-flex align-items-center">
+              <img src="assets/img/icon/trust.svg" alt="cosmos laundry">
+              <p class="mt-1">Think Laundry! <br> Trust Cosmos!</p>
             </div>
 
           </div>
@@ -461,7 +472,7 @@ Team Area
 
           </div>
         </div>
-        <button
+        <!-- <button
           data-slider-prev="#teamSlider3"
           class="slider-arrow slider-prev">
           <i class="far fa-arrow-left"></i>
@@ -470,7 +481,7 @@ Team Area
           data-slider-next="#teamSlider3"
           class="slider-arrow slider-next">
           <i class="far fa-arrow-right"></i>
-        </button>
+        </button> -->
       </div>
     </div>
   </section>
@@ -480,8 +491,8 @@ Faq Area
 ==============================-->
   <div class="  space overflow-hidden process" id="faq-sec">
     <div class="container">
-      <div class="row align-items-end">
-        <div class="col-xl-12 text-center text-xl-start align-self-center">
+      <div class="row align-items-end justify-content-center">
+        <div class="col-xl-10 text-center text-xl-start align-self-center">
           <div class="">
             <div class="title-area text-center text-xl-start">
               <span class="sub-title style1">FAQ</span>

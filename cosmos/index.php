@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Cosmos Laundry | Premium Laundry & Dry Cleaning Services</title>
+    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Cosmos Laundry offers doorstep pickup, dry cleaning & laundry services with expert fabric care. Book your pickup today!" />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -37,13 +38,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800;900&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800;9..40,900&display=swap" rel="stylesheet">
-
-
     <!--==============================
 	    All CSS File
 	============================== -->
-
-
 </head>
 
 <body>
@@ -69,7 +66,7 @@ Hero Area
                                     Delivering deeper cleaning, superior hygiene, and long-lasting freshness for every garment.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn style2">Discover More</a>
+                                    <a href="services.php" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -88,7 +85,7 @@ Hero Area
                                     Specialized dry cleaning for suits, dresses, and delicate fabrics with meticulous attention to detail.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn style2">Discover More</a>
+                                    <a href="services/dry-cleaning.php" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +104,7 @@ Hero Area
                                     Professional steam ironing that delivers a crisp finish and a refined appearance for every garment.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn style2">Discover More</a>
+                                    <a href="services/steam-ironing.php" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -245,7 +242,7 @@ Service Area
                 </div>
             </div>
             <div class="slider-area">
-                <div class="swiper th-slider has-shadow" id="serviceSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"4"}}}'>
+                <div class="swiper th-slider has-shadow" id="serviceSlider1" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="service-grid">
@@ -269,7 +266,7 @@ Service Area
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services/dry-cleaning.php">Dry Cleaning</a></h3>
                                     <p class="service-grid_text">
-                                        Professional fabric-safe dry cleaning designed to protect delicate garments, maintain texture, and preserve garment quality.
+                                        Professional fabric-safe dry cleaning designed to protect delicate garments, maintain texture, & preserve garment quality.
                                     </p>
                                     <a href="services/dry-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -297,7 +294,7 @@ Service Area
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services/steam-ironing.php">Steam Ironing</a></h3>
                                     <p class="service-grid_text">
-                                        Experience the convenience of professional steam ironing delivered to your doorstep. Our experts will ensure your garments are wrinkle-free and ready to wear.
+                                        Professional steam ironing delivered to your doorstep. Our experts ensure your garments are wrinkle-free & ready to wear.
                                     </p>
                                     <a href="services/steam-ironing.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -445,7 +442,7 @@ Service Area
                                 <div class="service-grid_content" data-bg-src="assets/img/shape/service_shape_3.png">
                                     <h3 class="box-title"><a href="services/institutional-chair-cleaning.php">Institutional Chair Cleaning</a></h3>
                                     <p class="service-grid_text">
-                                        Professional chair cleaning services for offices, institutions, and commercial spaces to maintain hygiene and cleanliness standards.
+                                        Professional chair cleaning services for offices, institutions, & commercial spaces to maintain hygiene & cleanliness standards.
                                     </p>
                                     <a href="services/institutional-chair-cleaning.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -521,7 +518,7 @@ Service Area
                                         </a>
                                     </h3>
                                     <p class="service-grid_text">
-                                        Precision cleaning and finishing for blazers and suits to maintain a sharp appearance.
+                                        Precision cleaning and finishing for blazers and suits to maintain a sharp, polished, and professional appearance
                                     </p>
                                     <a href="services/blazer-&-suit-care.php" class="link-btn">Read More<i class="fa-solid fa-arrow-right-long"></i></a>
                                 </div>
@@ -1035,8 +1032,8 @@ Faq Area
 ==============================-->
     <div class="  space overflow-hidden" id="faq-sec">
         <div class="container">
-            <div class="row align-items-end">
-                <div class="col-xl-12 text-center text-xl-start align-self-center">
+            <div class="row align-items-end justify-content-center">
+                <div class="col-xl-10 text-center text-xl-start align-self-center">
                     <div class="">
                         <div class="title-area text-center text-xl-start">
                             <span class="sub-title style1">FAQ</span>
@@ -1159,337 +1156,121 @@ Faq Area
             </div>
         </div>
     </div>
-    <!--==============================
-Testimonial Area  
-==============================-->
-    <!-- <section class="overflow-hidden space" id="testi-sec">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6">
-                    <div class="swiper th-slider testi-grid-thumb" data-slider-options='{"effect":"slide","slidesPerView":"6","spaceBetween":7,"loop":false}'>
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="box-img">
-                                    <img src="assets/img/testimonial/testi_3_1.png" alt="Image">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="box-img">
-                                    <img src="assets/img/testimonial/testi_3_2.png" alt="Image">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="box-img">
-                                    <img src="assets/img/testimonial/testi_3_3.png" alt="Image">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="box-img">
-                                    <img src="assets/img/testimonial/testi_3_4.png" alt="Image">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="box-img">
-                                    <img src="assets/img/testimonial/testi_3_5.png" alt="Image">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="box-img">
-                                    <img src="assets/img/testimonial/testi_3_6.png" alt="Image">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testi-grid_shape">
-                        </div>
-                        <div class="testi-quote">
-                            <img src="assets/img/icon/quote_3.svg" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="title-area">
-                        <span class="sub-title style1">Testimonials</span>
-                        <h2 class="sec-title">Our Clients Feedback</h2>
-                    </div>
-                    <div class="swiper th-slider" id="testiSlide1" data-slider-options='{"effect":"slide","loop":false,"thumbs":{"swiper":".testi-grid-thumb"}}'>
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="testi-grid">
-                                    <p class="testi-grid_text">Absolutely. Our staff is trained to handle a variety of fabrics, including delicate and formal wear. We take special care to follow care many on instructions and use gentle processes to preserve the quality of your specialty items man our</p>
-                                    <div class="testimonial-profile">
-                                        <div class="testi-grid_wrapper">
-                                            <div class="testi-grid_author">
-                                                <img src="assets/img/testimonial/testi_3_1.png" alt="Avater">
-                                            </div>
-                                            <div class="testi-grid_content">
-                                                <div class="testi-grid_review">
-                                                    <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i>
-                                                </div>
-
-                                                <h3 class="testi-grid_name box-title">Brooklyn Simmons</h3>
-                                                <span class="testi-grid_desig">UI/UX Designer</span>
-                                            </div>
-                                        </div>
-                                        <div class="testi-quote">
-                                            <img src="assets/img/icon/quote.svg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="testi-grid">
-                                    <p class="testi-grid_text">Diversity is a cornerstone of our farming philosophy. We carefully select a wide range of crops, ensuring balanced,
-                                        This not only helps to naturally deter pests and diseases but also promotes soil health by varying the different plants</p>
-                                    <div class="testimonial-profile">
-                                        <div class="testi-grid_wrapper">
-                                            <div class="testi-grid_author">
-                                                <img src="assets/img/testimonial/testi_3_2.png" alt="Avater">
-                                            </div>
-                                            <div class="testi-grid_content">
-                                                <div class="testi-grid_review">
-                                                    <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i>
-                                                </div>
-
-                                                <h3 class="testi-grid_name box-title">Savannah Nguyen</h3>
-                                                <span class="testi-grid_desig">Founder CEO</span>
-                                            </div>
-                                        </div>
-                                        <div class="testi-quote">
-                                            <img src="assets/img/icon/quote.svg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="testi-grid">
-                                    <p class="testi-grid_text">Garments made of delicate fabrics, those with intricate detailing, and those labeled dry clean only should be taken dry
-                                        The frequency of dry cleaning depends on factors such as the type of garment, how often it's worn, and if exposed stains</p>
-                                    <div class="testimonial-profile">
-                                        <div class="testi-grid_wrapper">
-                                            <div class="testi-grid_author">
-                                                <img src="assets/img/testimonial/testi_3_3.png" alt="Avater">
-                                            </div>
-                                            <div class="testi-grid_content">
-                                                <div class="testi-grid_review">
-                                                    <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i>
-                                                </div>
-
-                                                <h3 class="testi-grid_name box-title">Cameron Williamson</h3>
-                                                <span class="testi-grid_desig">Project Manager</span>
-                                            </div>
-                                        </div>
-                                        <div class="testi-quote">
-                                            <img src="assets/img/icon/quote.svg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="testi-grid">
-                                    <p class="testi-grid_text">Absolutely. Our staff is trained to handle a variety of fabrics, including delicate and formal wear. We take special care to follow care many on instructions and use gentle processes to preserve the quality of your specialty items man our</p>
-                                    <div class="testimonial-profile">
-                                        <div class="testi-grid_wrapper">
-                                            <div class="testi-grid_author">
-                                                <img src="assets/img/testimonial/testi_3_4.png" alt="Avater">
-                                            </div>
-                                            <div class="testi-grid_content">
-                                                <div class="testi-grid_review">
-                                                    <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i>
-                                                </div>
-
-                                                <h3 class="testi-grid_name box-title">Alex Hamilton</h3>
-                                                <span class="testi-grid_desig">E-commerce Solutions</span>
-                                            </div>
-                                        </div>
-                                        <div class="testi-quote">
-                                            <img src="assets/img/icon/quote.svg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="testi-grid">
-                                    <p class="testi-grid_text">Diversity is a cornerstone of our farming philosophy. We carefully select a wide range of crops, ensuring balanced,
-                                        This not only helps to naturally deter pests and diseases but also promotes soil health by varying the different plants</p>
-                                    <div class="testimonial-profile">
-                                        <div class="testi-grid_wrapper">
-                                            <div class="testi-grid_author">
-                                                <img src="assets/img/testimonial/testi_3_5.png" alt="Avater">
-                                            </div>
-                                            <div class="testi-grid_content">
-                                                <div class="testi-grid_review">
-                                                    <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i>
-                                                </div>
-
-                                                <h3 class="testi-grid_name box-title">Jasemin Jui</h3>
-                                                <span class="testi-grid_desig">Disaster Recovery</span>
-                                            </div>
-                                        </div>
-                                        <div class="testi-quote">
-                                            <img src="assets/img/icon/quote.svg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="testi-grid">
-                                    <p class="testi-grid_text">Garments made of delicate fabrics, those with intricate detailing, and those labeled dry clean only should be taken dry
-                                        The frequency of dry cleaning depends on factors such as the type of garment, how often it's worn, and if exposed stains</p>
-                                    <div class="testimonial-profile">
-                                        <div class="testi-grid_wrapper">
-                                            <div class="testi-grid_author">
-                                                <img src="assets/img/testimonial/testi_3_6.png" alt="Avater">
-                                            </div>
-                                            <div class="testi-grid_content">
-                                                <div class="testi-grid_review">
-                                                    <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i>
-                                                </div>
-
-                                                <h3 class="testi-grid_name box-title">Martin Danial</h3>
-                                                <span class="testi-grid_desig">E-commerce Solutions</span>
-                                            </div>
-                                        </div>
-                                        <div class="testi-quote">
-                                            <img src="assets/img/icon/quote.svg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
 
     <!--==============================
 Blog Area  
 ==============================-->
-    <!-- <section class="space" id="blog-sec">
+    <section
+        class="overflow-hidden space"
+        id="blog-sec"
+        data-bg-src="assets/img/bg/service-bg-1.jpg">
         <div class="container">
-            <div class="title-area text-center">
-                <span class="sub-title">Blog Post</span>
-                <h2 class="sec-title">Latest News & Updates</h2>
-            </div>
-            <div class="slider-area">
-                <div class="swiper th-slider has-shadow" id="blogSlider3" data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="blog-grid">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_3_1.jpg" alt="blog image">
-                                    <p class="blog-tag">Laundry & Dry Services</p>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="far fa-calendar"></i>15 november, 2023</a>
-                                        <a href="blog.html"><i class="far fa-comments"></i>2 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">What Kind of Fabrics Really Need Dry Cleaning</a></h3>
-                                    <p>The frequency of dry cleaning depends on the type of garment and how often worn</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+            <?php
 
-                        <div class="swiper-slide">
-                            <div class="blog-grid">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_3_2.jpg" alt="blog image">
-                                    <p class="blog-tag">Laundry & Dry Services</p>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="far fa-calendar"></i>16 november, 2023</a>
-                                        <a href="blog.html"><i class="far fa-comments"></i>3 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">Elevate Your Linens, Elevate Your Life</a></h3>
-                                    <p>our meticulous dry cleaning services, where precision meets pristine care.</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+            $json = file_get_contents("https://web.digitaltokri.co.in/cosmos/blog/wp-json/wp/v2/posts?_embed&per_page=3");
 
-                        <div class="swiper-slide">
-                            <div class="blog-grid">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_3_3.jpg" alt="blog image">
-                                    <p class="blog-tag">Laundry & Dry Services</p>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="far fa-calendar"></i>17 november, 2023</a>
-                                        <a href="blog.html"><i class="far fa-comments"></i>2 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">Flaunt Your Fabrics We'll Handle the Grime</a></h3>
-                                    <p>Revitalize your wardrobe with expert dry cleaning for a pristine polished look.</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+            $posts = json_decode($json);
 
-                        <div class="swiper-slide">
-                            <div class="blog-grid">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_3_1.jpg" alt="blog image">
-                                    <p class="blog-tag">Laundry & Dry Services</p>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="far fa-calendar"></i>19 november, 2023</a>
-                                        <a href="blog.html"><i class="far fa-comments"></i>4 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">Caring for Your Clothes the World of Dry Cleaning</a></h3>
-                                    <p>meticulous dry cleaning, preserving fabrics and enhancing garment longevity."</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+            foreach ($posts as $post) {
+                $category = "Uncategorized";
 
-                        <div class="swiper-slide">
-                            <div class="blog-grid">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_3_2.jpg" alt="blog image">
-                                    <p class="blog-tag">Laundry & Dry Services</p>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="far fa-calendar"></i>15 november, 2023</a>
-                                        <a href="blog.html"><i class="far fa-comments"></i>2 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">The Art of Dry Cleaning Reviving Fabrics with Car</a></h3>
-                                    <p>Elevate your wardrobe with meticulous dry cleaning precision and care."</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+                if (isset($post->_embedded->{'wp:term'}[0][0]->name)) {
+                    $category = $post->_embedded->{'wp:term'}[0][0]->name;
+                }
 
-                        <div class="swiper-slide">
-                            <div class="blog-grid">
-                                <div class="blog-img">
-                                    <img src="assets/img/blog/blog_3_3.jpg" alt="blog image">
-                                    <p class="blog-tag">Laundry & Dry Services</p>
-                                </div>
-                                <div class="blog-content">
-                                    <div class="blog-meta">
-                                        <a href="blog.html"><i class="far fa-calendar"></i>16 november, 2023</a>
-                                        <a href="blog.html"><i class="far fa-comments"></i>3 Comments</a>
-                                    </div>
-                                    <h3 class="box-title"><a href="blog-details.html">The Art of Dry Cleaning expert Garment Care</a></h3>
-                                    <p>The frequency of dry cleaning depends on the type of garment and how often worn</p>
-                                    <a href="blog-details.html" class="th-btn border">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+                $image = "assets/img/default-blog.jpg";
 
+                if (isset($post->yoast_head_json->og_image[0]->url)) {
+                    $image = $post->yoast_head_json->og_image[0]->url;
+                }
+
+                $author = "Admin";
+
+                if (isset($post->_embedded->author[0]->name)) {
+                    $author = $post->_embedded->author[0]->name;
+                }
+
+                // $image = "assets/img/default-blog.jpg";
+
+                // if (isset($post->_embedded->{'wp:featuredmedia'}[0]->source_url)) {
+                //     $image = $post->_embedded->{'wp:featuredmedia'}[0]->source_url;
+                // }
+
+                //     $media = json_decode(file_get_contents(
+                //     "https://web.digitaltokri.co.in/cosmos/blog/wp-json/wp/v2/media/" . $post->featured_media
+                // ));
+
+                // $image = !empty($media->source_url)
+                //     ? $media->source_url
+                //     : "assets/img/default-blog.jpg";
+
+                // echo $image;
+
+                $date = date("d M Y", strtotime($post->date));
+
+                $excerpt = substr(strip_tags($post->excerpt->rendered), 0, 120);
+            ?>
+                <div
+                    class="row justify-content-lg-between justify-content-center align-items-end">
+                    <div class="col-lg">
+                        <div class="title-area text-center text-lg-start">
+                            <span class="sub-title style1">Blog Post</span>
+                            <h2 class="sec-title">Latest News & Updates</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-auto d-none d-lg-block">
+                        <div class="sec-btn">
+                            <a href="blog/" class="th-btn">View More Post</a>
+                        </div>
                     </div>
                 </div>
-                <button data-slider-prev="#blogSlider3" class="slider-arrow slider-prev"><i class="far fa-arrow-left"></i></button>
-                <button data-slider-next="#blogSlider3" class="slider-arrow slider-next"><i class="far fa-arrow-right"></i></button>
-            </div>
+                <div class="slider-area">
+                    <div
+                        class="swiper th-slider has-shadow"
+                        id="blogSlider1"
+                        data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"2"},"992":{"slidesPerView":"2"},"1200":{"slidesPerView":"3"}}}'>
+                        <div class="swiper-wrapper">
+
+                            <div class="swiper-slide">
+                                <div class="blog-card">
+                                    <div class="blog-img">
+                                        <img src="<?= $image ?>" alt="blog image" />
+                                    </div>
+                                    <div class="blog-content">
+                                        <div class="blog-meta">
+                                            <a href="blog.html"><i class="far fa-user"></i><?= "By " . $author ?></a>
+                                            <a href="blog.html"><i class="far fa-calendar"></i><?= $date ?></a>
+                                        </div>
+                                        <h3 class="box-title">
+                                            <a href="blog-details.html"><?= $post->title->rendered ?></a>
+                                        </h3>
+
+                                        <p><?= $excerpt ?></p>
+
+                                        <a href="<?= $post->link ?>" class="th-btn border">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button
+                        data-slider-prev="#blogSlider1"
+                        class="slider-arrow slider-prev">
+                        <i class="far fa-arrow-left"></i>
+                    </button>
+                    <button
+                        data-slider-next="#blogSlider1"
+                        class="slider-arrow slider-next">
+                        <i class="far fa-arrow-right"></i>
+                    </button>
+                </div>
+
+            <?php } ?>
         </div>
-    </section> -->
+    </section>
+
+
     <!--==============================
 	Footer Area
 ==============================-->
@@ -1499,11 +1280,6 @@ Blog Area
 	******************************** -->
 
     <!-- Scroll To Top -->
-
-
-
-
-
 </body>
 
 </html>
