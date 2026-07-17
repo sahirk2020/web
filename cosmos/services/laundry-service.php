@@ -1,13 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
-?>
-
-
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -78,18 +71,14 @@
         </div>
     </div>
 
-
-
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
 
                 <div class="col-xl-6">
-                    <!-- <div class="ps-xl-3 wow fadeInRight"> -->
                     <div class="title-area mb-25">
                         <span class="sub-title style1">About Service</span>
                         <h2 class="sec-title mb-20">
@@ -99,8 +88,6 @@ About Area
                             At Cosmos Laundry, we make everyday laundry care easy, convenient, and dependable. Whether it’s your everyday wear, office outfits, or delicate garments, every piece is cleaned with attention to fabric quality, hygiene, and long-lasting freshness. Using premium detergents and professional cleaning methods, we focus on effective stain removal while keeping your clothes soft, clean, and well-maintained. Our team ensures every garment is carefully washed, neatly finished, and delivered on time. With smooth pickup and delivery support, Cosmos Laundry helps you save valuable time while keeping your wardrobe fresh and ready every day.
                         </p>
                     </div>
-
-                    <!-- </div> -->
                 </div>
 
                 <div class="col-xl-6">
@@ -108,7 +95,6 @@ About Area
                         <div class="img1">
                             <img src="<?php echo BASE_URL; ?>assets/img/services/laundry-service.webp" alt="About" />
                         </div>
-
                     </div>
                 </div>
 
@@ -207,6 +193,5 @@ Faq Area
             </div>
         </div>
     </div>
-
 
     <?php include '../components/footer.php'; ?>

@@ -1,5 +1,4 @@
 <?php
-// include_once __DIR__ . '/../libs/php/tracking.php';
 include_once __DIR__ . '/db.php';
 
 $user_id = '';
@@ -192,9 +191,7 @@ $URLinfo = "
                     </div>
                     <div class="col-auto d-none d-xl-block">
                         <div class="header-button">
-                            <!-- <button type="button" class="icon-btn2 searchBoxToggler"><i class="far fa-search"></i></button> -->
                             <a data-bs-toggle="modal" data-bs-target="#exampleModal" class="th-btn th-radius">Schedule A Pickup</a>
-                            <!-- <a href="#" class="icon-btn2 sideMenuToggler d-none d-lg-block"><i class="far fa-bars"></i></a> -->
                         </div>
                     </div>
                 </div>

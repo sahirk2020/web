@@ -78,7 +78,6 @@
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
@@ -117,11 +116,6 @@ About Area
             </div>
         </div>
     </div>
-
-
-
-
-
 
     <!--==============================
 Faq Area
@@ -237,6 +231,5 @@ Faq Area
             </div>
         </div>
     </div>
-
 
     <?php include '../components/footer.php'; ?>

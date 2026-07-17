@@ -7,7 +7,6 @@
 require 'vendor/autoload.php';
 require("../../components/db.php");
 require("user-ip.php");
-// require("mdoc-crm.php");
 
 if ($_SERVER["REQUEST_METHOD"] !== "POST") {
     echo json_encode(["status" => 400, "msg" => "Invalid request"]);

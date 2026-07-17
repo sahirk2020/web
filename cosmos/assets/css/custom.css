@@ -55,7 +55,6 @@
 .address-text {
   font-size: 15px;
   color: #3e3e3e;
-  /* font-weight: 500; */
   margin-top: 18px;
   margin-bottom: 0;
   letter-spacing: 0.3px;
@@ -83,6 +82,7 @@
 .loc-text:hover .address-text {
   /* color: #2c9fda; */
 }
+
 /* address end */
 .breadcumb-title-contact-us {
   color: black;
@@ -94,9 +94,7 @@
 .loc-dec {
   font-size: 12px !important;
 }
-/* .contact-map.style2 iframe {
-  height: 500px;
-} */
+
 
 .price-box a {
   color: #3e3e3e;
@@ -162,10 +160,7 @@
   }
 }
 
-/* .space-city,
-.space-bottom {
-  padding-bottom: var(--section-space);
-} */
+
 
 /* Attractive Section Title Animation */
 .sec-title1 {
@@ -261,12 +256,6 @@
   transform: rotate(180deg);
 }
 
-/* footer */
-
-/* .footer-widget .widget_title {
-  color: #2c9fda;
-} */
-
 .white-color {
   color: white !important;
 }
@@ -274,14 +263,11 @@
 .widget_nav_menu a {
   color: white !important;
 }
-/* .footer-wrapper {
-  color: black !important;
-} */
+
 
 /* overlay */
 .footer-wrapper {
   position: relative;
-  /* background-image: url("assets/img/banners/iron.webp"); */
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -487,11 +473,6 @@
   .footer-cta-btn {
     justify-content: center;
   }
-
-  /* .service-about {
-    padding-right: 20px;
-    padding-left: 20px;
-  } */
 
   .title-area {
     padding-right: 10px;

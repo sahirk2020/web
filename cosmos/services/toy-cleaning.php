@@ -1,20 +1,12 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 
-<?php
-// error_reporting(E_ALL);
-// ini_set('display_errors', 1);
-?>
-
-
-
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>
         Toy Cleaning Service | Cosmos Laundry
     </title>
-    <!-- <meta name="robots" content="index, follow"> -->
     <meta name="author" content="Cosmos Laundry">
     <meta name="description" content="Safe, hygienic cleaning for soft toys & plushies that removes germs, dust & stains for kids' safety." />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -81,7 +73,6 @@
     <!--======== / Hero Section ========--><!--==============================
 About Area  
 ==============================-->
-    <!-- <div class="about-sec overflow-hidden space-top" id="about-sec"> -->
     <div class="overflow-hidden space-top" id="about-sec">
         <div class="container">
             <div class="row">
@@ -120,9 +111,6 @@ About Area
             </div>
         </div>
     </div>
-
-
-
     <!--==============================
 Faq Area
 ==============================-->
@@ -136,7 +124,6 @@ Faq Area
                             <h2 class="sec-title">Frequently Asked Questions</h2>
                         </div>
                         <div class="accordion" id="faqAccordion">
-
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-1">
@@ -153,7 +140,6 @@ Faq Area
                                 </div>
                             </div>
 
-
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-2">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
@@ -168,7 +154,6 @@ Faq Area
                                     </div>
                                 </div>
                             </div>
-
 
                             <div class="accordion-card">
                                 <div class="accordion-header" id="collapse-item-3">
@@ -237,6 +222,5 @@ Faq Area
             </div>
         </div>
     </div>
-
 
     <?php include '../components/footer.php'; ?>

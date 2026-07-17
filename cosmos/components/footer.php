@@ -3,15 +3,12 @@
 ==============================-->
 <div class="">
     <div class="container z-index-common">
-        <!-- <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="<?php echo BASE_URL; ?>assets/img/bg/cta.webp"> -->
         <div class="cta-wrap" data-overlay="title" data-opacity="9" data-bg-src="">
             <div class="row align-items-center">
                 <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0">
                     <div class="title-area mb-0 text-center text-lg-start">
                         <span class="sub-title style1 font-size-22">Premium Doorstep Laundry Service</span>
                         <p class="text-white">Experience hassle-free doorstep pickup and delivery with expert garment care, timely service, and unmatched convenience every time.</p>
-
-
                         <div class="header-button footer-cta-btn">
                             <a href="<?php echo BASE_URL; ?>home-pickup-and-door-delivery.php" class="th-btn th-radius">Read More</a>
                         </div>
@@ -24,8 +21,6 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="cta-shape"><img src="<?php //echo BASE_URL; 
-                                                    ?>assets/img/shape/line.png" alt=""></div> -->
         </div>
     </div>
 </div>
@@ -92,17 +87,12 @@
                         <div class="footer-info-wrapper white-color">
                             <div class="footer-info">
                                 <div class="footer-info_icon">
-                                    <!-- <i class="fa-sharp fa-solid fa-phone"></i> -->
                                     <i class="fas fa-location-dot"></i>
                                 </div>
                                 <p class="text-inherit mb-0">
                                     Cosmos Laundry, Shop No. 6,
                                     <br>Arihant Heights, Chhatrapati Colony,
                                     <br>Ramdas Colony, Jalgaon, Maharashtra 425001
-
-                                    <!-- Cosmo Enterprises, Gat No. 99/2,
-                                    <br>Buldhana Urban Warehouse,
-                                    <br>Chincholi Shivar, Jalgaon – 425003 -->
                                 </p>
                             </div>
                             <div class="footer-info">
@@ -159,10 +149,6 @@
         <div class="bubble-9"></div>
         <div class="bubble-10"></div>
     </div>
-    <!-- <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-left="0%"><img src="<?php echo BASE_URL; ?>assets/img/shape/footer_shape_1.png" alt="shape">
-    </div>
-    <div class="shape-mockup jump d-none d-xl-block" data-bottom="0%" data-right="0%"><img src="<?php echo BASE_URL; ?>assets/img/shape/footer_shape_2.png" alt="shape">
-    </div> -->
 </footer>
 
 <!--********************************
@@ -198,7 +184,6 @@
 
         if (value !== cleaned) {
             alert("Only letters and spaces are allowed");
-            // $("#nameError").text("Only letters and spaces are allowed");
             $(this).val(cleaned);
         }
     });
@@ -224,8 +209,6 @@
         var mobile = form.find('[name="mobile"]').val();
         var service = form.find('[name="service"]').val();
         var message = form.find('[name="message"]').val();
-
-        console.log("service", service);
 
         var source = form.find('[name="utm_source"]').val();
         var campaignname = form.find('[name="utm_campaign_name"]').val();
@@ -268,11 +251,6 @@
             form.find('[name="service"]').focus().css("border", "1px solid #ff0000");
             return;
         }
-
-        // if (!form.find('.term-check').is(':checked')) {
-        //   alert("Please accept terms");
-        //   return;
-        // }
 
         // check unique
         $.ajax({
