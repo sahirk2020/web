@@ -169,7 +169,7 @@ $URLinfo = "
                                                 <li><a href="<?php echo BASE_URL; ?>services/blazer-&-suit-care.php">Blazer & Suit Care</a></li>
                                                 <li><a href="<?php echo BASE_URL; ?>services/silk-&-wool-care.php">Silk & Wool Care</a></li>
                                                 <li><a href="<?php echo BASE_URL; ?>services/toy-cleaning.php">Toy Cleaning</a></li>
-                                                <!-- <li><a href="<?php echo BASE_URL; ?>services/express-service.php">Express Service</a></li> -->
+
                                             </div>
                                         </div>
 
@@ -204,7 +204,7 @@ $URLinfo = "
     </div>
 </header>
 
-<!-- Modal -->
+<!--Schedule Pickup Form Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">

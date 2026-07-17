@@ -179,6 +179,18 @@
 
 <?php include_once __DIR__ . '/../js.php'; ?>
 
+
+<!-- Offer Modal On Load Script -->
+
+<script>
+    $(window).on('load', function() {
+
+        setTimeout(function() {
+            $('#offerModal').modal('show');
+        }, 5000);
+    });
+</script>
+
 <script>
     $(".fname").on("input", function() {
         let value = $(this).val();

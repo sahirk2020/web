@@ -319,61 +319,9 @@ Choose Area
   </section>
 
 
-  <!--==============================
-Counter Area  
-==============================-->
-  <!-- <div class="counter-sec11" data-pos-for=".appointment-area" data-sec-pos="bottom-half">
-        <div class="container th-container">
-            <div class="counter-card-wrap style2 bg-theme">
-                <div class="counter-card style2">
-                    <div class="media-body">
-                        <h2 class="box-number"><span class="counter-number">16</span>M+</h2>
-                        <p class="box-text">Laundry & Dry Complete</p>
-                    </div>
-                </div>
-                <div class="divider"></div>
-                <div class="counter-card style2">
-                    <div class="media-body">
-                        <h2 class="box-number"><span class="counter-number">18</span>k+</h2>
-                        <p class="box-text">Garments in Circulation</p>
-                    </div>
-                </div>
-                <div class="divider"></div>
-                <div class="counter-card style2">
-                    <div class="media-body">
-                        <h2 class="box-number"><span class="counter-number">12</span>M+</h2>
-                        <p class="box-text">Satisfied Our Customer</p>
-                    </div>
-                </div>
-                <div class="divider"></div>
-            </div>
-        </div>
-    </div>  -->
-  <!--==============================
-Video Area  
-==============================-->
-  <!-- <div class="video-area position-relative overflow-hidden space" data-bg-src="assets/img/normal/video_2.png">
-        <div class="container">
-            <div class="video-box3 text-center pt-5 pb-5 mt-5">
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn popup-video"><i class="fa-sharp fa-solid fa-play"></i></a>
-                <div class="video-content">
-                    <h2 class="sec-title text-white mb-0">Where Clean Speaks Louder than Words</h2>
-                </div>
-                <div class="animation-bubble">
-                    <div class="bubble-1"></div>
-                    <div class="bubble-2"></div>
-                    <div class="bubble-3"></div>
-                    <div class="bubble-4"></div>
-                    <div class="bubble-5"></div>
-                    <div class="bubble-6"></div>
-                    <div class="bubble-7"></div>
-                    <div class="bubble-8"></div>
-                    <div class="bubble-9"></div>
-                    <div class="bubble-10"></div>
-                </div>
-            </div>
-        </div>
-    </div> -->
+
+
+
   <!--==============================
 Team Area  
 ==============================-->

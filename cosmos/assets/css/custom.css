@@ -535,3 +535,50 @@
   line-height: 28px;
   margin-top: -0.34em;
 }
+/* .pickup-delivery-box {
+  position: relative;
+  border-radius: 20px;
+  border: 1px solid var(--th-border-color);
+  background: var(--white-color);
+  padding: 30px;
+  text-align: center;
+  box-shadow: -1px -2px 2px 3px rgba(0, 0, 0, 0);
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  height: 100%;
+}
+.pickup-delivery-box:before {
+  border-width: 2px 0 0 2px;
+}
+
+.pickup-delivery-box:before,
+.pickup-delivery-box:after {
+  content: "";
+  width: 50px;
+  height: 80px;
+  position: absolute;
+  border-radius: 20px 0 0 0;
+  border: 1px solid;
+  border-color: #03a9f4;
+  top: -1px;
+  left: -1px;
+  -webkit-transition:
+    height,
+    width,
+    0.4s ease;
+  transition:
+    height,
+    width,
+    0.4s ease;
+}
+.pickup-delivery-box:after {
+  top: unset;
+  left: unset;
+  bottom: 0;
+  right: 0;
+  border-width: 0 2px 2px 0;
+  border-radius: 0 0 20px 0;
+}
+.pickup-delivery-box_icon {
+  margin-bottom: 25px;
+} */
