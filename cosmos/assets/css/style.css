@@ -16548,13 +16548,13 @@ span.select2-selection.select2-selection--single:focus {
   margin-top: 30px;
 }
 
-.feature-box:nth-child(2) .feature-box_step {
+/* .feature-box:nth-child(2) .feature-box_step {
   background-color: var(--theme-color);
 }
 
 .feature-box:nth-child(3) .feature-box_step {
   background-color: var(--theme-color2);
-}
+} */
 
 .feature-box .box-title {
   margin-bottom: 5px;
@@ -16563,7 +16563,7 @@ span.select2-selection.select2-selection--single:focus {
 .feature-box_step {
   width: 86px;
   height: 100px;
-  background-color: #00a1de;
+  background-color: var(--theme-color);
   -webkit-clip-path: polygon(
     50% 0%,
     100% 25%,

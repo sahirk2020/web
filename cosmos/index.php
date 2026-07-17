@@ -38,13 +38,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800;900&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800;9..40,900&display=swap" rel="stylesheet">
-
-
     <!--==============================
 	    All CSS File
 	============================== -->
-
-
 </head>
 
 <body>
@@ -70,7 +66,7 @@ Hero Area
                                     Delivering deeper cleaning, superior hygiene, and long-lasting freshness for every garment.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn">Discover More</a>
+                                    <a href="services.php" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -89,7 +85,7 @@ Hero Area
                                     Specialized dry cleaning for suits, dresses, and delicate fabrics with meticulous attention to detail.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn">Discover More</a>
+                                    <a href="services/dry-cleaning.php" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -108,7 +104,7 @@ Hero Area
                                     Professional steam ironing that delivers a crisp finish and a refined appearance for every garment.
                                 </p>
                                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.7s">
-                                    <a href="about.html" class="th-btn">Discover More</a>
+                                    <a href="services/steam-ironing.php" class="th-btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -1167,9 +1163,8 @@ Blog Area
     <section
         class="overflow-hidden space"
         id="blog-sec"
-        data-bg-src="assets/img/bg/blog_bg_1.jpg">
+        data-bg-src="assets/img/bg/service-bg-1.jpg">
         <div class="container">
-
             <?php
 
             $json = file_get_contents("https://web.digitaltokri.co.in/cosmos/blog/wp-json/wp/v2/posts?_embed&per_page=3");
@@ -1177,16 +1172,11 @@ Blog Area
             $posts = json_decode($json);
 
             foreach ($posts as $post) {
-
-
-
                 $category = "Uncategorized";
 
                 if (isset($post->_embedded->{'wp:term'}[0][0]->name)) {
                     $category = $post->_embedded->{'wp:term'}[0][0]->name;
                 }
-
-
 
                 $image = "assets/img/default-blog.jpg";
 
@@ -1199,8 +1189,6 @@ Blog Area
                 if (isset($post->_embedded->author[0]->name)) {
                     $author = $post->_embedded->author[0]->name;
                 }
-
-
 
                 // $image = "assets/img/default-blog.jpg";
 
@@ -1221,9 +1209,7 @@ Blog Area
                 $date = date("d M Y", strtotime($post->date));
 
                 $excerpt = substr(strip_tags($post->excerpt->rendered), 0, 120);
-
             ?>
-
                 <div
                     class="row justify-content-lg-between justify-content-center align-items-end">
                     <div class="col-lg">
@@ -1234,7 +1220,7 @@ Blog Area
                     </div>
                     <div class="col-lg-auto d-none d-lg-block">
                         <div class="sec-btn">
-                            <a href="blog.html" class="th-btn">View More Post</a>
+                            <a href="blog/" class="th-btn">View More Post</a>
                         </div>
                     </div>
                 </div>
@@ -1265,12 +1251,8 @@ Blog Area
                                     </div>
                                 </div>
                             </div>
-
-
-
                         </div>
                     </div>
-
 
                     <button
                         data-slider-prev="#blogSlider1"
@@ -1283,7 +1265,6 @@ Blog Area
                         <i class="far fa-arrow-right"></i>
                     </button>
                 </div>
-
 
             <?php } ?>
         </div>
@@ -1299,11 +1280,6 @@ Blog Area
 	******************************** -->
 
     <!-- Scroll To Top -->
-
-
-
-
-
 </body>
 
 </html>

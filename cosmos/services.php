@@ -75,7 +75,7 @@
             max-width: 700px;
             width: 100%;
             text-align: left;
-            padding: 25px;
+            padding: 25px 55px;
             border: 1px solid #e5e5e5;
             border-radius: 10px;
             background: transparent;

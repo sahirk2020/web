@@ -70,7 +70,39 @@
         </div>
     </div>
 
-    <div class="overflow-hidden space-top process" id="about-sec">
+    <div class="overflow-hidden space-top" id="about-sec">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-xl-6">
+                    <!-- <div class="ps-xl-3 wow fadeInRight"> -->
+                    <div class="title-area mb-25">
+                        <span class="sub-title style1">About Service</span>
+                        <h2 class="sec-title mb-20">
+                            Premium Home Pickup & Door Delivery
+                        </h2>
+                        <p class="about-desc">
+                            Life gets busy, but your laundry doesn't have to. Cosmos Laundry's Premium Home Pickup & Door Delivery Service is designed to make garment care effortless. From collecting your clothes at your preferred location to delivering them back fresh, clean, and perfectly finished, we handle every step with professionalism and care. Whether you're at home or the office, our doorstep service saves you valuable time while ensuring your garments receive premium-quality treatment.
+                        </p>
+                    </div>
+
+                    <!-- </div> -->
+                </div>
+
+                <div class="col-xl-6">
+                    <div class="img-box1">
+                        <div class="img1">
+                            <img src="<?php echo BASE_URL; ?>assets/img/services/home-pickup-and-door-delivery.webp" alt="About" />
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class="overflow-hidden space-top process" id="about-sec">
         <div class="container">
             <h4 class="sec-title mb-10">
                 Premium Home Pickup & Door Delivery
@@ -78,50 +110,184 @@
             <p class="about-desc mb-40">
                 Life gets busy, but your laundry doesn't have to. Cosmos Laundry's Premium Home Pickup & Door Delivery Service is designed to make garment care effortless. From collecting your clothes at your preferred location to delivering them back fresh, clean, and perfectly finished, we handle every step with professionalism and care. Whether you're at home or the office, our doorstep service saves you valuable time while ensuring your garments receive premium-quality treatment.
             </p>
-
-            <h4 class="sec-title mb-10">
-                What We Offer
-            </h4>
-            <span class="sub-title style1 mt-1">Convenient Doorstep Pickup</span>
-            <p class="about-desc mb-40">
-                Choose a pickup time that works best for you. Our team collects your garments directly from your home or office, eliminating the need to visit a laundry store and making laundry care completely hassle-free.
-            </p>
-
-            <span class="sub-title style1 mt-1">Premium Garment Care</span>
-            <p class="about-desc mb-40">
-                Every garment is cleaned using high-quality processes and handled with expert attention. From delicate fabrics to everyday wear, we ensure your clothes are returned fresh, clean, and well-maintained.
-            </p>
-
-            <span class="sub-title style1 mt-1">Safe & Timely Doorstep Delivery</span>
-            <p class="about-desc mb-40">
-                Once your garments are cleaned and quality-checked, they are carefully packed and delivered back to your doorstep. We focus on punctual deliveries so your clothes are ready whenever you need them.
-            </p>
-
-            <span class="sub-title style1 mt-1">Express Delivery Service</span>
-            <p class="about-desc mb-40">
-                Need your clothes urgently? Our Express Service offers priority processing and delivery within 24 hours, helping you stay prepared for important meetings, events, or travel plans.
-            </p>
+        </div>
+    </div> -->
 
 
-            <h4 class=" sec-title mb-10">Why Choose Our Pickup & Delivery Service?</h4>
+    <!--==============================
+About Area  
+==============================-->
+    <div class=" overflow-hidden space process">
+        <div class="container">
+            <div class="title-area text-center">
+                <span class="sub-title">What We Offer</span>
 
-            <div class="checklist mb-40">
-                <ul>
-                    <li> Convenient home and office pickup</li>
-                    <li>Premium cleaning with expert fabric care</li>
-                    <li>Safe handling from pickup to delivery</li>
-                    <li>Reliable and timely doorstep delivery</li>
-                    <li>Express Service available for urgent requirements</li>
-                    <li>Saves time while offering a seamless laundry experience</li>
-                </ul>
             </div>
+
+            <div class="row">
+
+                <div class="col-xl-6">
+
+                    <div class="feature-box_wrapper">
+                        <div class="feature-box">
+                            <div class="feature-box_step">
+                                <!-- <p class="box-number"><span class="step">Step</span> 01</p> -->
+                            </div>
+                            <div class="media-body">
+                                <h3 class="box-title">Convenient Doorstep Pickup</h3>
+                                <p class="feature-box_text"> Choose a pickup time that works best for you. Our team collects your garments directly from your home or office, eliminating the need to visit a laundry store and making laundry care completely hassle-free.</p>
+                            </div>
+                        </div>
+
+                        <div class="feature-box">
+                            <div class="feature-box_step">
+                                <!-- <p class="box-number"><span class="step">Step</span> 02</p> -->
+                            </div>
+                            <div class="media-body">
+                                <h3 class="box-title">Premium Garment Care</h3>
+                                <p class="feature-box_text">Every garment is cleaned using high-quality processes and handled with expert attention. From delicate fabrics to everyday wear, we ensure your clothes are returned fresh, clean, and well-maintained.</p>
+                            </div>
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="col-xl-6">
+                    <!-- <div class="feature-image wow fadeInRight"> -->
+                    <!-- <img src="assets/img/normal/feature_1_1.png" alt=""> -->
+
+                    <div class="feature-box">
+                        <div class="feature-box_step">
+                            <!-- <p class="box-number"><span class="step">Step</span> 03</p> -->
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Safe & Timely Doorstep Delivery</h3>
+                            <p class="feature-box_text">Once your garments are cleaned and quality-checked, they are carefully packed and delivered back to your doorstep. We focus on punctual deliveries so your clothes are ready whenever you need them.</p>
+                        </div>
+                    </div>
+
+                    <div class="feature-box">
+                        <div class="feature-box_step">
+                            <!-- <p class="box-number"><span class="step">Step</span> 04</p> -->
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Express Delivery Service</h3>
+                            <p class="feature-box_text">Need your clothes urgently? Our Express Service offers priority processing and delivery within 24 hours, helping you stay prepared for important meetings, events, or travel plans.</p>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- </div> -->
+            </div>
+        </div>
+
+    </div>
+
+    <!--==============================
+feature Area  
+==============================-->
+    <div class="overflow-hidden space space-bottom" id="feature-area" data-bg-src="assets/img/bg/service-bg-1.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <div class="title-area text-center pe-xl-4 ps-xl-4">
+                        <span class="sub-title">Why Choose Our Pickup & Delivery Service?</span>
+                        <!-- <h2 class="sec-title">Premium Fabric Care, Every Time</h2> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row gy-4 justify-content-center">
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInUp">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/service_1_1.svg" alt="" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Convenient home and office pickup</h3>
+                            <!-- <p class="feature-item_text">
+                                Advanced cleaning technology that delivers superior results while protecting delicate fabrics and colors.
+                            </p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInDown">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/luxury-care.svg" width="60" alt="" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Premium cleaning with expert fabric care</h3>
+                            <!-- <p class="feature-item_text">
+                                Specialized care designed to maintain the elegance, quality, and longevity of premium garments.
+                            </p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInUp">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/service_1_3.svg" alt="" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Safe handling from pickup to delivery</h3>
+                            <!-- <p class="feature-item_text">
+                                Gentle cleaning methods that preserve fabric texture, softness, color, and overall garment quality.
+                            </p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInUp">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/garment-treatment.svg" width="60" alt="" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Reliable and timely doorstep delivery</h3>
+                            <!-- <p class="feature-item_text">
+                                Tailored cleaning solutions for delicate, designer, luxury, and occasion-specific garments.
+                            </p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInDown">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/experienced-team.svg" width="60" alt="" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Express Service available for urgent requirements</h3>
+                            <!-- <p class="feature-item_text">
+                                Skilled professionals with extensive expertise in handling diverse fabrics and garment types.
+                            </p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="feature-item wow fadeInUp">
+                        <div class="feature-item_icon">
+                            <img src="assets/img/icon/why-us/quality.svg" width="60" alt="" />
+                        </div>
+                        <div class="media-body">
+                            <h3 class="box-title">Saves time while offering a seamless laundry experience</h3>
+                            <!-- <p class="feature-item_text">
+                                Every garment undergoes thorough inspection to ensure exceptional cleaning and finishing standards.
+                            </p> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class="overflow-hidden space space-bottom" id="feature-area" data-bg-src="assets/img/bg/service-bg.jpg">
+        <div class="container">
 
             <h4 class="sec-title mb-10">Experience Laundry the Easy Way</h4>
             <p class="about-desc mb-40">
                 Let Cosmos Laundry take the effort out of laundry day. Schedule a pickup, relax while we care for your garments, and receive them fresh, clean, and ready to wear, all from the comfort of your doorstep. </p>
 
         </div>
-    </div>
-
+    </div> -->
 
     <?php include 'components/footer.php'; ?>
