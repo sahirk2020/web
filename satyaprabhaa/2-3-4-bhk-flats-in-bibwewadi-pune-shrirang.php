@@ -283,12 +283,12 @@
     </div>
     <!-- our gallery area end -->
 
-    <!-- specification area -->
+    <!-- Amenities desktop area -->
     <div class="rts-testimonials-area">
         <div class="container border-top-in-container rts-section-gap">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="top-title-full-w-wrapper">
+                    <div class="top-title-full-w-wrapper justify-content-center">
                         <!-- title-left -->
                         <div class="title-area-style-six-left">
                             <!-- <span class="pre">
@@ -304,6 +304,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="row mt--40">
                 <div class="col-lg-12">
                     <div class="testimonials-wrapper-main-swiper">
@@ -312,9 +313,23 @@
                             <!-- desktop view -->
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
+                                    <!-- single amenties area -->
+                                    <div class="row single-testimonials-area-six bg-white mx-md-1 mx-0">
+                                        <div class="author-area col-12 bg-light-1 mx-0 my-3 p-3">
+                                            <img src="assets/images/icons/barbeque-zone.svg" alt="barbeque-zone">
+                                            <div class="information-area">
+                                                <h6 class="title">BBQ Counter</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                        <div class="author-area col-12 pt-3 bg-light-1 mx-0 my-3 p-3">
+                                            <img src="assets/images/icons/party-corner.svg" alt="party-corner">
+                                            <div class="information-area">
+                                                <h6 class="title">Party Lawn</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                        <div class="author-area col-12 pt-3 bg-light-1 mx-0 my-3 p-3">
                                             <img src="assets/images/icons/walking-track-and-sundeck.svg" alt="author">
                                             <div class="information-area">
                                                 <h6 class="title">Walkway</h6>
@@ -322,145 +337,88 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- single testimonials area end -->
+                                    <!-- single amenties area end -->
                                 </div>
                                 <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/icons/party-corner.svg" alt="party-corner">
+                                    <!-- single amenties area -->
+                                    <div class="row single-testimonials-area-six bg-white mx-md-1 mx-0">
+                                        <div class="author-area col-12 bg-light-1 mx-0 my-3 p-3">
+                                            <img src="assets/images/icons/deck-with-pergola.svg" alt="Deck With Pergola">
                                             <div class="information-area">
-                                                <h6 class="title">Party Lawn</h6>
+                                                <h6 class="title">Deck With Pergola</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/icons/barbeque-zone.svg" alt="barbeque-zone">
-                                            <div class="information-area">
-                                                <h6 class="title">BBQ Counter</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/icons/panic-button.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Paved Area</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
+                                        <div class="author-area col-12 pt-3 bg-light-1 mx-0 my-3 p-3">
                                             <img src="assets/images/icons/acupressure-walkway.svg" alt="Accupressure Pathway">
                                             <div class="information-area">
                                                 <h6 class="title">Accupressure Pathway</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/icons/reading-zone.svg" alt="Deck With Pergola">
+                                        <div class="author-area col-12 pt-3 bg-light-1 mx-0 my-3 p-3">
+                                            <img src="assets/images/icons/paved-area.svg" alt="paved-area">
                                             <div class="information-area">
-                                                <h6 class="title">Deck With Pergola</h6>
+                                                <h6 class="title">Paved Area</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- single testimonials area end -->
+                                    <!-- single amenties area end -->
                                 </div>
                                 <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/icons/herbs-plantation.svg" alt="Green Screen">
-                                            <div class="information-area">
-                                                <h6 class="title">Green Screen</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
+                                    <!-- single amenties area -->
+                                    <div class="row single-testimonials-area-six bg-white mx-md-1 mx-0">
+                                        <div class="author-area col-12 bg-light-1 mx-0 my-3 p-3">
                                             <img src="assets/images/icons/senior-citizen-area.svg" alt="Senior Citizen Plaza">
                                             <div class="information-area">
                                                 <h6 class="title">Senior Citizen Plaza</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/icons/lift.svg" alt="Society Office">
+                                        <div class="author-area col-12 pt-3 bg-light-1 mx-0 my-3 p-3">
+                                            <img src="assets/images/icons/herbs-plantation.svg" alt="Green Screen">
                                             <div class="information-area">
-                                                <h6 class="title">Society Office</h6>
+                                                <h6 class="title">Green Screen</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                        <div class="author-area col-12 pt-3 bg-light-1 mx-0 my-3 p-3">
+                                            <img src="assets/images/icons/yoga-area.svg" alt="yoga-area">
+                                            <div class="information-area">
+                                                <h6 class="title">yoga / Meditation</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- single testimonials area end -->
+                                    <!-- single amenties area end -->
                                 </div>
                                 <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/icons/outdoor-gym-calisthenics.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Outdoor Gym & Calisthenics Setup</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
+                                    <!-- single amenties area -->
+                                    <div class="row single-testimonials-area-six bg-white mx-md-1 mx-0">
+                                        <div class="author-area col-12 bg-light-1 mx-0 my-3 p-3">
                                             <img src="assets/images/icons/kids-play-area-painting-wall.svg" alt="author">
                                             <div class="Childran Play Area">
                                                 <h6 class="title">Childran Play Area</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
+                                        <div class="author-area col-12 pt-3 bg-light-1 mx-0 my-3 p-3">
+                                            <img src="assets/images/icons/outdoor-gym-calisthenics.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Outdoor Gym & Calisthenics Setup</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                        <div class="author-area col-12 pt-3 bg-light-1 mx-0 my-3 p-3">
+                                            <img src="assets/images/icons/society-office.svg" alt="society-office">
+                                            <div class="information-area">
+                                                <h6 class="title">Society Office</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
                                     </div>
-                                    <!-- single testimonials area end -->
+                                    <!-- single amenties area end -->
                                 </div>
                             </div>
                             <!-- desktop view end -->
@@ -468,9 +426,10 @@
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
-    <!-- specification area end -->
+    <!-- Amenities area end -->
 
     <!-- youtube video start -->
     <div class="cta-area-two bg_image" style="background: linear-gradient(45deg, #0000003d, #0000003d), url(assets/images/projects/shrirang/banner-img-1000x554.webp) no-repeat center center / cover;

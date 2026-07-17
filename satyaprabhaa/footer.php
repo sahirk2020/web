@@ -102,10 +102,10 @@
                                 <h6 class="title">Information Centre</h6>
                                 <ul>
                                     <li><a href="2-bhk-flats-pune.php">2 BHK Flats in Pune</a></li>
-                                    <li><a href="">3 BHK Flats in Pune</a></li>
-                                    <li><a href="">4 BHK Flats in Pune</a></li>
-                                    <li><a href="">Commercial Projects</a></li>
-                                    <li><a href="">Residential Projects</a></li>
+                                    <!-- <li><a href="3-bhk-flats-pune.php">3 BHK Flats in Pune</a></li> -->
+                                    <!-- <li><a href="4-bhk-flats-pune.php">4 BHK Flats in Pune</a></li> -->
+                                    <li><a href="commercial-projects-in-pune.php">Commercial Projects</a></li>
+                                    <li><a href="residential-projects-in-pune.php">Residential Projects</a></li>
                                     <!-- <li><a href="yojangandha.php">Yojangandha</a></li> -->
                                 </ul>
                             </div>

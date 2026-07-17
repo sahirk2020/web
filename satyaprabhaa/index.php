@@ -182,11 +182,11 @@ Hero Area
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
                                         <span class="number">01</span>
-                                        <a href="" class="thumbnail">
+                                        <a href="2-3-4-bhk-flats-in-kothrud-pune-yojangandha.php" class="thumbnail">
                                             <img src="assets/images/projects/yojangandha/yojangandha-768x900.webp" alt="seva-project.webp">
                                         </a>
                                         <div class="inenr-content-absolute">
-                                            <a href="">
+                                            <a href="2-3-4-bhk-flats-in-kothrud-pune-yojangandha.php">
                                                 <h3 class="title">Yojangandha - <span class="category">KOTHRUD, PUNE</span></h3>
                                             </a>
                                             <!-- <span class="category">BIBVEWADI, PUNE | Residential</span> -->
@@ -217,11 +217,11 @@ Hero Area
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
                                         <span class="number">03</span>
-                                        <a href="" class="thumbnail">
+                                        <a href="commercial-office-space-for-sale-in-kothrud-pune-lotus-shalaka.php" class="thumbnail">
                                             <img src="assets/images/projects/shalaka-768x900.webp" alt="shalaka-768x900.webp">
                                         </a>
                                         <div class="inenr-content-absolute">
-                                            <a href="">
+                                            <a href="commercial-office-space-for-sale-in-kothrud-pune-lotus-shalaka.php">
                                                 <h3 class="title">Lotus Shalaka - <span class="category">AUNDH, PUNE</span></h3>
                                             </a>
                                             <p>Commercial | Ongoing Projects</p>
@@ -235,11 +235,11 @@ Hero Area
                                     <!-- single swiper-item -->
                                     <div class="single-product-one">
                                         <span class="number">04</span>
-                                        <a href="" class="thumbnail">
+                                        <a href="commercial-office-space-for-sale-in-pimple-saudagar-pune-deepak-dev.php" class="thumbnail">
                                             <img src="assets/images/projects/deepak-dev-768x900.webp" alt="deepak-dev-768x900.webp">
                                         </a>
                                         <div class="inenr-content-absolute">
-                                            <a href="">
+                                            <a href="commercial-office-space-for-sale-in-pimple-saudagar-pune-deepak-dev.php">
                                                 <h3 class="title">Deepak Dev - <span class="category">AUNDH, PUNE</span></h3>
                                             </a>
                                             <p>Commercial | Ongoing Projects</p>
@@ -273,7 +273,7 @@ Hero Area
                                             <img src="assets/images/projects/treya-768x900.webp" alt="treya-768x900.webp">
                                         </a>
                                         <div class="inenr-content-absolute">
-                                            <a href="treya.php">
+                                            <a href="2-3-4-bhk-flats-in-kothrud-pune-treya.php">
                                                 <h3 class="title">Treya - <span class="category">KOTHRUD, PUNE | Residential</span></h3>
                                             </a>
                                             <p>Residential | Ongoing Projects</p>

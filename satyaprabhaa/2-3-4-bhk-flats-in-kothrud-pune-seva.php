@@ -339,8 +339,114 @@
     </div>
     <!-- our gallery area end -->
 
-    <!-- specification area -->
+    <!-- Amenities Desktop area -->
     <div class="rts-testimonials-area">
+        <div class="container border-top-in-container rts-section-gap">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="top-title-full-w-wrapper">
+                        <!-- title-left -->
+                        <div class="title-area-style-six-left">
+                            <!-- <span class="pre">
+                                Amenities
+                            </span> -->
+                            <h2 class="title">Amenities</h2>
+                        </div>
+                        <!-- title mid text -->
+                        <!-- <div class="swiper-buttons">
+                            <div class="swiper-button-next"></div>
+                            <div class="swiper-button-prev"></div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row mt--40">
+                <div class="col-lg-12">
+                    <div class="">
+                        <!-- Swiper -->
+                        <div class="">
+                            <!-- desktop view -->
+                            <div class="row">
+                                <div class="col-lg-4 pt-4">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/party-corner.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Party Lawn</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="col-lg-4 col-md-6 pt-4">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/outdoor-gym-calisthenics.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Outdoor Gym</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="col-lg-4 col-md-6 pt-4">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/kids-play-area-painting-wall.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title text-capitalize">CHILDREN'S PLAY AREA</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                                <div class="col-lg-4 col-md-6 pt-4">
+                                    <!-- single testimonials area -->
+                                    <div class="single-testimonials-area-six">
+                                        <!-- <div class="quotes-area">
+                                            <img src="assets/images/team/quote.png" alt="quote">
+                                        </div>
+                                        <p class="disc">
+                                            Working with your team was an absolute pleasure. From the initial concept to
+                                            the final
+                                            installation, every step is was executed with professionalism and attention.
+                                        </p> -->
+                                        <div class="author-area">
+                                            <img src="assets/images/projects/yojangandha/amenities/acupressure-walkway.svg" alt="author">
+                                            <div class="information-area">
+                                                <h6 class="title">Jogging Track</h6>
+                                                <!-- <span>New Client</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- single testimonials area end -->
+                                </div>
+                            </div>
+                            <!-- desktop view end -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Amenities Desktop area end -->
+
+    <!-- Amenities Mobile area -->
+    <div class="rts-testimonials-area d-md-none d-block">
         <div class="container border-top-in-container rts-section-gap">
             <div class="row">
                 <div class="col-lg-12">
@@ -371,61 +477,9 @@
                                     <!-- single testimonials area -->
                                     <div class="single-testimonials-area-six">
                                         <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/landscape-terrace-garden.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Landscape Terrace Garden</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/sun-deck.svg" alt="sun-deck">
-                                            <div class="information-area">
-                                                <h6 class="title">Sun Deck</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/table-tennis.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Table Tennis</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/panic-button.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Panic Button</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
                                             <img src="assets/images/projects/yojangandha/amenities/acupressure-walkway.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Walking Track</h6>
+                                                <h6 class="title">Jogging Track</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
@@ -436,145 +490,9 @@
                                     <!-- single testimonials area -->
                                     <div class="single-testimonials-area-six">
                                         <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/reading-zone.svg" alt="reading-zone">
+                                            <img src="assets/images/projects/yojangandha/amenities/kids-play-area-painting-wall.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Reading Zone</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/kitchen-set.svg" alt="kitchen-set">
-                                            <div class="information-area">
-                                                <h6 class="title">Open Kitchen</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/relaxation-space.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Botanical Park</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/senior-citizen-area.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Senior Citizen</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/lift.svg" alt="lift">
-                                            <div class="information-area">
-                                                <h6 class="title">Lift</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/power-bkp-lifts.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Power Backup & Lifts</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/pipe-gas-kitchen-bar.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Piped Gas & Open Kitchen Bar</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/pets-park.svg" alt="pets-park.svg">
-                                            <div class="information-area">
-                                                <h6 class="title">Pets Park</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/massage-therapist.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Massage Therapist</h6>
+                                                <h6 class="title text-capitalize">CHILDREN'S PLAY AREA</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
@@ -597,217 +515,16 @@
                                 <div class="swiper-slide">
                                     <!-- single testimonials area -->
                                     <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
                                         <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/kids-play-area-painting-wall.svg" alt="author">
+                                            <img src="assets/images/projects/yojangandha/amenities/party-corner.svg" alt="author">
                                             <div class="information-area">
-                                                <h6 class="title">Kids Play Area Painting Wall</h6>
+                                                <h6 class="title">Party Lawn</h6>
                                                 <!-- <span>New Client</span> -->
                                             </div>
                                         </div>
                                     </div>
                                     <!-- single testimonials area end -->
                                 </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/herbs-plantation.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Herbs Plantation</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/grand-gate-security.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Grand Gate Security</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/gazebo-seating-area.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Gazebo Seating Area</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/entrance-lobby.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Entrance Lobby</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/cctv.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">CCTV</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/carrom-chess-cardroom.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Carrom Chess Cardroom</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/acupressure-walkway.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Acupressure Walkway</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/ample-car-parking.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Ample Car Parking</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- single testimonials area -->
-                                    <div class="single-testimonials-area-six">
-                                        <!-- <div class="quotes-area">
-                                            <img src="assets/images/team/quote.png" alt="quote">
-                                        </div>
-                                        <p class="disc">
-                                            Working with your team was an absolute pleasure. From the initial concept to
-                                            the final
-                                            installation, every step is was executed with professionalism and attention.
-                                        </p> -->
-                                        <div class="author-area">
-                                            <img src="assets/images/projects/yojangandha/amenities/barbeque-zone.svg" alt="author">
-                                            <div class="information-area">
-                                                <h6 class="title">Barbeque Zone</h6>
-                                                <!-- <span>New Client</span> -->
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials area end -->
-                                </div>
-
                             </div>
                             <!-- desktop view end -->
                         </div>
@@ -816,7 +533,7 @@
             </div>
         </div>
     </div>
-    <!-- specification area end -->
+    <!-- Amenities Mobile area end -->
 
     <!-- youtube video start -->
     <!-- <div class="cta-area-two bg_image">
@@ -1279,34 +996,30 @@
                                                 <div class="accordion-item">
                                                     <h2 class="accordion-header" id="headingOne">
                                                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                            Education
+                                                            Connectivity
                                                         </button>
                                                     </h2>
                                                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
                                                             <ul>
-                                                                <li>More Vidyalaya</li>
-                                                                <li>Paranjape High School</li>
-                                                                <li>Mahesh Vidyalaya</li>
-                                                                <li>MIT</li>
-                                                                <li>New India School</li>
-                                                                <li>Abhinav Vidyalaya</li>
+                                                                <li>PMPL Bus Stop - 600 M</li>
+                                                                <li>Vanaz Metro Station - 1.3 Km</li>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="accordion-item">
                                                     <h2 class="accordion-header" id="headingTwo">
                                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                            Connectivity
+                                                            Schools & Colleges
                                                         </button>
                                                     </h2>
                                                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
                                                             <ul>
-                                                                <li>Vanaz Metro Station</li>
-                                                                <li>PMPML Bus Stop Nearby</li>
-                                                                <li>Rickshaw Stand Nearby</li>
-                                                                <li>Wide roads & local access</li>
+                                                                <li>Paranjape Highschool - 1.4 Km</li>
+                                                                <li>MIT College - 1.5 Km</li>
+                                                                <li>Mahesh Vidyalaya - 1.9 Km</li>
+                                                                <li>More Vidyalaya - 1.9 Km</li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -1314,17 +1027,15 @@
                                                 <div class="accordion-item">
                                                     <h2 class="accordion-header" id="headingThree">
                                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                            Healthcare
+                                                            Healthcare Facilities
                                                         </button>
                                                     </h2>
                                                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
                                                         <ul>
-                                                            <li>Krishna Hospital</li>
-                                                            <li>Sahyadri Hospital</li>
-                                                            <li>Sushrut Hospital</li>
-                                                            <li>Reputed Clinics nearby</li>
-                                                            <li>24/7 Medical stores</li>
+                                                            <li>Krishna Hospital - 1.5 Km</li>
+                                                            <li>Sahyadri Super Speciality Hospital - 4.1 Km</li>
+                                                            <li>Deenanath Mangeshkar Hospital - 3.8 Km</li>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1336,7 +1047,7 @@
                         </div>
                     </div>
                 </div><div class="col-xl-6 pt-5">
-                    <iframe height="650" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3157.7551287813085!2d73.809364!3d18.511062000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDMwJzM5LjgiTiA3M8KwNDgnMzMuNyJF!5e1!3m2!1sen!2sin!4v1784177710386!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+                    <iframe height="450" src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3157.7551287813085!2d73.809364!3d18.511062000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDMwJzM5LjgiTiA3M8KwNDgnMzMuNyJF!5e1!3m2!1sen!2sin!4v1784177710386!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
                   
                 </div>
             </div>
