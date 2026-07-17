@@ -7,6 +7,15 @@
     $page_description = "Browse Satyaprabhaa Developers' ongoing, upcoming & completed residential and commercial projects across Pune, built on 27+ years of trust and quality";
     ?>
     <?php include 'css.php'; ?>
+    <style>
+        
+            .hero-inner {
+    position: absolute;
+    top: 50%;
+    height: 100vh;
+    width: 100%;
+        }
+        </style>
 </head>
 
 <body>
@@ -21,18 +30,19 @@ Hero Area
         <div class="hero hero-video">
             <div class="hero-bg-video">
                 <video class="d-md-none d-block hero-video-player" muted autoplay loop playsinline>
-                    <!-- <source src="assets/img/video/6boulevard-mobile-video-1080X1920.mp4" type="video/mp4"> -->
                     <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/project-page/satyaprabha-project-page-desk-video.mp4">
                 </video>
                 <video class="d-none d-md-block hero-video-player" muted autoplay loop playsinline>
-                    <!-- <source src="assets/img/video/6Boulevard-Video-1090X1080.mp4" type="video/mp4"> -->
                     <source src="https://digital-tokri.blr1.cdn.digitaloceanspaces.com/satyaprabha/project-page/satyaprabha-project-page-desk-video.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
         <div class="hero-inner">
             <div class="container">
-                <div class="row align-items-end">
+                <div class="text-center row">
+                    <div class="bottom-title">
+                            <h1 class="title text-white" style="text-shadow: 3px -1px 9px #000000;">Projects</h1>
+                        </div>
                 </div>
             </div>
         </div>
