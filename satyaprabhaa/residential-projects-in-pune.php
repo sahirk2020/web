@@ -55,13 +55,13 @@
                             <img src="assets/images/projects/yojangandha/yojangandha-1000x554.webp" alt="portfolio">
                         </a>
                         <div class="inner-text">
-                            <a href="yojangandha.php" class="d-flex justify-content-between">
+                            <a href="2-3-4-bhk-flats-in-kothrud-pune-yojangandha.php" class="d-flex justify-content-between">
                                 <h5 class="title">Yojangandha</h5>
                                 <h5 class="title">Residential</h5>
                             </a>
                             <p class="mb-4">
                                 Nestled in Kothrud's cultural heart, Yojangandha brings together nature, connectivity, and elevated living for modern Pune families.</p>
-                            <a  href="yojangandha.php" class="rts-btn btn-border">Know More</a> 
+                            <a  href="2-3-4-bhk-flats-in-kothrud-pune-yojangandha.php" class="rts-btn btn-border">Know More</a> 
                             </div>
                     </div>
                     <!-- single portfolio grid col-2 end -->
@@ -73,13 +73,13 @@
                             <img src="assets/images/projects/treya/banner-1000x554.webp" alt="banner-1000x554">
                         </a>
                         <div class="inner-text">
-                            <a href="treya.php" class="d-flex justify-content-between">
+                            <a href="2-3-4-bhk-flats-in-kothrud-pune-treya.php" class="d-flex justify-content-between">
                                 <h5 class="title">Treya</h5>
                                 <h5 class="title">Residential</h5>
                             </a>
                             <p class="mb-4">
                                 A premium residential address in Kothrud offering thoughtfully designed homes, modern comforts, and excellent connectivity for everyday living.</p>
-                            <a  href="treya.php" class="rts-btn btn-border">Know More</a>
+                            <a  href="2-3-4-bhk-flats-in-kothrud-pune-treya.php" class="rts-btn btn-border">Know More</a>
                             </div>
                     </div>
                     <!-- single portfolio grid col-2 end -->

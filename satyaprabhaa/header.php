@@ -25,10 +25,10 @@
                             <li class="mega-menu-item">
                                 <ul class="pages">
                                     <li><a class="sdm-main" href="ongoing-projects.php">Ongoing Projects</a></li>
-                                    <li><a class="sdm-main" href="yojangandha.php">Yojangandha</a></li>
-                                    <li><a class="sdm-main" href="lotus-shalaka.php">Lotus Shalaka</a></li>
-                                    <li><a class="sdm-main" href="treya.php">Treya</a></li>
-                                    <li><a class="sdm-main" href="deepak-dev.php">Deepak Dev</a></li>
+                                    <li><a class="sdm-main" href="2-3-4-bhk-flats-in-kothrud-pune-yojangandha.php">Yojangandha</a></li>
+                                    <li><a class="sdm-main" href="commercial-office-space-for-sale-in-kothrud-pune-lotus-shalaka.php">Lotus Shalaka</a></li>
+                                    <li><a class="sdm-main" href="2-3-4-bhk-flats-in-kothrud-pune-treya.php">Treya</a></li>
+                                    <li><a class="sdm-main" href="commercial-office-space-for-sale-in-pimple-saudagar-pune-deepak-dev.php">Deepak Dev</a></li>
                                 </ul>
                             </li>
                             <li class="mega-menu-item">
@@ -144,10 +144,10 @@
                             <li class="has-droupdown third-lvl">
                                 <a class="main" href="#">Ongoing Projects</a>
                                 <ul class="submenu-third-lvl mm-collapse">
-                                    <li><a class="sdm-main" href="yojangandha.php"></a>Yojangandha</li>
-                                    <li><a class="sdm-main" href="lotus-shalaka.php"></a>Lotus Shalaka</li>
-                                    <li><a class="sdm-main" href="treya.php"></a>Treya</li>
-                                    <li><a class="sdm-main" href="deepak-dev.php"></a>Deepak Dev</li>
+                                    <li><a class="sdm-main" href="2-3-4-bhk-flats-in-kothrud-pune-yojangandha.php"></a>Yojangandha</li>
+                                    <li><a class="sdm-main" href="commercial-office-space-for-sale-in-kothrud-pune-lotus-shalaka.php"></a>Lotus Shalaka</li>
+                                    <li><a class="sdm-main" href="2-3-4-bhk-flats-in-kothrud-pune-treya.php"></a>Treya</li>
+                                    <li><a class="sdm-main" href="commercial-office-space-for-sale-in-pimple-saudagar-pune-deepak-dev.php"></a>Deepak Dev</li>
                                 </ul>
                             </li>
                             <li class="third-lvl">
