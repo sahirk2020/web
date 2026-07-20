@@ -116,10 +116,11 @@ About Area
                     <div class="feature-box_wrapper">
                         <div class="feature-box">
                             <div class="feature-box_step">
+                                <!-- <img src="assets/img/icon/door-delivary/doorstep-pickup.svg" alt="icon"> -->
                             </div>
                             <div class="media-body">
                                 <h3 class="box-title">Convenient Doorstep Pickup</h3>
-                                <p class="feature-box_text"> Choose a pickup time that works best for you. Our team collects your garments directly from your home or office, eliminating the need to visit a laundry store and making laundry care completely hassle-free.</p>
+                                <p class="feature-box_text"> Schedule a pickup from your home or office at a time that works for you. Our team collects your garments safely and conveniently.</p>
                             </div>
                         </div>
 
@@ -127,8 +128,8 @@ About Area
                             <div class="feature-box_step">
                             </div>
                             <div class="media-body">
-                                <h3 class="box-title">Premium Garment Care</h3>
-                                <p class="feature-box_text">Every garment is cleaned using high-quality processes and handled with expert attention. From delicate fabrics to everyday wear, we ensure your clothes are returned fresh, clean, and well-maintained.</p>
+                                <h3 class="box-title">Expert Garment Care</h3>
+                                <p class="feature-box_text">Every garment is inspected and cleaned according to its fabric, color, and care requirements for consistently high-quality results.</p>
                             </div>
                         </div>
                     </div>
@@ -139,8 +140,8 @@ About Area
                         <div class="feature-box_step">
                         </div>
                         <div class="media-body">
-                            <h3 class="box-title">Safe & Timely Doorstep Delivery</h3>
-                            <p class="feature-box_text">Once your garments are cleaned and quality-checked, they are carefully packed and delivered back to your doorstep. We focus on punctual deliveries so your clothes are ready whenever you need them.</p>
+                            <h3 class="box-title">Fresh, Ready-to-Wear Delivery</h3>
+                            <p class="feature-box_text">After cleaning and quality inspection, your garments are neatly packed and delivered fresh, finished, and ready to wear.</p>
                         </div>
                     </div>
 
@@ -148,8 +149,8 @@ About Area
                         <div class="feature-box_step">
                         </div>
                         <div class="media-body">
-                            <h3 class="box-title">Express Delivery Service</h3>
-                            <p class="feature-box_text">Need your clothes urgently? Our Express Service offers priority processing and delivery within 24 hours, helping you stay prepared for important meetings, events, or travel plans.</p>
+                            <h3 class="box-title">Express Service</h3>
+                            <p class="feature-box_text">Need your clothes urgently? Choose our Express Service for priority processing and faster delivery, subject to availability.</p>
                         </div>
                     </div>
 
@@ -162,6 +163,7 @@ About Area
     <!--==============================
 feature Area  
 ==============================-->
+
     <div class="overflow-hidden space space-bottom" id="feature-area" data-bg-src="assets/img/bg/service-bg-1.jpg">
         <div class="container">
             <div class="row">
@@ -172,68 +174,69 @@ feature Area
                 </div>
             </div>
             <div class="row gy-4 justify-content-center">
+
                 <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
+                    <div class="pickup-delivery-box wow fadeInUp">
+                        <div class="pickup-delivery-box_icon">
                             <img src="assets/img/icon/why-us/service_1_1.svg" alt="" />
                         </div>
                         <div class="media-body">
-                            <h3 class="box-title">Convenient home and office pickup</h3>
+                            <h3 class="box-title-1">Easy pickup from your home or office</h3>
 
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInDown">
-                        <div class="feature-item_icon">
-                            <img src="assets/img/icon/why-us/luxury-care.svg" width="60" alt="" />
+                    <div class="pickup-delivery-box wow fadeInDown">
+                        <div class="pickup-delivery-box_icon">
+                            <img src="assets/img/icon/door-delivary/garment-care.svg" width="60" alt="icon">
                         </div>
                         <div class="media-body">
-                            <h3 class="box-title">Premium cleaning with expert fabric care</h3>
+                            <h3 class="box-title-1"> Professional care for every garment</h3>
 
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="assets/img/icon/why-us/service_1_3.svg" alt="" />
+                    <div class="pickup-delivery-box wow fadeInUp">
+                        <div class="pickup-delivery-box_icon">
+                            <img src="assets/img/icon/door-delivary/safe-delivery.svg" width="60" alt="icon">
                         </div>
                         <div class="media-body">
-                            <h3 class="box-title">Safe handling from pickup to delivery</h3>
+                            <h3 class="box-title-1">Safe handling from pickup to delivery</h3>
 
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
-                            <img src="assets/img/icon/why-us/garment-treatment.svg" width="60" alt="" />
+                    <div class="pickup-delivery-box wow fadeInUp">
+                        <div class="pickup-delivery-box_icon">
+                            <img src="assets/img/icon/door-delivary/doorstep-pickup.svg" width="60" alt="icon">
                         </div>
                         <div class="media-body">
-                            <h3 class="box-title">Reliable and timely doorstep delivery</h3>
+                            <h3 class="box-title-1">Reliable and timely doorstep delivery</h3>
 
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInDown">
-                        <div class="feature-item_icon">
-                            <img src="assets/img/icon/why-us/experienced-team.svg" width="60" alt="" />
+                    <div class="pickup-delivery-box wow fadeInDown">
+                        <div class="pickup-delivery-box_icon">
+                            <img src="assets/img/icon/door-delivary/express-delivery.svg" width="60" alt="icon">
                         </div>
                         <div class="media-body">
-                            <h3 class="box-title">Express Service available for urgent requirements</h3>
+                            <h3 class="box-title-1">Express Service for urgent needs</h3>
 
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
-                    <div class="feature-item wow fadeInUp">
-                        <div class="feature-item_icon">
+                    <div class="pickup-delivery-box wow fadeInUp">
+                        <div class="pickup-delivery-box_icon">
                             <img src="assets/img/icon/why-us/quality.svg" width="60" alt="" />
                         </div>
                         <div class="media-body">
-                            <h3 class="box-title">Saves time while offering a seamless laundry experience</h3>
+                            <h3 class="box-title-1">More convenience with less effort</h3>
 
                         </div>
                     </div>
