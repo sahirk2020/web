@@ -16564,6 +16564,8 @@ span.select2-selection.select2-selection--single:focus {
 .feature-box_step {
   width: 86px;
   height: 100px;
+  padding-left: 10px;
+  padding-top: 19px;
   background-color: var(--theme-color);
   -webkit-clip-path: polygon(
     50% 0%,

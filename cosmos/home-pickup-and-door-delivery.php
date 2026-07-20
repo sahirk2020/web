@@ -116,7 +116,7 @@ About Area
                     <div class="feature-box_wrapper">
                         <div class="feature-box">
                             <div class="feature-box_step">
-                                <!-- <img src="assets/img/icon/door-delivary/doorstep-pickup.svg" alt="icon"> -->
+                                <img src="assets/img/icon/door-delivary/doorstep-pickup-1.svg" width="60" alt="icon">
                             </div>
                             <div class="media-body">
                                 <h3 class="box-title">Convenient Doorstep Pickup</h3>
@@ -126,6 +126,7 @@ About Area
 
                         <div class="feature-box">
                             <div class="feature-box_step">
+                                <img src="assets/img/icon/door-delivary/expert-care.svg" width="60" alt="icon">
                             </div>
                             <div class="media-body">
                                 <h3 class="box-title">Expert Garment Care</h3>
@@ -138,6 +139,7 @@ About Area
 
                     <div class="feature-box">
                         <div class="feature-box_step">
+                            <img src="assets/img/icon/door-delivary/fresh-delivery.svg" width="60" alt="icon">
                         </div>
                         <div class="media-body">
                             <h3 class="box-title">Fresh, Ready-to-Wear Delivery</h3>
@@ -147,6 +149,7 @@ About Area
 
                     <div class="feature-box">
                         <div class="feature-box_step">
+                            <img src="assets/img/icon/door-delivary/express-service.svg" width="60" alt="icon">
                         </div>
                         <div class="media-body">
                             <h3 class="box-title">Express Service</h3>
@@ -174,15 +177,13 @@ feature Area
                 </div>
             </div>
             <div class="row gy-4 justify-content-center">
-
                 <div class="col-md-6 col-lg-4">
                     <div class="pickup-delivery-box wow fadeInUp">
                         <div class="pickup-delivery-box_icon">
-                            <img src="assets/img/icon/why-us/service_1_1.svg" alt="" />
+                            <img src="assets/img/icon/door-delivary/easy-pickup.svg" width="60" alt="" />
                         </div>
                         <div class="media-body">
                             <h3 class="box-title-1">Easy pickup from your home or office</h3>
-
                         </div>
                     </div>
                 </div>
@@ -233,7 +234,7 @@ feature Area
                 <div class="col-md-6 col-lg-4">
                     <div class="pickup-delivery-box wow fadeInUp">
                         <div class="pickup-delivery-box_icon">
-                            <img src="assets/img/icon/why-us/quality.svg" width="60" alt="" />
+                            <img src="assets/img/icon/door-delivary/convenience.svg" width="60" alt="" />
                         </div>
                         <div class="media-body">
                             <h3 class="box-title-1">More convenience with less effort</h3>
